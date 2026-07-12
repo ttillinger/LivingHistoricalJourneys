@@ -1,0 +1,26 @@
+{
+  "name": "living-journeys",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Living Historical Journeys — an ambient web app for following historical journeys in real (or scaled) time.",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @living-journeys/web dev",
+    "build": "pnpm --filter @living-journeys/web build",
+    "start": "pnpm --filter @living-journeys/web start",
+    "lint": "eslint .",
+    "typecheck": "pnpm -r run typecheck",
+    "test": "pnpm -r run test",
+    "validate:content": "pnpm --filter @living-journeys/content validate"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.19.0"
+  }
+}

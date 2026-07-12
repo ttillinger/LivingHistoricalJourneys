@@ -1,0 +1,3 @@
+-- seed.sql — local development seed data.
+-- Runs after migrations on `supabase db reset`. Intentionally empty for Phase 0;
+-- journey catalog seeding arrives with the runs/catalog tables (Phase 3).

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+}
+
+@theme {
+  --color-parchment: #f3ead6;
+  --color-ink: #1c1710;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  @apply antialiased;
+}

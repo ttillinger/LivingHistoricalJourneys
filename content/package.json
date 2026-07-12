@@ -1,0 +1,19 @@
+{
+  "name": "@living-journeys/content",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Journey content (manifests, routes, scenes) and the validation pipeline.",
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@living-journeys/engine": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
