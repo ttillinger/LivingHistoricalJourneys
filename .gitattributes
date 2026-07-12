@@ -1,0 +1,18 @@
+# Normalize line endings: store LF in the repository for all text files,
+# so Windows and Linux (CI) check out consistent content.
+* text=auto eol=lf
+
+# Generated lockfile — text, LF.
+pnpm-lock.yaml text eol=lf
+
+# Binary assets (scene stills, sprites, map tiles) — never munge.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.gif   binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.pmtiles binary
+*.mbtiles binary
