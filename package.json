@@ -16,7 +16,8 @@
     "typecheck": "pnpm -r run typecheck",
     "test": "pnpm -r run test",
     "content:build": "pnpm --filter @living-journeys/content build",
-    "validate:content": "pnpm --filter @living-journeys/content validate"
+    "validate:content": "pnpm --filter @living-journeys/content validate",
+    "test:e2e": "pnpm --filter @living-journeys/web e2e"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

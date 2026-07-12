@@ -1,8 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // The engine ships as TypeScript source (no build step); let Next transpile it.
-  transpilePackages: ["@living-journeys/engine"],
+  // The engine & content ship as TypeScript source (no build step); Next transpiles them.
+  transpilePackages: ["@living-journeys/engine", "@living-journeys/content"],
   // Linting is run once, from the repo root, via the flat ESLint config.
   eslint: { ignoreDuringBuilds: true },
 };

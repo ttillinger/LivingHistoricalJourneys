@@ -25,6 +25,12 @@ pnpm-debug.log*
 # test / coverage
 coverage/
 
+# playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
 # hosting / tooling caches
 .vercel/
 .turbo/

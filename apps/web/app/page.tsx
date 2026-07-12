@@ -1,63 +1,60 @@
-import { virtualNow, type ClockState } from "@living-journeys/engine";
-
-// Proves the pure engine package is wired into the app. At the anchor instant
-// (serverNow === anchorRealMs) the virtual time equals the campaign's start.
-const napoleonStart = Date.UTC(1812, 5, 24, 3, 0, 0);
-const demoClock: ClockState = {
-  anchorVirtualMs: napoleonStart,
-  anchorRealMs: 0,
-  rate: 1,
-  paused: false,
-};
-const engineVirtualStart = new Date(virtualNow(demoClock, 0)).toISOString();
+import Link from "next/link";
+import { journeyList } from "@living-journeys/content";
 
 export default function Home() {
   return (
-    <main className="mx-auto flex min-h-screen max-w-2xl flex-col justify-center gap-8 px-6 py-16">
+    <main className="mx-auto flex min-h-screen max-w-3xl flex-col justify-center gap-10 px-6 py-16">
       <header className="flex flex-col gap-3">
         <p className="text-xs font-medium uppercase tracking-[0.2em] text-neutral-500">
-          Phase 1 · Engine &amp; content
+          Phase 2 · The viewer
         </p>
         <h1 className="text-4xl font-semibold tracking-tight text-balance">
           Living Historical Journeys
         </h1>
         <p className="text-lg text-neutral-600 dark:text-neutral-400 text-pretty">
-          An ambient web app for following historical journeys in real — or
-          scaled — time. The pure engine and first journeys are in; the map
-          viewer comes next.
+          Follow a historical journey across a map in real — or scaled — time.
+          Pick one and press play; scrub the timeline, change the pace, follow
+          either side.
         </p>
       </header>
 
-      <section className="rounded-lg border border-neutral-200 bg-neutral-50 p-5 text-sm dark:border-neutral-800 dark:bg-neutral-900">
-        <h2 className="mb-2 font-medium">The engine is live</h2>
-        <ul className="space-y-1 text-neutral-600 dark:text-neutral-400">
-          <li>
-            <code className="font-mono">packages/engine</code> — clock, route
-            geometry, solar day/night, and{" "}
-            <code className="font-mono">evaluate()</code>; 43 golden tests.
-          </li>
-          <li>
-            <code className="font-mono">content/</code> — 4 journeys, schema-validated
-            in CI. Napoleon 1812 has 41 schedule keyframes, 34 moments, and
-            Minard&apos;s strength curve.
-          </li>
-          <li>
-            <code className="font-mono">apps/web</code> — Next.js deploy target
-            (App Router, TypeScript strict, Tailwind v4).
-          </li>
-          <li>
-            <code className="font-mono">supabase/</code> — migrations, RLS from
-            the first table.
-          </li>
-        </ul>
-        <p className="mt-3 font-mono text-xs text-neutral-500">
-          engine.virtualNow(napoleon-1812 start) = {engineVirtualStart}
-        </p>
+      <section className="grid gap-3 sm:grid-cols-2">
+        {journeyList.map((journey) => (
+          <Link
+            key={journey.slug}
+            href={`/viewer/${journey.slug}`}
+            className="group flex flex-col gap-2 rounded-xl border border-neutral-200 bg-neutral-50 p-5 transition-colors hover:border-neutral-300 hover:bg-neutral-100 dark:border-neutral-800 dark:bg-neutral-900 dark:hover:border-neutral-700 dark:hover:bg-neutral-800"
+          >
+            <div className="flex items-center justify-between gap-2">
+              <h2 className="font-medium">{journey.title}</h2>
+              <span
+                className={`shrink-0 rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide ${
+                  journey.tier === "free"
+                    ? "bg-emerald-500/15 text-emerald-700 dark:text-emerald-400"
+                    : "bg-neutral-500/15 text-neutral-600 dark:text-neutral-400"
+                }`}
+              >
+                {journey.tier}
+              </span>
+            </div>
+            {journey.description ? (
+              <p className="text-sm text-neutral-600 dark:text-neutral-400 line-clamp-3">
+                {journey.description}
+              </p>
+            ) : null}
+            <span className="mt-1 text-sm font-medium text-neutral-900 dark:text-neutral-100">
+              Launch{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-0.5">
+                →
+              </span>
+            </span>
+          </Link>
+        ))}
       </section>
 
       <footer className="text-xs text-neutral-400">
-        Napoleon&apos;s 1812 campaign is the free flagship. The rest of the
-        catalog follows.
+        Napoleon 1812 is the free flagship. Timing, positions, and stats are computed
+        by a shared engine from curated journey content.
       </footer>
     </main>
   );

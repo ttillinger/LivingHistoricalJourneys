@@ -4,6 +4,12 @@
   "private": true,
   "type": "module",
   "description": "Journey content (manifests, routes, scenes) and the validation pipeline.",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "default": "./src/index.ts"
+    }
+  },
   "scripts": {
     "build": "tsx scripts/build.ts",
     "validate": "tsx scripts/validate.ts",

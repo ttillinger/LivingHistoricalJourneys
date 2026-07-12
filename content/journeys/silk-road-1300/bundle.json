@@ -1,0 +1,132 @@
+{
+  "manifest": {
+    "id": "silk-road-1300",
+    "version": 1,
+    "title": "Silk Road Caravan (ca. 1300)",
+    "description": "A stylized caravan route from Xi'an to Constantinople, representing centuries of overland trade.",
+    "tier": "premium",
+    "coordinateSpace": "geo",
+    "time": {
+      "start": "1300-04-01T00:00:00Z",
+      "end": "1301-04-01T00:00:00Z"
+    },
+    "mapDefaults": {
+      "bounds": [
+        20,
+        30,
+        120,
+        45
+      ],
+      "styles": [
+        "modern",
+        "atlas"
+      ]
+    },
+    "moments": [
+      {
+        "t": "1300-04-01T00:00:00Z",
+        "title": "Eastern Terminus",
+        "body": "Caravans assemble near Chang'an (Xi'an), loaded with silk, tea, and porcelain.",
+        "tags": [],
+        "significance": 2
+      },
+      {
+        "t": "1300-08-01T00:00:00Z",
+        "title": "Kashgar Crossroads",
+        "body": "Merchants and cultures mix at the edge of the Tarim Basin, where routes diverge around the mountains.",
+        "tags": [],
+        "significance": 2
+      },
+      {
+        "t": "1300-10-01T00:00:00Z",
+        "title": "Desert Oases",
+        "body": "Oases in Khurasan and Persia sustain caravans with water, fodder, and new wares.",
+        "tags": [],
+        "significance": 2
+      },
+      {
+        "t": "1301-04-01T00:00:00Z",
+        "title": "Western Terminus",
+        "body": "Caravans reach Constantinople, where goods spread into Europe via Mediterranean trade.",
+        "tags": [],
+        "significance": 2
+      }
+    ],
+    "conditions": [],
+    "episodes": [],
+    "attribution": [
+      "Living Historical Journeys — mechanically ported from the proof of concept."
+    ],
+    "sources": [],
+    "tracks": [
+      {
+        "id": "caravan",
+        "name": "Overland Caravan",
+        "kind": "caravan",
+        "color": "#8e5c2c",
+        "isPrimary": true,
+        "route": "routes/caravan.geojson",
+        "schedule": [
+          {
+            "t": "1300-04-01T00:00:00Z",
+            "km": 0,
+            "label": "Chang'an (Xi'an) – Eastern terminus"
+          },
+          {
+            "t": "1300-06-01T00:00:00Z",
+            "km": 1416.74,
+            "label": "Dunhuang – Gateway to the western deserts"
+          },
+          {
+            "t": "1300-08-01T00:00:00Z",
+            "km": 3011.24,
+            "label": "Kashgar – Crossroads of Central Asia"
+          },
+          {
+            "t": "1300-10-01T00:00:00Z",
+            "km": 4346.2,
+            "label": "Merv / Oasis of Khurasan"
+          },
+          {
+            "t": "1301-01-01T00:00:00Z",
+            "km": 4643.17,
+            "label": "Near the Caspian – western steppe route"
+          },
+          {
+            "t": "1301-04-01T00:00:00Z",
+            "km": 7173.45,
+            "label": "Constantinople – Western terminus"
+          }
+        ]
+      }
+    ]
+  },
+  "routeCoords": {
+    "caravan": [
+      [
+        108.94,
+        34.34
+      ],
+      [
+        94.66,
+        40.14
+      ],
+      [
+        75.98,
+        39.47
+      ],
+      [
+        61.18,
+        36.55
+      ],
+      [
+        58.33,
+        37.96
+      ],
+      [
+        28.97,
+        41.01
+      ]
+    ]
+  }
+}

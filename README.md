@@ -11,9 +11,11 @@ week. Built for wall-mounted art frames first, desktop second, phone as a remote
 
 ## Status
 
-**Phase 0 — Scaffold & pipeline.** Monorepo, engine skeleton, Next.js deploy target,
-CI, and the first Supabase migration are in place. Next up: Phase 1 (the pure engine
-+ Napoleon content).
+**Phase 2 — Viewer.** A working MapLibre viewer runs any journey end-to-end in the
+browser: route + marker + travelled line, follow/free camera, moment/stats/legend/
+date overlays, and local-clock play / speed / seek. Try `/viewer/napoleon-1812`.
+Phases 0 (scaffold + CI) and 1 (pure engine + content) are complete. Next up: Phase 3
+(accounts, runs, server-anchored clock, mobile remote).
 
 ## Repository layout
 

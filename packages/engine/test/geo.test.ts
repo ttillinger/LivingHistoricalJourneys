@@ -4,6 +4,7 @@ import {
   coordsFromGeoJson,
   haversineKm,
   positionAtKm,
+  routeSliceTo,
 } from "../src/geo";
 
 describe("haversineKm", () => {
@@ -36,6 +37,29 @@ describe("buildRoute + positionAtKm", () => {
   it("clamps distances beyond either end", () => {
     expect(positionAtKm(route, 99_999).coord[1]).toBeCloseTo(2, 5);
     expect(positionAtKm(route, -5).coord[1]).toBeCloseTo(0, 5);
+  });
+});
+
+describe("routeSliceTo", () => {
+  const route = buildRoute([
+    [0, 0],
+    [0, 1],
+    [0, 2],
+  ]);
+
+  it("returns start-only at km 0", () => {
+    expect(routeSliceTo(route, 0)).toEqual([[0, 0]]);
+  });
+
+  it("ends at the current position partway along", () => {
+    const slice = routeSliceTo(route, route.totalKm / 2);
+    expect(slice[0]).toEqual([0, 0]);
+    expect(slice[slice.length - 1]![1]).toBeCloseTo(1, 1);
+  });
+
+  it("returns the full line at the end", () => {
+    const slice = routeSliceTo(route, route.totalKm);
+    expect(slice[slice.length - 1]![1]).toBeCloseTo(2, 5);
   });
 });
 

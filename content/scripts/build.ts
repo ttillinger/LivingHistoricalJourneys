@@ -165,10 +165,12 @@ function buildJourney(slug: string): void {
   const space = authoring.coordinateSpace ?? "geo";
   const manifestTracks = [];
   const geojsonByTrack: Record<string, string> = {};
+  const routeCoords: Record<string, Coord[]> = {};
   for (const track of authoring.tracks) {
     const { manifestTrack, coords } = assembleTrack(track, space);
     manifestTracks.push(manifestTrack);
     geojsonByTrack[track.id] = toGeoJson(coords, `${authoring.title} — ${track.name}`);
+    routeCoords[track.id] = coords;
   }
 
   const { tracks: _authoringTracks, ...journeyRest } = authoring;
@@ -183,6 +185,9 @@ function buildJourney(slug: string): void {
   for (const [trackId, geojson] of Object.entries(geojsonByTrack)) {
     writeFileSync(join(routesDir, `${trackId}.geojson`), geojson + "\n");
   }
+
+  // App-facing bundle: manifest + resolved route coordinates, ready for loadJourney().
+  writeFileSync(join(dir, "bundle.json"), JSON.stringify({ manifest, routeCoords }, null, 2) + "\n");
 
   const primary = manifestTracks.find((t) => t.isPrimary) ?? manifestTracks[0];
   console.log(

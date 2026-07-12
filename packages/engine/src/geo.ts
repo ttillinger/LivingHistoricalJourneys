@@ -99,6 +99,22 @@ export function positionAtKm(
   return { coord, headingDeg, segmentIndex: i };
 }
 
+/** The polyline from the route start up to a given distance (the "travelled" line). */
+export function routeSliceTo(route: RouteGeometry, km: number): Coord[] {
+  const { coords, cumKm, totalKm } = route;
+  const clamped = Math.max(0, Math.min(km, totalKm));
+  const out: Coord[] = [];
+  for (let i = 0; i < coords.length; i++) {
+    if (cumKm[i]! <= clamped) out.push(coords[i]!);
+    else break;
+  }
+  if (out.length === 0) out.push(coords[0]!);
+  const head = positionAtKm(route, clamped).coord;
+  const last = out[out.length - 1]!;
+  if (last[0] !== head[0] || last[1] !== head[1]) out.push(head);
+  return out;
+}
+
 type GeoJsonish = {
   type?: string;
   coordinates?: unknown;
