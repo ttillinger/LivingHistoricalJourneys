@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shackleton's Endurance Expedition (1914–17) — Endurance & Ice Drift"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -57.9,
+        -51.7
+      ],
+      [
+        -31,
+        -76
+      ],
+      [
+        -51,
+        -69
+      ],
+      [
+        -54.8,
+        -61.1
+      ],
+      [
+        -36.5,
+        -54.2
+      ],
+      [
+        -36.1,
+        -54.8
+      ]
+    ]
+  }
+}

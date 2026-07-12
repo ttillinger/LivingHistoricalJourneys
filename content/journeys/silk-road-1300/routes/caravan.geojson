@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Silk Road Caravan (ca. 1300) — Overland Caravan"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        108.94,
+        34.34
+      ],
+      [
+        94.66,
+        40.14
+      ],
+      [
+        75.98,
+        39.47
+      ],
+      [
+        61.18,
+        36.55
+      ],
+      [
+        58.33,
+        37.96
+      ],
+      [
+        28.97,
+        41.01
+      ]
+    ]
+  }
+}

@@ -7,14 +7,30 @@ Zod schema (`packages/engine/src/schema.ts`). See `HANDOFF.md` §5 and §12.
 content/
 ├── journeys/
 │   └── <slug>/
-│       ├── journey.json        # manifest + timeline (schema-validated)
-│       ├── routes/*.geojson    # dense route geometry per track
-│       ├── labels.geojson      # period place-name overlay
-│       └── scenes/             # scene manifest + curated stills
+│       ├── authoring.json      # hand-authored source (vertices + dates + stats)  ─┐ build
+│       ├── poc-seed.json       # legacy POC source, for mechanical ports          ─┤ inputs
+│       ├── journey.json        # GENERATED manifest + timeline (schema-validated)  ─┐ build
+│       ├── routes/*.geojson    # GENERATED route geometry per track                ─┘ outputs
+│       ├── labels.geojson      # period place-name overlay (Phase 5)
+│       └── scenes/             # scene manifest + curated stills (Phase 5)
 ├── map-styles/                 # MapLibre style JSONs (modern, atlas, period)
 └── scripts/
+    ├── build.ts                # `pnpm content:build` — authoring/POC -> journey.json
     └── validate.ts             # `pnpm validate:content`
 ```
+
+## Build
+
+`journey.json` and `routes/*.geojson` are **generated** — never edit them by hand.
+Edit the `authoring.json` (or `poc-seed.json`) source and regenerate:
+
+```bash
+pnpm content:build     # computes route km from geometry, writes + validates manifests
+```
+
+The build derives each schedule keyframe's `km` from the route geometry, so the
+schedule and the drawn line can never drift apart, and it fails on any schema
+violation — committed manifests are always valid.
 
 ## Validate locally
 

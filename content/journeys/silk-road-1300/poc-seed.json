@@ -1,0 +1,84 @@
+{
+  "id": "silk_road_caravan",
+  "name": "Silk Road Caravan (ca. 1300)",
+  "description": "A stylized caravan route from Xi'an to Constantinople, representing centuries of overland trade.",
+  "time": {
+    "start": "1300-04-01T00:00:00Z",
+    "end": "1301-04-01T00:00:00Z"
+  },
+  "mapBounds": {
+    "southWest": [30.0, 20.0],
+    "northEast": [45.0, 120.0]
+  },
+  "moments": [
+    {
+      "time": "1300-04-01T00:00:00Z",
+      "title": "Eastern Terminus",
+      "text": "Caravans assemble near Chang'an (Xi'an), loaded with silk, tea, and porcelain."
+    },
+    {
+      "time": "1300-08-01T00:00:00Z",
+      "title": "Kashgar Crossroads",
+      "text": "Merchants and cultures mix at the edge of the Tarim Basin, where routes diverge around the mountains."
+    },
+    {
+      "time": "1300-10-01T00:00:00Z",
+      "title": "Desert Oases",
+      "text": "Oases in Khurasan and Persia sustain caravans with water, fodder, and new wares."
+    },
+    {
+      "time": "1301-04-01T00:00:00Z",
+      "title": "Western Terminus",
+      "text": "Caravans reach Constantinople, where goods spread into Europe via Mediterranean trade."
+    }
+  ],
+  "tracks": [
+    {
+      "id": "caravan",
+      "name": "Overland Caravan",
+      "type": "caravan",
+      "style": {
+        "color": "#8e5c2c",
+        "icon": "wagon"
+      },
+      "points": [
+        {
+          "time": "1300-04-01T00:00:00Z",
+          "lat": 34.34,
+          "lon": 108.94,
+          "label": "Chang'an (Xi'an) – Eastern terminus"
+        },
+        {
+          "time": "1300-06-01T00:00:00Z",
+          "lat": 40.14,
+          "lon": 94.66,
+          "label": "Dunhuang – Gateway to the western deserts"
+        },
+        {
+          "time": "1300-08-01T00:00:00Z",
+          "lat": 39.47,
+          "lon": 75.98,
+          "label": "Kashgar – Crossroads of Central Asia"
+        },
+        {
+          "time": "1300-10-01T00:00:00Z",
+          "lat": 36.55,
+          "lon": 61.18,
+          "label": "Merv / Oasis of Khurasan"
+        },
+        {
+          "time": "1301-01-01T00:00:00Z",
+          "lat": 37.96,
+          "lon": 58.33,
+          "label": "Near the Caspian – western steppe route"
+        },
+        {
+          "time": "1301-04-01T00:00:00Z",
+          "lat": 41.01,
+          "lon": 28.97,
+          "label": "Constantinople – Western terminus"
+        }
+      ]
+    }
+  ]
+}

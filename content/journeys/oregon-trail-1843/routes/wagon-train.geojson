@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oregon Trail Wagon Train (1843) — Wagon Train"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -94.58,
+        39.09
+      ],
+      [
+        -98.56,
+        39.78
+      ],
+      [
+        -95.94,
+        41.26
+      ],
+      [
+        -106.31,
+        42.85
+      ],
+      [
+        -112.03,
+        43.52
+      ],
+      [
+        -116.67,
+        44.56
+      ],
+      [
+        -122.61,
+        45.35
+      ]
+    ]
+  }
+}

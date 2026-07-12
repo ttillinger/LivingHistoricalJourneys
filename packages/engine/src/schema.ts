@@ -8,7 +8,7 @@ import { z } from "zod";
 
 export const IsoDateTime = z.string().datetime({ offset: true });
 
-export const CoordinateSpace = z.enum(["geo", "image"]);
+export const CoordinateSpaceSchema = z.enum(["geo", "image"]);
 export const Tier = z.enum(["free", "premium"]);
 
 export const ScheduleKeyframe = z.object({
@@ -38,6 +38,8 @@ export const Track = z.object({
   id: z.string().min(1),
   name: z.string().min(1),
   kind: z.string().min(1),
+  /** Renderer hint only; the engine ignores it. */
+  color: z.string().optional(),
   isPrimary: z.boolean().default(false),
   /** Path (relative to the journey dir) to a dense route LineString GeoJSON. */
   route: z.string().min(1),
@@ -68,6 +70,28 @@ export const Episode = z.object({
   narrativeBeats: z.array(NarrativeBeat).optional(),
 });
 
+/** Weather/ambient periods (the POC's `paceSegments`, generalized). */
+export const Condition = z.object({
+  start: IsoDateTime,
+  end: IsoDateTime,
+  /** Activity key, e.g. "march" | "camp" | "retreat" | "battle" | "disaster". */
+  activityKey: z.string().min(1),
+  label: z.string().optional(),
+  weather: z.string().optional(),
+});
+
+/**
+ * Scene imagery manifest (HANDOFF.md §9). Curated stills, not sprites. Full
+ * resolution lands in Phase 5; the shape is here so the engine can already resolve a
+ * scene ref when assets exist.
+ */
+export const SceneManifest = z.object({
+  /** Keyed by "activityKey" or "activityKey/solarPhase" -> image path. */
+  byState: z.record(z.string(), z.string()).optional(),
+  /** Keyed by episode id -> image path. */
+  byEpisode: z.record(z.string(), z.string()).optional(),
+});
+
 export const MapDefaults = z.object({
   bounds: z.array(z.number()).optional(),
   styles: z.array(z.string()).optional(),
@@ -79,13 +103,16 @@ export const JourneySchema = z
     /** Bump on content edits; runs pin a version so they don't shift underfoot. */
     version: z.number().int().positive(),
     title: z.string().min(1),
+    description: z.string().optional(),
     tier: Tier,
-    coordinateSpace: CoordinateSpace.default("geo"),
+    coordinateSpace: CoordinateSpaceSchema.default("geo"),
     time: z.object({ start: IsoDateTime, end: IsoDateTime }),
     mapDefaults: MapDefaults.optional(),
     tracks: z.array(Track).min(1),
     moments: z.array(Moment).default([]),
     episodes: z.array(Episode).default([]),
+    conditions: z.array(Condition).default([]),
+    scenes: SceneManifest.optional(),
     labelsOverlay: z.string().optional(),
     attribution: z.array(z.string()).default([]),
     sources: z.array(z.string()).default([]),
@@ -96,6 +123,7 @@ export type Journey = z.infer<typeof JourneySchema>;
 export type JourneyTrack = z.infer<typeof Track>;
 export type JourneyMoment = z.infer<typeof Moment>;
 export type JourneyEpisode = z.infer<typeof Episode>;
+export type JourneyCondition = z.infer<typeof Condition>;
 
 /** Parse and validate raw journey content, throwing on any schema violation. */
 export function parseJourney(raw: unknown): Journey {

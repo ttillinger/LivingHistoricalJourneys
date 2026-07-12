@@ -5,6 +5,7 @@
   "type": "module",
   "description": "Journey content (manifests, routes, scenes) and the validation pipeline.",
   "scripts": {
+    "build": "tsx scripts/build.ts",
     "validate": "tsx scripts/validate.ts",
     "typecheck": "tsc --noEmit"
   },

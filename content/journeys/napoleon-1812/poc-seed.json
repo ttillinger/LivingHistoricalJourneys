@@ -1,0 +1,227 @@
+{
+  "id": "napoleon_1812",
+  "name": "Napoleon's 1812 Russian Campaign",
+  "description": "Very simplified routes of the Grande Armée and a pursuing Russian force during the 1812 invasion of Russia.",
+  "time": {
+    "start": "1812-06-24T00:00:00Z",
+    "end": "1812-12-14T00:00:00Z"
+  },
+  "mapBounds": {
+    "southWest": [52.0, 20.0],
+    "northEast": [58.0, 40.0]
+  },
+"historicalMap": {
+  "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}",
+  "minZoom": 3,
+  "maxZoom": 13,
+  "attribution": "Esri World Terrain Base"
+},
+"historicalOverlay": {
+  "url": "https://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}",
+  "minZoom": 3,
+  "maxZoom": 13,
+  "opacity": 0.7,
+  "attribution": "Esri World Boundaries and Places"
+},
+"moments": [
+  {
+    "time": "1812-06-24T06:00:00Z",
+    "title": "Crossing the Niemen",
+    "text": "Napoleon's Grande Armée begins crossing the Niemen River into Russian territory."
+  },
+  {
+    "time": "1812-07-16T12:00:00Z",
+    "title": "Heat and disease",
+    "text": "Summer heat, long marches, and supply problems begin to thin the ranks before any major battle."
+  },
+  {
+    "time": "1812-08-17T09:00:00Z",
+    "title": "Smolensk in flames",
+    "text": "Fighting around Smolensk leaves much of the city destroyed and costs thousands of casualties on both sides."
+  },
+  {
+    "time": "1812-09-07T05:00:00Z",
+    "title": "Battle of Borodino",
+    "text": "One of the bloodiest single-day battles of the era; the French hold the field but at enormous cost."
+  },
+  {
+    "time": "1812-09-14T16:00:00Z",
+    "title": "Moscow, but no peace",
+    "text": "The French enter a largely deserted Moscow. Fires soon consume much of the city and no peace offer arrives."
+  },
+  {
+    "time": "1812-10-19T08:00:00Z",
+    "title": "Retreat from Moscow",
+    "text": "With winter coming and supplies exhausted, Napoleon orders the retreat westward."
+  },
+  {
+    "time": "1812-11-09T12:00:00Z",
+    "title": "Winter closes in",
+    "text": "Snow, hunger, and Russian attacks turn the retreat into a desperate struggle for survival."
+  },
+  {
+    "time": "1812-11-26T10:00:00Z",
+    "title": "Crossing the Berezina",
+    "text": "Improvised bridges under fire allow part of the army to escape, but losses are catastrophic."
+  },
+  {
+    "time": "1812-12-14T08:00:00Z",
+    "title": "Back over the Niemen",
+    "text": "The shattered remnants of the Grande Armée recross the Niemen, ending the campaign."
+  }
+]
+,
+"paceSegments": [
+  {
+    "start": "1812-06-24T00:00:00Z",
+    "end":   "1812-07-20T23:59:59Z",
+    "activity": "Advancing into Russia",
+    "key": "march"
+  },
+  {
+    "start": "1812-07-21T00:00:00Z",
+    "end":   "1812-08-15T23:59:59Z",
+    "activity": "Strained advance and skirmishes",
+    "key": "harassed"
+  },
+  {
+    "start": "1812-08-16T00:00:00Z",
+    "end":   "1812-09-08T23:59:59Z",
+    "activity": "Smolensk and Borodino battles",
+    "key": "battle"
+  },
+  {
+    "start": "1812-09-09T00:00:00Z",
+    "end":   "1812-10-18T23:59:59Z",
+    "activity": "In Moscow, waiting in vain",
+    "key": "camp"
+  },
+  {
+    "start": "1812-10-19T00:00:00Z",
+    "end":   "1812-11-25T23:59:59Z",
+    "activity": "Retreat in worsening weather",
+    "key": "retreat"
+  },
+  {
+    "start": "1812-11-26T00:00:00Z",
+    "end":   "1812-12-14T23:59:59Z",
+    "activity": "Berezina crossing and collapse",
+    "key": "disaster"
+  }
+]
+,
+  "tracks": [
+    {
+      "id": "grand_army",
+      "name": "Grande Armée",
+      "type": "army",
+      "style": {
+        "color": "#c0392b",
+        "icon": "napoleon"
+      },
+      "points": [
+        {
+          "time": "1812-06-24T00:00:00Z",
+          "lat": 54.9,
+          "lon": 23.9,
+          "label": "Crossing the Niemen near Kowno (Kaunas)"
+        },
+        {
+          "time": "1812-08-17T00:00:00Z",
+          "lat": 54.78,
+          "lon": 32.05,
+          "label": "Near Smolensk"
+        },
+        {
+          "time": "1812-09-07T00:00:00Z",
+          "lat": 55.53,
+          "lon": 35.82,
+          "label": "Battle of Borodino"
+        },
+        {
+          "time": "1812-09-14T00:00:00Z",
+          "lat": 55.75,
+          "lon": 37.62,
+          "label": "Moscow occupied"
+        },
+        {
+          "time": "1812-10-19T00:00:00Z",
+          "lat": 55.75,
+          "lon": 37.62,
+          "label": "Napoleon leaves Moscow"
+        },
+        {
+          "time": "1812-11-16T00:00:00Z",
+          "lat": 54.28,
+          "lon": 28.5,
+          "label": "Crossing the Berezina"
+        },
+        {
+          "time": "1812-12-10T00:00:00Z",
+          "lat": 54.68,
+          "lon": 25.28,
+          "label": "Vilnius"
+        },
+        {
+          "time": "1812-12-14T00:00:00Z",
+          "lat": 54.9,
+          "lon": 23.9,
+          "label": "Back towards the Niemen"
+        }
+      ]
+    },
+    {
+      "id": "russian_army",
+      "name": "Russian Army",
+      "type": "army",
+      "style": {
+        "color": "#2980b9",
+        "icon": "russian"
+      },
+      "points": [
+        {
+          "time": "1812-06-24T00:00:00Z",
+          "lat": 55.2,
+          "lon": 26.0,
+          "label": "Russian forces shadowing the invasion"
+        },
+        {
+          "time": "1812-08-17T00:00:00Z",
+          "lat": 55.0,
+          "lon": 33.0,
+          "label": "Defending approaches to Smolensk"
+        },
+        {
+          "time": "1812-09-07T00:00:00Z",
+          "lat": 55.53,
+          "lon": 35.82,
+          "label": "Battle of Borodino"
+        },
+        {
+          "time": "1812-09-14T00:00:00Z",
+          "lat": 56.0,
+          "lon": 37.0,
+          "label": "Russian army withdraws eastward"
+        },
+        {
+          "time": "1812-10-19T00:00:00Z",
+          "lat": 55.9,
+          "lon": 36.0,
+          "label": "Russians shadow French departure from Moscow"
+        },
+        {
+          "time": "1812-11-16T00:00:00Z",
+          "lat": 54.6,
+          "lon": 29.5,
+          "label": "Closing in near the Berezina"
+        },
+        {
+          "time": "1812-12-14T00:00:00Z",
+          "lat": 56.0,
+          "lon": 32.0,
+          "label": "Russian forces in control of the field"
+        }
+      ]
+    }
+  ]
+}

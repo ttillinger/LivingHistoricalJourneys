@@ -16,31 +16,34 @@ export default function Home() {
     <main className="mx-auto flex min-h-screen max-w-2xl flex-col justify-center gap-8 px-6 py-16">
       <header className="flex flex-col gap-3">
         <p className="text-xs font-medium uppercase tracking-[0.2em] text-neutral-500">
-          Phase 0 · Scaffold &amp; pipeline
+          Phase 1 · Engine &amp; content
         </p>
         <h1 className="text-4xl font-semibold tracking-tight text-balance">
           Living Historical Journeys
         </h1>
         <p className="text-lg text-neutral-600 dark:text-neutral-400 text-pretty">
           An ambient web app for following historical journeys in real — or
-          scaled — time. This is the deploy target; the experience comes next.
+          scaled — time. The pure engine and first journeys are in; the map
+          viewer comes next.
         </p>
       </header>
 
       <section className="rounded-lg border border-neutral-200 bg-neutral-50 p-5 text-sm dark:border-neutral-800 dark:bg-neutral-900">
-        <h2 className="mb-2 font-medium">Monorepo online</h2>
+        <h2 className="mb-2 font-medium">The engine is live</h2>
         <ul className="space-y-1 text-neutral-600 dark:text-neutral-400">
           <li>
-            <code className="font-mono">packages/engine</code> — pure clock +
-            content schema, unit-tested.
+            <code className="font-mono">packages/engine</code> — clock, route
+            geometry, solar day/night, and{" "}
+            <code className="font-mono">evaluate()</code>; 43 golden tests.
           </li>
           <li>
-            <code className="font-mono">apps/web</code> — Next.js (App Router,
-            TypeScript strict, Tailwind v4).
+            <code className="font-mono">content/</code> — 4 journeys, schema-validated
+            in CI. Napoleon 1812 has 41 schedule keyframes, 34 moments, and
+            Minard&apos;s strength curve.
           </li>
           <li>
-            <code className="font-mono">content/</code> — journey pipeline with
-            CI validation.
+            <code className="font-mono">apps/web</code> — Next.js deploy target
+            (App Router, TypeScript strict, Tailwind v4).
           </li>
           <li>
             <code className="font-mono">supabase/</code> — migrations, RLS from

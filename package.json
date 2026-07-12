@@ -15,6 +15,7 @@
     "lint": "eslint .",
     "typecheck": "pnpm -r run typecheck",
     "test": "pnpm -r run test",
+    "content:build": "pnpm --filter @living-journeys/content build",
     "validate:content": "pnpm --filter @living-journeys/content validate"
   },
   "devDependencies": {

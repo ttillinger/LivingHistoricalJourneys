@@ -1,0 +1,147 @@
+{
+  "id": "oregon_trail_1843",
+  "name": "Oregon Trail Wagon Train (1843)",
+  "description": "Highly simplified route of a typical wagon train from Independence, Missouri to the Willamette Valley in 1843.",
+  "time": {
+    "start": "1843-05-01T00:00:00Z",
+    "end": "1843-10-15T00:00:00Z"
+  },
+  "mapBounds": {
+    "southWest": [37.0, -125.0],
+    "northEast": [47.5, -95.0]
+  },
+"historicalMap": {
+  "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}",
+  "minZoom": 3,
+  "maxZoom": 13,
+  "attribution": "Esri World Terrain Base"
+},
+"historicalOverlay": {
+  "url": "https://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}",
+  "minZoom": 3,
+  "maxZoom": 13,
+  "opacity": 0.7,
+  "attribution": "Esri World Boundaries and Places"
+},
+  "moments": [
+    {
+      "time": "1843-05-01T00:00:00Z",
+      "title": "Departure from Independence",
+      "text": "Families gather wagons, livestock, and supplies before heading west into the unknown."
+    },
+    {
+      "time": "1843-07-01T00:00:00Z",
+      "title": "Crossing the Rockies",
+      "text": "At South Pass, wagons cross the Continental Divide before the snows close the route."
+    },
+    {
+      "time": "1843-08-01T00:00:00Z",
+      "title": "Snake River Country",
+      "text": "Dust, heat, and river crossings test the wagons and the people driving them."
+    },
+    {
+      "time": "1843-10-15T00:00:00Z",
+      "title": "Reaching the Willamette",
+      "text": "After months on the trail, the wagon train descends into Oregon's fertile valleys."
+    }
+  ],
+  "paceSegments": [
+  {
+    "start": "1843-05-01T00:00:00Z",
+    "end":   "1843-05-31T23:59:59Z",
+    "activity": "Forming the wagon train and leaving Independence",
+    "key": "trail",
+    "weather": "Mild spring days, cool nights"
+  },
+  {
+    "start": "1843-06-01T00:00:00Z",
+    "end":   "1843-06-30T23:59:59Z",
+    "activity": "Crossing the plains toward the Platte River",
+    "key": "trail",
+    "weather": "Warm days, occasional thunderstorms"
+  },
+  {
+    "start": "1843-07-01T00:00:00Z",
+    "end":   "1843-07-31T23:59:59Z",
+    "activity": "Along the Platte and North Platte, steady travel",
+    "key": "trail",
+    "weather": "Hot and dusty with summer storms"
+  },
+  {
+    "start": "1843-08-01T00:00:00Z",
+    "end":   "1843-08-20T23:59:59Z",
+    "activity": "Climbing into the Rockies and South Pass",
+    "key": "mountains",
+    "weather": "Cooler mountain air, sudden showers"
+  },
+  {
+    "start": "1843-08-21T00:00:00Z",
+    "end":   "1843-09-10T23:59:59Z",
+    "activity": "Across the dry stretches and Snake River crossings",
+    "key": "ford",
+    "weather": "Dry, windy days and chilly nights"
+  },
+  {
+    "start": "1843-09-11T00:00:00Z",
+    "end":   "1843-10-10T23:59:59Z",
+    "activity": "Final push through the Columbia toward Oregon City",
+    "key": "trail",
+    "weather": "Autumn storms and early frosts"
+  }
+],
+  "tracks": [
+    {
+      "id": "wagon_train",
+      "name": "Wagon Train",
+      "type": "caravan",
+      "style": {
+        "color": "#8e5c2c",
+        "icon": "wagon"
+      },
+      "points": [
+        {
+          "time": "1843-05-01T00:00:00Z",
+          "lat": 39.09,
+          "lon": -94.58,
+          "label": "Independence, Missouri – Starting out"
+        },
+        {
+          "time": "1843-05-20T00:00:00Z",
+          "lat": 39.78,
+          "lon": -98.56,
+          "label": "Across the prairie in Kansas/Nebraska"
+        },
+        {
+          "time": "1843-06-15T00:00:00Z",
+          "lat": 41.26,
+          "lon": -95.94,
+          "label": "Near Missouri River crossings"
+        },
+        {
+          "time": "1843-07-01T00:00:00Z",
+          "lat": 42.85,
+          "lon": -106.31,
+          "label": "Approaching South Pass in the Rockies"
+        },
+        {
+          "time": "1843-08-01T00:00:00Z",
+          "lat": 43.52,
+          "lon": -112.03,
+          "label": "Snake River country"
+        },
+        {
+          "time": "1843-09-01T00:00:00Z",
+          "lat": 44.56,
+          "lon": -116.67,
+          "label": "Boise area / western Idaho"
+        },
+        {
+          "time": "1843-10-15T00:00:00Z",
+          "lat": 45.35,
+          "lon": -122.61,
+          "label": "Willamette Valley / Oregon City"
+        }
+      ]
+    }
+  ]
+}
