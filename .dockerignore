@@ -1,0 +1,10 @@
+# Keep the build context small and reproducible — install deps fresh in-image.
+node_modules
+**/node_modules
+.next
+**/.next
+.git
+**/.playwright
+**/test-results
+**/playwright-report
+npm-debug.log*

@@ -1,0 +1,14 @@
+# Self-hosted frontend on nateception-server, fronted by the shared Cloudflare
+# Tunnel (journeys.esportsball.com -> 127.0.0.1:3006).
+# Namespaced `journeys-*` to stay isolated from the other apps on the box.
+name: journeys-web
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: journeys-web
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3006:3000" # localhost only; the Cloudflare Tunnel fronts it
