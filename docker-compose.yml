@@ -10,5 +10,8 @@ services:
       dockerfile: Dockerfile
     container_name: journeys-web
     restart: unless-stopped
+    # Docker's default bridge: the box has no free address pool for a new
+    # per-project network, and this single container needs no service discovery.
+    network_mode: bridge
     ports:
       - "127.0.0.1:3006:3000" # localhost only; the Cloudflare Tunnel fronts it
