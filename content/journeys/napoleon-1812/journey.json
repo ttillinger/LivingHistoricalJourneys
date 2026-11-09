@@ -1,6 +1,6 @@
 {
   "id": "napoleon-1812",
-  "version": 1,
+  "version": 2,
   "title": "Napoleon's 1812 Russian Campaign",
   "description": "The Grande Armée's advance to Moscow and its catastrophic winter retreat, June–December 1812. Strength and temperature follow Minard's 1869 chart. Interim content — density and sourcing deepen in a later research pass.",
   "tier": "free",
@@ -11,14 +11,13 @@
   },
   "mapDefaults": {
     "bounds": [
-      20,
-      52,
-      40,
-      58
+      22.5,
+      53.2,
+      39.2,
+      56.6
     ],
     "styles": [
       "campaign-1812",
-      "atlas",
       "modern"
     ]
   },
@@ -477,6 +476,13 @@
     },
     {
       "start": "1812-09-09T00:00:00Z",
+      "end": "1812-09-14T15:59:59Z",
+      "activityKey": "march",
+      "label": "The road to Moscow",
+      "weather": "The first chill of autumn"
+    },
+    {
+      "start": "1812-09-14T16:00:00Z",
       "end": "1812-10-18T23:59:59Z",
       "activityKey": "camp",
       "label": "Occupying a burning Moscow",
@@ -511,7 +517,7 @@
       "id": "grande-armee",
       "name": "Grande Armée",
       "kind": "army",
-      "color": "#b23b2e",
+      "color": "#9c3524",
       "isPrimary": true,
       "statSeries": {
         "strength": {
@@ -673,202 +679,237 @@
         },
         {
           "t": "1812-06-28T18:00:00Z",
-          "km": 91.49,
+          "km": 100.41,
           "label": "Vilna occupied"
         },
         {
           "t": "1812-07-04T12:00:00Z",
-          "km": 166.04,
+          "km": 184.88,
           "label": "Sventsiany"
         },
         {
           "t": "1812-07-12T12:00:00Z",
-          "km": 266.02,
-          "label": "Toward the Dvina"
+          "km": 295.84,
+          "label": "Glubokoye"
         },
         {
           "t": "1812-07-20T12:00:00Z",
-          "km": 357.17,
-          "label": "Approaching Vitebsk"
+          "km": 433.27,
+          "label": "Beshenkovichi — approaching Vitebsk"
         },
         {
           "t": "1812-07-28T12:00:00Z",
-          "km": 434.21,
+          "km": 490.46,
           "label": "Vitebsk"
         },
         {
           "t": "1812-08-05T12:00:00Z",
-          "km": 489.32,
-          "label": "Toward Smolensk"
+          "km": 534.33,
+          "label": "Liozno — the army rests"
+        },
+        {
+          "t": "1812-08-14T06:00:00Z",
+          "km": 597.48,
+          "label": "Crossing the Dnieper at Rasasna"
+        },
+        {
+          "t": "1812-08-15T06:00:00Z",
+          "km": 634.39,
+          "label": "Krasny"
         },
         {
           "t": "1812-08-16T12:00:00Z",
-          "km": 560.79,
+          "km": 683.48,
           "label": "Smolensk"
         },
         {
           "t": "1812-08-19T10:00:00Z",
-          "km": 580.8,
+          "km": 716.43,
           "label": "Valutino — Smolensk cleared"
         },
         {
           "t": "1812-08-25T12:00:00Z",
-          "km": 642.24,
+          "km": 791.02,
           "label": "Dorogobuzh"
         },
         {
           "t": "1812-09-01T12:00:00Z",
-          "km": 714.13,
+          "km": 877.64,
           "label": "Vyazma"
         },
         {
           "t": "1812-09-04T12:00:00Z",
-          "km": 771.35,
+          "km": 944.42,
           "label": "Gzhatsk"
         },
         {
           "t": "1812-09-06T12:00:00Z",
-          "km": 791.61,
+          "km": 970.51,
           "label": "Approach to Borodino"
         },
         {
           "t": "1812-09-07T06:00:00Z",
-          "km": 824.36,
+          "km": 1003.26,
           "label": "Borodino"
         },
         {
           "t": "1812-09-09T12:00:00Z",
-          "km": 837.77,
+          "km": 1018.44,
           "label": "Mozhaisk"
         },
         {
           "t": "1812-09-12T12:00:00Z",
-          "km": 900.21,
+          "km": 1089.17,
           "label": "Approach to Moscow"
         },
         {
           "t": "1812-09-14T16:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Moscow occupied"
         },
         {
           "t": "1812-09-20T12:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Moscow — waiting for peace"
         },
         {
           "t": "1812-09-30T12:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Moscow — waiting"
         },
         {
           "t": "1812-10-10T12:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Moscow — waiting"
         },
         {
           "t": "1812-10-18T12:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Moscow — last days"
         },
         {
           "t": "1812-10-19T08:00:00Z",
-          "km": 941.67,
+          "km": 1142.68,
           "label": "Leaving Moscow"
         },
         {
           "t": "1812-10-22T12:00:00Z",
-          "km": 1017.82,
-          "label": "Toward Maloyaroslavets"
+          "km": 1214.52,
+          "label": "Fominskoye"
+        },
+        {
+          "t": "1812-10-23T16:00:00Z",
+          "km": 1249.24,
+          "label": "Borovsk"
         },
         {
           "t": "1812-10-24T10:00:00Z",
-          "km": 1051.71,
+          "km": 1272.82,
           "label": "Maloyaroslavets"
         },
         {
+          "t": "1812-10-26T16:00:00Z",
+          "km": 1296.38,
+          "label": "Borovsk — turning back north"
+        },
+        {
+          "t": "1812-10-27T16:00:00Z",
+          "km": 1320.77,
+          "label": "Vereya"
+        },
+        {
           "t": "1812-10-28T12:00:00Z",
-          "km": 1111.93,
+          "km": 1344.32,
           "label": "Back onto the Smolensk road at Mozhaisk"
         },
         {
+          "t": "1812-10-29T10:00:00Z",
+          "km": 1359.54,
+          "label": "Past the unburied dead of Borodino"
+        },
+        {
           "t": "1812-10-31T12:00:00Z",
-          "km": 1178.25,
+          "km": 1424.21,
           "label": "Gzhatsk"
         },
         {
           "t": "1812-11-03T12:00:00Z",
-          "km": 1235.48,
+          "km": 1492.87,
           "label": "Vyazma"
         },
         {
           "t": "1812-11-07T12:00:00Z",
-          "km": 1307.37,
+          "km": 1579.94,
           "label": "Dorogobuzh"
         },
         {
           "t": "1812-11-09T12:00:00Z",
-          "km": 1388.69,
+          "km": 1670.1,
           "label": "Smolensk"
         },
         {
           "t": "1812-11-14T08:00:00Z",
-          "km": 1388.69,
+          "km": 1670.1,
           "label": "Leaving Smolensk"
         },
         {
           "t": "1812-11-16T12:00:00Z",
-          "km": 1434.34,
+          "km": 1719.15,
           "label": "Krasny"
         },
         {
           "t": "1812-11-19T12:00:00Z",
-          "km": 1500.47,
+          "km": 1810.9,
           "label": "Orsha"
         },
         {
-          "t": "1812-11-22T12:00:00Z",
-          "km": 1568.8,
-          "label": "Toward Borisov"
+          "t": "1812-11-21T12:00:00Z",
+          "km": 1866.09,
+          "label": "Tolochin"
+        },
+        {
+          "t": "1812-11-23T12:00:00Z",
+          "km": 1903.54,
+          "label": "Bobr"
         },
         {
           "t": "1812-11-25T12:00:00Z",
-          "km": 1628.09,
+          "km": 1960.13,
           "label": "Borisov"
         },
         {
           "t": "1812-11-26T08:00:00Z",
-          "km": 1648.87,
-          "label": "Studenka — the Berezina"
+          "km": 1978.78,
+          "label": "Studianka — the Berezina"
         },
         {
           "t": "1812-11-29T10:00:00Z",
-          "km": 1662.29,
-          "label": "West bank of the Berezina"
+          "km": 1987.84,
+          "label": "Zembin — west of the Berezina"
         },
         {
           "t": "1812-12-03T12:00:00Z",
-          "km": 1744.19,
+          "km": 2102.14,
           "label": "Molodechno"
         },
         {
           "t": "1812-12-05T20:00:00Z",
-          "km": 1778.92,
-          "label": "Smorgon — Napoleon leaves the army"
+          "km": 2141.73,
+          "label": "Smorgoni — Napoleon leaves the army"
         },
         {
           "t": "1812-12-08T12:00:00Z",
-          "km": 1854.77,
+          "km": 2231.98,
           "label": "Vilna"
         },
         {
           "t": "1812-12-11T12:00:00Z",
-          "km": 1900.1,
+          "km": 2283.31,
           "label": "Toward Kovno"
         },
         {
           "t": "1812-12-14T08:00:00Z",
-          "km": 1946.27,
+          "km": 2334.57,
           "label": "Back over the Niemen"
         }
       ]
@@ -877,7 +918,7 @@
       "id": "russian-army",
       "name": "Russian Army",
       "kind": "army",
-      "color": "#2f6fb0",
+      "color": "#3d5a40",
       "isPrimary": false,
       "statSeries": {
         "strength": {
@@ -917,62 +958,192 @@
         {
           "t": "1812-06-24T03:00:00Z",
           "km": 0,
-          "label": "Shadowing the invasion"
+          "label": "Headquarters at Vilna"
         },
         {
-          "t": "1812-07-01T12:00:00Z",
-          "km": 79.15,
-          "label": "Falling back"
+          "t": "1812-06-28T04:00:00Z",
+          "km": 0,
+          "label": "Vilna abandoned"
         },
         {
-          "t": "1812-07-20T12:00:00Z",
-          "km": 210.22,
-          "label": "Toward the Dvina"
+          "t": "1812-07-02T12:00:00Z",
+          "km": 84.47,
+          "label": "Sventsiany"
         },
         {
-          "t": "1812-07-28T12:00:00Z",
-          "km": 299.52,
-          "label": "Evading at Vitebsk"
+          "t": "1812-07-11T12:00:00Z",
+          "km": 288.24,
+          "label": "The fortified camp at Drissa"
         },
         {
-          "t": "1812-08-16T12:00:00Z",
-          "km": 452.58,
-          "label": "Defending Smolensk"
+          "t": "1812-07-16T12:00:00Z",
+          "km": 288.24,
+          "label": "Leaving the Drissa camp"
         },
         {
-          "t": "1812-09-07T06:00:00Z",
-          "km": 640.38,
-          "label": "Borodino"
+          "t": "1812-07-18T18:00:00Z",
+          "km": 356.45,
+          "label": "Polotsk"
         },
         {
-          "t": "1812-09-20T12:00:00Z",
-          "km": 731.56,
-          "label": "Tarutino camp"
+          "t": "1812-07-23T12:00:00Z",
+          "km": 457.08,
+          "label": "Vitebsk"
         },
         {
-          "t": "1812-10-18T12:00:00Z",
-          "km": 736.18,
-          "label": "Tarutino — the flank march"
+          "t": "1812-07-27T20:00:00Z",
+          "km": 457.08,
+          "label": "Slipping away from Vitebsk by night"
+        },
+        {
+          "t": "1812-07-31T12:00:00Z",
+          "km": 566.39,
+          "label": "Porechye"
+        },
+        {
+          "t": "1812-08-03T12:00:00Z",
+          "km": 644.44,
+          "label": "The two Russian armies unite at Smolensk"
+        },
+        {
+          "t": "1812-08-18T02:00:00Z",
+          "km": 644.44,
+          "label": "Abandoning burning Smolensk"
+        },
+        {
+          "t": "1812-08-19T10:00:00Z",
+          "km": 677.39,
+          "label": "Rearguard action at Valutino"
+        },
+        {
+          "t": "1812-08-24T12:00:00Z",
+          "km": 751.99,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-08-27T12:00:00Z",
+          "km": 838.6,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-08-29T12:00:00Z",
+          "km": 889.02,
+          "label": "Tsarevo-Zaimishche — Kutuzov takes command"
+        },
+        {
+          "t": "1812-09-01T12:00:00Z",
+          "km": 919.75,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-09-03T18:00:00Z",
+          "km": 984.38,
+          "label": "Taking position at Borodino"
+        },
+        {
+          "t": "1812-09-08T02:00:00Z",
+          "km": 984.38,
+          "label": "Withdrawing from Borodino"
+        },
+        {
+          "t": "1812-09-09T06:00:00Z",
+          "km": 999.56,
+          "label": "Mozhaisk"
+        },
+        {
+          "t": "1812-09-13T16:00:00Z",
+          "km": 1100.7,
+          "label": "The council of war at Fili"
+        },
+        {
+          "t": "1812-09-14T10:00:00Z",
+          "km": 1111.01,
+          "label": "Marching out through Moscow"
+        },
+        {
+          "t": "1812-09-17T12:00:00Z",
+          "km": 1151.68,
+          "label": "The Borovsk ferry — turning off the Ryazan road"
+        },
+        {
+          "t": "1812-09-19T12:00:00Z",
+          "km": 1184.15,
+          "label": "Podolsk"
+        },
+        {
+          "t": "1812-09-21T12:00:00Z",
+          "km": 1206.79,
+          "label": "Krasnaya Pakhra"
+        },
+        {
+          "t": "1812-10-03T12:00:00Z",
+          "km": 1249.99,
+          "label": "The Tarutino camp"
+        },
+        {
+          "t": "1812-10-23T18:00:00Z",
+          "km": 1249.99,
+          "label": "Leaving Tarutino"
         },
         {
           "t": "1812-10-24T10:00:00Z",
-          "km": 766.77,
-          "label": "Blocking at Maloyaroslavets"
+          "km": 1291.98,
+          "label": "Blocking the road at Maloyaroslavets"
+        },
+        {
+          "t": "1812-10-27T12:00:00Z",
+          "km": 1349.61,
+          "label": "Polotnyany Zavod"
+        },
+        {
+          "t": "1812-10-30T12:00:00Z",
+          "km": 1383.28,
+          "label": "Medyn — the parallel pursuit begins"
+        },
+        {
+          "t": "1812-11-03T12:00:00Z",
+          "km": 1517.11,
+          "label": "South of Vyazma"
+        },
+        {
+          "t": "1812-11-08T12:00:00Z",
+          "km": 1669.05,
+          "label": "Yelnya"
         },
         {
           "t": "1812-11-16T12:00:00Z",
-          "km": 1093,
-          "label": "Pursuit at Krasny"
+          "km": 1815.51,
+          "label": "Battle of Krasny"
         },
         {
-          "t": "1812-11-26T12:00:00Z",
-          "km": 1272.72,
-          "label": "Converging on the Berezina"
+          "t": "1812-11-19T12:00:00Z",
+          "km": 1815.51,
+          "label": "Resting after Krasny"
+        },
+        {
+          "t": "1812-11-25T12:00:00Z",
+          "km": 1928.98,
+          "label": "Kopys — crossing the Dnieper"
+        },
+        {
+          "t": "1812-12-01T12:00:00Z",
+          "km": 2052.81,
+          "label": "Crossing the Berezina far to the south"
+        },
+        {
+          "t": "1812-12-07T12:00:00Z",
+          "km": 2204.33,
+          "label": "Radoshkovichi"
+        },
+        {
+          "t": "1812-12-12T12:00:00Z",
+          "km": 2376.92,
+          "label": "Kutuzov enters Vilna"
         },
         {
           "t": "1812-12-14T12:00:00Z",
-          "km": 1452.64,
-          "label": "Pursuing toward Vilna"
+          "km": 2376.92,
+          "label": "Vilna"
         }
       ]
     }

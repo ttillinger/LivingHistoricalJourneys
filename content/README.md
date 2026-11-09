@@ -11,7 +11,9 @@ content/
 │       ├── poc-seed.json       # legacy POC source, for mechanical ports          ─┤ inputs
 │       ├── journey.json        # GENERATED manifest + timeline (schema-validated)  ─┐ build
 │       ├── routes/*.geojson    # GENERATED route geometry per track                ─┘ outputs
-│       ├── labels.geojson      # period place-name overlay (Phase 5)
+│       ├── roads.json          # traced road geometry per leg (`pnpm trace <slug>`) ─┤
+│       ├── labels.json         # period place names drawn over the map            ─┘
+│       ├── bundle.json         # GENERATED app bundle (manifest + routes + labels)
 │       └── scenes/             # scene manifest + curated stills (Phase 5)
 ├── map-styles/                 # MapLibre style JSONs (modern, atlas, period)
 └── scripts/

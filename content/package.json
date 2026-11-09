@@ -13,6 +13,7 @@
   "scripts": {
     "build": "tsx scripts/build.ts",
     "validate": "tsx scripts/validate.ts",
+    "trace": "tsx scripts/trace-roads.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
