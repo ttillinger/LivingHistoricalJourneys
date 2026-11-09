@@ -1,6 +1,10 @@
 # Living Historical Journeys — Rebuild Handoff
 
-**Status:** Planning document. No rebuild code exists yet. The files currently in this
+> **November 2026:** this is now the design reference, not the working plan. The phase
+> order (§13) and the hosting assumptions (§3, §15) are superseded by
+> [`ROADMAP.md`](./ROADMAP.md). Everything else here still stands.
+
+**Status (July 2026):** Planning document. No rebuild code exists yet. The files currently in this
 directory (`index.html`, `events/*.json`, `sprites/*.png`) are the proof of concept and
 are treated as *reference material and seed content*, not as a starting codebase.
 

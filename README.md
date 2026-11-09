@@ -6,16 +6,16 @@ across a period-styled map for six months — or compress the whole campaign int
 week. Built for wall-mounted art frames first, desktop second, phone as a remote.
 
 > **Napoleon 1812 is free forever** (the showcase). The rest of the catalog sits
-> behind a subscription. See [`HANDOFF.md`](./HANDOFF.md) for the full product and
-> engineering plan.
+> behind a subscription. See [`HANDOFF.md`](./HANDOFF.md) for the full product
+> design and [`ROADMAP.md`](./ROADMAP.md) for the working plan.
 
 ## Status
 
-**Phase 2 — Viewer.** A working MapLibre viewer runs any journey end-to-end in the
-browser: route + marker + travelled line, follow/free camera, moment/stats/legend/
-date overlays, and local-clock play / speed / seek. Try `/viewer/napoleon-1812`.
-Phases 0 (scaffold + CI) and 1 (pure engine + content) are complete. Next up: Phase 3
-(accounts, runs, server-anchored clock, mobile remote).
+Live at **https://journeys.esportsball.com**. Napoleon 1812 runs end to end on a
+period-styled map: road-following routes for both armies, period place names, strength
+and temperature after Minard, night falling where the army stands, and a live link that
+keeps real time without an account. See [`ROADMAP.md`](./ROADMAP.md) for what is done
+and what is next; [`HANDOFF.md`](./HANDOFF.md) is the design reference behind it.
 
 ## Repository layout
 
