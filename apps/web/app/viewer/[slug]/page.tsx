@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getJourneyBundle, journeyList } from "@living-journeys/content";
-import { Viewer } from "@/components/viewer/Viewer";
+import { ViewerLoader } from "@/components/journey/ViewerLoader";
 
 export function generateStaticParams() {
   return journeyList.map((j) => ({ slug: j.slug }));
@@ -29,5 +29,5 @@ export default async function ViewerPage({
   const { slug } = await params;
   const bundle = getJourneyBundle(slug);
   if (!bundle) notFound();
-  return <Viewer bundle={bundle} />;
+  return <ViewerLoader bundle={bundle} />;
 }

@@ -1,19 +1,228 @@
 @import "tailwindcss";
 
-:root {
-  color-scheme: light dark;
-}
-
 @theme {
-  --color-parchment: #f3ead6;
-  --color-ink: #1c1710;
+  --color-paper: #efe4c9;
+  --color-paper-deep: #e2d3ae;
+  --color-ink: #2a2018;
+  --color-ink-soft: #6b5a45;
+  --color-ink-faint: #a08e72;
+  --color-carmine: #9c3524;
+  --font-display: var(--font-fell), "Iowan Old Style", Georgia, serif;
+  --font-body: var(--font-garamond), Georgia, serif;
 }
 
 html,
 body {
   min-height: 100%;
+  background: var(--color-paper);
+  color: var(--color-ink);
 }
 
 body {
+  font-family: var(--font-body);
   @apply antialiased;
+}
+
+/* Small capitals with open tracking — the engraver's caption hand. */
+.caps {
+  font-family: var(--font-body);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.14em;
+}
+
+/* Paper: fibre grain and a darkened edge laid over anything beneath it. */
+.paper-grain {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  mix-blend-mode: multiply;
+  background-image:
+    radial-gradient(ellipse at center, transparent 55%, rgb(94 68 34 / 0.34) 100%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='320'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.42  0 0 0 0 0.32  0 0 0 0 0.18  0 0 0 0.16 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+/* Night falls over the map as the sun sets where the army stands. */
+.night-veil {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  mix-blend-mode: multiply;
+  background: #1b2440;
+  transition: opacity 1.2s linear;
+}
+
+/* Period place names, drawn as DOM so they can be typeset properly. */
+.map-label {
+  pointer-events: none;
+  white-space: nowrap;
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  text-shadow:
+    0 0 3px var(--color-paper),
+    0 0 3px var(--color-paper),
+    0 0 6px var(--color-paper);
+  transition: opacity 0.4s ease;
+}
+/* MapLibre writes an inline opacity on every marker, hence !important. */
+.map-label[data-hidden="true"] {
+  opacity: 0 !important;
+}
+.map-label[data-side="below"] .name {
+  top: 0.45em;
+}
+.map-label .pin {
+  position: absolute;
+  left: -3px;
+  top: -3px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  border: 1.2px solid var(--color-ink);
+  background: var(--color-paper);
+}
+.map-label .name {
+  position: absolute;
+  left: 7px;
+  top: -0.72em;
+  line-height: 1;
+}
+.map-label[data-kind="town"][data-rank="1"] .name {
+  font-size: 19px;
+}
+.map-label[data-kind="town"][data-rank="2"] .name {
+  font-size: 15px;
+}
+.map-label[data-kind="town"][data-rank="3"] .name {
+  font-size: 13px;
+  color: var(--color-ink-soft);
+}
+.map-label[data-kind="battle"] .name {
+  font-size: 16px;
+  font-style: italic;
+  color: var(--color-carmine);
+}
+.map-label[data-kind="battle"] .pin {
+  border-color: var(--color-carmine);
+  transform: rotate(45deg);
+  border-radius: 0;
+}
+.map-label[data-kind="river"] .name,
+.map-label[data-kind="region"] .name {
+  left: 0;
+  transform: translateX(-50%) rotate(var(--rot, 0deg));
+}
+.map-label[data-kind="river"] .name {
+  font-size: 14px;
+  font-style: italic;
+  letter-spacing: 0.18em;
+  color: #56706a;
+}
+.map-label[data-kind="region"] .name {
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.55em;
+  color: var(--color-ink-faint);
+}
+
+/* The army's position. */
+.track-marker {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2.5px solid var(--color-paper);
+  background: var(--marker, var(--color-carmine));
+  box-shadow:
+    0 0 0 1.2px var(--marker, var(--color-carmine)),
+    0 2px 6px rgb(42 32 24 / 0.45);
+}
+.track-marker[data-primary="false"] {
+  width: 13px;
+  height: 13px;
+  border-width: 2px;
+}
+.track-marker[data-moving="true"]::after {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  border-radius: 50%;
+  border: 1.5px solid var(--marker, var(--color-carmine));
+  opacity: 0;
+  animation: marker-pulse 2.6s ease-out infinite;
+}
+@keyframes marker-pulse {
+  0% {
+    transform: scale(0.45);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(1.25);
+    opacity: 0;
+  }
+}
+
+/* A printed card: caption blocks, moment cards, the control strip. */
+.card {
+  background: rgb(243 234 212 / 0.92);
+  border: 1px solid rgb(42 32 24 / 0.28);
+  box-shadow:
+    0 0 0 3px rgb(243 234 212 / 0.92),
+    0 0 0 4px rgb(42 32 24 / 0.2),
+    0 10px 30px rgb(42 32 24 / 0.22);
+  backdrop-filter: blur(2px);
+}
+
+.fade-in {
+  animation: fade-in 0.9s ease both;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* The timeline scrubber. */
+.seek {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 18px;
+  background: transparent;
+  cursor: pointer;
+}
+.seek::-webkit-slider-runnable-track {
+  height: 2px;
+  background: transparent;
+}
+.seek::-moz-range-track {
+  height: 2px;
+  background: transparent;
+}
+.seek::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  margin-top: -5px;
+  border-radius: 50%;
+  border: 2px solid var(--color-paper);
+  background: var(--color-carmine);
+  box-shadow: 0 0 0 1px var(--color-carmine);
+}
+.seek::-moz-range-thumb {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  border: 2px solid var(--color-paper);
+  background: var(--color-carmine);
+  box-shadow: 0 0 0 1px var(--color-carmine);
+}
+
+.maplibregl-ctrl-attrib {
+  font-family: var(--font-body);
+  background: rgb(243 234 212 / 0.7) !important;
 }
