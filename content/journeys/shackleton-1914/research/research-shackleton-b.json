@@ -1,0 +1,4676 @@
+{
+ "itinerary": [
+  {
+   "track": "main",
+   "date": "1915-11-22",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -68.6417,
+   "lon": -52.4667,
+   "event": "position",
+   "note": "First noon fix after the ship sank the previous evening; camp about a mile and a half from the wreck site. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-24",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -68.4667,
+   "lon": -52.4917,
+   "event": "position",
+   "note": "South: 'drifting seven miles to the north on November 24'; the two fixes 23-24 Nov give 6.5 nautical miles. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-27",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -68.3,
+   "lon": -52.4,
+   "event": "position",
+   "note": "Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-30",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -68.0583,
+   "lon": -52.4167,
+   "event": "position",
+   "note": "Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-01",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -68.0167,
+   "lon": -52.3833,
+   "event": "position",
+   "note": "Macklin's diary that day: a degree of latitude made in under a month. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-04",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.9,
+   "lon": -52.4667,
+   "event": "position",
+   "note": "First fix north of 68 S (Wikipedia dates the crossing of 68 S to 5 Dec; the log has 67 54 on the 4th). Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-06",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.7833,
+   "lon": -52.3,
+   "event": "position",
+   "note": "Same position South's appendix gives for bottlenose whales seen in a pool beside Ocean Camp (67 47 S, 52 18 W). Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-08",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.7417,
+   "lon": -52.0833,
+   "event": "position",
+   "note": "Last fix before a four-day blizzard; practice launch of the boats on 7-8 Dec. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-12",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.4833,
+   "lon": -51.5667,
+   "event": "position",
+   "note": "After the blizzard: 15 miles north and well to the east. Easternmost point of the Ocean Camp drift. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-15",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.1333,
+   "lon": -52.05,
+   "event": "position",
+   "note": "Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-17",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.0,
+   "lon": -51.9333,
+   "event": "position",
+   "note": "Reached the 67th parallel; wind then went north-east. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-18",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.0583,
+   "lon": -52.0833,
+   "event": "position",
+   "note": "Blown back south across 67 S (South: driven back three and a quarter miles). Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-20",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.1917,
+   "lon": -52.3667,
+   "event": "position",
+   "note": "Southernmost point of the setback. Shackleton announces the march west this day. Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-22",
+   "localTime": "12:00",
+   "place": "Ocean Camp (drifting floe, Weddell Sea)",
+   "lat": -67.1417,
+   "lon": -52.4167,
+   "event": "position",
+   "note": "Last Ocean Camp fix; 'Christmas' feast. The bottle note left at the camp on 23 Dec gave 67 9 S, 52 25 W (Lansing). Noon position at Ocean Camp from Worsley's observations as digitised by the oldWeather project (sun sights; latitude good to about a mile, longitude dependent on chronometer rate).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-23",
+   "localTime": "04:30",
+   "place": "Ocean Camp (drifting floe)",
+   "lat": -67.1333,
+   "lon": -52.4333,
+   "event": "departs",
+   "note": "Roused 03:00, started 04:30 hauling James Caird and Dudley Docker west; Stancomb Wills left behind. Position is Worsley's drift-table entry for 23 Dec.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-25",
+   "localTime": "12:00",
+   "place": "On the march (pack ice west of Ocean Camp)",
+   "lat": -67.0667,
+   "lon": -52.55,
+   "event": "position",
+   "note": "Latitude 67 04 S from the digitised log (no longitude recorded); longitude interpolated between the 23 and 28 Dec fixes.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-28",
+   "localTime": "12:00",
+   "place": "On the march (halted by broken ice)",
+   "lat": -67.0167,
+   "lon": -52.7333,
+   "event": "position",
+   "note": "Worsley drift-table fix. Ice ahead judged impassable; party retreats half a mile that evening (20:30-22:00).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-29",
+   "localTime": null,
+   "place": "Patience Camp (first site; Lansing calls it 'Mark Time Camp')",
+   "lat": -67.0083,
+   "lon": -52.75,
+   "event": "arrives",
+   "note": "Shifted about 1.5 miles east to a strong old floe after a crack in the night; march abandoned after 7.5 miles made good in seven days. Position interpolated between the 28 and 30 Dec fixes.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-30",
+   "localTime": "12:00",
+   "place": "Patience Camp",
+   "lat": -67.0,
+   "lon": -52.7708,
+   "event": "position",
+   "note": "First fix at the new camp (Worsley drift table).",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-02",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -66.95,
+   "lon": -52.8,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-05",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -67.0417,
+   "lon": -52.5167,
+   "event": "position",
+   "note": "Pushed back south of 67 S by northerly airs. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-09",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -66.9667,
+   "lon": -52.4333,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-11",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -66.9667,
+   "lon": -52.4333,
+   "event": "position",
+   "note": "No net movement in two days: the calm spell South complains of. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-16",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -66.9161,
+   "lon": -52.7292,
+   "event": "position",
+   "note": "Last fix before the six-day south-westerly gale. Camp had been shifted about 150 yards on 14 Jan. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-22",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -65.5417,
+   "lon": -52.075,
+   "event": "position",
+   "note": "First full fix after the gale: 84 miles north in six days, across the Antarctic Circle (66 33 S). On 21 Jan a latitude-only sight gave 65 43 S (Shackleton's diary, quoted by Lansing). Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-26",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -65.525,
+   "lon": -51.65,
+   "event": "position",
+   "note": "Easternmost point of the Patience Camp drift, after north-easterly winds. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-30",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -65.2333,
+   "lon": -52.0,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-03",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -65.2333,
+   "lon": -52.4333,
+   "event": "position",
+   "note": "Day after the Stancomb Wills was fetched from Ocean Camp. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-07",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -65.0333,
+   "lon": -53.0667,
+   "event": "position",
+   "note": "After the southerly of 4 Feb. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-12",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.7917,
+   "lon": -53.2333,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-17",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.9,
+   "lon": -53.3103,
+   "event": "position",
+   "note": "Set back south; the day the Adelie penguins arrived in numbers. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-22",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.8567,
+   "lon": -53.2947,
+   "event": "position",
+   "note": "South: 'by February 22 we were still eighty miles from Paulet Island'. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-25",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.6472,
+   "lon": -53.2542,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-02-29",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.4458,
+   "lon": -53.3667,
+   "event": "position",
+   "note": "Leap Year Day celebration; last of the cocoa. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-04",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.1333,
+   "lon": -53.3792,
+   "event": "position",
+   "note": "South: on 5 March 'about forty miles south of' Paulet Island's parallel (63 35 S) but well east of it. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-10",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -64.0,
+   "lon": -53.3,
+   "event": "position",
+   "note": "Ocean swell first felt in the floe on 9 March (Lansing). Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-11",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -63.9056,
+   "lon": -53.1833,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-17",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -63.5833,
+   "lon": -53.5333,
+   "event": "position",
+   "note": "Paulet Island exactly abeam, 60 miles to the west and unreachable. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-20",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -63.5975,
+   "lon": -53.375,
+   "event": "position",
+   "note": "No northing in three days despite a five-day south-easterly; worst blizzard so far. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-23",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -63.2514,
+   "lon": -53.6792,
+   "event": "position",
+   "note": "Land sighted: Joinville Island / Mount Percy about 57 miles west. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-24",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -63.2194,
+   "lon": -53.5667,
+   "event": "position",
+   "note": "Worsley measures Mount Percy bearing S 89 W, about 60 miles, by theodolite to check his chronometers. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-27",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.9667,
+   "lon": -53.3333,
+   "event": "position",
+   "note": "Second Mount Percy bearing (S 73 38 W) after drifting N 23 E 16.5 miles; gives distance 57.5 miles. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-02",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.55,
+   "lon": -53.7917,
+   "event": "position",
+   "note": "First sight in six days: 28 miles north. Lansing dates this fix 3 April. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-03",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.4083,
+   "lon": -53.9167,
+   "event": "position",
+   "note": "Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-05",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.2375,
+   "lon": -54.6572,
+   "event": "position",
+   "note": "Sudden set to the west; Elephant and Clarence islands briefly thought out of reach. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-07",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.1333,
+   "lon": -54.5333,
+   "event": "position",
+   "note": "Clarence Island sighted at daylight bearing nearly north (Clarence Peak N 20 E 59 miles by Worsley's working); Elephant Island later in the day. Raw log longitude 54 22 W. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-08",
+   "localTime": "12:00",
+   "place": "Patience Camp (drifting floe, Weddell Sea)",
+   "lat": -62.1,
+   "lon": -53.9786,
+   "event": "position",
+   "note": "Sixteen miles east in a day. Floe cracks at 18:30 leaving a triangle about 90 x 100 x 120 yards. Raw log longitude 53 48 W. Worsley's noon position at Patience Camp, from his own drift table 'Drift in pack ice in Weddell Sea' as digitised by oldWeather. Longitudes after 3 Feb include the westward correction (growing to 10') that Worsley applied afterwards from bearings of Joinville Land; his raw log longitudes are up to 10' further east.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-09",
+   "localTime": "13:30",
+   "place": "Patience Camp (floe breaks up; boats launched)",
+   "lat": -61.9333,
+   "lon": -54.1,
+   "event": "departs",
+   "note": "Noon position fixed from a bearing of Clarence Peak (N 22 W magnetic, about 44 miles). Floe split at 11:00; boats launched 13:00, under way 13:30 (Worsley's log). Raw log longitude 53 56 W; drift table 54 06 W.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-09",
+   "localTime": "20:00",
+   "place": "First night: camp on a floe",
+   "lat": -61.85,
+   "lon": -54.2833,
+   "event": "arrives",
+   "note": "Worsley's log: 'Under way to 6.15 P.M. Course made good approx. N 45 W 7 miles'. Position is that run applied to the noon fix. Tents up by 20:00; floe cracked under the camp at 23:00.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-10",
+   "localTime": "15:30",
+   "place": "Second night: camp on a floeberg",
+   "lat": -61.7667,
+   "lon": -54.95,
+   "event": "arrives",
+   "note": "Launched 08:00, reached open water 11:00, driven back into the pack 15:00, camped 15:30. Position is Worsley's dead reckoning for noon (N 71 W 30 miles incl. assumed current); the sight of 12 April showed this DR was badly wrong and the boats were really being set south-east, so treat as nominal.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-11",
+   "localTime": null,
+   "place": "Third night: boats lying to in the pack (no camp)",
+   "lat": -62.0833,
+   "lon": -53.6667,
+   "event": "position",
+   "note": "Left the 'reeling berg' early afternoon; moored to a floe at dusk, then cast off and kept the boats in the lee of the ice all night in rain and snow. No reliable position: Worsley's DR (61 46 S, 56 00 W) was some 60 miles out. Position given is interpolated backwards from the 12 April sun sight.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-12",
+   "localTime": "12:00",
+   "place": "In the boats, edge of the pack (Bransfield Strait approaches)",
+   "lat": -62.25,
+   "lon": -53.2833,
+   "event": "position",
+   "note": "Worsley's sun sight from the Dudley Docker: 62 15 S, 53 07 W in the raw log (53 17 W in the corrected drift table) - 30 miles EAST of where they left the floe, and 19 miles further south. Course changed for Hope Bay. Night spent moored then adrift in open freezing sea, -4 F.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-13",
+   "localTime": "20:00",
+   "place": "Hove to in open sea on a sea-anchor of oars",
+   "lat": -61.7167,
+   "lon": -54.6,
+   "event": "position",
+   "note": "Wind fair at dawn so Shackleton ran for Elephant Island; out of the pack at noon; hove to at dusk. Worsley's 8 PM dead reckoning (S 30 W 5, N 33 W 10, N 45 W 40 miles from the previous position).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-14",
+   "localTime": "20:00",
+   "place": "Off the south-east coast of Elephant Island (night at sea)",
+   "lat": -61.2833,
+   "lon": -54.75,
+   "event": "position",
+   "note": "All day sailing and pulling toward the island; a head wind and tide-rip from about 16:00; boats separated about midnight. Position estimated a few miles off the SE coast; no figures in the sources.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-15",
+   "localTime": "09:30",
+   "place": "Cape Valentine, Elephant Island",
+   "lat": -61.1,
+   "lon": -54.65,
+   "event": "arrives",
+   "note": "Under the cliffs at 07:00, beach sighted about 09:00, Dudley Docker rejoined 09:30. First landing on Elephant Island; first land underfoot since 5 Dec 1914. Camp in order by 15:00. Coordinates are the modern gazetteer position of the cape.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://en.wikipedia.org/wiki/Cape_Valentine"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-17",
+   "localTime": "11:00",
+   "place": "Cape Valentine, Elephant Island",
+   "lat": -61.1,
+   "lon": -54.65,
+   "event": "departs",
+   "note": "Boats away by 11:00 for the spit Wild found seven miles west on 16 April (South prints '(April 15)' for that reconnaissance day - an evident slip).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-17",
+   "localTime": "17:00",
+   "place": "Cape Wild (Point Wild), Elephant Island",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "arrives",
+   "note": "James Caird and Stancomb Wills in about 17:00, Dudley Docker half an hour later, after six hours' pulling into a gale. Worsley used 61 04 S, 54 50 W (Cape Belsham) for the camp; modern position 61 06 S, 54 52 W.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://en.wikipedia.org/wiki/Point_Wild"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-24",
+   "localTime": "12:30",
+   "place": "Cape Wild, Elephant Island",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "at",
+   "note": "22 men under Frank Wild watch the James Caird leave. They stay here 128 more days.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-06-22",
+   "localTime": null,
+   "place": "Cape Wild, Elephant Island (hut of two upturned boats)",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "at",
+   "note": "Midwinter's Day in the hut: full-strength hoosh, Wild's biscuit-and-nut-food pudding, concert with Hussey's banjo.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "main",
+   "date": "1916-08-30",
+   "localTime": "13:00",
+   "place": "Cape Wild, Elephant Island",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "departs",
+   "note": "All 22 taken off by the Yelcho's boat in three trips within about an hour of the ship being seen. Clock time is uncertain by about 90 minutes: South says camp sighted 11:40; Worsley's log says 1.10 PM; the men were sitting down to lunch (hoosh ready about 12:45).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "main",
+   "date": "1916-09-03",
+   "localTime": "10:00",
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "arrives",
+   "note": "Yelcho reached Rio Seco at 08:00, where Shackleton telephoned ahead, and Punta Arenas two hours later.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-24",
+   "localTime": "12:30",
+   "place": "Wild Camp (Cape Wild), Elephant Island",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "departs",
+   "note": "Worsley's log: 'Took departure from Wild Camp in James Caird at 12/30 PM. Steered NNE 8m then E 1m to a break in the stream ice'. Found the channel 16:00, clear of the pack 17:30. Six men: Shackleton, Worsley, Crean, McNish, McCarthy, Vincent.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-25",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -60.0,
+   "lon": -54.8333,
+   "event": "position",
+   "note": "Dead reckoning: north 64 miles from Wild Camp. WSW 6, overcast, high NW swell and cross seas. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-26",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -59.7667,
+   "lon": -50.8,
+   "event": "position",
+   "note": "Position as entered and carried forward in the log (lat 59 46, long 50 48). The same page also shows DR 58 42 S, 52 17 W (N 45 E 110 miles); Lansing prints 59 46 S, 52 18 W and '128 miles from Elephant Island'. Bergman et al. show the longitude was reworked later for chronometer rate. WSW gale, heavy seas. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-27",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -59.7667,
+   "lon": -50.8,
+   "event": "position",
+   "note": "No new position: northerly gale, overcast, misty. Log carries the previous day's figures. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-28",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -59.8667,
+   "lon": -50.2667,
+   "event": "position",
+   "note": "Log entry '59 52 S 50 0 W allowing ... 1m 4s more slow for rating from Wild Camp = 50 16'. Light NW to fresh westerly, mist, high NW swell. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-29",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -58.6333,
+   "lon": -50.0,
+   "event": "position",
+   "note": "Sun sight (11:21 AM time sight plus noon latitude): 58 38 S, 50 00 W. DR for the 24 hours was N 35 E 85 miles (58 42 S, 48 40 W). Leith Harbour then 548 miles by Worsley's reckoning. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-30",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -57.5667,
+   "lon": -48.6,
+   "event": "position",
+   "note": "Dead reckoning N 35 E 78 miles. 'Hove to SW/S gale Heavy sea o'cast'. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-01",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -57.1833,
+   "lon": -48.0167,
+   "event": "position",
+   "note": "Dead reckoning N 40 E 30 miles while lying to a sea anchor: 'boat ... heavily iced up'. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-02",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -56.7,
+   "lon": -46.9667,
+   "event": "position",
+   "note": "Dead reckoning N 50 E 45 miles. Sea anchor lost about 11:00. Strong SW by S breeze. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-03",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -56.2167,
+   "lon": -45.6333,
+   "event": "position",
+   "note": "Sun sight, the first for days: 56 13 S, 45 38 W (DR had 55 53 S, 44 53 W). 403 miles from Elephant Island (Lansing). 'Able to reduce some parts of our clothing from wet to damp'. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-04",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -55.5167,
+   "lon": -44.7167,
+   "event": "position",
+   "note": "Sun sight: 55 31 S, 44 43 W, a run of N 36 E 52 miles. Bird Island N 69 E 250 miles. 'Fine + clear mod sea'. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-05",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -54.5,
+   "lon": -42.6,
+   "event": "position",
+   "note": "Dead reckoning N 50 E 95 miles - the best day's run. SE fresh breeze. The great wave struck about midnight. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-06",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -54.4333,
+   "lon": -40.7333,
+   "event": "position",
+   "note": "Dead reckoning. 'Mod N/W gale ... 1 PM Hove to, sea too heavy to carry on.' Wallis Island N 76 E 91 miles. Water ration cut to half a pint. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-07",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -54.6333,
+   "lon": -39.6,
+   "event": "position",
+   "note": "Sun sights in 'most unfavourable conditions ... boat jumping like a flea': 54 38 S, 39 36 W; Bird Island N 56 E 68 miles. Worsley noted the latitude proved right within 2 miles but the chronometer was slower than allowed, putting them about 20 miles further astern. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-08",
+   "localTime": "12:00",
+   "place": "James Caird at sea (Scotia Sea / Southern Ocean)",
+   "lat": -54.3167,
+   "lon": -37.0333,
+   "event": "position",
+   "note": "Dead reckoning N 78 E 90 miles - which would put the boat on South Georgia itself, the 20-mile longitude error Worsley later noted. Land sighted 12:30 'about 9 m ahead'; stood off at 15:00 from 2 miles offshore. Worsley's noon position from the James Caird log (Canterbury Museum 2001.177.20), transcribed by Bergman, Huxtable, Morris & Stuart.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-08",
+   "localTime": "12:30",
+   "place": "Off the west coast of South Georgia (near Cape Demidov)",
+   "lat": -54.15,
+   "lon": -37.85,
+   "event": "position",
+   "note": "McCarthy sights black cliffs through a rift in the cloud, fourteen days out. Reefs and surf make landing impossible; they stand off for the night. Position estimated about 9 miles off the coast west of King Haakon Bay.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-09",
+   "localTime": "18:00",
+   "place": "Off Annenkov Island, south coast of South Georgia",
+   "lat": -54.42,
+   "lon": -37.25,
+   "event": "position",
+   "note": "Hurricane from 05:00; boat on a lee shore all day, clawing off under reefed sails. 'With great difficulty cleared main Id + Annenekov Id by dark' (log); wind shifted just after 18:00. Position estimated between the mainland and Annenkov Island (54 29 S, 37 05 W).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-10",
+   "localTime": "17:00",
+   "place": "Cave Cove, King Haakon Bay, South Georgia",
+   "lat": -54.18,
+   "lon": -37.41,
+   "event": "arrives",
+   "note": "Log: '5 PM Landed at Cove S. side ent. to K. Haakon Bay'. Five tacks to get through the reef; landed at dusk beside a freshwater stream. Worsley's noon latitude here on 13 May was 54 10 47 S. Coordinates approximate (cove lies just inside Cape Rosa).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/King_Haakon_Bay"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-15",
+   "localTime": "12:30",
+   "place": "Peggotty Camp, head of King Haakon Bay",
+   "lat": -54.1472,
+   "lon": -37.2844,
+   "event": "arrives",
+   "note": "Left Cave Cove after an 07:30 hoosh, sailed about 6-8 miles up the bay, beached 12:30 and turned the boat over as a hut. Coordinates are those of Peggotty Bluff, named by the 1955-56 South Georgia Survey close to the deduced campsite.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/King_Haakon_Bay"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "03:00",
+   "place": "Peggotty Camp, King Haakon Bay",
+   "lat": -54.1472,
+   "lon": -37.2844,
+   "event": "departs",
+   "note": "Turned out 02:00, hoosh ready an hour later, started under a full moon (Lansing, from Worsley: 03:10). Shackleton, Worsley, Crean; McNish walked 200 yards with them.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "05:00",
+   "place": "Snow slope to the pass (Shackleton Gap)",
+   "lat": -54.1333,
+   "lon": -37.2,
+   "event": "position",
+   "note": "'After two hours' steady climbing we were 2500 ft above sea-level' (South). The pass now called Shackleton Gap is only about 300 m; South's heights on this march are estimates and run high. Fog came down; they roped up.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Shackleton_Gap"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "07:00",
+   "place": "Above Possession Bay (turn-back point)",
+   "lat": -54.115,
+   "lon": -37.13,
+   "event": "position",
+   "note": "At daylight the 'frozen lake' below proved to be the sea at the head of Possession Bay on the north coast; they turned round about 07:00. Position estimated on the slope above the bay.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://wikishire.co.uk/wiki/Shackleton_Commemorative_Route"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "09:00",
+   "place": "Murray Snowfield (ridge regained)",
+   "lat": -54.15,
+   "lon": -37.15,
+   "event": "position",
+   "note": "'By nine o'clock we had more than recovered our lost ground', then struck south-east. First hot meal in a snow hole soon after.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Murray_Snowfield"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "11:00",
+   "place": "The Trident ridge - first gap",
+   "lat": -54.165,
+   "lon": -37.095,
+   "event": "position",
+   "note": "Cut steps to a razor-back between two peaks; sheer drop of about 1500 ft beyond. Retreated: three hours up, one hour down.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/The_Trident"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "12:30",
+   "place": "Below the Trident ridge - bergschrund",
+   "lat": -54.16,
+   "lon": -37.09,
+   "event": "position",
+   "note": "Second meal and rest at the far end of a wind-scoop 'a mile and a half long and 1000 ft deep'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "15:00",
+   "place": "The Trident ridge - second gap",
+   "lat": -54.158,
+   "lon": -37.085,
+   "event": "position",
+   "note": "Second col reached mid-afternoon (Lansing: about three o'clock); same precipice. Fog rolling up from both sides.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "17:00",
+   "place": "The Trident ridge - the gap they descended",
+   "lat": -54.153,
+   "lon": -37.08,
+   "event": "position",
+   "note": "Third attempt (Lansing and Worsley count a further failed col, making this the fourth). At about 4500 ft by Shackleton's estimate, in failing light, they cut steps down, then unroped and slid: 'at least 900 ft in two or three minutes'. Clock time approximate (dusk).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "18:00",
+   "place": "Head of Crean Glacier",
+   "lat": -54.14,
+   "lon": -37.03,
+   "event": "position",
+   "note": "Meal at 18:00 at the foot of the slide, cooker sheltered by their bodies; then on up the long snow slope in darkness.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Crean_Glacier"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "localTime": "20:00",
+   "place": "Crean Glacier",
+   "lat": -54.1333,
+   "lon": -37.0167,
+   "event": "position",
+   "note": "Full moon rose ahead about 20:00 and lit the crevasses.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "00:00",
+   "place": "Snowfield among nunataks (Nineteen-sixteen Snowfield)",
+   "lat": -54.125,
+   "lon": -36.93,
+   "event": "position",
+   "note": "'By midnight we were again at an elevation of about 4000 ft', approaching a snowfield pierced by nunataks. Position estimated.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://wikishire.co.uk/wiki/Shackleton_Commemorative_Route"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "01:30",
+   "place": "Slope above Fortuna Glacier / west arm of Fortuna Bay",
+   "lat": -54.1,
+   "lon": -36.85,
+   "event": "position",
+   "note": "Meal after 01:00, then downhill believing Stromness Bay lay below; crevasses showed it was Fortuna Glacier and they climbed back south-east.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Fortuna_Glacier"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "05:00",
+   "place": "Under Breakwind Ridge",
+   "lat": -54.14,
+   "lon": -36.855,
+   "event": "position",
+   "note": "Sat down in the lee of a rock at 05:00; Worsley and Crean slept; Shackleton woke them after five minutes saying it had been half an hour.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "06:00",
+   "place": "Breakwind Gap",
+   "lat": -54.15,
+   "lon": -36.8333,
+   "event": "position",
+   "note": "Through 'a gap like a broken tooth' at 06:00; Husvik's rock formations in sight. Shook hands.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Breakwind_Ridge"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "07:00",
+   "place": "Breakfast camp above Fortuna Bay",
+   "lat": -54.148,
+   "lon": -36.815,
+   "event": "position",
+   "note": "Shackleton thought he heard a whistle at 06:30; at 07:00 by the chronometer the Stromness steam whistle sounded. Primus abandoned here, empty.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "10:00",
+   "place": "Fortuna Bay beach (east arm)",
+   "lat": -54.1486,
+   "lon": -36.7858,
+   "event": "position",
+   "note": "Two hours cutting steps down 500 ft of blue ice, a slide, then tussock and the beach. Clock time estimated; coordinates are waypoint 1 of the South Georgia Government's Shackleton Walk ('Leaving the beach').",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://gov.gs/wp-content/uploads/2022/10/Shackleton-Walk-revised-070115.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "12:30",
+   "place": "Crean Lake, plateau between Fortuna Bay and Stromness",
+   "lat": -54.154,
+   "lon": -36.7655,
+   "event": "position",
+   "note": "'Noon found us well up the slope'; half an hour later Shackleton broke through the snow crust of a small lake. Coordinates: Crean Lake viewpoint, Shackleton Walk waypoint 4.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://gov.gs/wp-content/uploads/2022/10/Shackleton-Walk-revised-070115.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "13:30",
+   "place": "Ridge above Stromness Bay",
+   "lat": -54.1526,
+   "lon": -36.746,
+   "event": "position",
+   "note": "At 13:30 they rounded the last ridge and saw a whale-catcher entering the bay 2500 ft below (the pass is about 300 m) and the station sheds. Coordinates: Shackleton Walk waypoint 8, 'Stromness Bay and whaling station viewpoint'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://gov.gs/wp-content/uploads/2022/10/Shackleton-Walk-revised-070115.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "15:00",
+   "place": "Waterfall (Shackleton Falls), Shackleton Valley",
+   "lat": -54.1518,
+   "lon": -36.741,
+   "event": "position",
+   "note": "Followed a stream down to a 25-30 ft fall and went down it on the rope, which was left behind. Clock time estimated; coordinates approximate, from the Shackleton Walk 'grassy plateau' waypoint above the falls.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://gov.gs/wp-content/uploads/2022/10/Shackleton-Walk-revised-070115.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-20",
+   "localTime": "16:00",
+   "place": "Stromness whaling station, South Georgia",
+   "lat": -54.16,
+   "lon": -36.7116,
+   "event": "arrives",
+   "note": "About 36 hours after leaving Peggotty Camp. South gives no arrival time (Shackleton's '36 hours' implies about 15:00); Worsley's accounts and Lansing say about four o'clock.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-21",
+   "localTime": null,
+   "place": "Husvik, Stromness Bay",
+   "lat": -54.18,
+   "lon": -36.7116,
+   "event": "at",
+   "note": "Sunday: Shackleton and Crean taken round by launch; magistrate Bernsten arranges the loan of the laid-up whaler Southern Sky; Captain Thom of the Orwell volunteers to command her.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-23",
+   "localTime": "09:00",
+   "place": "Husvik / Stromness Bay, South Georgia",
+   "lat": -54.18,
+   "lon": -36.7116,
+   "event": "departs",
+   "note": "Southern Sky sails at 09:00 on Tuesday 23 May with Shackleton, Worsley and Crean; McNish, McCarthy and Vincent stay behind to be sent home.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-28",
+   "localTime": "15:00",
+   "place": "Southern Sky at the pack edge, about 70 miles from Elephant Island",
+   "lat": -59.95,
+   "lon": -54.9,
+   "event": "position",
+   "note": "First attempt. Met new ice the third night out, skirted west; at 15:00 on 28 May a solid line of pack 'about 70 miles from Elephant Island'. Tried again next day due north of the island, then gave up with coal for four more days. No coordinates printed; position plotted 70 nautical miles north of the island.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-31",
+   "localTime": "14:00",
+   "place": "Port Stanley, Falkland Islands",
+   "lat": -51.695,
+   "lon": -57.8506,
+   "event": "arrives",
+   "note": "Arrived 'in the early afternoon'; Shackleton cabled London and the King that evening - the first news of the expedition since 1914.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-06-10",
+   "localTime": null,
+   "place": "Port Stanley, Falkland Islands",
+   "lat": -51.695,
+   "lon": -57.8506,
+   "event": "departs",
+   "note": "Second attempt, in the Uruguayan fisheries trawler Instituto de Pesca No. 1 (Lt Ryan, a Naval Reserve officer, navigating). South says she was in Stanley on 10 June and 'we started south at once'; some secondary accounts (not verified here) date the sailing 16-17 June.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-06-13",
+   "localTime": null,
+   "place": "Instituto de Pesca No. 1 off Elephant Island (within 20 miles)",
+   "lat": -60.78,
+   "lon": -54.9,
+   "event": "position",
+   "note": "'In the bright, clear dawn of the third day we sighted the peaks of Elephant Island' - stopped by a crescent of pack 'within twenty miles'; a gun was fired but not heard ashore; three days' coal left. Date follows South's sailing date; position plotted 20 nautical miles north of Cape Wild.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-06-16",
+   "localTime": null,
+   "place": "Port Stanley, Falkland Islands",
+   "lat": -51.695,
+   "lon": -57.8506,
+   "event": "arrives",
+   "note": "Back with bunkers nearly empty and engines knocking; HMS Glasgow in port. Date from Lansing ('limped home six days later'); South gives none.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-04",
+   "localTime": null,
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "arrives",
+   "note": "Shackleton, Worsley and Crean cross from Port Stanley in the mail steamer Orita. The British Association of Magallanes raises 1500 pounds in three days and charters the schooner Emma. Arrival date not given in South; '4 July' is an unverified placeholder for early July.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-12",
+   "localTime": null,
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "departs",
+   "note": "Third attempt: schooner Emma (70 ft, auxiliary oil engine, ten men of eight nationalities) leaves in tow of the Chilean Navy's Yelcho.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-16",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -54.15,
+   "lon": -66.5667,
+   "event": "position",
+   "note": "Becalmed off the east coast of Tierra del Fuego. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-18",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -56.5167,
+   "lon": -61.15,
+   "event": "position",
+   "note": "After a call at St John Harbour (Staten Island) on the 17th. NE strong gale that night. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-20",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -59.6,
+   "lon": -58.0333,
+   "event": "position",
+   "note": "Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-21",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -59.6333,
+   "lon": -56.5,
+   "event": "position",
+   "note": "Met the ice at dawn 'within a hundred miles of the island'; bobstay broken and engine inlet choked within ten minutes of entering the pack. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-22",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -59.2333,
+   "lon": -55.1333,
+   "event": "position",
+   "note": "Closest logged noon position: South says 'noon found us 108 miles from the island'. Lay off the ice in a gale that night; schooner iced up. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-24",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -57.3833,
+   "lon": -57.8333,
+   "event": "position",
+   "note": "Giving up: engine dead, southerly winds ahead; heading north. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-07-28",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -57.8333,
+   "lon": -59.5667,
+   "event": "position",
+   "note": "Beating about in WNW gales. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-01",
+   "localTime": "12:00",
+   "place": "Schooner Emma at sea (Drake Passage / Scotia Sea)",
+   "lat": -53.75,
+   "lon": -57.9667,
+   "event": "position",
+   "note": "Closing the Falklands. Noon position from the Emma's log kept by Worsley, as digitised by oldWeather.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-03",
+   "localTime": "23:00",
+   "place": "Port Stanley, Falkland Islands",
+   "lat": -51.695,
+   "lon": -57.8506,
+   "event": "arrives",
+   "note": "Digitised Emma log: 'Anchored at Port Stanley' 23:00 on 3 August. South prints 'We reached Port Stanley in the schooner on August 8' - see openQuestions.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-10",
+   "localTime": "10:00",
+   "place": "Port Stanley, Falkland Islands",
+   "lat": -51.695,
+   "lon": -57.8506,
+   "event": "departs",
+   "note": "Log: 'Yelcho got underway and towed us out of the harbour' 10:00, cleared the narrows 10:30. Hard SW gale by afternoon.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-14",
+   "localTime": "03:30",
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "arrives",
+   "note": "Log: 'Anchored off Punta Arenas' 03:30 on 14 August, after a north-west gale crossing in tow.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-25",
+   "localTime": "00:30",
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "departs",
+   "note": "Fourth attempt: Yelcho, Piloto 2o Luis Pardo Villalon commanding, with Shackleton, Worsley and Crean. Log: 'Proceeded down Famine Reach' 00:30; entering Magdalena Sound 07:00.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-25",
+   "localTime": "17:30",
+   "place": "Ushuaia, Beagle Channel",
+   "lat": -54.8072,
+   "lon": -68.3081,
+   "event": "arrives",
+   "note": "Log (as digitised): 'Proceeded down Whaleboat Sound through ... Beagle Channel to Usbiwayo [Ushuaia], anchored'. The digitised hours for this entry are out of order (18:30 / 17:30) and the noon position of 26 Aug (54 53 S, 70 24 W) is still in the western channels, so the anchoring may belong to the 26th.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-27",
+   "localTime": "11:45",
+   "place": "Banner Cove, Picton Island",
+   "lat": -55.02,
+   "lon": -66.93,
+   "event": "arrives",
+   "note": "Left for Picton 06:30, anchored in Banner Cove 11:45 to take on coal before the open sea. Coordinates approximate.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-28",
+   "localTime": "12:00",
+   "place": "Yelcho at sea, south-east of Cape Horn",
+   "lat": -55.95,
+   "lon": -65.6,
+   "event": "position",
+   "note": "Noon position from the digitised log.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-29",
+   "localTime": "12:00",
+   "place": "Yelcho at sea, Drake Passage",
+   "lat": -59.3,
+   "lon": -60.6333,
+   "event": "position",
+   "note": "Noon position; about 200 miles made good since the previous noon.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-29",
+   "localTime": "20:00",
+   "place": "Yelcho at sea, Drake Passage",
+   "lat": -59.9,
+   "lon": -58.7,
+   "event": "position",
+   "note": "8 PM position from the digitised log.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-30",
+   "localTime": "08:00",
+   "place": "Yelcho approaching Elephant Island in fog",
+   "lat": -60.7333,
+   "lon": -55.9,
+   "event": "position",
+   "note": "08:00 position from the digitised log, about 37 miles WNW of Cape Wild. Full speed from 05:25; stranded bergs passed about 10:00.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-30",
+   "localTime": "12:30",
+   "place": "Cape Wild, Elephant Island",
+   "lat": -61.1,
+   "lon": -54.8667,
+   "event": "arrives",
+   "note": "Yelcho stops off the spit; Shackleton and Crean go in with a boat of Chilean sailors. 'Are you all well?' - 'We are all well, boss.' 128 days after the James Caird left.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-31",
+   "localTime": "12:00",
+   "place": "Yelcho at sea, northbound",
+   "lat": -59.6,
+   "lon": -59.2167,
+   "event": "position",
+   "note": "Noon position (the digitised row carries the stray remark 'Wilds Camp').",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-09-01",
+   "localTime": "12:00",
+   "place": "Yelcho at sea, off Tierra del Fuego",
+   "lat": -55.6333,
+   "lon": -64.4167,
+   "event": "position",
+   "note": "Noon position; returning by the Atlantic side to the eastern entrance of the Strait of Magellan.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "caird",
+   "date": "1916-09-03",
+   "localTime": "08:00",
+   "place": "Rio Seco, Strait of Magellan",
+   "lat": -53.06,
+   "lon": -70.85,
+   "event": "arrives",
+   "note": "Shackleton lands to telephone the Governor that all are safe. Coordinates approximate (about 13 km north of Punta Arenas).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "caird",
+   "date": "1916-09-03",
+   "localTime": "10:00",
+   "place": "Punta Arenas, Chile",
+   "lat": -53.1625,
+   "lon": -70.908,
+   "event": "arrives",
+   "note": "Fire alarm rung to bring the town out; all 28 of the Weddell Sea party alive.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "track": "rescue",
+   "date": "1916-05-21",
+   "localTime": null,
+   "place": "Peggotty Camp, King Haakon Bay (whaler with Worsley aboard)",
+   "lat": -54.1472,
+   "lon": -37.2844,
+   "event": "arrives",
+   "note": "A whale-catcher sent by Sorlle left Stromness the night of 20 May with Worsley, reached King Haakon Bay next day, took off McNish, McCarthy and Vincent and the James Caird, and was back in Stromness Bay at dusk on Monday 22 May.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "track": "rescue",
+   "date": "1916-07-15",
+   "localTime": "15:00",
+   "place": "Yelcho turns back: San Sebastian Bay, Tierra del Fuego",
+   "lat": -53.2,
+   "lon": -68.3333,
+   "event": "position",
+   "note": "Tow-rope parted at 10:00 and 13:00 in a gale; at 15:00 Yelcho hailed that her bilges were full and coal short, was released, and steamed into San Sebastian Bay. Emma carried on alone. (South prints the Emma log extract under 'next day' after the 14th.)",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1915-11-22",
+   "localTime": null,
+   "title": "First morning without a ship",
+   "body": "The Endurance had gone under the evening before, a mile and a half from Ocean Camp. Shackleton raised the rations slightly to steady the camp, and argued with the storekeeper for two sausages each instead of one and a half. The noon temperature was 19 F.",
+   "tags": [
+    "ocean-camp",
+    "morale",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-11-24",
+   "localTime": null,
+   "title": "Seven miles north in a day",
+   "body": "A south-westerly wind carried the floe seven miles north, and another seven in the next two days. With no ship, the drift was now the only way the men could travel, and Hussey was asked for a wind forecast every four hours.",
+   "tags": [
+    "ocean-camp",
+    "drift"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-07",
+   "localTime": null,
+   "title": "Practice launch of the boats",
+   "body": "With north-westerly winds expected to open the ice, Shackleton had a slipway cut and the boats launched and stowed as a drill. One sailor said they took the water 'like a bird'. A blizzard then buried the camp for four days.",
+   "tags": [
+    "ocean-camp",
+    "boats"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-18",
+   "localTime": null,
+   "title": "Blown back across 67 South",
+   "body": "The floe reached 67 00 S on the 17th; then a north-easterly drove it back more than three miles. Macklin and others wrote of the camp growing restless, and Shackleton began planning a march.",
+   "tags": [
+    "ocean-camp",
+    "drift",
+    "morale"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt",
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-22",
+   "localTime": null,
+   "title": "Christmas kept three days early",
+   "body": "Because the march was to start next morning, 22 December was kept as Christmas and the luxuries that could not be carried were eaten: anchovies in oil, baked beans and jugged hare. It was the last full meal for eight months.",
+   "tags": [
+    "ocean-camp",
+    "food",
+    "christmas"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-23",
+   "localTime": "04:30",
+   "title": "The second march begins",
+   "body": "All hands were called at 3 am and started at 4.30 in sea-fog, hauling the James Caird and Dudley Docker in sixty-yard relays. They marched at night for the harder surface and slept by day. The third boat, the Stancomb Wills, was left at Ocean Camp.",
+   "tags": [
+    "march",
+    "boats"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-25",
+   "localTime": "02:00",
+   "title": "Christmas Day in harness",
+   "body": "Breakfast at 1 am and on the march by 2. Lunch was stale bannock and a mug of thin cocoa; supper was seal steak. The men sank to their knees at every step.",
+   "tags": [
+    "march",
+    "christmas",
+    "food"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "It’s a hard, rough, jolly life, this marching and camping; no washing of self or dishes, no undressing, no changing of clothes.",
+    "by": "Expedition diary quoted in Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1915-12-27",
+   "localTime": null,
+   "title": "McNish refuses to go on",
+   "body": "Among the pressure ridges the carpenter, Harry McNish, told Worsley he would haul no further, arguing that ship's articles lapsed when the Endurance sank. Worsley fetched Shackleton, who made clear the men were still under orders; McNish went back to his place at the boat. South does not mention it. The same morning Blackie, one of Wild's dogs, went lame and was shot.",
+   "tags": [
+    "march",
+    "mcnish",
+    "discipline",
+    "dogs"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-12-29",
+   "localTime": null,
+   "title": "The march abandoned",
+   "body": "After seven days the party had made seven and a half miles in a straight line and the ice ahead was too broken to cross. They pulled back to an old floe and settled to wait, with food for forty-two days in hand. South calls the new home Patience Camp from this date.",
+   "tags": [
+    "march",
+    "patience-camp"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "We had marched seven and a half miles in a direct line and at this rate it would take us over three hundred days to reach the land away to the west.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-01-01",
+   "localTime": null,
+   "title": "A sea leopard hunts Orde-Lees",
+   "body": "Returning on skis from a seal hunt, Thomas Orde-Lees was chased across the floe by a sea leopard, which then dived and came up ahead of him, tracking his shadow through the ice. Wild ran out with a rifle and shot it less than thirty feet away; it measured twelve feet. Lansing places this at New Year; South tells it undated.",
+   "tags": [
+    "patience-camp",
+    "wildlife",
+    "orde-lees",
+    "wild"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-01-01",
+   "localTime": null,
+   "title": "New Year, wet underfoot",
+   "body": "The thermometer rose to 38 F. For a fortnight the camp sat in warm calm with no drift at all, the floe softening so that men went through to the waist.",
+   "tags": [
+    "patience-camp",
+    "weather"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-01-14",
+   "localTime": null,
+   "title": "Four dog teams shot",
+   "body": "Seals were scarce and the dogs ate a seal a day. Shackleton ordered Wild to shoot the teams of Wild, Crean, McIlroy and Marston; each dog was led behind a hummock in turn. Hurley's team followed on the 16th, leaving Macklin's team and Greenstreet's year-old pups. The camp was also shifted 150 yards to cleaner ice that day.",
+   "tags": [
+    "patience-camp",
+    "dogs",
+    "food"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "It was the worst job that we had had throughout the Expedition, and we felt their loss keenly.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-01-15",
+   "localTime": null,
+   "title": "Last sledge run to Ocean Camp",
+   "body": "Hurley and Macklin took their reprieved teams back to the old camp overnight and returned with about 1,000 lb of stores, falling through thin ice to the waist on the way. They said Ocean Camp 'looked like a village that had been razed to the ground'.",
+   "tags": [
+    "patience-camp",
+    "ocean-camp",
+    "food",
+    "dogs"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-01-21",
+   "localTime": null,
+   "title": "Across the Antarctic Circle",
+   "body": "A six-day south-westerly gale kept everyone in the tents. When the sun came out the sights gave 65 43 S: the floe had crossed the Circle and gone 84 miles north in six days, the longest drift they ever made. Bannock was issued to celebrate.",
+   "tags": [
+    "patience-camp",
+    "drift",
+    "milestone"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-01-25",
+   "localTime": null,
+   "title": "Eighty degrees in the tents",
+   "body": "A north-easterly brought fog, then bright sun: 36 F in the shade and nearly 80 F inside the tents. The surface turned to pools.",
+   "tags": [
+    "patience-camp",
+    "weather"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-02-02",
+   "localTime": "01:00",
+   "title": "The third boat fetched",
+   "body": "Eighteen men under Wild left at 1 am with an empty boat-sledge, reached Ocean Camp at 3.30, and were back at 12.30 pm with the Stancomb Wills and two cases of lentils. Shackleton and Hussey sledged out a mile to meet them with hot tea. Next day the leads had opened and Ocean Camp was never reached again.",
+   "tags": [
+    "patience-camp",
+    "boats",
+    "ocean-camp"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-02-17",
+   "localTime": null,
+   "title": "The Adelies arrive",
+   "body": "With blubber almost gone and seal heads being dug up for scraps, a flock of Adelie penguins came through. Sixty-nine were taken that day and about six hundred within a week, which carried the camp through February.",
+   "tags": [
+    "patience-camp",
+    "food",
+    "wildlife"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-02-29",
+   "localTime": null,
+   "title": "Leap Year Day feast",
+   "body": "Shackleton made 29 February a celebration to lift the camp. The last of the cocoa was drunk; from then on the only drinks were water and occasional weak milk, with three lumps of sugar a day.",
+   "tags": [
+    "patience-camp",
+    "food",
+    "morale"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-03-09",
+   "localTime": null,
+   "title": "The floe begins to move",
+   "body": "The men felt the ice rising and falling under them: ocean swell, the first sign that open water was within reach. It was also the thing that would break the floe.",
+   "tags": [
+    "patience-camp",
+    "ice",
+    "swell"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-03-17",
+   "localTime": null,
+   "title": "Paulet Island slides past",
+   "body": "The hut and stores on Paulet Island, which Shackleton himself had fitted out for the Nordenskjold relief ship years before, were now exactly abeam, sixty miles to the west across ice that could be neither sledged nor sailed.",
+   "tags": [
+    "patience-camp",
+    "drift",
+    "paulet-island"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+   ],
+   "quote": {
+    "text": "It might have been six hundred for all the chance that we had of reaching it by sledging across the broken sea-ice in its present condition.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-03-23",
+   "localTime": null,
+   "title": "Land in sight",
+   "body": "After a blizzard cleared, the snow peaks of Joinville Island showed to the west, the first land seen in sixteen months. Worsley took theodolite bearings of Mount Percy, about 57 miles off, to check his chronometers.",
+   "tags": [
+    "patience-camp",
+    "land",
+    "navigation"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": {
+    "text": "It is Joinville Island, and its serrated mountain ranges, all snow-clad, are just visible on the horizon.",
+    "by": "Expedition diary quoted in Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-03-29",
+   "localTime": null,
+   "title": "Rain",
+   "body": "It rained hard, the first rain since South Georgia sixteen months before. Sleeping bags were soaked through; some men said it made them long for London fog.",
+   "tags": [
+    "patience-camp",
+    "weather"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-03-30",
+   "localTime": null,
+   "title": "The last dogs",
+   "body": "Wild shot an eleven-foot sea leopard that morning; nearly fifty undigested fish in its stomach became the only fish meal of the drift. With that meat in hand Shackleton had the last two dog teams shot and dressed for food. Lansing, from the diaries, dates this 30 March; the diary extract printed in South says 2 April.",
+   "tags": [
+    "patience-camp",
+    "dogs",
+    "food",
+    "wildlife"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-07",
+   "localTime": null,
+   "title": "Clarence Island at daylight",
+   "body": "A peak that first looked like a berg proved to be Clarence Island, about sixty miles north; the white peaks of Elephant Island showed later. Sugar was stopped that day; meals were seal meat and blubber only.",
+   "tags": [
+    "patience-camp",
+    "land",
+    "elephant-island"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-09",
+   "localTime": "13:00",
+   "title": "The boats are launched",
+   "body": "The floe split under the boats at 11 am, straight through the site of Shackleton's tent. At 1 pm the pack opened and the three boats were launched, 28 men in all; an hour later a tide-rip of ice nearly ran them down.",
+   "tags": [
+    "boats",
+    "floe",
+    "launch"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-09",
+   "localTime": "23:00",
+   "title": "Holness in the water",
+   "body": "Camped on a floe, Shackleton went out uneasy at 11 pm. The ice cracked under the men's tent and he hauled out a sleeping bag with fireman Ernest Holness inside, seconds before the edges slammed together. Shackleton himself was then left alone on a drifting piece until Wild sent a boat.",
+   "tags": [
+    "boats",
+    "floe",
+    "holness",
+    "night"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "For a moment I felt that my piece of rocking floe was the loneliest place in the world.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-04-12",
+   "localTime": "12:00",
+   "title": "Thirty miles the wrong way",
+   "body": "After three days of pulling west, Worsley balanced on the Dudley Docker's gunwale for a noon sight. It put them thirty miles east of where they had started. Shackleton told the men only that progress was less than hoped.",
+   "tags": [
+    "boats",
+    "navigation",
+    "worsley"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-13",
+   "localTime": null,
+   "title": "A night hove to at sea",
+   "body": "Out of the pack at noon and running for Elephant Island, the boats hove to at dusk on a sea-anchor of oars. Spray froze on them all night, there was no ice for water, and Shackleton doubted all the men would live till morning.",
+   "tags": [
+    "boats",
+    "thirst",
+    "cold",
+    "night"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "We are doing all right, but I would like some dry mitts.",
+    "by": "A man in the Stancomb Wills, quoted in Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-04-15",
+   "localTime": "09:30",
+   "title": "Landing at Cape Valentine",
+   "body": "After 497 days without land the three boats ran through a gap in the reef onto a shingle beach. Shackleton sent the youngest, Perce Blackborow, ashore first, forgetting his feet were frostbitten; he sat down in the surf. Men ran pebbles through their fingers and laughed.",
+   "tags": [
+    "elephant-island",
+    "landing",
+    "blackborow"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "quote": {
+    "text": "he is now able to say that he was the first man to sit on Elephant Island.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-04-17",
+   "localTime": "17:00",
+   "title": "The move to Wild's spit",
+   "body": "The first beach would be swept at spring tides, so the party rowed seven miles west into a gale, short of oars, to a spit Wild had found. Rickenson (South's spelling; usually Rickinson) collapsed in the surf with heart strain. That night the big tent blew to pieces and two bags of clothing were lost to the sea.",
+   "tags": [
+    "elephant-island",
+    "cape-wild",
+    "boats"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-18",
+   "localTime": "08:00",
+   "title": "The penguins leave",
+   "body": "At 8 am the ringed penguins on the spit mustered at the water's edge and swam north in column before the men could reach them. The camp was dug into the abandoned rookery; body heat turned the floor of Shackleton's tent to 'evil smelling yellow mud'.",
+   "tags": [
+    "elephant-island",
+    "wildlife",
+    "food"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-04-24",
+   "localTime": "12:30",
+   "title": "The James Caird sails",
+   "body": "McNish had decked the boat (22.5 ft; South calls her a 20-ft whaler) with sledge runners, box lids and canvas. She nearly capsized in the launch, throwing McNish and Vincent into the surf. Loaded with a month's food for six, she cut her painter at half past twelve and stood north-east.",
+   "tags": [
+    "james-caird",
+    "elephant-island",
+    "departure"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": {
+    "text": "The men who were staying behind made a pathetic little group on the beach, with the grim heights of the island behind them and the sea seething at their feet, but they waved to us and gave three hearty cheers.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-04-28",
+   "localTime": null,
+   "title": "A hut from two boats",
+   "body": "Wild's men built two stone walls four feet high and nineteen feet apart and laid the Dudley Docker and Stancomb Wills upside down across them, with tent cloth for walls. Twenty-two men slept in it, ten on the thwarts. They called it the Snuggery, or the Sty. (Date approximate: built in the last days of April.)",
+   "tags": [
+    "elephant-island",
+    "hut",
+    "wild"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-01",
+   "localTime": null,
+   "title": "Iced up and lying to",
+   "body": "In a south-westerly gale the Caird lay to a sea anchor, making 30 miles in 24 hours. Spray froze over her until she rode like a log; the men crawled on the deck chipping ice and threw overboard spare oars and two sodden sleeping bags. Next morning the sea anchor broke away.",
+   "tags": [
+    "james-caird",
+    "ice",
+    "gale"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-03",
+   "localTime": "12:00",
+   "title": "Sun at last",
+   "body": "The gale dropped and Worsley got his first sights in days: 56 13 S, 45 38 W, more than 380 miles made. Sleeping bags were hung from the mast and socks spread on the deck.",
+   "tags": [
+    "james-caird",
+    "navigation",
+    "worsley"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-06",
+   "localTime": "00:00",
+   "title": "The great wave",
+   "body": "At midnight Shackleton, at the tiller, saw what he took for a line of clear sky to the south-west. It was the crest of a wave larger than any he had seen in twenty-six years at sea. The boat was flung forward half full of water; they baled for their lives and did not get the stove lit until 3 am.",
+   "tags": [
+    "james-caird",
+    "wave",
+    "night"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "For God’s sake, hold on! It’s got us!",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-05-08",
+   "localTime": "12:30",
+   "title": "South Georgia sighted",
+   "body": "Kelp at ten, two shags at eleven, and at half past twelve McCarthy saw black cliffs through a rift in the cloud. Reefs kept them off; the water was nearly gone and what remained was brackish.",
+   "tags": [
+    "james-caird",
+    "landfall",
+    "south-georgia"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-09",
+   "localTime": "18:00",
+   "title": "Hurricane on a lee shore",
+   "body": "A north-westerly hurricane drove the boat toward the cliffs all day. Under reefed sails they clawed past the mainland and Annenkov Island; just after 6 pm the wind shifted. Moments later the pin holding the mast fell out.",
+   "tags": [
+    "james-caird",
+    "hurricane",
+    "south-georgia"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-10",
+   "localTime": "17:00",
+   "title": "Ashore at Cave Cove",
+   "body": "After five tacks to get through the reef into King Haakon Bay, the Caird touched a boulder beach at dusk. A stream of fresh water ran at their feet. They were too weak to haul the boat up and spent the night fending her off the rocks.",
+   "tags": [
+    "james-caird",
+    "landing",
+    "south-georgia",
+    "cave-cove"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": {
+    "text": "A moment later we were down on our knees drinking the pure, ice-cold water in long draughts that put new life into us. It was a splendid moment.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-05-13",
+   "localTime": null,
+   "title": "The rudder comes back",
+   "body": "The rudder had been knocked off in the landing. Three days later, with the whole Atlantic to drift in, it floated back into the cove and was caught with oars. Worsley took a noon latitude of 54 10 47 S and corrected the chart by a mile.",
+   "tags": [
+    "cave-cove",
+    "james-caird",
+    "luck"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-15",
+   "localTime": "12:30",
+   "title": "Peggotty Camp",
+   "body": "The six sailed up the bay singing and beached among hundreds of sea elephants near its head. The Caird was turned over and turfed round with tussock as a hut, named for the boat-house in David Copperfield.",
+   "tags": [
+    "south-georgia",
+    "peggotty-camp",
+    "james-caird"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-19",
+   "localTime": "03:00",
+   "title": "Three men start across",
+   "body": "With no tent or sleeping bags, three days' food, a Primus, a carpenter's adze, fifty feet of rope and screws from the Caird in their boot soles, Shackleton, Worsley and Crean left by moonlight. McNish walked 200 yards with them. No one had been more than a mile inland on South Georgia.",
+   "tags": [
+    "crossing",
+    "south-georgia"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-19",
+   "localTime": "17:00",
+   "title": "The slide",
+   "body": "Three times they climbed to a gap in the ridge and found a precipice. At dusk, with fog closing from behind and a night at 4,500 feet ahead, they went over the fourth, cut steps a little way, then unroped and slid, dropping some 900 feet in two or three minutes.",
+   "tags": [
+    "crossing",
+    "south-georgia",
+    "trident"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-20",
+   "localTime": "05:00",
+   "title": "Five minutes' sleep",
+   "body": "At 5 am the three sat down in the lee of a rock with their arms round each other. Worsley and Crean fell asleep at once. Shackleton, knowing sleep there meant death, woke them after five minutes and told them it had been half an hour.",
+   "tags": [
+    "crossing",
+    "south-georgia",
+    "night"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-20",
+   "localTime": "07:00",
+   "title": "The seven o'clock whistle",
+   "body": "Above Fortuna Bay they watched the chronometer. At seven exactly the Stromness steam whistle carried over the ridge, the first sound from the outside world since December 1914.",
+   "tags": [
+    "crossing",
+    "south-georgia",
+    "stromness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-20",
+   "localTime": null,
+   "title": "The fourth presence",
+   "body": "Shackleton wrote afterwards that on the march it often seemed there was a fourth walker with them. Worsley and Crean, unprompted, said the same.",
+   "tags": [
+    "crossing",
+    "fourth-presence"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "it seemed to me often that we were four, not three.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-05-20",
+   "localTime": "16:00",
+   "title": "Stromness",
+   "body": "Wet from lowering themselves down a waterfall, the three walked into the station. Two boys ran from them. The manager, Mr Sorlle, did not know Shackleton until he gave his name; then came coffee, baths, and news of the war.",
+   "tags": [
+    "crossing",
+    "stromness",
+    "arrival"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "“The war is not over,” he answered. “Millions are being killed. Europe is mad. The world is mad.”",
+    "by": "Mr Sørlle, station manager, quoted in Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-05-22",
+   "localTime": null,
+   "title": "The other three brought round",
+   "body": "A whale-catcher with Worsley aboard fetched McNish, McCarthy and Vincent and the James Caird from King Haakon Bay. Shaved and in clean clothes, Worsley was not recognised by them. That evening the old whaling captains came one by one to shake hands.",
+   "tags": [
+    "south-georgia",
+    "stromness",
+    "james-caird"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-23",
+   "localTime": "09:00",
+   "title": "First rescue attempt",
+   "body": "Seventy-two hours after walking in, Shackleton, Worsley and Crean sailed in the borrowed whaler Southern Sky. On the 28th a line of pack stopped her about seventy miles from Elephant Island; with coal for four more days she turned for the Falklands.",
+   "tags": [
+    "rescue",
+    "southern-sky"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-05-31",
+   "localTime": null,
+   "title": "The world hears",
+   "body": "From Port Stanley Shackleton cabled London the first account of the expedition. The King replied next day. The Admiralty said no ship could come before October.",
+   "tags": [
+    "rescue",
+    "port-stanley",
+    "news"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-06-13",
+   "localTime": null,
+   "title": "Twenty miles short",
+   "body": "The Uruguayan trawler Instituto de Pesca No. 1 came within sight of Elephant Island's peaks before pack ice stopped her inside twenty miles. A gun was fired; ashore it was taken for the glacier calving. She had three days' coal left.",
+   "tags": [
+    "rescue",
+    "instituto-de-pesca",
+    "uruguay"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-06-15",
+   "localTime": null,
+   "title": "Blackborow's toes",
+   "body": "On a mild day the surgeons McIlroy and Macklin amputated Perce Blackborow's frostbitten toes in the hut (South: all five on one foot). Hurley fed the stove with penguin skins to raise the heat enough to vaporise their six ounces of chloroform; the operation took 55 minutes. The others waited outside.",
+   "tags": [
+    "elephant-island",
+    "medical",
+    "blackborow"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-06-22",
+   "localTime": null,
+   "title": "Midwinter under the boats",
+   "body": "Breakfast was full-strength hoosh with hot milk; lunch a pudding Wild invented from powdered biscuit and twelve pieces of mouldy nut-food. The toast was a teaspoon of methylated spirit in hot water with ginger and sugar. Hussey played and each man sang a verse about another.",
+   "tags": [
+    "elephant-island",
+    "midwinter",
+    "banjo",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-06-25",
+   "localTime": null,
+   "title": "The sea reaches the hut",
+   "body": "A north-westerly storm drove waves up the spit to within four yards of the hut. Earlier a block calving from the glacier across the bay had sent a thirty-foot wave that the brash ice damped just in time.",
+   "tags": [
+    "elephant-island",
+    "weather",
+    "sea"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-07-12",
+   "localTime": null,
+   "title": "Third attempt: the Emma",
+   "body": "British residents of Punta Arenas raised 1,500 pounds in three days and chartered a forty-year-old oak schooner. She left in tow of the Chilean steamer Yelcho; the tow-rope parted twice in a gale and the Yelcho was sent back.",
+   "tags": [
+    "rescue",
+    "emma",
+    "punta-arenas",
+    "yelcho"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-07-22",
+   "localTime": "12:00",
+   "title": "A hundred miles off",
+   "body": "Within ten minutes of entering the pack the Emma broke her bobstay and her engine inlet choked with ice. Noon on the 22nd found her 108 miles from the island with ropes iced as thick as a man's arm. Shackleton turned back for the third time.",
+   "tags": [
+    "rescue",
+    "emma",
+    "ice"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-07-26",
+   "localTime": null,
+   "title": "Life in the Snuggery",
+   "body": "By late July the hut floor was a paste of oil, reindeer hair and penguin feathers, and meltwater had to be baled out by the hundred gallons. Marston read one recipe a night from a penny cookery book. Wild rolled his bag each clear morning and told the men to get ready.",
+   "tags": [
+    "elephant-island",
+    "hut",
+    "wild",
+    "morale"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ],
+   "quote": {
+    "text": "Roll up your sleeping-bags, boys; the boss may come to-day.",
+    "by": "Frank Wild, as reported in Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-08-10",
+   "localTime": null,
+   "title": "Stanley, and no ship",
+   "body": "Back at Port Stanley, Shackleton was told the Discovery would not arrive from England until mid-September and that he might as well rest. He asked Chile for the Yelcho again and was towed out on the 10th.",
+   "tags": [
+    "rescue",
+    "port-stanley"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-08-12",
+   "localTime": null,
+   "title": "The last methylated spirit",
+   "body": "The Saturday toast used up the last of the spirit. From then on the King, 'sweethearts and wives' and 'the Boss and crew of the Caird' were drunk in hot water and ginger. Tobacco had run out weeks before; men smoked sennegrass.",
+   "tags": [
+    "elephant-island",
+    "food",
+    "morale"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-08-25",
+   "localTime": "00:30",
+   "title": "The Yelcho sails",
+   "body": "Chile lent the small steel steamer Yelcho, under Piloto Luis Pardo, on Shackleton's promise to keep her out of the ice. She left Punta Arenas just after midnight, coaled at Picton Island on the 27th and crossed the Drake Passage in unusually fair weather.",
+   "tags": [
+    "rescue",
+    "yelcho",
+    "pardo",
+    "chile"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt",
+    "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-08-27",
+   "localTime": null,
+   "title": "A wind clears the bay",
+   "body": "For ten days pack had filled the bay at Cape Wild and two feet of snow had fallen. On the 27th a strong west-south-westerly drove the ice out. Food on the island was down to stewed seal bones, limpets and seaweed.",
+   "tags": [
+    "elephant-island",
+    "ice",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1916-08-30",
+   "localTime": "13:00",
+   "title": "Ship O!",
+   "body": "Wild was serving a hoosh of seal backbone, limpets and seaweed when Marston shouted from the lookout. The men tore down the hut wall to get out. Wild holed the last tin of fuel to make a signal fire; the Yelcho had already turned in. All 22 were aboard within the hour.",
+   "tags": [
+    "rescue",
+    "elephant-island",
+    "yelcho"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "I called out, “Are you all well?” and he answered, “We are all well, boss,” and then I heard three cheers.",
+    "by": "Ernest Shackleton, South (1919)"
+   }
+  },
+  {
+   "date": "1916-09-03",
+   "localTime": "10:00",
+   "title": "Punta Arenas",
+   "body": "From Rio Seco Shackleton telephoned ahead. The fire alarm was rung so the whole town would know, and the Yelcho came in at ten to crowded streets. Every man who had sailed in the Endurance was alive.",
+   "tags": [
+    "rescue",
+    "punta-arenas",
+    "arrival"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  }
+ ],
+ "stats": [
+  {
+   "track": "main",
+   "date": "1915-11-22",
+   "series": "dogs",
+   "value": 49,
+   "note": "Lansing's count of huskies taken off the ship on 27 Oct 1915; four puppies were shot on 29-30 Oct and it is not clear whether they are inside this figure. Treat as approximate.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-27",
+   "series": "dogs",
+   "value": 48,
+   "note": "Blackie, of Wild's team, lame and shot on the march (South). Count derived from the approximate 49.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-02",
+   "series": "dogs",
+   "value": 0,
+   "note": "Last two teams shot (South's diary extract: 2 April; Lansing: 30 March).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-24",
+   "series": "men",
+   "value": 6,
+   "note": "Shackleton, Worsley, Crean, McNish, McCarthy, Vincent.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-19",
+   "series": "men",
+   "value": 3,
+   "note": "Crossing party: Shackleton, Worsley, Crean. McNish, McCarthy and Vincent (3) remain at Peggotty Camp.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-22",
+   "series": "men",
+   "value": 6,
+   "note": "All six reunited at Stromness when the whaler returns at dusk.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-23",
+   "series": "men",
+   "value": 3,
+   "note": "Shackleton, Worsley and Crean sail in Southern Sky; the other three stay in South Georgia and are sent home.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-08-30",
+   "series": "men",
+   "value": 25,
+   "note": "22 rescued plus Shackleton, Worsley and Crean aboard Yelcho (excluding her Chilean crew).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-22",
+   "series": "men",
+   "value": 28,
+   "note": "Whole Weddell Sea party at Ocean Camp.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-09",
+   "series": "men",
+   "value": 28,
+   "note": "All 28 in three boats: James Caird 13 (Shackleton, Wild + 11), Dudley Docker 10 (Worsley + 9), Stancomb Wills 5 by subtraction (Hudson and Crean senior men). South gives the first two crews explicitly; the third is by subtraction.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-15",
+   "series": "men",
+   "value": 28,
+   "note": "All 28 ashore at Cape Valentine.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-24",
+   "series": "men",
+   "value": 22,
+   "note": "Left on Elephant Island under Frank Wild.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-08-30",
+   "series": "men",
+   "value": 22,
+   "note": "All 22 alive when taken off; Blackborow carried, Hudson recovering.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-25",
+   "series": "other",
+   "value": 64,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR: north 64 miles from Wild Camp in 23.5 hours.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-26",
+   "series": "other",
+   "value": 110,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 45 E 110 miles as logged (Lansing: 128 miles from Elephant Island in total by this noon). Low confidence - see itinerary note.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-29",
+   "series": "other",
+   "value": 85,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 35 E 85 miles for the 24 hours.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-04-30",
+   "series": "other",
+   "value": 78,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 35 E 78 miles.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-01",
+   "series": "other",
+   "value": 30,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 40 E 30 miles, lying to a sea anchor.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-02",
+   "series": "other",
+   "value": 45,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 50 E 45 miles.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-03",
+   "series": "other",
+   "value": 85,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 55 E 85 miles (sight then moved the position 12 miles).",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-04",
+   "series": "other",
+   "value": 52,
+   "note": "James Caird day's run in nautical miles, noon to noon. Run by observation N 36 E 52 miles (DR had N 45 E 70).",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-05",
+   "series": "other",
+   "value": 95,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 50 E 95 miles - best day.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-06",
+   "series": "other",
+   "value": 66,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 30 E 16 + S 80 E 58 miles to 1 pm, about 66 miles made good; then hove to.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-08",
+   "series": "other",
+   "value": 90,
+   "note": "James Caird day's run in nautical miles, noon to noon. DR N 78 E 90 miles to noon; land sighted 12:30.",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-23",
+   "series": "other",
+   "value": 7,
+   "note": "Dog TEAMS in use (Wild, Crean, McIlroy, Marston, Hurley, Macklin, plus Greenstreet's team of year-old pups). Series = dog teams.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-14",
+   "series": "other",
+   "value": 3,
+   "note": "Dog teams left after four teams (Wild's, Crean's, McIlroy's, Marston's) were shot. Series = dog teams. Head-count not stated in the sources consulted.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-16",
+   "series": "other",
+   "value": 2,
+   "note": "Dog teams left after Hurley's team was shot (South: 'all the dogs except two teams'). Series = dog teams.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-30",
+   "series": "other",
+   "value": 0,
+   "note": "Dog teams left (Lansing's date). Series = dog teams.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-06-15",
+   "series": "other",
+   "value": 26.7,
+   "note": "INSIDE the hut, raised to about 80 F (26.7 C) with penguin skins for Blackborow's operation. Series = indoor temperature C.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "caird",
+   "date": "1916-05-12",
+   "series": "temperatureC",
+   "value": 3.9,
+   "note": "Night air at Cave Cove 'probably not lower than 38 or 40 F' in rain; icicles over the cave melting (South).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-22",
+   "series": "temperatureC",
+   "value": -7.1,
+   "note": "Noon dry bulb 19.2 F, Ocean Camp, SW/W 4. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-23",
+   "series": "temperatureC",
+   "value": -8.8,
+   "note": "Noon 16.2 F, Ocean Camp. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-26",
+   "series": "temperatureC",
+   "value": -1.7,
+   "note": "Noon 29.0 F. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-28",
+   "series": "temperatureC",
+   "value": -3.3,
+   "note": "Noon 26.0 F. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-11-30",
+   "series": "temperatureC",
+   "value": -7.7,
+   "note": "Noon 18.2 F. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-01",
+   "series": "temperatureC",
+   "value": -7.1,
+   "note": "Noon 19.2 F. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-04",
+   "series": "temperatureC",
+   "value": -2.2,
+   "note": "Noon 28.0 F, calm. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-06",
+   "series": "temperatureC",
+   "value": -8.9,
+   "note": "Noon 16.0 F - coldest noon of the Ocean Camp record in this slice. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-09",
+   "series": "temperatureC",
+   "value": -1.1,
+   "note": "4 pm reading 30.0 F in an ENE force 6 blizzard (noon 27.5 F). Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-12",
+   "series": "temperatureC",
+   "value": -3.6,
+   "note": "Noon 25.5 F as the blizzard eased. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-16",
+   "series": "temperatureC",
+   "value": -8.6,
+   "note": "Noon 16.5 F. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-19",
+   "series": "temperatureC",
+   "value": -3.9,
+   "note": "Noon 25.0 F, NE winds. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-21",
+   "series": "temperatureC",
+   "value": 0.0,
+   "note": "Noon 32.0 F - freezing point. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1915-12-22",
+   "series": "temperatureC",
+   "value": 1.1,
+   "note": "Noon 34.0 F, calm, the 'Christmas' feast day. Last entry in the digitised temperature series. Hussey's observations as digitised by oldWeather.",
+   "source": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-01",
+   "series": "temperatureC",
+   "value": 3.3,
+   "note": "38 F on New Year's Day at Patience Camp (South).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-01-25",
+   "series": "temperatureC",
+   "value": 2.2,
+   "note": "36 F in the shade, 'nearly 80 F inside the tents' (South).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-15",
+   "series": "temperatureC",
+   "value": -23.3,
+   "note": "Mid-March nights 'frequently dropping as low as 10 below' F (Lansing, from diaries); date nominal.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-03-29",
+   "series": "temperatureC",
+   "value": 0.6,
+   "note": "33 F with rain (Lansing; South dates the first rain 29 March).",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-01",
+   "series": "temperatureC",
+   "value": 1.1,
+   "note": "'A high temperature of 34 degrees' noted by Worsley about 1 April (Lansing); date approximate.",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-12",
+   "series": "temperatureC",
+   "value": -12.2,
+   "note": "About 10 F at dawn in the boats; Burberry suits crackled (South).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-13",
+   "series": "temperatureC",
+   "value": -20.0,
+   "note": "Night of 12-13 April in the boats: '4 below zero' F, Shackleton's estimate - thermometers were packed away; sea surface freezing.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-15",
+   "series": "temperatureC",
+   "value": -11.1,
+   "note": "Night of 14-15 April off Elephant Island: '20 below freezing-point' = 12 F (Worsley, in South).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "track": "main",
+   "date": "1916-04-17",
+   "series": "temperatureC",
+   "value": -15.0,
+   "note": "About 5 F in the southerly gale during the move to Cape Wild (Lansing).",
+   "source": "https://archive.org/details/dli.ernet.506187"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-08",
+   "localTime": "18:30",
+   "text": "A heavy shock cracks the floe under the James Caird; within five minutes the boats are dragged across to the tents.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "07:00",
+   "text": "Lanes of water show on the western horizon but the ice between is churned brash.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "11:00",
+   "text": "The floe splits right across under the boats and through the site of Shackleton's tent.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "13:00",
+   "text": "The pack opens; Dudley Docker and Stancomb Wills are launched, the James Caird last.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "13:30",
+   "text": "All three boats under way (Worsley's log).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "14:00",
+   "text": "A mile from the old floe, a tide-rip drives two masses of ice at the boats at about three knots; the Stancomb Wills barely pulls clear.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "18:15",
+   "text": "After about seven miles north-west the boats are hauled onto a floe for the night.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "20:00",
+   "text": "Tents up and the blubber stove alight.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Leaving the floe",
+   "date": "1916-04-09",
+   "localTime": "23:00",
+   "text": "The floe cracks under the men's tent; Shackleton pulls Holness out of the water in his sleeping bag.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-10",
+   "localTime": "03:00",
+   "text": "No more sleep: stove lit, hot milk served, men pacing a floe 200 ft by 100 ft.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-10",
+   "localTime": "08:00",
+   "text": "Boats launched and worked north through the lanes.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-10",
+   "localTime": "11:00",
+   "text": "Out into open water, where the laden boats ship freezing spray.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-10",
+   "localTime": "15:00",
+   "text": "Shackleton turns back into the shelter of the pack.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-10",
+   "localTime": "15:30",
+   "text": "Boats hauled onto a blue floeberg and camp pitched.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-11",
+   "localTime": "00:00",
+   "text": "The watchman shows Shackleton a piece of the berg broken off eight feet from his tent.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-11",
+   "localTime": "12:00",
+   "text": "After a morning trapped on the dissolving berg, a lane of water reaches it and the boats are rushed over the edge.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-12",
+   "localTime": "08:00",
+   "text": "First hot food since leaving the berg: the galley is landed on a floe for three-quarters of an hour.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-12",
+   "localTime": "12:00",
+   "text": "Worsley's sight puts them 30 miles east of their starting point.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-12",
+   "localTime": "15:00",
+   "text": "Course laid for Hope Bay; the James Caird takes the Stancomb Wills in tow.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-13",
+   "localTime": "12:00",
+   "text": "The boats are 'suddenly spewed out of the pack into the open ocean' and set sail for Elephant Island.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-13",
+   "localTime": "20:00",
+   "text": "Hove to on a sea-anchor of oars at an estimated 61 43 S, 54 36 W; spray freezes on the boats all night.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-14",
+   "localTime": "16:00",
+   "text": "A stiff head breeze against the current raises a chop; an hour's pulling gains nothing.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-15",
+   "localTime": "00:00",
+   "text": "Wind shifts south-west; the Dudley Docker goes ahead and is lost to sight in a snow squall.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The open boats",
+   "date": "1916-04-15",
+   "localTime": "03:00",
+   "text": "Greenstreet relieves Worsley at the Docker's tiller; Worsley has to be straightened out 'like a jack-knife'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landing on Elephant Island",
+   "date": "1916-04-15",
+   "localTime": "07:00",
+   "text": "The James Caird is right under the cliffs before they are seen through the murk.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landing on Elephant Island",
+   "date": "1916-04-15",
+   "localTime": "09:00",
+   "text": "A narrow beach is sighted at the north-east end of the island behind a fringe of rocks.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landing on Elephant Island",
+   "date": "1916-04-15",
+   "localTime": "09:30",
+   "text": "The Dudley Docker sails in to join the others; the Stancomb Wills goes through the reef first and Blackborow is put ashore.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landing on Elephant Island",
+   "date": "1916-04-15",
+   "localTime": "15:00",
+   "text": "Tents pitched on oars; the cook has been frying seal steak since the landing.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The James Caird sails",
+   "date": "1916-04-24",
+   "localTime": "12:30",
+   "text": "The Caird cuts her painter off Cape Wild and steers NNE under all sail.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The James Caird sails",
+   "date": "1916-04-24",
+   "localTime": "16:00",
+   "text": "The gap in the stream ice is found; sail is dropped and the boat rowed through.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The James Caird sails",
+   "date": "1916-04-24",
+   "localTime": "17:30",
+   "text": "Clear of the pack with open water ahead.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The great wave",
+   "date": "1916-05-06",
+   "localTime": "00:00",
+   "text": "Midnight after a day of north-westerly gale (South's '11th day, May 5'): Shackleton mistakes the crest of a giant wave for clearing sky.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The great wave",
+   "date": "1916-05-06",
+   "localTime": "00:10",
+   "text": "After about ten minutes' frantic baling the boat lifts again.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The great wave",
+   "date": "1916-05-06",
+   "localTime": "03:00",
+   "text": "The stove is finally relit and hot drinks made.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-08",
+   "localTime": "10:00",
+   "text": "A bit of kelp floats past.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-08",
+   "localTime": "11:00",
+   "text": "Two shags on a mass of kelp: land within fifteen miles.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-08",
+   "localTime": "12:30",
+   "text": "McCarthy sights the cliffs of South Georgia.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-08",
+   "localTime": "15:00",
+   "text": "Two miles off a reef-bound shore, the boat stands off on the starboard tack for the night.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-09",
+   "localTime": "05:00",
+   "text": "The wind goes north-west and rises to hurricane force.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-09",
+   "localTime": "13:00",
+   "text": "Crags seen through the mist: the boat is on a dead lee shore.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-09",
+   "localTime": "18:00",
+   "text": "Just after six, in the backwash of the cliffs, the wind shifts and they can make an offing.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-10",
+   "localTime": "08:00",
+   "text": "Wind light and backing north-west; they steer for King Haakon Bay.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-10",
+   "localTime": "12:00",
+   "text": "A line of reef 'like blackened teeth' across the bay mouth; wind heads them.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-10",
+   "localTime": "17:00",
+   "text": "Fifth tack carries them through; the Caird touches the beach at Cave Cove at dusk.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-10",
+   "localTime": "20:00",
+   "text": "Hot meal eaten in the cave; Shackleton takes first watch on the boat.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Landfall",
+   "date": "1916-05-11",
+   "localTime": "01:00",
+   "text": "Shackleton calls Crean to relieve him; the boat breaks adrift and is caught again.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "02:00",
+   "text": "Turn out under a full moon.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "03:00",
+   "text": "Hoosh eaten; the three start round the snout of the glacier (03:10 by Worsley).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "05:00",
+   "text": "Two hours' climbing; the bay three miles behind; fog comes down and they rope up.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "07:00",
+   "text": "The 'frozen lake' below is Possession Bay; they turn back up the glacier.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "09:00",
+   "text": "Lost ground recovered; course south-east.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "11:00",
+   "text": "First gap in the ridge: a sheer drop.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "12:30",
+   "text": "Second meal at the end of the bergschrund.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "15:00",
+   "text": "Second gap: the same precipice, fog rising on both sides.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "17:00",
+   "text": "'Come on, boys': over the last gap, then the slide of about 900 feet.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "18:00",
+   "text": "Meal at the bottom, Worsley and Shackleton lying upwind of the Primus.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-19",
+   "localTime": "20:00",
+   "text": "The moon rises ahead and lights the crevasses.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "00:00",
+   "text": "About 4,000 feet again, on a snowfield among nunataks.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "01:00",
+   "text": "A pit dug for the Primus; Worsley and Crean sing.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "02:00",
+   "text": "Crevasses underfoot: this is Fortuna Glacier, not Stromness; they climb back.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "05:00",
+   "text": "Five minutes' sleep under a rock.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "06:00",
+   "text": "Through the gap in the ridge; Husvik's rocks ahead.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "06:30",
+   "text": "Shackleton thinks he hears a steam whistle.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "07:00",
+   "text": "The whistle sounds to the minute.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "12:00",
+   "text": "Well up the slope on the east side of Fortuna Bay.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "12:30",
+   "text": "Shackleton goes through the snow crust of a lake to his knees.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "13:30",
+   "text": "Stromness station in sight from the last ridge; they shake hands.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "16:00",
+   "text": "At the manager's door (time from Worsley/Lansing; South gives none).",
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Crossing South Georgia",
+   "date": "1916-05-20",
+   "localTime": "22:00",
+   "text": "Worsley boards the whaler bound for King Haakon Bay.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "05:25",
+   "text": "Yelcho goes to full speed (Worsley's log).",
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "08:00",
+   "text": "Logged at 60 44 S, 55 54 W in fog.",
+   "sources": [
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "10:00",
+   "text": "Stranded bergs passed, then surf on a reef: the island is close.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "11:10",
+   "text": "'Base of land faintly visible' (Worsley's log).",
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "11:40",
+   "text": "Camp sighted according to South; Worsley's log has 'Sight the Camp to SW' at 1.10 PM.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "12:45",
+   "text": "On the spit, the lunch hoosh is ready; Marston on the lookout shouts 'Ship O!'",
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "13:10",
+   "text": "Yelcho stops about a mile and a half off; a boat is lowered.",
+   "sources": [
+    "https://archive.org/details/dli.ernet.506187",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-08-30",
+   "localTime": "14:00",
+   "text": "Third boatload aboard; Yelcho steams north within an hour of being seen.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-09-03",
+   "localTime": "08:00",
+   "text": "Rio Seco: Shackleton telephones the Governor.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The rescue",
+   "date": "1916-09-03",
+   "localTime": "10:00",
+   "text": "Alongside at Punta Arenas.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1915-11-22",
+   "end": "1915-12-08",
+   "activity": "camped on the floe",
+   "weather": "southerly winds, noon 16-29 F, midnight sun",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ]
+  },
+  {
+   "start": "1915-12-09",
+   "end": "1915-12-12",
+   "activity": "camped on the floe",
+   "weather": "blizzard, ENE then SW force 5-7",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ]
+  },
+  {
+   "start": "1915-12-13",
+   "end": "1915-12-22",
+   "activity": "camped on the floe",
+   "weather": "S then NE winds; thaw, noon up to 34 F",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+   ]
+  },
+  {
+   "start": "1915-12-23",
+   "end": "1915-12-29",
+   "activity": "hauling",
+   "weather": "fine and warm by day, soft wet snow; marching at night",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-12-30",
+   "end": "1916-01-17",
+   "activity": "camped on the floe",
+   "weather": "warm, calm, foggy; up to 38 F",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-01-18",
+   "end": "1916-01-23",
+   "activity": "camped on the floe",
+   "weather": "south-westerly gale and blizzard",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "start": "1916-01-24",
+   "end": "1916-02-29",
+   "activity": "camped on the floe",
+   "weather": "alternating wet mild northerlies and cold bright southerlies",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-03-01",
+   "end": "1916-03-12",
+   "activity": "camped on the floe",
+   "weather": "cold, damp, calm; wet snow",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-03-13",
+   "end": "1916-03-28",
+   "activity": "camped on the floe",
+   "weather": "gales and blizzards; nights to -10 F",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/dli.ernet.506187"
+   ]
+  },
+  {
+   "start": "1916-03-29",
+   "end": "1916-04-08",
+   "activity": "camped on the floe",
+   "weather": "rain, mist, strong southerlies; ocean swell",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-09",
+   "end": "1916-04-15",
+   "activity": "in the boats",
+   "weather": "snow squalls, hard frost (to -4 F), then gale",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-15",
+   "end": "1916-04-17",
+   "activity": "stranded",
+   "weather": "two fine days at Cape Valentine",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-17",
+   "end": "1916-04-23",
+   "activity": "stranded",
+   "weather": "southerly gale and blizzard, gusts over 70 mph",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-24",
+   "end": "1916-04-29",
+   "activity": "at sea",
+   "weather": "W to SW gales, high cross seas",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-30",
+   "end": "1916-05-02",
+   "activity": "at sea",
+   "weather": "SW gale, hove to, boat iced up",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-05-03",
+   "end": "1916-05-04",
+   "activity": "at sea",
+   "weather": "fine and clear, moderate sea",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+   ]
+  },
+  {
+   "start": "1916-05-05",
+   "end": "1916-05-09",
+   "activity": "at sea",
+   "weather": "NW gales to hurricane, confused sea",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-05-10",
+   "end": "1916-05-18",
+   "activity": "stranded",
+   "weather": "rain, sleet, mild (about 39 F); squalls",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-05-19",
+   "end": "1916-05-20",
+   "activity": "crossing the island",
+   "weather": "clear, calm, full moon; fog on the ridges",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-05-21",
+   "end": "1916-05-22",
+   "activity": "at the whaling station",
+   "weather": "heavy snowstorm from two hours after arrival",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-05-23",
+   "end": "1916-05-31",
+   "activity": "at sea",
+   "weather": "very cold, sea freezing, pack ice",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-06-01",
+   "end": "1916-06-09",
+   "activity": "in port",
+   "weather": null,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-06-10",
+   "end": "1916-06-16",
+   "activity": "at sea",
+   "weather": "bad weather, fog and dense pack off the island",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-06-17",
+   "end": "1916-07-11",
+   "activity": "in port",
+   "weather": null,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-07-12",
+   "end": "1916-08-03",
+   "activity": "at sea",
+   "weather": "continuous gales, ice, schooner iced up",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ]
+  },
+  {
+   "start": "1916-08-04",
+   "end": "1916-08-24",
+   "activity": "in port",
+   "weather": "westerly gales at Stanley; NW gale on passage 10-14 Aug",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+   ]
+  },
+  {
+   "start": "1916-08-25",
+   "end": "1916-08-30",
+   "activity": "at sea",
+   "weather": "comparatively fine; fog near the island",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-08-31",
+   "end": "1916-09-03",
+   "activity": "at sea",
+   "weather": "bad weather northbound",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-04-24",
+   "end": "1916-05-31",
+   "activity": "stranded",
+   "weather": "gales, hurricane gusts off the glacier, snowdrift",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-06-01",
+   "end": "1916-07-20",
+   "activity": "stranded",
+   "weather": "SW blizzards alternating with NE mist and pack",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-07-21",
+   "end": "1916-08-15",
+   "activity": "stranded",
+   "weather": "some fine calm days; ice driven off",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-08-16",
+   "end": "1916-08-26",
+   "activity": "stranded",
+   "weather": "dense pack, wet mist, two feet of snow",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1916-08-27",
+   "end": "1916-08-30",
+   "activity": "stranded",
+   "weather": "strong WSW wind clears the ice",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  }
+ ],
+ "bibliography": [
+  {
+   "short": "South",
+   "citation": "Shackleton, E. H. (1919). South: The Story of Shackleton's Last Expedition 1914-1917. London: Heinemann. Project Gutenberg ebook #5199. Chapters V-XII and Appendix I. Includes Worsley's account of the Dudley Docker's last night and Wild's account of 30 Aug 1916.",
+   "url": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "short": "oldWeather positions",
+   "citation": "Brohan, P. / oldWeather Expeditions project. 'Drift in pack ice in Weddell Sea' (Worsley's own drift table with his longitude correction note), digitised as Endurance_positions.txt.",
+   "url": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/Endurance_positions.txt"
+  },
+  {
+   "short": "oldWeather Endurance log",
+   "citation": "Brohan, P. / oldWeather Expeditions project. ENDURANCE_1914-1915.txt: digitised log and meteorological register (positions to 15 Apr 1916; 4-hourly temperatures to 22 Dec 1915).",
+   "url": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/ENDURANCE_1914-1915.txt"
+  },
+  {
+   "short": "oldWeather Caird log",
+   "citation": "Brohan, P. / oldWeather Expeditions project. JAMES_CAIRD_LOG-APRIL-MAY_1916.txt.",
+   "url": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/JAMES_CAIRD_LOG-APRIL-MAY_1916.txt"
+  },
+  {
+   "short": "oldWeather relief log",
+   "citation": "Brohan, P. / oldWeather Expeditions project. SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt: hourly log of the Emma (16 Jul-14 Aug) and positions of the Yelcho (25 Aug-1 Sep 1916).",
+   "url": "https://github.com/oldweather/Expeditions/blob/master/voyages/endurance_1914-6/as_digitised/SHACKLETON_RELIEF_EXPEDITION-JULY_TO_AUGUST_1916.txt"
+  },
+  {
+   "short": "Bergman et al. 2018",
+   "citation": "Bergman, L., Huxtable, G., Morris, B. R. & Stuart, R. G. (2018). Navigation of the James Caird on the Shackleton Expedition. Records of the Canterbury Museum 32: 23-66. Transcribes and replicates Worsley's log (Canterbury Museum 2001.177.20) for 24 Apr-13 May 1916.",
+   "url": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+  },
+  {
+   "short": "Bergman & Stuart 2018",
+   "citation": "Bergman, L. & Stuart, R. G. (2018). Navigation of the Shackleton Expedition on the Weddell Sea pack ice. Records of the Canterbury Museum 32: 67-98. Appendix A transcribes the log for 7-13 April 1916 (floe to Elephant Island).",
+   "url": "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+  },
+  {
+   "short": "Lansing",
+   "citation": "Lansing, A. (1959). Endurance: Shackleton's Incredible Voyage. New York: McGraw-Hill. Secondary, but built on the diaries of Macklin, Orde-Lees, McNish, Hurley, James, Greenstreet and Worsley; used here for diary-dated events South omits. Not used for quotations.",
+   "url": "https://archive.org/details/dli.ernet.506187"
+  },
+  {
+   "short": "GSGSSI Shackleton Walk",
+   "citation": "Government of South Georgia & the South Sandwich Islands (2014, rev. 2015). Shackleton Walk Visitor Management Plan & Extended Walk Plan - GPS waypoints Fortuna Bay to Stromness.",
+   "url": "https://gov.gs/wp-content/uploads/2022/10/Shackleton-Walk-revised-070115.pdf"
+  },
+  {
+   "short": "Wikishire route",
+   "citation": "Wikishire, 'Shackleton Commemorative Route' - order of named features on the crossing.",
+   "url": "https://wikishire.co.uk/wiki/Shackleton_Commemorative_Route"
+  },
+  {
+   "short": "Fogt et al. 2025",
+   "citation": "Fogt, R. L. et al. (2025). Weather and climate conditions during Shackleton's Endurance expedition. Bulletin of the American Meteorological Society. (Pointer to the digitised observations.)",
+   "url": "https://nora.nerc.ac.uk/id/eprint/537733/1/bams-BAMS-D-24-0208.1.pdf"
+  },
+  {
+   "short": "Wikipedia ITAE",
+   "citation": "Wikipedia (EN), 'Imperial Trans-Antarctic Expedition' - cross-check only.",
+   "url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+  },
+  {
+   "short": "Wikipedia Caird",
+   "citation": "Wikipedia (EN), 'Voyage of the James Caird' - cross-check only.",
+   "url": "https://en.wikipedia.org/wiki/Voyage_of_the_James_Caird"
+  },
+  {
+   "short": "Wikipedia Pardo (ES)",
+   "citation": "Wikipedia (ES), 'Luis Pardo Villalon' - Yelcho's route out by the Beagle Channel and back by the Atlantic side; cross-check only.",
+   "url": "https://es.wikipedia.org/wiki/Luis_Pardo_Villal%C3%B3n"
+  },
+  {
+   "short": "RGS timeline",
+   "citation": "Royal Geographical Society (with IBG), Weddell Sea Expedition: Shackleton expedition timeline.",
+   "url": "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+  }
+ ],
+ "corrections": [
+  "Mrs Chippy (McNish's cat) did not die in this period. The cat and the youngest puppies were shot on 29 October 1915, two days after the ship was abandoned and before Ocean Camp - it belongs to the other researcher's slice.",
+  "Wild's daily call is usually quoted as 'Lash up and stow, boys, the Boss may come today'. That wording is not in South. South (1919) prints two versions: 'Roll up your sleeping-bags, boys; the boss may come to-day' (Chapter XI) and 'Get your things ready, boys, the Boss may come to-day' (Chapter XII). 'Lash up and stow' was the expedition's ordinary order to strike camp. Use the South wording if quoting a pre-1929 source.",
+  "The boats did not make steadily for Elephant Island. For three days (9-12 April) Shackleton steered west for Deception Island, then south-west for Hope Bay on the Antarctic mainland; only on the morning of 13 April did a wind shift make him run north for Elephant Island. Worsley's 12 April sight showed the current had carried them 30 miles east of their start.",
+  "The first landing (15 April) was at Cape Valentine, not at Point Wild; the party stayed two nights and moved seven miles west on 17 April. South itself prints '(April 15)' for the morning AFTER the landing - a slip; that reconnaissance day was 16 April.",
+  "South Georgia was sighted on 8 May but the landing was not until dusk on 10 May (log: 5 PM), after a hurricane on the 9th. The voyage is often given as '16 days' or '17 days'; noon 24 April to 5 PM 10 May is 16 days 4.5 hours, with land in sight after 14 days.",
+  "The heights South gives for the crossing (2,500 ft after two hours, 4,500 ft on the ridge, 'a whaling-boat entering the bay 2,500 ft below') are exhausted men's estimates and are too high: Shackleton Gap is about 300 m, the Trident cols roughly 1,200 m, and the pass above Stromness about 300 m. Do not use them as elevations.",
+  "The Yelcho was not a tug in Chilean service; the Armada classed her as an escampavia (cutter/tender), a steel former whaler with no double hull, wireless or heating. Her commander was Piloto 2o Luis Pardo Villalon, not a captain. She had already been involved in the third attempt, towing the Emma out in July.",
+  "There were four relief voyages by three countries' ships, not a single British rescue: Southern Sky (British-owned whaler lent in South Georgia, manned by Norwegian whalers), Instituto de Pesca No. 1 (Uruguayan government), Emma (chartered with money raised by British residents of Punta Arenas, towed by the Chilean Navy), Yelcho (Chilean Navy).",
+  "The floe did not drift 'north' in a straight line: Worsley's table shows it stuck near 67 S from 15 December to 16 January, pushed south again on at least six occasions, and reaching its easternmost longitude (51 34 W, 12 Dec; 51 39 W, 26 Jan) before trending west of north toward Joinville Island.",
+  "Lansing prints the Caird's 26 April position as 59 46 S, 52 18 W. Worsley's log page has latitude 59 46 with longitude 50 48, and separately a dead-reckoning line 58 42 S, 52 17 W; the popular figure appears to pair the latitude of one with the longitude of the other."
+ ],
+ "openQuestions": [
+  "When was the name 'Patience Camp' given? South applies it to the camp of 29 December 1915. Lansing (from the diaries) calls that camp 'Mark Time Camp' and says the name Patience Camp was given on 14 January 1916 after a 150-yard shift to cleaner ice.",
+  "When were the last dogs shot? South prints a diary extract dated April 2. Lansing, following Macklin's diary, puts the killing of Macklin's team and the pups on 30 March, straight after Wild shot the fish-filled sea leopard. Wikipedia follows 2 April.",
+  "Which sea leopard? South runs together the leopard that attacked 'one of the men' and the one with fish in its stomach. Lansing separates them: the attack on Orde-Lees at about New Year 1916 (stomach held hair balls), and the fish-filled leopard shot on 30 March. The date of the Orde-Lees attack rests on Lansing's sequence alone.",
+  "Longitudes at Patience Camp from 3 February to 9 April differ by up to 10' between sources. Worsley's later drift table (digitised by oldWeather) adds a westward correction rising to 10' 'in accordance with distant bearings of Joinville Land'; his raw log pages (Bergman & Stuart) are uncorrected, e.g. 9 April 53 56 W (log) vs 54 06 W (table). This file uses the corrected table and says so in each note.",
+  "The 2/3 April fix: the drift table gives 62 33 S on 2 April and 62 24.5 S on 3 April; Lansing attaches 62 33 S, 53 37 W to 3 April (McLeod's birthday).",
+  "Launch time on 9 April: South says the call came at 1 pm and the boats were a mile off at 2 pm; Worsley's log says '1.0 P.M. Launched boats 1.30 PM. Under way to 6.15 P.M.'; Bergman & Stuart's summary says launched 1:30 pm. Consistent, but which clock time to show is a choice.",
+  "South's dating in the boat chapter is internally one day loose: it names 'April 13' then describes two more nights before the landing it captions 15 April, and prints '6 p.m.' for the dawn distribution of stores on the 13th (evidently 6 a.m.). Landing on 15 April is confirmed by the log.",
+  "Caird position of 26 April (see corrections): 59 46 S, 50 48 W as carried in the log vs. DR 58 42 S, 52 17 W vs. Lansing's 59 46 S, 52 18 W. A latitude of 59 46 only 14 miles north of the previous noon is hard to square with 110 miles logged; Bergman et al. discuss the reworking. Flagged low confidence.",
+  "Time of the Caird's landing: Worsley's log says 5 PM; South says dusk and that the meal in the cave was over 'about 8 p.m.'. Some retellings give the landing as 10 May evening, others (wrongly) as the 8th.",
+  "Start of the crossing: South says turned out at 2 am, hoosh ready an hour later, 'made a start as soon as we had eaten' (about 3 am). Worsley, via Lansing, says 3:10 am. Wikipedia says 2 am weather check, start an hour later.",
+  "How many gaps in the Trident ridge? South describes three approaches (11 am; after 12:30; and the one they descended). Worsley's later accounts and Lansing count four, the slide being from the fourth. Arrival at Stromness: South gives no time ('36 hours'); Worsley says about 4 pm; 3 pm is also commonly printed.",
+  "Whistle: South says Shackleton thought he heard it at 6:30 and all three heard the 7:00 whistle. Some retellings give only 6:30 or only 7:00.",
+  "Southern Sky sailing: South says she was ready Tuesday morning 23 May and left at nine; Wikipedia says she was ready on 22 May. How close she got: 'about 70 miles' (South); no coordinates found.",
+  "Instituto de Pesca No. 1 dates: South says she was at Port Stanley on 10 June and 'we started south at once', sighting the island on the third day; Lansing says she returned six days after sailing. Other secondary accounts (not verified here) have her arriving at Stanley 16 June, sailing 17 June and returning about 25 June. Distance: 'within twenty miles' (South).",
+  "Emma's return: the digitised log has her anchored at Port Stanley at 23:00 on 3 August; South prints 'We reached Port Stanley in the schooner on August 8'; Lansing also has 'It was now August 3'. The log is preferred. Closest approach: 'within a hundred miles' at dawn 21 July and 108 miles at noon 22 July (South); Lansing says never closer than 100 miles.",
+  "Clock time of the rescue on 30 August: South says the camp was sighted at 11.40 a.m.; Worsley's Yelcho log (in Lansing) says 'Sight the Camp to SW' at 1.10 PM; the islanders were sitting down to lunch (about 12:45-13:00). The 90-minute gap looks like ship's time (Punta Arenas) versus the island party's own clock, but no source says so.",
+  "Yelcho's call at Ushuaia: the digitised log puts 'Usbiwayo, anchored' under 25 August with out-of-order hours, while the 26 August noon position is still at 70 24 W. Spanish-language accounts mention the Beagle Channel and coaling at Picton but not Ushuaia. Unresolved.",
+  "Crews of the three boats on 9 April: South gives James Caird 'Wild and eleven men' with Shackleton (13) and Dudley Docker Worsley 'with nine men' (10), leaving 5 for the Stancomb Wills by subtraction; South does not state her crew, so the split is not fully verified.",
+  "Number of dogs: no source consulted gives a head-count after October 1915. Lansing says 49 huskies were taken off the ship on 27 October; the teams were shot on 14 Jan (four teams), 16 Jan (one) and 30 Mar/2 Apr (two).",
+  "Date the hut on Elephant Island was finished: South gives none; Lansing's sequence puts it about 28-29 April, with the last tent-dwellers moving in on 30 April."
+ ]
+}

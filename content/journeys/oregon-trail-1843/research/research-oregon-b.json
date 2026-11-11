@@ -1,0 +1,2786 @@
+{
+ "spine": "Fort Hall to Fort Walla Walla (28 Aug - 10 Oct 1843) follows James W. Nesmith's diary day by day, because it is the only complete daily record with mileages. Nesmith travelled with Cooper's wagon in the leading group: he is a day behind Burnett at Fort Hall, a day ahead at Fort Boise, and by the Blue Mountains he is with the front axemen, reaching Whitman's on 6 Oct and the fort on 8 Oct, four to eight days ahead of the main body (Burnett and Newby: Whitman's 10-14 Oct, fort 16 Oct). Cross-dates for the main body from Burnett and Newby are given in the notes and as separate rows tagged [main body]. On 9 Oct Nesmith trades his wagon for a horse and leaves the wagons for good. From 10 Oct the itinerary follows the main body: laid by near Waiilatpu, Fort Walla Walla 16-17 Oct, then the larger wagon portion down the south bank of the Columbia to The Dalles, dated from Fremont's Report (he rode the fresh wagon track 28 Oct - 4 Nov and noted where emigrant wagons were camped), then rafts to the Cascades, the portage, Fort Vancouver and Oregon City, dated from Fremont, Burnett's and Gilmore's letters, Newby, and Johnson & Winter. No wagon diary exists for Fort Walla Walla to The Dalles, so those rows are sparse and several are estimates. Nesmith's own continuation by pack horse and canoe (11-27 Oct) is kept as rows whose note begins \"[side track: Nesmith pack party]\"; drop those rows if a single marker is wanted. The Applegate boat party appears as rows tagged [boat party] and in moments and timedBeats. Every note begins with the party the date belongs to.",
+ "itinerary": [
+  {
+   "date": "1843-08-27",
+   "localTime": null,
+   "place": "Fort Hall",
+   "modernName": "Fort Hall site, Fort Hall Indian Reservation, Idaho",
+   "lat": 43.0206,
+   "lon": -112.635,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[main body] Burnett dates the arrival of his part of the train 27 Aug: 235 miles from Fort Bridger in 13 days. Placed at the Fort Hall site marker on the Snake River bottoms.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-28",
+   "localTime": null,
+   "place": "Fort Hall",
+   "modernName": "Fort Hall site, Idaho",
+   "lat": 43.0206,
+   "lon": -112.635,
+   "event": "arrives",
+   "milesToday": 12,
+   "note": "[Nesmith] \"Trailed twelve miles to-day and arrived at Fort Hall, Where we remained until Friday, September 1.\" Trading with Richard Grant at high prices. Part of the company goes on with pack animals, leaving wagons.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-29",
+   "localTime": null,
+   "place": "Fort Hall",
+   "modernName": "Fort Hall site, Idaho",
+   "lat": 43.0206,
+   "lon": -112.635,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[Nesmith / Newby] Lay-by. Newby: \"a good rain, the first rain we hav had for the last 5 weeks\"; he also records Whitman leaving ahead this day with his nephew and J. B. McClane (see openQuestions).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-30",
+   "localTime": null,
+   "place": "Fort Hall",
+   "modernName": "Fort Hall site, Idaho",
+   "lat": 43.0206,
+   "lon": -112.635,
+   "event": "departs",
+   "milesToday": null,
+   "note": "[main body] Burnett: \"On the 30th of August we quitted Fort Hall, many of our young men having left us with pack-trains.\" Nesmith's wagon stays two more days.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-31",
+   "localTime": null,
+   "place": "Fort Hall",
+   "modernName": "Fort Hall site, Idaho",
+   "lat": 43.0206,
+   "lon": -112.635,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[Nesmith / Newby] Mr. Richardson dies and is buried at Fort Hall. Cold rain for the third day.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-01",
+   "localTime": null,
+   "place": "Snake River below Fort Hall",
+   "modernName": "Snake River above American Falls (now American Falls Reservoir), Idaho",
+   "lat": 42.8,
+   "lon": -112.84,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "[Nesmith] \"Got under way this morning. Weather very cold and rainy.\" 15 miles down the Snake; \"Passed some fine mill sites.\" Camp placed 15 trail miles below the fort, just above American Falls; estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-02",
+   "localTime": null,
+   "place": "small branch six miles from the river (past American Falls)",
+   "modernName": "Raft River crossing area, Cassia County, Idaho",
+   "lat": 42.573,
+   "lon": -113.233,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "[Nesmith] \"Road very rough to-day. Broke our wagon tongue.\" Passed American Falls (42.78, -112.88) this day. Camp placed at the Raft River crossing by back-counting his mileages from Rock Creek; estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-03",
+   "localTime": null,
+   "place": "small branch with excellent grass",
+   "modernName": "Marsh Creek near Declo, Idaho",
+   "lat": 42.52,
+   "lon": -113.6,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "[Nesmith] \"Trailed sixteen miles without wood, water or grass.\" The dry stretch west of Raft River fits Marsh Creek; estimate. The California road later left the Oregon road at Raft River.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-04",
+   "localTime": null,
+   "place": "bank of Snake River",
+   "modernName": "Snake River near Milner, Idaho",
+   "lat": 42.52,
+   "lon": -113.95,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "[Nesmith] Ten miles to the river, nooned, then down it. \"The river here assumes a broad, placid, and beautiful appearance.\" Placed by mileage; estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-05",
+   "localTime": "14:00",
+   "place": "creek with water in holes",
+   "modernName": "Dry Creek near Murtaugh, Idaho",
+   "lat": 42.49,
+   "lon": -114.16,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[Nesmith] \"Stopped about 2:00 o'clock and lay by in the afternoon, as it was raining.\" Two lodges of Nez Perces returning from Fort Hall to Walla Walla camp nearby. Placed eight miles east of Rock Creek; estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-06",
+   "localTime": null,
+   "place": "Rock Creek crossing (in the canyon)",
+   "modernName": "Rock Creek crossing, south-west of Twin Falls, Idaho",
+   "lat": 42.545,
+   "lon": -114.49,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "[Nesmith] Eight miles to Rock Creek, eight down it; \"Encamped in the canyon at the crossing\". Rainy evening. Placed at the Oregon Trail crossing of Rock Creek canyon.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-07",
+   "localTime": null,
+   "place": "Snake River ten miles above Salmon Falls",
+   "modernName": "Snake River near Buhl / Thousand Springs, Idaho",
+   "lat": 42.67,
+   "lon": -114.72,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "[Nesmith] Twenty miles \"over a country destitute of grass\". Burnett's division reaches Salmon Falls itself this day and buys salmon from the Shoshone (\"one ball and one charge of powder for each dried fish\").",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-08",
+   "localTime": null,
+   "place": "creek near Salmon Falls",
+   "modernName": "Salmon Falls Creek mouth, near Hagerman, Idaho",
+   "lat": 42.71,
+   "lon": -114.855,
+   "event": "camp",
+   "milesToday": 5,
+   "note": "[Nesmith] Short move to grass; he buys salmon at the falls. \"Had a fight in camp this evening. Old Zachary stabbed Mr. Wheeler with his knife.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-09",
+   "localTime": null,
+   "place": "big bluff without grass, below Salmon Falls",
+   "modernName": "south-bank bluffs between Hagerman and Glenns Ferry, Idaho",
+   "lat": 42.9,
+   "lon": -115.17,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "[Nesmith] Passed the falls (Upper Salmon Falls, about 42.77, -114.90). \"White's ox fell down the bluff and broke his neck.\" Placed eight miles above the island crossing.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-10",
+   "localTime": null,
+   "place": "island in Snake River (the upper crossing)",
+   "modernName": "Three Island Crossing, Glenns Ferry, Idaho",
+   "lat": 42.944,
+   "lon": -115.317,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "[Nesmith] \"Traveled eight miles. Encamped on an island in the river.\" Burnett's division fords the Snake this same day. Placed at Three Island Crossing State Park.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-11",
+   "localTime": null,
+   "place": "north bank of Snake River, dry branch",
+   "modernName": "north of Glenns Ferry, Idaho",
+   "lat": 42.99,
+   "lon": -115.34,
+   "event": "crossing",
+   "milesToday": 4,
+   "note": "[Nesmith] \"Crossed the river this morning without difficulty. Trailed four miles.\" Wagons were chained together in a line for the ford (Newby, Ford, Fremont).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-12",
+   "localTime": "12:00",
+   "place": "small creek north of the crossing",
+   "modernName": "between Glenns Ferry and Mountain Home, Idaho",
+   "lat": 43.04,
+   "lon": -115.4,
+   "event": "camp",
+   "milesToday": 5,
+   "note": "[Nesmith] \"detained in camp this morning until 12:00 o'clock in consequence of an ox running off.\" Five miles in the afternoon. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-13",
+   "localTime": "12:00",
+   "place": "Hot Spring",
+   "modernName": "hot springs east of Mountain Home, Idaho",
+   "lat": 43.13,
+   "lon": -115.53,
+   "event": "at",
+   "milesToday": 15,
+   "note": "[Nesmith] \"Passed the Hot Spring about noon. Water almost boiling. Camped on a small branch.\" Burnett passes the same \"Boiling Spring\" on the 14th: \"hot enough to cook an egg\". Coordinates are the Hot Springs Creek area on the trail; approximate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-14",
+   "localTime": null,
+   "place": "small creek",
+   "modernName": "Canyon Creek, north of Mountain Home, Idaho",
+   "lat": 43.27,
+   "lon": -115.73,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "[Nesmith] Eight miles, then \"lay by at a small creek in the afternoon. Weather fine.\" Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-15",
+   "localTime": null,
+   "place": "small branch eight miles west of the deep hole spring",
+   "modernName": "Indian Creek / Blacks Creek area, south-east of Boise, Idaho",
+   "lat": 43.44,
+   "lon": -116,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "[Nesmith] Twenty rough miles; Nesmith walks all day after losing his horse. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-09-16",
+   "localTime": null,
+   "place": "Boise River",
+   "modernName": "Boise River at Boise, Idaho",
+   "lat": 43.6,
+   "lon": -116.23,
+   "event": "arrives",
+   "milesToday": 18,
+   "note": "[Nesmith] \"the country not quite so rough ... Very little stone or sage. Encamped at night on Boise River.\" The road comes in over Bonneville Point (43.50, -116.04).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-17",
+   "localTime": null,
+   "place": "south bank of Boise River",
+   "modernName": "Boise River near Star, Idaho",
+   "lat": 43.66,
+   "lon": -116.5,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "[Nesmith] Down the south side. Shoshone come daily to sell dried salmon.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-18",
+   "localTime": null,
+   "place": "Boise River crossing",
+   "modernName": "Boise River between Caldwell and Notus, Idaho",
+   "lat": 43.7,
+   "lon": -116.76,
+   "event": "crossing",
+   "milesToday": 13,
+   "note": "[Nesmith] Ten miles down, crossed, three miles down the north side. \"Find the grass tolerably good on Boise River.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-19",
+   "localTime": null,
+   "place": "Fort Boise",
+   "modernName": "Old Fort Boise site, near Parma, Idaho",
+   "lat": 43.822,
+   "lon": -117.022,
+   "event": "arrives",
+   "milesToday": 10,
+   "note": "[Nesmith] Wagons arrive in the afternoon; a north-west gale makes the Snake ford impossible. Evening with Francois Payette \"and had a dance\". Placed at the Old Fort Boise site at the mouth of the Boise River.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-20",
+   "localTime": null,
+   "place": "Snake River ford below Fort Boise",
+   "modernName": "Snake River at Old Fort Boise, Idaho/Oregon line",
+   "lat": 43.82,
+   "lon": -117.035,
+   "event": "crossing",
+   "milesToday": 1,
+   "note": "[Nesmith] \"Crossed the river this afternoon without any difficulty, water being about four feet six inches deep.\" Burnett arrives at the fort this day (273 miles from Fort Hall in 21 days) and fords on the 21st; Newby camps a mile above the fort on the 21st and fords on the 23rd.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-21",
+   "localTime": null,
+   "place": "Malheur Creek",
+   "modernName": "Malheur River hot springs, Vale, Oregon",
+   "lat": 43.982,
+   "lon": -117.238,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[Nesmith] \"encamped on a creek called Malheur. Warm spring on the bank.\" Placed at the Vale hot springs crossing.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-22",
+   "localTime": null,
+   "place": "small stream",
+   "modernName": "Birch Creek, south of Farewell Bend, Oregon",
+   "lat": 44.21,
+   "lon": -117.28,
+   "event": "camp",
+   "milesToday": 17,
+   "note": "[Nesmith] \"Trailed seventeen miles and encamped on a small stream. Country very rough.\" Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-23",
+   "localTime": null,
+   "place": "Burnt River",
+   "modernName": "Burnt River near Huntington, Oregon",
+   "lat": 44.35,
+   "lon": -117.27,
+   "event": "camp",
+   "milesToday": 9,
+   "note": "[Nesmith] Five miles to the last sight of the Snake (Farewell Bend, 44.305, -117.225), four more to Burnt River. \"Killed a beef in the evening. Provisions getting scarce.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-09-24",
+   "localTime": null,
+   "place": "Burnt River canyon",
+   "modernName": "Burnt River canyon near Lime, Oregon",
+   "lat": 44.45,
+   "lon": -117.33,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "[Nesmith] \"Trailed ten miles over the roughest country I ever saw.\" Burnett reaches Burnt River this day.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-25",
+   "localTime": null,
+   "place": "head of the left-hand fork of Burnt River",
+   "modernName": "near Durkee, Oregon",
+   "lat": 44.58,
+   "lon": -117.46,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "[Nesmith] Passed the forks; ate black haws beside a grove of Balm of Gilead.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-26",
+   "localTime": null,
+   "place": "where the trail leaves Burnt River",
+   "modernName": "near Pleasant Valley, Baker County, Oregon",
+   "lat": 44.69,
+   "lon": -117.62,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "[Nesmith] Passed another fork \"with an Indian village close by\". Camp near a spring.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-27",
+   "localTime": null,
+   "place": "the Lone Pine, Powder River valley",
+   "modernName": "Baker Valley north of Baker City, Oregon",
+   "lat": 44.86,
+   "lon": -117.81,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[Nesmith / Burnett] Over the divide (Flagstaff Hill, 44.814, -117.729) to the lone pine. Drizzle; new snow on the mountains. The tree was felled for firewood that day before Burnett drove in at dark. Site approximate; the tree is gone.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-28",
+   "localTime": null,
+   "place": "third fork of Powder River",
+   "modernName": "North Powder, Oregon",
+   "lat": 45.03,
+   "lon": -117.92,
+   "event": "camp",
+   "milesToday": 14,
+   "note": "[Nesmith] \"Had a fine view of the snow-topped mountains through the clouds. Raining below them.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-29",
+   "localTime": null,
+   "place": "Grande Ronde",
+   "modernName": "Grande Ronde Valley at the foot of Ladd Hill, near La Grande, Oregon",
+   "lat": 45.27,
+   "lon": -118.02,
+   "event": "arrives",
+   "milesToday": 16,
+   "note": "[Nesmith] \"Had some difficulty in entering the Ronde in consequence of the big hill which it was necessary for us to descend.\" Placed at the foot of the Ladd Canyon descent.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-09-30",
+   "localTime": null,
+   "place": "foot of the Blue Mountains, west side of Grande Ronde",
+   "modernName": "La Grande, Oregon",
+   "lat": 45.318,
+   "lon": -118.1,
+   "event": "camp",
+   "milesToday": 6,
+   "note": "[Nesmith] Six miles across the valley, then lay by for the afternoon. Newby's rear division is still at the Lone Pine this day: \"The tree is cut down.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-01",
+   "localTime": null,
+   "place": "dry creek in a deep ravine, Blue Mountains",
+   "modernName": "west of Hilgard, Oregon",
+   "lat": 45.37,
+   "lon": -118.29,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[Nesmith] \"Started over the mountain's.\" Mrs. Rubey, who died at Grande Ronde, is buried this day. Burnett's division enters the Grande Ronde on 1 Oct and climbs out on the 2nd. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-02",
+   "localTime": null,
+   "place": "small stream of good water, Blue Mountains",
+   "modernName": "near Meacham, Oregon",
+   "lat": 45.51,
+   "lon": -118.42,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[Nesmith] \"bad roads, in many places timber to be cut. I went in advance and cut timber all day.\" Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-03",
+   "localTime": "10:00",
+   "place": "west side of a very bad ravine",
+   "modernName": "near Emigrant Springs, Oregon",
+   "lat": 45.54,
+   "lon": -118.46,
+   "event": "camp",
+   "milesToday": 3,
+   "note": "[Nesmith] Oxen lost in the pine thickets; \"Started about ten o'clock. Trailed about three miles.\" Weather since Grande Ronde \"fine, warm and mild. Nights rather cool.\" Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-04",
+   "localTime": null,
+   "place": "Umatilla River, near Cayuse lodges",
+   "modernName": "Umatilla River near Cayuse / Mission, Oregon",
+   "lat": 45.672,
+   "lon": -118.6,
+   "event": "arrives",
+   "milesToday": 15,
+   "note": "[Nesmith] \"Weather stormy; rain and hail.\" Twelve miles down the west slope to the Umatilla, three miles down it. Two Cayuse bulls charge Cooper's team and break his fore axle. The first wagons are over the Blue Mountains.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-05",
+   "localTime": "12:00",
+   "place": "on the trail to Dr. Whitman's",
+   "modernName": "near Athena, Oregon",
+   "lat": 45.78,
+   "lon": -118.52,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "[Nesmith] Morning lost hunting stock among the Cayuse horse herds; \"Started about noon\". Sticcas camps with them. Burnett's division, a day or two behind, has a snow storm on the mountain this morning.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-06",
+   "localTime": "14:00",
+   "place": "Dr. Whitman's (Waiilatpu)",
+   "modernName": "Whitman Mission National Historic Site, Walla Walla, Washington",
+   "lat": 46.042,
+   "lon": -118.463,
+   "event": "arrives",
+   "milesToday": 20,
+   "note": "[Nesmith] With the carriages \"to Dr. Whitman's, where we arrived about two o'clock. We purchased one bushel of potatoes and a peck of corn, they having no flour.\" Camps four miles on toward the fort. Rain and mist until evening.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-07",
+   "localTime": "15:00",
+   "place": "Walla Walla River",
+   "modernName": "Walla Walla River near Touchet, Washington",
+   "lat": 46.05,
+   "lon": -118.76,
+   "event": "camp",
+   "milesToday": null,
+   "note": "[Nesmith] \"followed down the Walla Walla until 3 o'clock\". Buys camas, corn and potatoes from Cayuse neighbours. Estimate: three hours short of the fort.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-08",
+   "localTime": null,
+   "place": "Fort Walla Walla (Fort Nez Perces)",
+   "modernName": "Wallula, Washington (fort site under Lake Wallula)",
+   "lat": 46.085,
+   "lon": -118.908,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[Nesmith] Reached the Hudson's Bay fort in three hours. \"At the fort we could procure no eatables.\" Camped two miles below, under the bluff near the Twin Sisters rocks, to wait for Monday.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-09",
+   "localTime": null,
+   "place": "camp two miles below Fort Walla Walla",
+   "modernName": "Wallula Gap (Twin Sisters), Washington",
+   "lat": 46.055,
+   "lon": -118.935,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[Nesmith] Trades the wagon and harness to Archibald McKinlay for a horse, \"concluding to pack from here on\". From here Nesmith is no longer with the wagons.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-10",
+   "localTime": null,
+   "place": "three miles from Dr. Whitman's",
+   "modernName": "near Whitman Mission, Walla Walla, Washington",
+   "lat": 46.03,
+   "lon": -118.42,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[main body] Burnett: \"On the 10th of October we arrived within three miles of Doctor Whitman's mission and remained in camp until the 14th.\" Newby lays by at the same place to buy provisions. Nesmith, at the fort, notes \"Some wagons arrive from Dr. Whitman's this evening.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-10",
+   "localTime": null,
+   "place": "camp two miles below Fort Walla Walla",
+   "modernName": "Wallula Gap (Twin Sisters), Washington",
+   "lat": 46.055,
+   "lon": -118.935,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[side track: Nesmith pack party] Delivers the wagon to the fort, collects the horse, makes two pack-saddles with Otey. \"Some wagons arrive from Dr. Whitman's this evening. Night quite cool.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-11",
+   "localTime": null,
+   "place": "three miles from Dr. Whitman's",
+   "modernName": "near Whitman Mission, Walla Walla, Washington",
+   "lat": 46.03,
+   "lon": -118.42,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[main body] Laid by buying wheat, potatoes, beef and pork from the mission (William Geiger in charge; Whitman absent).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-11",
+   "localTime": "08:00",
+   "place": "near Windmill Rock",
+   "modernName": "Columbia River south bank near Hat Rock, Oregon",
+   "lat": 45.915,
+   "lon": -119.17,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "[side track: Nesmith pack party] \"packed all our effects on two mules and started about eight o'clock\". Not a tree in sight all day. Windmill Rock identified here with Hat Rock; uncertain.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-12",
+   "localTime": null,
+   "place": "three miles from Dr. Whitman's",
+   "modernName": "near Whitman Mission, Walla Walla, Washington",
+   "lat": 46.03,
+   "lon": -118.42,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[main body] Laid by (Burnett).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-12",
+   "localTime": null,
+   "place": "Columbia River, sandy plain",
+   "modernName": "near Irrigon / Boardman, Oregon",
+   "lat": 45.87,
+   "lon": -119.6,
+   "event": "camp",
+   "milesToday": 25,
+   "note": "[side track: Nesmith pack party] Meets Mr. McDonald's party bound from Fort Vancouver to Fort Hall, who warn that Indians robbed five men three days earlier. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-13",
+   "localTime": null,
+   "place": "three miles from Dr. Whitman's",
+   "modernName": "near Whitman Mission, Walla Walla, Washington",
+   "lat": 46.03,
+   "lon": -118.42,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[main body] Laid by (Burnett).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-13",
+   "localTime": "08:00",
+   "place": "ravine with willows",
+   "modernName": "near Arlington, Oregon",
+   "lat": 45.75,
+   "lon": -120.1,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "[side track: Nesmith pack party] \"Warm days and cool, moonlight nights.\" Camp hidden in a ravine. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-14",
+   "localTime": null,
+   "place": "Walla Walla River road",
+   "modernName": "Walla Walla River west of Walla Walla, Washington",
+   "lat": 46.045,
+   "lon": -118.55,
+   "event": "departs",
+   "milesToday": null,
+   "note": "[main body] Burnett's camp breaks up on the 14th for the 25-mile drive down the Walla Walla River to the fort.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-14",
+   "localTime": null,
+   "place": "Columbia River",
+   "modernName": "near Blalock / Quinton, Oregon",
+   "lat": 45.7,
+   "lon": -120.45,
+   "event": "camp",
+   "milesToday": 25,
+   "note": "[side track: Nesmith pack party] Buys salmon from a Cayuse for powder and ball. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-15",
+   "localTime": null,
+   "place": "bluff trail above the Columbia",
+   "modernName": "between John Day River mouth and Deschutes River, Oregon",
+   "lat": 45.66,
+   "lon": -120.83,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "[side track: Nesmith pack party] Crossed \"a small stream\" (John Day River) and a pack trail \"100 feet above the Columbia\". Estimate: four miles short of the Deschutes.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-16",
+   "localTime": null,
+   "place": "Fort Walla Walla (Fort Nez Perces)",
+   "modernName": "Wallula, Washington",
+   "lat": 46.085,
+   "lon": -118.908,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[main body] Burnett and Newby both date their arrival 16 Oct. Burnett: 202 miles from Fort Boise in 24 days; 1,691 miles from the rendezvous in 147 days, \"Average distance per day, eleven and one-half miles.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-16",
+   "localTime": null,
+   "place": "Methodist Mission at The Dalles",
+   "modernName": "The Dalles, Oregon",
+   "lat": 45.6,
+   "lon": -121.186,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] Four miles to the Deschutes ford, two Indian guides hired; \"Just below we passed the Dalles ... Arrived at the Methodist Mission in the evening.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-17",
+   "localTime": null,
+   "place": "Fort Walla Walla",
+   "modernName": "Wallula, Washington",
+   "lat": 46.085,
+   "lon": -118.908,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[main body] Newby: \"We lay buy. Thare was some 25 finuly swaped thare cattle for cattl in the Walammet Valley & tuck water.\" The train divides here: boats, or wagons on to The Dalles.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-17",
+   "localTime": null,
+   "place": "Methodist Mission at The Dalles",
+   "modernName": "The Dalles, Oregon",
+   "lat": 45.6,
+   "lon": -121.186,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[side track: Nesmith pack party] Looking for canoe timber. \"Weather drizzly.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-18",
+   "localTime": null,
+   "place": "south bank of the Columbia below Wallula",
+   "modernName": "Wallula Gap, Washington/Oregon",
+   "lat": 46,
+   "lon": -118.98,
+   "event": "departs",
+   "milesToday": null,
+   "note": "[main body, wagons] The larger part starts down the south bank with wagons and stock, making the first wagon track to The Dalles. No wagon diary survives for this stretch; departure date is an estimate from the 16-17 Oct lay-by.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Page:Oregon_Historical_Quarterly_volume_16.djvu/167",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-18",
+   "localTime": null,
+   "place": "Methodist Mission at The Dalles",
+   "modernName": "The Dalles, Oregon",
+   "lat": 45.6,
+   "lon": -121.186,
+   "event": "at",
+   "milesToday": 0,
+   "note": "[side track: Nesmith pack party] \"I swapped my horse for a Chinook canoe.\" Five or six more men arrive from above.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-19",
+   "localTime": "14:00",
+   "place": "Columbia River below The Dalles",
+   "modernName": "near Rowena, Oregon",
+   "lat": 45.66,
+   "lon": -121.26,
+   "event": "camp",
+   "milesToday": 5,
+   "note": "[side track: Nesmith pack party] \"started about two o'clock with an Indian pilot. Went five miles and camped.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-20",
+   "localTime": null,
+   "place": "north bank of the Columbia",
+   "modernName": "near Wind River / Home Valley, Washington",
+   "lat": 45.71,
+   "lon": -121.75,
+   "event": "camp",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] \"Paddled down the river all day; scenery wild and romantic.\" Camp with Indians on the north side. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-21",
+   "localTime": "10:00",
+   "place": "the Cascades",
+   "modernName": "Cascade Locks, Oregon",
+   "lat": 45.668,
+   "lon": -121.895,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] \"Arrived at the Cascades about ten o'clock. Spent the balance of the day in making the portage.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-22",
+   "localTime": null,
+   "place": "north bank below the Cascades",
+   "modernName": "near Skamania, Washington",
+   "lat": 45.61,
+   "lon": -122.04,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "[side track: Nesmith pack party] The Indian pilots run the rapids; the men walk round. Headwind stops them after eight miles.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-23",
+   "localTime": null,
+   "place": "north bank of the Columbia",
+   "modernName": "near Cape Horn / Washougal, Washington",
+   "lat": 45.57,
+   "lon": -122.28,
+   "event": "camp",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] High south-east wind; sail hoisted. Three of the party miss the trail and walk twenty miles; Nesmith waits reading \"Merry Wives of Windsor\" and finds their fire after dark. Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-24",
+   "localTime": null,
+   "place": "Dr. Whitman's (Waiilatpu)",
+   "modernName": "Whitman Mission NHS, Washington",
+   "lat": 46.042,
+   "lon": -118.463,
+   "event": "at",
+   "milesToday": null,
+   "note": "[rear families, seen by Fremont] Fremont, reaching the mission on 24 Oct, finds Whitman away at The Dalles and \"a fine-looking large family of emigrants ... in robust health, all indemnifying themselves for previous scanty fare in a hearty consumption of potatoes\".",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-24",
+   "localTime": "12:00",
+   "place": "Fort Vancouver",
+   "modernName": "Vancouver, Washington",
+   "lat": 45.6256,
+   "lon": -122.6562,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] At the Hudson's Bay mill seven miles above the fort \"at twelve o'clock\" they meet Waters, Tharp, Marten and Smith \"taking up a barge to bring the families down from the Mission\". Dinner from Dr. McLoughlin; camp a mile below the fort.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-25",
+   "localTime": null,
+   "place": "above the mouth of the Willamette",
+   "modernName": "Columbia River near Kelley Point, Portland, Oregon",
+   "lat": 45.64,
+   "lon": -122.75,
+   "event": "camp",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] \"Took the wrong track.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-26",
+   "localTime": null,
+   "place": "Fort Walla Walla",
+   "modernName": "Wallula, Washington",
+   "lat": 46.085,
+   "lon": -118.908,
+   "event": "at",
+   "milesToday": null,
+   "note": "[boat party] Fremont arrives and finds \"a considerable body of emigrants, under the direction of Mr. Applegate\" with their Mackinaw boats nearly finished; several hundred cattle already exchanged for California cattle to be received at Vancouver. Latitude by his observation 46 deg 03 min 46 sec.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-26",
+   "localTime": null,
+   "place": "Willamette River",
+   "modernName": "lower Willamette River, Portland, Oregon",
+   "lat": 45.5,
+   "lon": -122.66,
+   "event": "camp",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] \"Met the schooner Pallas. Camped on the north side of the Willamette.\" Estimate.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-10-27",
+   "localTime": null,
+   "place": "Oregon City at the falls of the Willamette",
+   "modernName": "Oregon City, Oregon",
+   "lat": 45.357,
+   "lon": -122.607,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[side track: Nesmith pack party] \"Arrived at Oregon City at the falls of the Willamette.\" Next day's entry, the last: \"Went to work.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-10-28",
+   "localTime": null,
+   "place": "Columbia River below Fort Walla Walla",
+   "modernName": "Columbia River below Wallula Gap, Oregon/Washington",
+   "lat": 45.95,
+   "lon": -119.05,
+   "event": "departs",
+   "milesToday": null,
+   "note": "[boat party] Fremont, toiling down the south bank the day he left the fort, sees \"Mr. Applegate's fleet of boats, which suddenly came gliding swiftly down the broad river\". Date is Fremont's first day out (28 Oct by his sequence).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-10-29",
+   "localTime": null,
+   "place": "Umatilla River mouth",
+   "modernName": "Umatilla, Oregon",
+   "lat": 45.917,
+   "lon": -119.345,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "[main body, wagons] The wagon road crosses the Umatilla \"at a fall near its mouth\" (Fremont, 29 Oct, following the emigrant wagon track a few days behind its rear).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-11-02",
+   "localTime": "12:00",
+   "place": "John Day's River",
+   "modernName": "John Day River a few miles above its mouth, Oregon",
+   "lat": 45.68,
+   "lon": -120.6,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "[main body, rear wagons] Fremont at noon: \"Some of the emigrants had encamped on the river, and others at the summit of the farther hill, the ascent of which had probably cost their wagons a day's labor; and others again had halted for the night a few miles beyond, where they had slept without water.\" Crossing point approximate (inland of the mouth).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-11-03",
+   "localTime": null,
+   "place": "Fall River (Riviere aux Chutes) ford",
+   "modernName": "Deschutes River mouth, Oregon",
+   "lat": 45.633,
+   "lon": -120.912,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "[main body, rear wagons] The ford at the mouth of the Deschutes; Indians were hired as guides (Nesmith on 16 Oct, Fremont on 3 Nov). A band here had robbed 14 emigrant men of their horses a few days before (Fremont).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-11-04",
+   "localTime": null,
+   "place": "Methodist Mission at The Dalles (Wascopam)",
+   "modernName": "The Dalles, Oregon",
+   "lat": 45.6,
+   "lon": -121.186,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[main body, rear wagons] End of the wagon road. Fremont, arriving 4 Nov: \"The last of the emigrants had just left the Dalles at the time of our arrival, traveling some by water and others by land, making ark-like rafts\". Ninevah Ford claimed the first wagon to reach The Dalles (undated, late October).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-11-05",
+   "localTime": null,
+   "place": "Columbia River below The Dalles",
+   "modernName": "Columbia River near Mosier / Hood River, Oregon",
+   "lat": 45.7,
+   "lon": -121.45,
+   "event": "departs",
+   "milesToday": null,
+   "note": "[main body] Rafts of dry pine logs, six or eight logs 20 feet long, carry wagon beds, running gear and families toward the Cascades; stock is swum to the north bank about 15 miles below The Dalles and driven along the trail (Ford, Arthur).",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-11-07",
+   "localTime": null,
+   "place": "the Cascades (lower end of the portage)",
+   "modernName": "Cascade Locks, Oregon / North Bonneville, Washington",
+   "lat": 45.645,
+   "lon": -121.94,
+   "event": "at",
+   "milesToday": null,
+   "note": "[main body] Fremont, running the Lower Rapids on 7 Nov: \"On a low broad point on the right bank of the river, at the lower end of these rapids, were pitched many tents of the emigrants, who were waiting here for their friends from above, or for boats and provisions which were expected from Vancouver.\" Arthur's company spent six days on the portage.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-11-08",
+   "localTime": null,
+   "place": "Fort Vancouver",
+   "modernName": "Fort Vancouver National Historic Site, Vancouver, Washington",
+   "lat": 45.6256,
+   "lon": -122.6562,
+   "event": "at",
+   "milesToday": null,
+   "note": "[main body] Fremont on the morning of 8 Nov: \"I found many American emigrants at the fort; others had already crossed the river into their land of promise--the Walahmette valley. Others were daily arriving\". Newby had arrived at noon on 4 Nov, Boardman on the 3rd.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/ebooks/41493"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-11-09",
+   "localTime": null,
+   "place": "Fort Vancouver",
+   "modernName": "Vancouver, Washington",
+   "lat": 45.6256,
+   "lon": -122.6562,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[Burnett] Burnett, having left his family at The Dalles, writes from Fort Vancouver on 10 Nov: \"I reached here on yesterday\". His 1880 memoir says \"about the 7th\".",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/41493",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-11-11",
+   "localTime": null,
+   "place": "Fort Vancouver",
+   "modernName": "Vancouver, Washington",
+   "lat": 45.6256,
+   "lon": -122.6562,
+   "event": "at",
+   "milesToday": null,
+   "note": "[main body] S. M. Gilmore writes from the fort: \"We were six months to-day, from the time we left home, in getting to this place\". \"A large portion of the emigrants have arrived, and the remainder will be here in a few days.\"",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/41493"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-11-13",
+   "localTime": null,
+   "place": "Oregon City (Willamette Falls)",
+   "modernName": "Oregon City, Oregon",
+   "lat": 45.357,
+   "lon": -122.607,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[Johnson & Winter] By skiff from Fort Vancouver, hauling the boat by cord through the Clackamas rapids. \"This was the 13th of November, 1843, and it was five months and nineteen days after we left Independence\". They add that the last of the emigrants arrived shortly after.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-11-26",
+   "localTime": null,
+   "place": "Fort Vancouver",
+   "modernName": "Vancouver, Washington",
+   "lat": 45.6256,
+   "lon": -122.6562,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[Burnett] Burnett brings his family down from The Dalles in a Hudson's Bay boat: \"I returned with my family to Fort Vancouver on the 26th of November, 1843\".",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-11-30",
+   "localTime": null,
+   "place": "Willamette Valley",
+   "modernName": "Oregon City, Oregon",
+   "lat": 45.357,
+   "lon": -122.607,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "[main body] Tallmadge Wood: \"the emigrants all arrived in the Valley between the Cascades & Pacific Ocean, about the last of November.\" Nominal end date for the emigration as a whole.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1843-08-28",
+   "localTime": null,
+   "title": "Fort Hall and its prices",
+   "body": "The wagons rolled in to the Hudson's Bay post on the Snake between 27 and 28 August and stayed three or four days. Richard Grant had little to sell and charged heavily for it. Nesmith wrote down the prices.",
+   "tags": [
+    "fort-hall",
+    "trade",
+    "hudsons-bay-company"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "He sells at an exhorbitant price; flour, 25 cents per pint; sugar, 50; coffee, 50; rice, 33⅓.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 28 August)"
+   }
+  },
+  {
+   "date": "1843-08-28",
+   "localTime": null,
+   "title": "Can wagons go on?",
+   "body": "No loaded wagon had ever gone beyond Fort Hall to the Columbia. Burnett asked Grant directly; Grant had only ridden the pack trail and doubted it. Whitman told the emigrants to keep their wagons, and most did.",
+   "tags": [
+    "fort-hall",
+    "decision",
+    "whitman",
+    "wagons"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://collver.org/family/doc/Emigration1843_3.htm"
+   ],
+   "quote": {
+    "text": "He replied that, while he would not say it was impossible for us Americans to make the trip in our wagons, he could not himself see how it could be done.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880)"
+   }
+  },
+  {
+   "date": "1843-08-29",
+   "localTime": null,
+   "title": "The packers go ahead",
+   "body": "Some of the young men traded or left their wagons and went on with pack animals. M. M. McCarver later said he rode from Fort Hall \"in company with some thirty persons, principally young men\" and reached the Willamette three weeks before the wagons' people. The first rain in five weeks fell on the camp.",
+   "tags": [
+    "fort-hall",
+    "packers"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/ebooks/41493",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-31",
+   "localTime": null,
+   "title": "A burial at Fort Hall",
+   "body": "A Mr. Richardson died at the fort of an old complaint and was buried on 31 August. Newby noted that he left a wife and two children.",
+   "tags": [
+    "death",
+    "fort-hall"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-01",
+   "localTime": null,
+   "title": "Whitman's light wagon and notes",
+   "body": "Whitman's own mess drove a light wagon ahead to leave a track. Where the ground was open he set up poles with written notes telling the trains how to go. Ninevah Ford remembered travelling \"by these notices from place to place\" all the way to the Grande Ronde.",
+   "tags": [
+    "whitman",
+    "road",
+    "navigation"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://collver.org/family/doc/Emigration1843_3.htm",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-02",
+   "localTime": null,
+   "title": "Sage and dust",
+   "body": "Below American Falls the road was rock and sagebrush two or three feet high. The leading wagons crushed it down for those behind, and lead teams were changed every day. The broken soil turned to powder.",
+   "tags": [
+    "snake-plain",
+    "sagebrush",
+    "dust"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "It was very soft on the surface and easily worked up into a most disagreeable dust, as fine as ashes or flour.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880)"
+   }
+  },
+  {
+   "date": "1843-09-05",
+   "localTime": null,
+   "title": "Gunpowder burns a packer",
+   "body": "A Mr. Wilson, who had sold his wagon and team at Fort Hall and was packing, set off a pound and a half of powder while striking a fire. Newby saw him two days later, badly burned, with a wife and two children; Mr. Mills took the family into his wagon.",
+   "tags": [
+    "accident",
+    "packers"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-07",
+   "localTime": null,
+   "title": "Salmon for powder and ball",
+   "body": "At Salmon Falls the Shoshone were spearing salmon in the shallow channels. The emigrants, short of food, bought fresh and dried fish. Burnett recorded the price as one ball and one charge of powder for each dried fish.",
+   "tags": [
+    "salmon-falls",
+    "shoshone",
+    "trade",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-08",
+   "localTime": null,
+   "title": "A stabbing in camp",
+   "body": "Tempers were short after two weeks of dust and thin rations. In Nesmith's camp near Salmon Falls an old man named Zachary knifed another emigrant.",
+   "tags": [
+    "violence",
+    "camp-life"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Had a fight in camp this evening. Old Zachary stabbed Mr. Wheeler with his knife.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 8 September)"
+   }
+  },
+  {
+   "date": "1843-09-10",
+   "localTime": null,
+   "title": "Chained wagons at the island ford",
+   "body": "At the upper crossing of the Snake the river spread round islands. The wagons were fastened together in a long line so their combined weight held against the current. Burnett's division crossed on the 10th and Nesmith's on the morning of the 11th.",
+   "tags": [
+    "three-island-crossing",
+    "river-crossing",
+    "snake-river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "quote": {
+    "text": "in crossing we killed a salmon weighing twenty-three pounds, one of our wagons running over it as it lay on the bottom of the pebbly stream.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880)"
+   }
+  },
+  {
+   "date": "1843-09-11",
+   "localTime": null,
+   "title": "A man lost at the crossing",
+   "body": "Miles Eyres, an Englishman, rode his mule off the shallow line of the ford into deep water and was drowned with the animal; Ninevah Ford named him \"Mr. Ayres\". Three weeks later Indians at the ford told Fremont that an emigrant turning cattle was carried off and drowned. Ford, driving alone behind the chained wagons, said Whitman threw him a rope and towed his team out.",
+   "tags": [
+    "three-island-crossing",
+    "death",
+    "drowning",
+    "whitman"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://freepages.rootsweb.com/~mransom/history/eyres.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-13",
+   "localTime": "12:00",
+   "title": "The boiling spring",
+   "body": "North of the crossing the road passed hot springs running off in a steaming branch. Nesmith passed about noon on the 13th and Burnett a day later. Burnett judged the water hot enough to cook an egg.",
+   "tags": [
+    "hot-springs",
+    "landmark"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-16",
+   "localTime": null,
+   "title": "Fremont a month behind",
+   "body": "On 16 September, while the wagons reached the Boise River, the Chiles party left Fort Hall for California. Fremont did not reach Fort Hall until 18-19 September, in falling snow, and found its provisions \"entirely exhausted by the necessities of the emigrants\". He followed the wagon track all the way to The Dalles.",
+   "tags": [
+    "fremont",
+    "california",
+    "fort-hall"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikipedia.org/wiki/Joseph_R._Walker"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-17",
+   "localTime": null,
+   "title": "Dried salmon on the Boise",
+   "body": "Along the Boise River, Shoshone came into camp each evening with dried salmon to sell. General McCarver's packers, ahead, took a split salmon on a pole for a red battle flag and formed up to fight before they saw it was a shop sign.",
+   "tags": [
+    "boise-river",
+    "shoshone",
+    "trade",
+    "food"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-19",
+   "localTime": null,
+   "title": "A dance at Fort Boise",
+   "body": "A north-west gale raised swells on the Snake and stopped the ford. Nesmith and Haggard spent the evening inside the little Hudson's Bay post with its master, Francois Payette, who came to the Columbia with the Astor venture.",
+   "tags": [
+    "fort-boise",
+    "hudsons-bay-company"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "We spent a pleasant evening in his company and had a dance.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 19 September)"
+   }
+  },
+  {
+   "date": "1843-09-20",
+   "localTime": null,
+   "title": "Second ford of the Snake",
+   "body": "Below Fort Boise the wagons crossed back to the west bank in about four and a half feet of water. Ford said they blocked the wagon beds up six inches on the standards to keep the loads dry. Nesmith crossed on the 20th, Burnett on the 21st, Newby on the 23rd.",
+   "tags": [
+    "fort-boise",
+    "river-crossing",
+    "snake-river"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-23",
+   "localTime": null,
+   "title": "Provisions getting scarce",
+   "body": "The road left the Snake for the last time at what is now Farewell Bend and turned up the Burnt River. Flour brought from Missouri was nearly gone. Nesmith's mess butchered one of its cattle.",
+   "tags": [
+    "burnt-river",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Killed a beef in the evening. Provisions getting scarce.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 23 September)"
+   }
+  },
+  {
+   "date": "1843-09-24",
+   "localTime": null,
+   "title": "Burnt River canyon",
+   "body": "For three days the wagons worked up a narrow canyon choked with brush and timber that there were too few hands to clear. Where the bank was blocked they drove in the stream bed. Fremont, following in October, saw where one wagon overturned twice in a short distance.",
+   "tags": [
+    "burnt-river",
+    "road"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://collver.org/family/doc/Emigration1843_3.htm",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "quote": {
+    "text": "Trailed ten miles over the roughest country I ever saw, Burnt River being hemmed in by hills on both sides.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 24 September)"
+   }
+  },
+  {
+   "date": "1843-09-27",
+   "localTime": null,
+   "title": "The Lone Pine cut down",
+   "body": "A single tall pine in the Powder River valley had guided travellers for years. Burnett watched it as he drove; near dark he looked up and it was gone. Emigrants ahead of him had felled it for firewood.",
+   "tags": [
+    "lone-pine",
+    "landmark",
+    "powder-river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "quote": {
+    "text": "Some of our inconsiderate people had cut it down for fuel, but it was too green to burn.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880)"
+   }
+  },
+  {
+   "date": "1843-09-29",
+   "localTime": null,
+   "title": "Into the Grande Ronde",
+   "body": "A long steep hill dropped the wagons into a round green valley ringed by snow-capped mountains. Cayuse and Nez Perce were camped there with camas to trade. Burnett would have stopped and settled if there had been provisions.",
+   "tags": [
+    "grande-ronde",
+    "landmark",
+    "cayuse"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-09-29",
+   "localTime": null,
+   "title": "Whitman leaves; Stickus takes over",
+   "body": "In the Grande Ronde Whitman was called away to the other mission stations and rode north. He handed the trains to Stickus (Nesmith's \"Sticcas\", Burnett's \"Stikas\"), a Cayuse headman, who piloted the wagons over the Blue Mountains to the Umatilla. Burnett called him \"both faithful and competent\".",
+   "tags": [
+    "whitman",
+    "stickus",
+    "cayuse",
+    "grande-ronde"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://collver.org/family/doc/Emigration1843_3.htm",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-01",
+   "localTime": null,
+   "title": "Mrs. Rubey's grave",
+   "body": "Mrs. Rubey died in the Grande Ronde and was buried on 1 October as the leading wagons started up the mountain. Nesmith gave no cause.",
+   "tags": [
+    "death",
+    "grande-ronde"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-02",
+   "localTime": null,
+   "title": "Cutting a road through the pines",
+   "body": "There was a horse trail over the Blue Mountains but no wagon road. About forty men went ahead with axes left dull since Missouri and cut through standing and fallen timber, while women drove the teams. Some days the camp was in sight of the last one.",
+   "tags": [
+    "blue-mountains",
+    "road-cutting"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "I went in advance and cut timber all day.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 2 October)"
+   }
+  },
+  {
+   "date": "1843-10-04",
+   "localTime": null,
+   "title": "Timber too thick to see through",
+   "body": "Newby's division followed the new track through the heaviest forest any of them had seen. He guessed at pines 200 feet high and no more than two feet through.",
+   "tags": [
+    "blue-mountains",
+    "forest"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "The timber is so thick in meney places that you coldant see a man 20 steps.",
+    "by": "William T. Newby, diary, 4 October 1843 (Oregon Historical Quarterly, 1939)"
+   }
+  },
+  {
+   "date": "1843-10-04",
+   "localTime": null,
+   "title": "First wagons over; rain and hail",
+   "body": "Nesmith's wagons came down the west slope in a storm of rain and hail and reached the Umatilla beside Cayuse lodges. Two Cayuse bulls charged Cooper's team and the fore axle snapped. These were the first emigrant wagons across the Blue Mountains.",
+   "tags": [
+    "blue-mountains",
+    "umatilla",
+    "weather",
+    "cayuse"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-05",
+   "localTime": null,
+   "title": "Snow on the mountain",
+   "body": "Burnett's division, a day or two behind the lead, woke to a snow storm on the summit on the morning of 5 October and reached the foot of the range on the 6th. Ford remembered about two inches that did not lie long.",
+   "tags": [
+    "blue-mountains",
+    "snow",
+    "weather"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-06",
+   "localTime": null,
+   "title": "Cayuse potatoes",
+   "body": "At the foot of the mountains the Cayuse sold corn, peas and potatoes from their own fields for clothing. It was the emigrants' first fresh vegetable food in months.",
+   "tags": [
+    "umatilla",
+    "cayuse",
+    "trade",
+    "food"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": {
+    "text": "I have never tasted a greater luxury than the potatoes we ate on this occasion.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880)"
+   }
+  },
+  {
+   "date": "1843-10-06",
+   "localTime": "14:00",
+   "title": "Waiilatpu without Whitman",
+   "body": "Nesmith reached the mission about two o'clock and could buy only a bushel of potatoes and a peck of corn; there was no flour. Whitman was still away and William Geiger was in charge. The main body camped three miles off from 10 to 14 October and grumbled at the prices.",
+   "tags": [
+    "waiilatpu",
+    "whitman-mission",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-08",
+   "localTime": null,
+   "title": "Is this Oregon?",
+   "body": "Fort Walla Walla stood on bare sand at the mouth of the Walla Walla River. It was Sunday and Archibald McKinlay would sell only a little tobacco. Nesmith, 23, was not impressed.",
+   "tags": [
+    "fort-walla-walla",
+    "columbia-river"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "If this is a fair specimen of Oregon, it falls far below the conceptions which I formed of the country.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 8 October)"
+   }
+  },
+  {
+   "date": "1843-10-17",
+   "localTime": null,
+   "title": "Boats or wagons",
+   "body": "At the fort the emigration split. Some families traded their cattle to the Hudson's Bay Company for cattle to be delivered on the Willamette and took to the river. The larger part kept wagons and stock and broke a road down the south bank to The Dalles.",
+   "tags": [
+    "fort-walla-walla",
+    "decision",
+    "columbia-river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Page:Oregon_Historical_Quarterly_volume_16.djvu/167"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-20",
+   "localTime": null,
+   "title": "Whip-sawing skiffs",
+   "body": "The three Applegate families and their neighbours stayed about two weeks at the fort. The men sawed driftwood logs into boards with a pit-saw and built skiffs big enough for a family of eight or ten. Wagons and cattle were left behind under the company's \"H. B.\" brand.",
+   "tags": [
+    "fort-walla-walla",
+    "boats",
+    "applegate"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2",
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-10-24",
+   "localTime": "12:00",
+   "title": "The barge for the families",
+   "body": "Nesmith, canoeing ahead of everyone, reached the Hudson's Bay mill above Fort Vancouver at noon and met four men \"taking up a barge to bring the families down from the Mission\". He was given dinner by the chief factor.",
+   "tags": [
+    "fort-vancouver",
+    "mcloughlin",
+    "relief"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "We were kindly treated by Dr. McLaughlin, in charge of the fort.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 24 October)"
+   }
+  },
+  {
+   "date": "1843-10-27",
+   "localTime": null,
+   "title": "Nesmith reaches Oregon City",
+   "body": "Nesmith's small pack-and-canoe party landed at the falls of the Willamette on 27 October, among the first of the year's emigrants to arrive. His diary ended the next day with three words.",
+   "tags": [
+    "oregon-city",
+    "arrival"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Went to work.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843 (entry for 28 October)"
+   }
+  },
+  {
+   "date": "1843-10-28",
+   "localTime": null,
+   "title": "The fleet passes Fremont",
+   "body": "Fremont's party was dragging through deep sand on the south bank the day it left the fort. The Applegate boats, launched at last, came down the smooth river and passed them.",
+   "tags": [
+    "columbia-river",
+    "boats",
+    "applegate",
+    "fremont"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-11-02",
+   "localTime": null,
+   "title": "A boat goes under",
+   "body": "In rapids above The Dalles a skiff carrying three men and three boys was drawn away from the pilot boat's channel and sucked down by a whirlpool. Edward Applegate, Warren Applegate (both about nine) and Alexander McClellan, about seventy, drowned; no body was found. Elisha Applegate, William Parker and William Doke survived. The day is not recorded: it fell between 29 October and 4 November.",
+   "tags": [
+    "columbia-river",
+    "drowning",
+    "death",
+    "applegate",
+    "the-dalles"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2",
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": {
+    "text": "The boat we were watching disappeared and we saw the men and boys struggling in the water.",
+    "by": "Jesse A. Applegate, Recollections of My Boyhood (1914)"
+   }
+  },
+  {
+   "date": "1843-11-02",
+   "localTime": null,
+   "title": "On the bank afterwards",
+   "body": "The women and children walked the north-bank footpath, mistaking rocks for heads in the water. Elisha, eleven, saved himself by swimming, which his mother had forbidden. That evening a cold wind and rain came on, and at the mission camp a Black girl from Burnett's household was lost at the river's edge.",
+   "tags": [
+    "columbia-river",
+    "drowning",
+    "applegate",
+    "the-dalles"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ],
+   "quote": {
+    "text": "I will never object to the boys going swimming any more.",
+    "by": "Melinda Applegate, as recalled by her son Jesse A. Applegate, Recollections of My Boyhood (1914)"
+   }
+  },
+  {
+   "date": "1843-11-04",
+   "localTime": null,
+   "title": "Rafts at The Dalles",
+   "body": "The wagon road ended at the Methodist mission. Men hauled dry pine logs to the river, lashed six or eight together, and loaded wagon beds, running gear and families on top. The stock was driven along the shore.",
+   "tags": [
+    "the-dalles",
+    "rafts",
+    "columbia-river",
+    "wagons"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "making ark-like rafts, on which they had embarked their families and households, with their large wagons and other furniture, while their stock were driven along the shore.",
+    "by": "John C. Fremont, Report of the Exploring Expedition (1845), at The Dalles, 4-5 November 1843"
+   }
+  },
+  {
+   "date": "1843-11-06",
+   "localTime": null,
+   "title": "Word from Tualatin Plains",
+   "body": "M. M. McCarver, already settled, wrote to Iowa that more than half the emigrants had reached the valley and the rest were near The Dalles. Wagons would come down by water because it was too late to open a road through the Cascades.",
+   "tags": [
+    "tualatin-plains",
+    "arrival",
+    "letters"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/41493"
+   ],
+   "quote": {
+    "text": "This expedition establishes the practicability beyond doubt of a waggon road across the continent by the way of the southern pass in the Rocky Mountains.",
+    "by": "M. M. McCarver, letter from Tualatin Plains, 6 November 1843 (Iowa Gazette; Ohio Statesman, 11 Sept. 1844)"
+   }
+  },
+  {
+   "date": "1843-11-07",
+   "localTime": null,
+   "title": "Waiting at the Cascades",
+   "body": "The rafts were useless below the Cascades rapids. Families camped in the rain at the lower landing waiting for boats, while goods and wagons were carried or dragged round the portage, six days' work for John Arthur's company. A party wind-bound near Cape Horn boiled rawhide before a company boat found it.",
+   "tags": [
+    "cascades",
+    "portage",
+    "hunger",
+    "columbia-river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-11-09",
+   "localTime": null,
+   "title": "McLoughlin's boats and wheat",
+   "body": "John McLoughlin sent boats with provisions up to the Cascades, lent others free, sheltered arrivals in the fort's buildings and sold food and seed wheat on credit. Burnett reported it the day after he landed.",
+   "tags": [
+    "fort-vancouver",
+    "mcloughlin",
+    "relief",
+    "credit"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/41493",
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "At the Cascades we met provisions sent us by the Doctor, and all purchased who applied, even without money.",
+    "by": "Peter H. Burnett, letter from Fort Vancouver, 10 November 1843 (Ohio Statesman, 11 Sept. 1844)"
+   }
+  },
+  {
+   "date": "1843-11-10",
+   "localTime": null,
+   "title": "Cattle over the mountains",
+   "body": "No wagon crossed the Cascades in 1843, but some of the loose stock did, driven over an Indian trail round Mount Hood; that party was reported to have lost a number of animals. Other herds were swum to the north bank below The Dalles and driven down to Vancouver, where they sold well.",
+   "tags": [
+    "cattle",
+    "cascades",
+    "trail"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.gutenberg.org/ebooks/41493",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-11-13",
+   "localTime": null,
+   "title": "Arrival at the falls",
+   "body": "Overton Johnson and William Winter, who left Fort Hall two weeks behind the main trains, reached Oregon City by skiff on 13 November. They found a village of about a hundred people with mills, shops and food to buy. The last emigrants came in shortly after.",
+   "tags": [
+    "oregon-city",
+    "arrival"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+   ],
+   "quote": {
+    "text": "This was the 13th of November, 1843, and it was five months and nineteen days after we left Independence, in Missouri.",
+    "by": "Overton Johnson and William H. Winter, Route Across the Rocky Mountains (1846)"
+   }
+  },
+  {
+   "date": "1843-11-20",
+   "localTime": null,
+   "title": "A camp where Portland would be",
+   "body": "The Applegates waited out a storm for three or four days on Sauvie Island, then passed Linnton, where the Strait family had just buried a daughter. They camped a day or two in the woods on the west bank on the future site of Portland, then poled up through the Clackamas rapids to the falls and on to Champoeg. Dates are approximate.",
+   "tags": [
+    "willamette",
+    "applegate",
+    "arrival",
+    "death"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-11-26",
+   "localTime": null,
+   "title": "Burnett brings his family down",
+   "body": "Burnett returned to The Dalles in a company boat with Fremont, collected his family, and landed them at Fort Vancouver on 26 November. He and McCarver laid out a town they called Linnton on the lower Willamette and then moved to the Tualatin Plains.",
+   "tags": [
+    "fort-vancouver",
+    "linnton",
+    "settlement",
+    "burnett"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.gutenberg.org/ebooks/41493"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-12-15",
+   "localTime": null,
+   "title": "The first winter",
+   "body": "The newcomers scattered to the Tualatin Plains, Oregon City, Linnton, the French Prairie and the old mission country up the Willamette. The Applegates, about twenty-five people, shared three cabins and worked for pork and peas; the men built a ferry boat for their keep. The winter was wet but mild, with one brief snow.",
+   "tags": [
+    "winter",
+    "settlement",
+    "willamette-valley"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_3",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+   ],
+   "quote": null
+  }
+ ],
+ "stats": [
+  {
+   "date": "1843-08-28",
+   "series": "people",
+   "value": 1000,
+   "note": "Marcus Whitman's own figure for the emigration he accompanied: \"no less than ... one thousand persons\" (letter to the Secretary of War, 1844, as printed in Victor, Early Indian Wars of Oregon). Tallmadge Wood (letter, April 1844) also says \"a company of One thousand\", 300 of them able men. Jesse A. Applegate: \"computed at about a thousand souls\". These are whole-emigration figures, not a count taken at Fort Hall; no one counted heads there.",
+   "source": "https://en.wikisource.org/wiki/Page:The_Early_Indian_Wars_of_Oregon.djvu/53"
+  },
+  {
+   "date": "1843-11-30",
+   "series": "people",
+   "value": 875,
+   "note": "The usual modern figure for those who arrived in Oregon (\"about 875 persons straggled into Oregon\" in November-December; OCTA). It derives from J. W. Nesmith's 1875 reckoning from his roll of 295 men over sixteen; treat as an estimate. T. C. Elliott (1915) says \"more than eight hundred\".",
+   "source": "https://octa-trails.org/articles/first-emigrants-on-the-oregon-trail/"
+  },
+  {
+   "date": "1843-08-28",
+   "series": "wagons",
+   "value": 120,
+   "note": "Whitman: \"one hundred and twenty wagons\"; Tallmadge Wood: 120 wagons, about three yoke each; John Arthur: 120. Ninevah Ford and Nesmith's diary summary give 110-113.",
+   "source": "https://en.wikisource.org/wiki/Page:The_Early_Indian_Wars_of_Oregon.djvu/53"
+  },
+  {
+   "date": "1843-08-28",
+   "series": "cattle",
+   "value": 1467,
+   "note": "Whitman: 694 oxen plus 773 loose cattle. Tallmadge Wood says \"about two thousand head of cows, young cattle, & horses\"; John Arthur claimed over 3,000; the figure of 5,000 in popular accounts has no 1843 source that I found.",
+   "source": "https://en.wikisource.org/wiki/Page:The_Early_Indian_Wars_of_Oregon.djvu/53"
+  },
+  {
+   "date": "1843-08-29",
+   "series": "people",
+   "value": 30,
+   "note": "Packers who left the wagons at Fort Hall: McCarver says he went on horseback \"in company with some thirty persons, principally young men\".",
+   "source": "https://www.gutenberg.org/ebooks/41493"
+  },
+  {
+   "date": "1843-09-16",
+   "series": "people",
+   "value": 13,
+   "note": "California: Joseph B. Chiles left Fort Hall on 16 Sept with 13 men on horseback for Fort Boise and the Malheur; Joseph R. Walker took the Chiles wagons and families south by the Humboldt. Single-sourced (Wikipedia, citing later scholarship). Johnson & Winter confirm that part of their company turned off at Fort Boise for California up the Malheur. The Chiles party had travelled separately from the Oregon companies since the Kansas River.",
+   "source": "https://en.wikipedia.org/wiki/Joseph_R._Walker"
+  },
+  {
+   "date": "1843-10-17",
+   "series": "people",
+   "value": 71,
+   "note": "Boat party from Fort Walla Walla: Jesse Applegate (Bancroft MS, quoted by T. C. Elliott 1915): \"A company including the Burnetts, Applegates, Hembrees, etc., 71 souls in all, built boats at Walla Walla ... and descended the Columbia by water.\" Newby says about 25 families \"tuck water\"; Jesse A. Applegate recalled ten families and about twenty wagons in the Applegate detachment.",
+   "source": "https://en.wikisource.org/wiki/Page:Oregon_Historical_Quarterly_volume_16.djvu/167"
+  },
+  {
+   "date": "1843-11-04",
+   "series": "other",
+   "value": 3,
+   "note": "Drowned in the Applegate boat above The Dalles: Edward Applegate, Warren Applegate, Alexander McClellan (Applegate; Burnett \"Three of our emigrants were drowned just above the dalles\"; Fremont \"two of Mr. Applegate's children and one man\"). Ford's \"5 or 4\" is hearsay.",
+   "source": "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+  },
+  {
+   "date": "1843-11-30",
+   "series": "other",
+   "value": 8,
+   "note": "Deaths named in the sources between Fort Hall and the Willamette: Richardson (Fort Hall, 31 Aug); Miles Eyres (drowned at the Snake crossing, c. 10-11 Sept); Mrs. Rubey (Grande Ronde, buried 1 Oct); Edward and Warren Applegate and Alexander McClellan (Columbia); a Black girl of Burnett's household lost at the river (The Dalles per Applegate, the Cascades per Ford); a daughter of Hiram Strait (Linnton, Nov). A minimum, not a total.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-10-16",
+   "series": "other",
+   "value": 11.5,
+   "note": "Burnett's average miles per day, rendezvous to Fort Walla Walla: 1,691 miles in 147 days (22 May - 16 Oct). Fort Hall to Fort Boise 273 miles in 21 days; Fort Boise to Fort Walla Walla 202 miles in 24 days. Fremont measured 612 miles from Fort Hall to Fort Walla Walla.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "date": "1843-11-13",
+   "series": "people",
+   "value": 100,
+   "note": "Residents of Oregon City before the emigration arrived: \"a small village, of about one hundred inhabitants\" (Johnson & Winter). John Boardman counted \"forty houses, four stores, two sawmills, one flour mill\".",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+  },
+  {
+   "date": "1844-10-01",
+   "series": "cattle",
+   "value": 50,
+   "note": "Applegate stock left at Fort Walla Walla and recovered in 1844: \"Probably fifty head reached the settlement\"; of Lindsay Applegate's three wagons \"only four wheels were found\".",
+   "source": "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_3"
+  },
+  {
+   "date": "1843-09-19",
+   "series": "temperatureC",
+   "value": 6.1,
+   "note": "Fremont near Fort Hall, sunrise 43 F; \"it began snowing thickly, and continued all day\". (All Fremont readings are his own party's, two to four weeks behind the emigrant wagons on the same road. Converted from Fahrenheit.)",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-09-21",
+   "series": "temperatureC",
+   "value": -1.7,
+   "note": "Fremont at Fort Hall, sunrise 29 F; \"Ice made tolerably thick during this night\"; an inch of snow lay on the 20th.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-01",
+   "series": "temperatureC",
+   "value": 23.3,
+   "note": "Fremont on the Snake below the Fishing Falls, sunset 74 F.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-13",
+   "series": "temperatureC",
+   "value": -2.2,
+   "note": "Fremont between the Malheur and Burnt River, sunrise 28 F.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-16",
+   "series": "temperatureC",
+   "value": -8.9,
+   "note": "Fremont at the fallen Lone Pine on Powder River: 16 F at daylight and sunrise; ice a quarter of an inch thick inside the lodge; 61 F at sunset.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-18",
+   "series": "temperatureC",
+   "value": 8.9,
+   "note": "Fremont in the Grande Ronde, sunrise 48 F, rain until ten o'clock. Camp latitude 45 deg 26 min 47 sec, elevation 2,600 feet.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-22",
+   "series": "temperatureC",
+   "value": -6.7,
+   "note": "Fremont in the Blue Mountains, sunrise 20 F; \"The white frost this morning was like snow on the ground\".",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-10-31",
+   "series": "temperatureC",
+   "value": -4.4,
+   "note": "Fremont on the Columbia (lat. 45 deg 50 min 05 sec, long. 119 deg 22 min 18 sec), sunrise 24 F, white frost.",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "date": "1843-11-01",
+   "series": "temperatureC",
+   "value": 3.3,
+   "note": "Fremont on the Columbia above the John Day River, morning 38 F; \"Mount Hood is glowing in the sunlight\".",
+   "source": "https://www.gutenberg.org/ebooks/9294"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "Three Island Crossing",
+   "date": "1843-09-10",
+   "localTime": null,
+   "text": "Nesmith's wagons travel eight miles and camp on an island in the Snake; Burnett's division fords the river this day.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Three Island Crossing",
+   "date": "1843-09-11",
+   "localTime": null,
+   "text": "In the morning Nesmith's wagons, fastened together in line, cross to the north bank \"without difficulty\" and go four miles.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Three Island Crossing",
+   "date": "1843-09-12",
+   "localTime": "12:00",
+   "text": "Nesmith's camp is held until noon by a runaway ox, then moves five miles.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Three Island Crossing",
+   "date": "1843-10-03",
+   "localTime": "14:00",
+   "text": "Fremont's party (three weeks behind) reaches the same ford about two o'clock; the current sweeps away the howitzer and the mules are cut out of harness.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "episode": "Three Island Crossing",
+   "date": "1843-10-03",
+   "localTime": "19:00",
+   "text": "Fremont's men, ferried in an air-filled rubber boat, are camped on the far bank by seven o'clock.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-09-30",
+   "localTime": null,
+   "text": "Nesmith's wagons cross the Grande Ronde six miles and lie by for the afternoon at the foot of the mountains.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-01",
+   "localTime": null,
+   "text": "The lead wagons climb out of the Grande Ronde and make twelve miles to a dry ravine; Mrs. Rubey is buried in the valley.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-02",
+   "localTime": null,
+   "text": "Twelve miles with axemen ahead cutting timber all day.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-03",
+   "localTime": "10:00",
+   "text": "Oxen are lost in the pine thickets; the wagons start about ten o'clock and make only three miles across a bad ravine.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-04",
+   "localTime": null,
+   "text": "In rain and hail the lead wagons descend twelve miles to the Umatilla and camp three miles down it by Cayuse lodges.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-05",
+   "localTime": "12:00",
+   "text": "Nesmith's wagons leave the Umatilla about noon with Sticcas; the same morning Burnett's division, still on the summit, has a snow storm.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Over the Blue Mountains",
+   "date": "1843-10-06",
+   "localTime": "14:00",
+   "text": "Nesmith reaches Whitman's mission about two o'clock; Burnett's division reaches the foot of the mountains.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-10-28",
+   "localTime": null,
+   "text": "The Applegate boats, built at Fort Walla Walla, pass Fremont on the river below the fort.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-11-02",
+   "localTime": null,
+   "text": "Date uncertain (29 Oct - 4 Nov): entering rapids at a northward bend, the family boat keeps about twenty yards off the right-hand shore behind the Indian pilot while a smaller boat drifts toward the south bank.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-11-02",
+   "localTime": null,
+   "text": "The small boat is spun in a whirlpool and goes down, comes up with all but Warren Applegate, and is swallowed by a second whirlpool.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-11-02",
+   "localTime": null,
+   "text": "McClellan, carrying Edward on two oars, falls short of a rock island and both go under the cliffs; Elisha Applegate and William Parker reach the rock on a feather bed-tick, and William Doke is picked up at the foot of the rapids.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-11-02",
+   "localTime": null,
+   "text": "That afternoon wind and cold rain break on the families waiting on the bank; they camp that night at Perkins's mission.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+   ]
+  },
+  {
+   "episode": "The drowning above The Dalles",
+   "date": "1843-11-04",
+   "localTime": null,
+   "text": "Fremont, reaching The Dalles, is told of the loss and blames \"want of skill in the steersman\".",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-10-21",
+   "localTime": "10:00",
+   "text": "Nesmith's canoe reaches the Cascades about ten o'clock and the rest of the day goes to the portage.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-10-24",
+   "localTime": "12:00",
+   "text": "Nesmith reaches the Hudson's Bay mill at twelve o'clock and Fort Vancouver soon after.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-10-27",
+   "localTime": null,
+   "text": "Nesmith arrives at Oregon City.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-11-02",
+   "localTime": null,
+   "text": "Newby's canoes reach the Cascades, where Captain Waters meets them with a large boat and provisions.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-11-04",
+   "localTime": "12:00",
+   "text": "Newby reaches Fort Vancouver about twelve o'clock after two days of rain.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-11-07",
+   "localTime": "22:00",
+   "text": "About ten at night Fremont's canoe grounds on a sand-bar above Fort Vancouver, and before midnight he camps a mile above the fort; at midnight the rain begins.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-11-13",
+   "localTime": null,
+   "text": "Johnson and Winter land at Oregon City.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+   ]
+  },
+  {
+   "episode": "Arrival",
+   "date": "1843-11-26",
+   "localTime": null,
+   "text": "Burnett lands his family at Fort Vancouver.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1843-08-28",
+   "end": "1843-08-31",
+   "activity": "laid by at Fort Hall, trading",
+   "weather": "cold rain for three days from 29 Aug, the first in five weeks",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "start": "1843-09-01",
+   "end": "1843-09-09",
+   "activity": "on the Snake plain, south bank, through sage and lava",
+   "weather": "cold and rainy 1 Sept; rain 5-6 Sept; otherwise dry and dusty",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-09-10",
+   "end": "1843-09-11",
+   "activity": "fording the Snake at the islands",
+   "weather": null,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-09-12",
+   "end": "1843-09-18",
+   "activity": "north of the Snake to the Boise River",
+   "weather": "fine (Nesmith, 14 Sept)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-09-19",
+   "end": "1843-09-21",
+   "activity": "at Fort Boise; second ford of the Snake",
+   "weather": "north-west gale on the 19th",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-09-21",
+   "end": "1843-09-26",
+   "activity": "Malheur and the Burnt River canyon",
+   "weather": "snow on the mountain tops on the night of 25 Sept",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-09-27",
+   "end": "1843-09-30",
+   "activity": "Powder River valley and the Grande Ronde",
+   "weather": "drizzle and rain 27-28 Sept; snow on the surrounding mountains",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-10-01",
+   "end": "1843-10-06",
+   "activity": "road-cutting across the Blue Mountains",
+   "weather": "fine, warm days and cool nights 1-3 Oct; rain and hail 4 Oct; snow on the summit the morning of 5 Oct; rain and mist 6 Oct",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-10-06",
+   "end": "1843-10-16",
+   "activity": "Umatilla to Waiilatpu and Fort Walla Walla; main body laid by 10-14 Oct near the mission",
+   "weather": "fine at the fort 9 Oct; cool nights",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-10-17",
+   "end": "1843-10-28",
+   "activity": "boat-building at Fort Walla Walla (boat party)",
+   "weather": "warm days, cool moonlit nights (Nesmith, 13 Oct)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2",
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-10-18",
+   "end": "1843-11-04",
+   "activity": "wagons breaking a road down the south bank of the Columbia to The Dalles",
+   "weather": "fine and dry; frosts (24 F at sunrise on 31 Oct by Fremont)",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-10-28",
+   "end": "1843-11-04",
+   "activity": "on the river: skiffs and canoes from Fort Walla Walla to The Dalles",
+   "weather": "fair, with one afternoon of wind and cold rain on the day of the drowning",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2",
+    "https://www.gutenberg.org/ebooks/9294"
+   ]
+  },
+  {
+   "start": "1843-11-04",
+   "end": "1843-11-12",
+   "activity": "rafting from The Dalles to the Cascades; the portage",
+   "weather": "Indian-summer weather above the Cascades to 7 Nov; rain at and below the Cascades",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "start": "1843-11-08",
+   "end": "1843-11-30",
+   "activity": "by boat from the Cascades to Fort Vancouver and up the Willamette",
+   "weather": "the rainy season: steady rain from the night of 7-8 Nov",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/9294",
+    "https://www.gutenberg.org/ebooks/41493",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-12-01",
+   "end": "1844-02-29",
+   "activity": "first winter in the Willamette Valley",
+   "weather": "wet but mild; one brief snow; ice no thicker than window glass",
+   "sources": [
+    "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_3"
+   ]
+  }
+ ],
+ "bibliography": [
+  {
+   "short": "Nesmith",
+   "citation": "James W. Nesmith, \"Diary of the Emigration of 1843,\" Quarterly of the Oregon Historical Society 7, no. 4 (Dec. 1906): 329-359. Full text read on Wikisource.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "short": "Burnett",
+   "citation": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (New York: D. Appleton, 1880), chapters reprinted in Quarterly of the Oregon Historical Society 5 (1904). Based on the concise journal he kept as far as Walla Walla.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "short": "Burnett letters",
+   "citation": "Peter H. Burnett, letters from Linnton to the New York Herald, 1844 (printed Dec. 1844 - Jan. 1845), reprinted with Tallmadge B. Wood's letter in \"Documents,\" Quarterly of the Oregon Historical Society 3 (1902): 394-426.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "short": "OHQ 4 documents",
+   "citation": "\"Documents,\" Quarterly of the Oregon Historical Society 4 (1903): letters of M. M. McCarver (Tualatin Plains, 6 Nov. 1843), P. H. Burnett (Fort Vancouver, 10 Nov. 1843), S. M. Gilmore (Fort Vancouver, 11 Nov. 1843) and John Boardman (Lahaina, 17 July 1844). Project Gutenberg ebook 41493.",
+   "url": "https://www.gutenberg.org/ebooks/41493"
+  },
+  {
+   "short": "Applegate",
+   "citation": "Jesse A. Applegate, Recollections of My Boyhood (Roseburg, Ore.: Press of Review Publishing Co., 1914), chapters 2-3. The author was seven in 1843; he is the nephew of Jesse Applegate and son of Lindsay.",
+   "url": "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+  },
+  {
+   "short": "Johnson & Winter",
+   "citation": "Overton Johnson and William H. Winter, Route Across the Rocky Mountains, with a Description of Oregon and California (Lafayette, Ind., 1846), chapter 2, reprinted in Quarterly of the Oregon Historical Society 7 (1906).",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_2"
+  },
+  {
+   "short": "Fremont",
+   "citation": "John C. Fremont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (Washington, 1845). Project Gutenberg ebook 9294.",
+   "url": "https://www.gutenberg.org/ebooks/9294"
+  },
+  {
+   "short": "Newby / Ford / Arthur (via oregonpioneers.com)",
+   "citation": "Stephenie Flora, comp., \"Emigration to Oregon in 1843,\" oregonpioneers.com: dated excerpts from William T. Newby's diary (Oregon Historical Quarterly 40, 1939), Ninevah Ford's 1878 dictation (Bancroft Library), John Arthur's 1887 address, J. B. McClane, and others. Newby and Ford were read only through these excerpts.",
+   "url": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "short": "McClane",
+   "citation": "John B. McClane to P. B. Whitman, Grand Ronde Agency, 15 Dec. 1888, \"The Emigration of 1843,\" Marion County History 7 (1961), transcribed at collver.org.",
+   "url": "https://collver.org/family/doc/Emigration1843_3.htm"
+  },
+  {
+   "short": "Elliott",
+   "citation": "T. C. Elliott, \"The Dalles-Celilo Portage; Its History and Influence,\" Quarterly of the Oregon Historical Society 16 (1915): 148-149, quoting Jesse Applegate's Bancroft Library manuscript.",
+   "url": "https://en.wikisource.org/wiki/Page:Oregon_Historical_Quarterly_volume_16.djvu/167"
+  },
+  {
+   "short": "Whitman figures",
+   "citation": "Marcus Whitman to the Secretary of War [1844], enclosing a proposed bill, as quoted in Frances Fuller Victor, The Early Indian Wars of Oregon (Salem, 1894), p. 35ff. Seen in search-result text only.",
+   "url": "https://en.wikisource.org/wiki/Page:The_Early_Indian_Wars_of_Oregon.djvu/53"
+  },
+  {
+   "short": "Walker / Chiles",
+   "citation": "\"Joseph R. Walker,\" Wikipedia (citing Bil Gilbert, Westering Man, and Jackson & Spence, The Expeditions of John Charles Fremont, vol. 1).",
+   "url": "https://en.wikipedia.org/wiki/Joseph_R._Walker"
+  },
+  {
+   "short": "Eyres",
+   "citation": "\"Eyres Pioneers,\" family history page citing Lloyd W. Coffman, Blazing a Wagon Trail to Oregon (1993), pp. 132-133, for Miles Eyres's drowning at the Snake crossing. Seen in search-result text only.",
+   "url": "https://freepages.rootsweb.com/~mransom/history/eyres.html"
+  },
+  {
+   "short": "OCTA",
+   "citation": "Oregon-California Trails Association, \"First Emigrants on the Oregon Trail.\" Seen in search-result text only (site returned 403 to direct fetch).",
+   "url": "https://octa-trails.org/articles/first-emigrants-on-the-oregon-trail/"
+  }
+ ],
+ "corrections": [
+  "There was no wagon road past The Dalles in 1843. The Barlow Road round Mount Hood opened in 1846. In 1843 \"reaching Oregon City\" meant arriving by canoe, skiff, Hudson's Bay bateau or log raft down the Columbia and up the Willamette, with a portage at the Cascades. Wagons that came through were taken apart and floated; many were left at Fort Walla Walla or The Dalles and fetched (or not) in 1844.",
+  "Whitman did not guide the wagons the whole way from Fort Hall. He went ahead of them with a light wagon and left written notes on poles, was with the trains at the Snake crossing, and left the emigration in the Grande Ronde (about 28-29 Sept). The Cayuse headman Stickus piloted the wagons over the Blue Mountains. Whitman was not at Waiilatpu when the emigrants arrived; Fremont on 24 Oct still found him absent (gone to The Dalles).",
+  "Richard Grant at Fort Hall did not forbid or deceive. By Burnett's account he was \"exceedingly kind and hospitable\" and said only that he \"would not say it was impossible\" but could not see how wagons could go. Nesmith's complaint is about prices. McClane (writing in 1888) gives the harsher version, \"you will never get through with the wagons to Oregon\".",
+  "The Applegate drowning did not happen at the Cascades, nor in the narrow chute of The Dalles proper, but in rapids above The Dalles (below Celilo Falls): Burnett says \"just above the dalles\", and Applegate describes the families then walking on to camp at the Perkins mission before the boats ran The Dalles. Three died, including the seventy-year-old Alexander McClellan, not only the two boys. No 1843 source gives the day; \"4 November\" is the day Fremont heard of it.",
+  "Three Island Crossing in 1843 was a ford, not a ferry (Glenn's ferry dates from 1869). The emigrants crossed with wagons fastened together; Fremont says two heavy wagons abreast. Ninevah Ford's story of Whitman towing his team with a rope belongs here; Ford misplaced it \"near the American Falls\".",
+  "The Lone Pine of the Powder River valley was cut down by the 1843 emigrants themselves on or just before 27 September, not by later travellers. Burnett saw it standing that afternoon and gone at dusk; Newby (30 Sept) and Fremont (15 Oct) found it felled.",
+  "The first snow was not a blizzard that trapped the train. Nesmith's lead wagons crossed the Blue Mountains in \"fine, warm and mild\" weather on 1-3 Oct and met rain and hail on the 4th; the snow storm of 5 Oct fell on Burnett's division on the summit a day or two behind, and (per Ford) did not lie long.",
+  "\"Fort Boise\" is the Hudson's Bay post at the mouth of the Boise River near modern Parma, not the city of Boise. \"Fort Walla Walla\" is the company's Fort Nez Perces at the mouth of the Walla Walla River (Wallula), not the later U.S. Army fort in the city of Walla Walla, which is near Whitman's mission 25 miles east.",
+  "McLoughlin's help was relief on credit, not charity alone: boats lent free, provisions sent up to the Cascades and sold \"even without money\", shelter in the fort buildings, and seed wheat to be repaid in kind after harvest. Ford notes that some who left for California never paid.",
+  "The Chiles-Walker California party was not a breakaway from the Oregon companies at Fort Hall. It had travelled as a separate company from the Kansas River. At Fort Hall it divided itself: Walker took the wagons and families by the Humboldt; Chiles and about 13 mounted men went via Fort Boise and the Malheur. Individual Oregon emigrants (William Martin, John Atkinson per oregonpioneers.com and Ford) did turn off with them.",
+  "Ninevah Ford's 1878 guess that the Blue Mountains pilot was \"the very Indian that afterwards killed Dr. Whitman\" is wrong. Stickus was a friend of the mission and warned Whitman the day before the 1847 killings.",
+  "Nesmith's arrival at Oregon City on 27 October is not the arrival of the emigration. He had traded his wagon away at Fort Walla Walla and travelled light with three other young men. The families came in from the first days of November to about the end of the month."
+ ],
+ "openQuestions": [
+  "Date of the Applegate drowning. No diarist records it. Bounds: Fremont saw the Applegate boats under way just below Fort Walla Walla on his first day out (28 Oct), and heard of the accident on reaching The Dalles on 4 Nov. Jesse A. Applegate says they had been \"several days on our voyage\" and that a wind storm with cold rain came on that afternoon; Fremont, on the land road, mentions no storm between 31 Oct and 4 Nov. I have entered 2 Nov as a midpoint with low confidence; the brief's \"about 4 Nov\" is the latest possible day, and 29-31 Oct is equally defensible.",
+  "When Whitman left the wagons. Newby's diary (29 Aug, at Fort Hall): \"Doc Whitmon, considering it safe to travel alone, left for his place on pack horses with his neighfew & J.B. McClain.\" Burnett: Whitman \"was our pilot from there to Grand Ronde, where he left us in charge of an Indian pilot\". McClane (in Whitman's own mess): the mess drove ahead with a light wagon while Whitman stayed \"behind with the emigrants, encouraging them\", and left for good at the Grande Ronde. Ford has Whitman at the Snake crossing. Likely reconciliation: his mess left Fort Hall on 29 Aug ahead of the trains, he moved between them and the wagons, and he left the route at the Grande Ronde.",
+  "Where Whitman went from the Grande Ronde: Newby says \"to Spaldings Mishion\" (Lapwai); McClane says \"to Walkers and Eels across the country\" (Tshimakain). Later biographies have him do both, then go to The Dalles to bring Narcissa home (Fremont, 24 Oct: \"absent on a visit to the Dalles\"). I could not fetch the Whitman letters or a Whitman biography to confirm dates.",
+  "Fort Hall dates differ by party: Burnett 27 Aug (left 30 Aug); Nesmith 28 Aug (left 1 Sept); S. M. Gilmore \"the 25th day of August\"; Johnson & Winter and John Boardman 13 Sept; Tallmadge Wood \"the last of September\". The companies were spread over a month by then.",
+  "Snake crossing and Fort Boise dates: Burnett crossed at the islands 10 Sept, Nesmith 11 Sept. Nesmith reached Fort Boise 19 Sept and forded 20 Sept; Burnett arrived 20 Sept and forded 21 Sept; Newby camped a mile above the fort 21 Sept and forded 23 Sept. Johnson & Winter's later party found the island ford too deep and stayed on the south bank all the way to Fort Boise.",
+  "Who drowned at the Snake crossing. Ford (1878) says \"a Mr. Ayres an Englishman ... drowned he and his mule\"; Indians told Fremont a man \"attempting to turn some cattle\" was carried off. A family-history page citing Coffman identifies Miles Eyres at Three Island Crossing. Possibly one death described two ways, possibly two. Neither Nesmith nor Burnett mentions it.",
+  "Burnett's arrival at Fort Vancouver: \"about the 7th of November\" in the 1880 Recollections; \"I reached here on yesterday\" in his letter dated Fort Vancouver, 10 Nov. 1843 (i.e. the 9th). The letter is contemporary and is preferred. He also says Fremont had been there \"a few days\"; Fremont's own narrative puts his arrival at about midnight on 7 Nov.",
+  "How many went by boat from Fort Walla Walla: Jesse Applegate's manuscript says 71 souls; Newby says \"some 25 finuly\" (families), which would be well over 100 people; Jesse A. Applegate remembered ten families in the Applegate train. Burnett went in a borrowed Hudson's Bay boat, not a home-built skiff. Fremont says the other portion, with wagons, was the larger.",
+  "The lost Black girl or woman: Jesse A. Applegate says a \"little negro girl\" from \"Peter Burnette's camp\" was lost fetching water at The Dalles the night of the drowning. Ford says a \"Negro woman\", a servant of Burnett or his brother-in-law, fell from a canoe at the Cascades. Probably the same person; place disagrees. Burnett does not mention it.",
+  "How long the Cascades portage took: John Arthur says his company was detained six days; Ford says \"two weeks in making a wagon road around the Cascades\". Nesmith's canoe party did it in the balance of one day.",
+  "Totals. Whitman and Wood say 1,000 people; modern writers say 875 arrived; Elliott \"more than eight hundred\"; Ford 500-700; Lenox \"fewer than 500\". Wagons 110-120 (one modern source says nearly 200). Cattle from Whitman's 1,467 to Arthur's \"over 3,000\" and a popular 5,000. No count was made at Fort Hall, and I found no contemporary tally of how many wagons finally reached the Willamette.",
+  "Chiles party size and date (13 men, left Fort Hall 16 Sept) rest on Wikipedia; I could not open P. B. Reading's journal. The Chiles company is not part of this slice's Oregon headcount but shared the road to Fort Boise.",
+  "The cattle trail over the Cascades. McCarver (6 Nov) says some families arrived \"over the Cascade Mountains\"; Wood says some \"crossed the Cascades (a distance of Ninety miles)\"; Fremont says that party \"were reported to have lost a number of their animals\". None names the route; it was the Indian and mission cattle trail round Mount Hood (the Lolo Pass / Lee route on the north-west side in later descriptions). I found no 1843 diary of that crossing and no dates.",
+  "Coordinates. No NPS or OCTA coordinate table could be fetched (OCTA returned 403). Named landmarks (Fort Hall site, American Falls, Rock Creek crossing, Salmon Falls, Three Island Crossing, Old Fort Boise, Vale hot springs, Farewell Bend, Flagstaff Hill, Ladd Hill, Whitman Mission, Wallula, Deschutes mouth, The Dalles, Cascade Locks, Fort Vancouver, Oregon City) are placed at the modern site from general reference knowledge and should be good to about a mile or two. Intermediate camps are dead-reckoned from Nesmith's daily mileages between those anchors and are marked low or medium confidence; they should be snapped to a trail polyline before display.",
+  "Not consulted directly: Newby's full diary (OHQ 1939; only excerpts via oregonpioneers.com), John Boardman's journal (Utah Historical Quarterly 1929; server refused connection), Pierson Reading's journal, Theodore Talbot's journal, Lindsay Applegate's own account, the Whitman letters, and Narcissa Whitman's letters."
+ ]
+}

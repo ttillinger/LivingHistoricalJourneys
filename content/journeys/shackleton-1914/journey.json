@@ -1,118 +1,4929 @@
 {
   "id": "shackleton-1914",
-  "version": 1,
-  "title": "Shackleton's Endurance Expedition (1914–17)",
-  "description": "A simplified route of Shackleton's Imperial Trans-Antarctic Expedition: departure, drift in pack ice, lifeboat journey, and rescue.",
+  "version": 2,
+  "title": "Shackleton’s Endurance Expedition",
+  "description": "The Endurance sails for the Weddell Sea, is caught and crushed by the ice, and her 28 men get home by floe, open boat and a walk across South Georgia. Followed position by position from Shackleton’s side, October 1914 to September 1916.",
   "tier": "premium",
   "coordinateSpace": "geo",
   "time": {
-    "start": "1914-08-08T00:00:00Z",
-    "end": "1917-01-10T00:00:00Z"
+    "start": "1914-10-26T11:53:00Z",
+    "end": "1916-09-03T16:44:00Z"
   },
   "mapDefaults": {
     "bounds": [
-      -80,
-      -80,
-      -10,
-      -40
+      -73,
+      -78,
+      -15,
+      -33
     ],
     "styles": [
-      "modern",
-      "atlas"
-    ]
+      "period",
+      "modern"
+    ],
+    "followZoom": 6.5
   },
   "tracks": [
     {
-      "id": "endurance",
-      "name": "Endurance & Ice Drift",
-      "kind": "ship",
-      "color": "#1f78b4",
+      "id": "shackleton",
+      "name": "Shackleton",
+      "kind": "expedition",
+      "color": "#9c3524",
       "isPrimary": true,
-      "route": "routes/endurance.geojson",
+      "route": "routes/shackleton.geojson",
       "schedule": [
         {
-          "t": "1914-08-08T00:00:00Z",
+          "t": "1914-10-26T12:53:00Z",
           "km": 0,
-          "label": "Departure from South Georgia"
+          "label": "Buenos Ayres"
         },
         {
-          "t": "1915-01-19T00:00:00Z",
-          "km": 2943.17,
-          "label": "Endurance trapped in the Weddell Sea pack ice"
+          "t": "1914-11-02T14:59:00Z",
+          "km": 1884.68,
+          "label": "South Atlantic, north-west of South Georgia"
         },
         {
-          "t": "1915-10-27T00:00:00Z",
-          "km": 3958.91,
-          "label": "Endurance crushed by ice"
+          "t": "1914-11-05T14:26:00Z",
+          "km": 2814.89,
+          "label": "Grytviken, South Georgia"
         },
         {
-          "t": "1916-04-08T00:00:00Z",
-          "km": 4854.82,
-          "label": "Lifeboats reach Elephant Island"
+          "t": "1914-12-05T11:11:00Z",
+          "km": 2814.89,
+          "label": "Grytviken, South Georgia"
         },
         {
-          "t": "1916-05-10T00:00:00Z",
-          "km": 6179.56,
-          "label": "Shackleton reaches South Georgia in the James Caird"
+          "t": "1914-12-07T19:46:00Z",
+          "km": 3550.44,
+          "label": "Between Sanders (Saunders) Island and Candlemas, South Sandwich Group"
         },
         {
-          "t": "1917-01-10T00:00:00Z",
-          "km": 6251.1,
-          "label": "Final crew members rescued"
+          "t": "1914-12-09T17:59:00Z",
+          "km": 3833.72,
+          "label": "Edge of the pack, Weddell Sea"
+        },
+        {
+          "t": "1914-12-10T13:22:00Z",
+          "km": 3930.68,
+          "label": "Weddell Sea"
+        },
+        {
+          "t": "1914-12-11T09:13:00Z",
+          "km": 4118.44,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-12T13:12:00Z",
+          "km": 4195.81,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-15T13:13:00Z",
+          "km": 4316.93,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-17T13:16:00Z",
+          "km": 4402.62,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-18T13:13:00Z",
+          "km": 4465.9,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-20T13:12:00Z",
+          "km": 4482.9,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-24T13:09:00Z",
+          "km": 4689.02,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-26T13:10:00Z",
+          "km": 4821.43,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1914-12-31T00:05:00Z",
+          "km": 4931,
+          "label": "Antarctic Circle, Weddell Sea"
+        },
+        {
+          "t": "1914-12-31T13:03:00Z",
+          "km": 4963.21,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-02T13:03:00Z",
+          "km": 5300.58,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-03T13:10:00Z",
+          "km": 5372.42,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-05T13:21:00Z",
+          "km": 5489,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-06T13:26:00Z",
+          "km": 5540.79,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-08T13:17:00Z",
+          "km": 5658.34,
+          "label": "Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-10T13:04:00Z",
+          "km": 5909.58,
+          "label": "Off Coats Land"
+        },
+        {
+          "t": "1915-01-11T01:00:00Z",
+          "km": 6027.18,
+          "label": "Barrier edge, Coats Land"
+        },
+        {
+          "t": "1915-01-11T13:23:00Z",
+          "km": 6111.18,
+          "label": "Off Coats Land barrier"
+        },
+        {
+          "t": "1915-01-12T13:31:00Z",
+          "km": 6226.01,
+          "label": "Off Coats Land barrier"
+        },
+        {
+          "t": "1915-01-13T17:45:00Z",
+          "km": 6329.96,
+          "label": "Off the Stancomb Wills Promontory, Caird Coast"
+        },
+        {
+          "t": "1915-01-14T13:49:00Z",
+          "km": 6364.96,
+          "label": "Off the Caird Coast"
+        },
+        {
+          "t": "1915-01-15T20:42:00Z",
+          "km": 6477.35,
+          "label": "Off the Caird Coast barrier"
+        },
+        {
+          "t": "1915-01-16T01:32:00Z",
+          "km": 6526.44,
+          "label": "‘Glacier Bay’, Caird Coast"
+        },
+        {
+          "t": "1915-01-16T13:55:00Z",
+          "km": 6663.78,
+          "label": "Off the Caird Coast (later Dawson-Lambton Glacier)"
+        },
+        {
+          "t": "1915-01-19T10:06:00Z",
+          "km": 6733.73,
+          "label": "Weddell Sea, off Luitpold Coast"
+        },
+        {
+          "t": "1915-01-20T14:09:00Z",
+          "km": 6752.49,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-21T14:11:00Z",
+          "km": 6770.79,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-22T14:13:00Z",
+          "km": 6789.02,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-24T14:15:00Z",
+          "km": 6801.27,
+          "label": "Beset, Weddell Sea"
+        },
+        {
+          "t": "1915-01-25T14:14:00Z",
+          "km": 6807.88,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-26T14:16:00Z",
+          "km": 6817.5,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-27T14:16:00Z",
+          "km": 6819.61,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-28T14:16:00Z",
+          "km": 6827.12,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-01-29T14:17:00Z",
+          "km": 6830.62,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-01T14:18:00Z",
+          "km": 6839.48,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-03T14:19:00Z",
+          "km": 6846.48,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-04T14:19:00Z",
+          "km": 6853.21,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-06T14:19:00Z",
+          "km": 6857.42,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-07T14:20:00Z",
+          "km": 6868.31,
+          "label": "Beset, Weddell Sea"
+        },
+        {
+          "t": "1915-02-08T14:20:00Z",
+          "km": 6872.78,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-13T14:21:00Z",
+          "km": 6884.49,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-19T14:20:00Z",
+          "km": 6898.21,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-02-22T14:20:00Z",
+          "km": 6904.31,
+          "label": "Beset, Weddell Sea — farthest south"
+        },
+        {
+          "t": "1915-03-05T14:24:00Z",
+          "km": 6928.77,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-14T14:25:00Z",
+          "km": 6935.75,
+          "label": "Beset, Weddell Sea"
+        },
+        {
+          "t": "1915-03-18T14:29:00Z",
+          "km": 6963.97,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-22T14:33:00Z",
+          "km": 7002.51,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-23T14:33:00Z",
+          "km": 7005.52,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-24T14:33:00Z",
+          "km": 7007.37,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-25T14:34:00Z",
+          "km": 7017.21,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-26T14:35:00Z",
+          "km": 7026.83,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-27T14:35:00Z",
+          "km": 7036.58,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-03-31T14:34:00Z",
+          "km": 7050.54,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-02T14:34:00Z",
+          "km": 7052.44,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-03T14:34:00Z",
+          "km": 7056.84,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-04T14:34:00Z",
+          "km": 7071.77,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-05T14:35:00Z",
+          "km": 7077.53,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-06T14:36:00Z",
+          "km": 7088.37,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-07T14:39:00Z",
+          "km": 7110.71,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-09T14:41:00Z",
+          "km": 7134.04,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-10T14:41:00Z",
+          "km": 7138.33,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-11T14:40:00Z",
+          "km": 7144.47,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-12T14:37:00Z",
+          "km": 7172.84,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-13T14:37:00Z",
+          "km": 7191.56,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-14T14:37:00Z",
+          "km": 7201.34,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-15T14:37:00Z",
+          "km": 7210.71,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-16T14:38:00Z",
+          "km": 7217.72,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-17T14:39:00Z",
+          "km": 7223.55,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-18T14:39:00Z",
+          "km": 7227.15,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-19T14:41:00Z",
+          "km": 7237.71,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-20T14:43:00Z",
+          "km": 7254.41,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-21T14:47:00Z",
+          "km": 7281.84,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-22T14:48:00Z",
+          "km": 7288.73,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-23T14:47:00Z",
+          "km": 7294.83,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-25T14:47:00Z",
+          "km": 7306.52,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-26T14:47:00Z",
+          "km": 7319.52,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-27T14:47:00Z",
+          "km": 7326.93,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-28T14:46:00Z",
+          "km": 7340.55,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-29T14:46:00Z",
+          "km": 7357.63,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-04-30T14:47:00Z",
+          "km": 7368.82,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-01T14:48:00Z",
+          "km": 7377.56,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-02T14:49:00Z",
+          "km": 7387.44,
+          "label": "Drifting in the pack, Weddell Sea"
+        },
+        {
+          "t": "1915-05-03T14:49:00Z",
+          "km": 7390.07,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-04T14:50:00Z",
+          "km": 7394.25,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-05T14:50:00Z",
+          "km": 7401.65,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-06T14:49:00Z",
+          "km": 7418.57,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-07T14:47:00Z",
+          "km": 7432.99,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-08T14:49:00Z",
+          "km": 7447.03,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-10T14:48:00Z",
+          "km": 7456.13,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-11T14:48:00Z",
+          "km": 7460.39,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-12T14:48:00Z",
+          "km": 7475.34,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-13T14:49:00Z",
+          "km": 7499.65,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-14T14:51:00Z",
+          "km": 7515.54,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-15T14:53:00Z",
+          "km": 7526.4,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-16T14:54:00Z",
+          "km": 7539.58,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-17T14:56:00Z",
+          "km": 7549.62,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-18T14:56:00Z",
+          "km": 7552.25,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-20T14:58:00Z",
+          "km": 7566.07,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-21T14:59:00Z",
+          "km": 7576.54,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-22T15:00:00Z",
+          "km": 7583.34,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-26T15:00:00Z",
+          "km": 7600.18,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-27T14:59:00Z",
+          "km": 7618.76,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-28T15:00:00Z",
+          "km": 7628.34,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-29T14:59:00Z",
+          "km": 7638.68,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-30T15:00:00Z",
+          "km": 7657.07,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-05-31T15:02:00Z",
+          "km": 7674.05,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-02T15:01:00Z",
+          "km": 7683.56,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-03T15:00:00Z",
+          "km": 7688.59,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-04T15:00:00Z",
+          "km": 7692.91,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-05T15:00:00Z",
+          "km": 7695,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-07T15:00:00Z",
+          "km": 7715.77,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-08T15:01:00Z",
+          "km": 7726.27,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-09T15:02:00Z",
+          "km": 7731.57,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-10T15:02:00Z",
+          "km": 7734.67,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-13T15:05:00Z",
+          "km": 7762.03,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-14T15:05:00Z",
+          "km": 7763.88,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-15T15:06:00Z",
+          "km": 7769.53,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-17T15:07:00Z",
+          "km": 7783.16,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-18T15:07:00Z",
+          "km": 7788.92,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-21T15:11:00Z",
+          "km": 7817.24,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-22T15:11:00Z",
+          "km": 7833.91,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-24T15:10:00Z",
+          "km": 7870.04,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-25T15:09:00Z",
+          "km": 7879.65,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-26T15:09:00Z",
+          "km": 7881.58,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-28T15:09:00Z",
+          "km": 7883.98,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-06-29T15:10:00Z",
+          "km": 7892.7,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-01T15:12:00Z",
+          "km": 7908.42,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-03T15:15:00Z",
+          "km": 7931.86,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-04T15:15:00Z",
+          "km": 7938.54,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-05T15:17:00Z",
+          "km": 7949.22,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-06T15:17:00Z",
+          "km": 7950.75,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-07T15:17:00Z",
+          "km": 7953.15,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-08T15:16:00Z",
+          "km": 7963.95,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-09T15:17:00Z",
+          "km": 7978.14,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-11T15:17:00Z",
+          "km": 7979.66,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-13T15:16:00Z",
+          "km": 7994.7,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-16T15:14:00Z",
+          "km": 8063.17,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-17T15:14:00Z",
+          "km": 8066.91,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-20T15:12:00Z",
+          "km": 8092.22,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-21T15:12:00Z",
+          "km": 8093.28,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-22T15:11:00Z",
+          "km": 8109.07,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-24T15:13:00Z",
+          "km": 8134.24,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-25T15:12:00Z",
+          "km": 8149.69,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-26T15:10:00Z",
+          "km": 8171.74,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-27T15:10:00Z",
+          "km": 8179.24,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-28T15:10:00Z",
+          "km": 8184.91,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-29T15:10:00Z",
+          "km": 8192.31,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-30T15:10:00Z",
+          "km": 8194.17,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-07-31T15:11:00Z",
+          "km": 8202.26,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-08-01T15:13:00Z",
+          "km": 8226.33,
+          "label": "Drifting in the pack, Weddell Sea"
+        },
+        {
+          "t": "1915-08-04T00:14:00Z",
+          "km": 8284.37,
+          "label": "Drifting in the pack, Weddell Sea"
+        },
+        {
+          "t": "1915-08-04T15:15:00Z",
+          "km": 8296.04,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-08-05T15:17:00Z",
+          "km": 8321.18,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-08-08T15:17:00Z",
+          "km": 8356.44,
+          "label": "Drifting in the pack, Weddell Sea"
+        },
+        {
+          "t": "1915-08-12T15:19:00Z",
+          "km": 8396.85,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-08-17T15:20:00Z",
+          "km": 8443.96,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-08-25T15:21:00Z",
+          "km": 8498.4,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-09-06T15:21:00Z",
+          "km": 8527.58,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-09-20T15:22:00Z",
+          "km": 8558.38,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-09-28T15:25:00Z",
+          "km": 8584.76,
+          "label": "Beset, drifting with the Weddell Sea pack"
+        },
+        {
+          "t": "1915-10-03T15:25:00Z",
+          "km": 8618.22,
+          "label": "Drifting in the pack, western Weddell Sea"
+        },
+        {
+          "t": "1915-10-10T15:22:00Z",
+          "km": 8644,
+          "label": "Drifting in the pack, western Weddell Sea"
+        },
+        {
+          "t": "1915-10-17T15:23:00Z",
+          "km": 8649.4,
+          "label": "Drifting in the pack, western Weddell Sea"
+        },
+        {
+          "t": "1915-10-24T15:24:00Z",
+          "km": 8671.52,
+          "label": "Drifting in the pack, western Weddell Sea"
+        },
+        {
+          "t": "1915-10-27T20:26:00Z",
+          "km": 8691.42,
+          "label": "Endurance abandoned; first camp on the floe"
+        },
+        {
+          "t": "1915-10-28T15:26:00Z",
+          "km": 8691.45,
+          "label": "Dump Camp"
+        },
+        {
+          "t": "1915-10-30T18:26:00Z",
+          "km": 8691.45,
+          "label": "Dump Camp"
+        },
+        {
+          "t": "1915-11-01T15:26:00Z",
+          "km": 8693.33,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-11-21T20:30:00Z",
+          "km": 8751.91,
+          "label": "Ocean Camp / wreck of the Endurance"
+        },
+        {
+          "t": "1915-11-22T15:30:00Z",
+          "km": 8754.01,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-11-24T15:30:00Z",
+          "km": 8773.5,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-11-27T15:30:00Z",
+          "km": 8792.41,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-11-30T15:30:00Z",
+          "km": 8819.3,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-01T15:30:00Z",
+          "km": 8824.13,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-04T15:30:00Z",
+          "km": 8837.56,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-06T15:29:00Z",
+          "km": 8852.3,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-08T15:28:00Z",
+          "km": 8862.53,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-12T15:26:00Z",
+          "km": 8898.64,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-15T15:28:00Z",
+          "km": 8942.74,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-17T15:28:00Z",
+          "km": 8958.4,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-18T15:28:00Z",
+          "km": 8967.58,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-20T15:29:00Z",
+          "km": 8986.82,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-22T15:30:00Z",
+          "km": 8992.79,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-23T08:00:00Z",
+          "km": 8993.96,
+          "label": "Ocean Camp"
+        },
+        {
+          "t": "1915-12-25T15:30:00Z",
+          "km": 9002.93,
+          "label": "On the march (pack ice west of Ocean Camp)"
+        },
+        {
+          "t": "1915-12-28T15:31:00Z",
+          "km": 9012.63,
+          "label": "On the march (halted by broken ice)"
+        },
+        {
+          "t": "1915-12-29T15:31:00Z",
+          "km": 9013.81,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1915-12-30T15:31:00Z",
+          "km": 9015.1,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-02T15:31:00Z",
+          "km": 9020.81,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-05T15:30:00Z",
+          "km": 9036.79,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-09T15:30:00Z",
+          "km": 9045.88,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-11T15:30:00Z",
+          "km": 9045.88,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-16T15:31:00Z",
+          "km": 9059.94,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-22T15:28:00Z",
+          "km": 9215.56,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-26T15:27:00Z",
+          "km": 9235.22,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-01-30T15:28:00Z",
+          "km": 9271.48,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-03T15:30:00Z",
+          "km": 9291.66,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-07T15:32:00Z",
+          "km": 9328.7,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-12T15:33:00Z",
+          "km": 9356.69,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-17T15:33:00Z",
+          "km": 9369.27,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-22T15:33:00Z",
+          "km": 9374.14,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-25T15:33:00Z",
+          "km": 9397.51,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-02-29T15:33:00Z",
+          "km": 9420.55,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-04T15:34:00Z",
+          "km": 9455.3,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-10T15:33:00Z",
+          "km": 9470.61,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-11T15:33:00Z",
+          "km": 9482.56,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-17T15:34:00Z",
+          "km": 9522.32,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-20T15:33:00Z",
+          "km": 9530.3,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-23T15:35:00Z",
+          "km": 9571.66,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-24T15:34:00Z",
+          "km": 9578.32,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-03-27T15:33:00Z",
+          "km": 9608.77,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-02T15:35:00Z",
+          "km": 9660.65,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-03T15:36:00Z",
+          "km": 9677.67,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-05T15:39:00Z",
+          "km": 9720.37,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-07T15:38:00Z",
+          "km": 9733.62,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-08T15:36:00Z",
+          "km": 9762.7,
+          "label": "Patience Camp"
+        },
+        {
+          "t": "1916-04-09T17:06:00Z",
+          "km": 9782.29,
+          "label": "Patience Camp (floe breaks up; boats launched)"
+        },
+        {
+          "t": "1916-04-09T23:37:00Z",
+          "km": 9795.63,
+          "label": "First night: camp on a floe"
+        },
+        {
+          "t": "1916-04-10T19:10:00Z",
+          "km": 9831.86,
+          "label": "Second night: camp on a floeberg"
+        },
+        {
+          "t": "1916-04-11T15:35:00Z",
+          "km": 9907.68,
+          "label": "Third night: boats lying to in the pack (no camp)"
+        },
+        {
+          "t": "1916-04-12T15:33:00Z",
+          "km": 9934.88,
+          "label": "In the boats, edge of the pack (Bransfield Strait approaches)"
+        },
+        {
+          "t": "1916-04-13T23:38:00Z",
+          "km": 10025.69,
+          "label": "Hove to in open sea on a sea-anchor of oars"
+        },
+        {
+          "t": "1916-04-14T23:39:00Z",
+          "km": 10074.53,
+          "label": "Off the south-east coast of Elephant Island (night at sea)"
+        },
+        {
+          "t": "1916-04-15T13:09:00Z",
+          "km": 10095.61,
+          "label": "Cape Valentine, Elephant Island"
+        },
+        {
+          "t": "1916-04-17T14:39:00Z",
+          "km": 10095.61,
+          "label": "Cape Valentine, Elephant Island"
+        },
+        {
+          "t": "1916-04-17T20:39:00Z",
+          "km": 10107.25,
+          "label": "Cape Wild, Elephant Island"
+        },
+        {
+          "t": "1916-04-24T16:09:00Z",
+          "km": 10107.25,
+          "label": "Cape Wild, Elephant Island"
+        },
+        {
+          "t": "1916-04-25T15:39:00Z",
+          "km": 10229.58,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-04-26T15:23:00Z",
+          "km": 10456.06,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-04-27T15:23:00Z",
+          "km": 10456.06,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-04-28T15:21:00Z",
+          "km": 10487.88,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-04-29T15:20:00Z",
+          "km": 10625.87,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-04-30T15:14:00Z",
+          "km": 10770.2,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-01T15:12:00Z",
+          "km": 10825.34,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-02T15:08:00Z",
+          "km": 10908.67,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-03T15:03:00Z",
+          "km": 11006.64,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-04T14:59:00Z",
+          "km": 11103.23,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-05T14:50:00Z",
+          "km": 11279.28,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-06T14:43:00Z",
+          "km": 11400.14,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-07T14:38:00Z",
+          "km": 11476.56,
+          "label": "James Caird at sea (Scotia Sea / Southern Ocean)"
+        },
+        {
+          "t": "1916-05-08T15:01:00Z",
+          "km": 11601.96,
+          "label": "Off the west coast of South Georgia (near Cape Demidov)"
+        },
+        {
+          "t": "1916-05-09T20:29:00Z",
+          "km": 11651.13,
+          "label": "Off Annenkov Island, south coast of South Georgia"
+        },
+        {
+          "t": "1916-05-10T19:30:00Z",
+          "km": 11679.77,
+          "label": "Cave Cove, King Haakon Bay, South Georgia"
+        },
+        {
+          "t": "1916-05-15T10:30:00Z",
+          "km": 11679.77,
+          "label": "Cave Cove, King Haakon Bay, South Georgia"
+        },
+        {
+          "t": "1916-05-15T14:59:00Z",
+          "km": 11688.72,
+          "label": "Peggotty Camp, head of King Haakon Bay"
+        },
+        {
+          "t": "1916-05-19T05:29:00Z",
+          "km": 11688.72,
+          "label": "Peggotty Camp, King Haakon Bay"
+        },
+        {
+          "t": "1916-05-19T07:29:00Z",
+          "km": 11694.43,
+          "label": "Snow slope to the pass (Shackleton Gap)"
+        },
+        {
+          "t": "1916-05-19T09:29:00Z",
+          "km": 11699.43,
+          "label": "Above Possession Bay (turn-back point)"
+        },
+        {
+          "t": "1916-05-19T11:29:00Z",
+          "km": 11703.53,
+          "label": "Murray Snowfield (ridge regained)"
+        },
+        {
+          "t": "1916-05-19T13:28:00Z",
+          "km": 11707.48,
+          "label": "The Trident ridge — first gap"
+        },
+        {
+          "t": "1916-05-19T14:58:00Z",
+          "km": 11708.12,
+          "label": "Below the Trident ridge — bergschrund"
+        },
+        {
+          "t": "1916-05-19T17:28:00Z",
+          "km": 11708.52,
+          "label": "The Trident ridge — second gap"
+        },
+        {
+          "t": "1916-05-19T19:28:00Z",
+          "km": 11709.16,
+          "label": "The Trident ridge — the gap they descended"
+        },
+        {
+          "t": "1916-05-19T20:28:00Z",
+          "km": 11712.73,
+          "label": "Head of Crean Glacier"
+        },
+        {
+          "t": "1916-05-19T22:28:00Z",
+          "km": 11713.87,
+          "label": "Crean Glacier"
+        },
+        {
+          "t": "1916-05-20T02:28:00Z",
+          "km": 11719.59,
+          "label": "Snowfield among nunataks (Nineteen-sixteen Snowfield)"
+        },
+        {
+          "t": "1916-05-20T03:57:00Z",
+          "km": 11725.5,
+          "label": "Slope above Fortuna Glacier / west arm of Fortuna Bay"
+        },
+        {
+          "t": "1916-05-20T07:27:00Z",
+          "km": 11729.96,
+          "label": "Under Breakwind Ridge"
+        },
+        {
+          "t": "1916-05-20T08:27:00Z",
+          "km": 11731.76,
+          "label": "Breakwind Gap"
+        },
+        {
+          "t": "1916-05-20T09:27:00Z",
+          "km": 11732.97,
+          "label": "Breakfast camp above Fortuna Bay"
+        },
+        {
+          "t": "1916-05-20T12:27:00Z",
+          "km": 11734.87,
+          "label": "Fortuna Bay beach (east arm)"
+        },
+        {
+          "t": "1916-05-20T14:57:00Z",
+          "km": 11736.33,
+          "label": "Crean Lake, plateau between Fortuna Bay and Stromness"
+        },
+        {
+          "t": "1916-05-20T15:57:00Z",
+          "km": 11737.61,
+          "label": "Ridge above Stromness Bay"
+        },
+        {
+          "t": "1916-05-20T17:27:00Z",
+          "km": 11737.94,
+          "label": "Waterfall (Shackleton Falls), Shackleton Valley"
+        },
+        {
+          "t": "1916-05-20T18:27:00Z",
+          "km": 11740.06,
+          "label": "Stromness whaling station, South Georgia"
+        },
+        {
+          "t": "1916-05-21T14:27:00Z",
+          "km": 11742.29,
+          "label": "Husvik, Stromness Bay"
+        },
+        {
+          "t": "1916-05-23T11:27:00Z",
+          "km": 11742.29,
+          "label": "Husvik / Stromness Bay, South Georgia"
+        },
+        {
+          "t": "1916-05-28T18:40:00Z",
+          "km": 13078.15,
+          "label": "Southern Sky at the pack edge, about 70 miles from Elephant Island"
+        },
+        {
+          "t": "1916-05-31T17:51:00Z",
+          "km": 14014.15,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-06-10T12:51:00Z",
+          "km": 14014.15,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-06-13T15:40:00Z",
+          "km": 15040.41,
+          "label": "Instituto de Pesca No. 1 off Elephant Island (within 20 miles)"
+        },
+        {
+          "t": "1916-06-16T15:51:00Z",
+          "km": 16066.68,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-07-01T12:51:00Z",
+          "km": 16066.68,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-07-04T16:44:00Z",
+          "km": 16990.75,
+          "label": "Punta Arenas, Chile"
+        },
+        {
+          "t": "1916-07-12T13:44:00Z",
+          "km": 16990.75,
+          "label": "Punta Arenas, Chile"
+        },
+        {
+          "t": "1916-07-16T16:26:00Z",
+          "km": 17426.34,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-18T16:05:00Z",
+          "km": 17858.13,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-20T15:52:00Z",
+          "km": 18246.83,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-21T15:46:00Z",
+          "km": 18333.14,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-22T15:41:00Z",
+          "km": 18422.31,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-24T15:51:00Z",
+          "km": 18681.48,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-07-28T15:58:00Z",
+          "km": 18796.22,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-08-01T15:52:00Z",
+          "km": 19261.11,
+          "label": "Schooner Emma at sea (Drake Passage / Scotia Sea)"
+        },
+        {
+          "t": "1916-08-04T02:51:00Z",
+          "km": 19489.75,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-08-10T13:51:00Z",
+          "km": 19489.75,
+          "label": "Port Stanley, Falkland Islands"
+        },
+        {
+          "t": "1916-08-14T08:14:00Z",
+          "km": 20413.82,
+          "label": "Punta Arenas, Chile"
+        },
+        {
+          "t": "1916-08-25T05:14:00Z",
+          "km": 20413.82,
+          "label": "Punta Arenas, Chile"
+        },
+        {
+          "t": "1916-08-26T22:03:00Z",
+          "km": 20862.28,
+          "label": "Ushuaia, Beagle Channel"
+        },
+        {
+          "t": "1916-08-27T11:03:00Z",
+          "km": 20955.26,
+          "label": "Ushuaia, Beagle Channel"
+        },
+        {
+          "t": "1916-08-27T16:13:00Z",
+          "km": 21046.46,
+          "label": "Banner Cove, Picton Island"
+        },
+        {
+          "t": "1916-08-28T16:22:00Z",
+          "km": 21179.56,
+          "label": "Yelcho at sea, south-east of Cape Horn"
+        },
+        {
+          "t": "1916-08-29T16:03:00Z",
+          "km": 21654.91,
+          "label": "Yelcho at sea, Drake Passage"
+        },
+        {
+          "t": "1916-08-29T23:55:00Z",
+          "km": 21782.51,
+          "label": "Yelcho at sea, Drake Passage"
+        },
+        {
+          "t": "1916-08-30T11:44:00Z",
+          "km": 21962.37,
+          "label": "Yelcho approaching Elephant Island in fog"
+        },
+        {
+          "t": "1916-08-30T16:09:00Z",
+          "km": 22031.52,
+          "label": "Cape Wild, Elephant Island"
+        },
+        {
+          "t": "1916-08-30T17:09:00Z",
+          "km": 22031.52,
+          "label": "Cape Wild, Elephant Island"
+        },
+        {
+          "t": "1916-08-31T15:57:00Z",
+          "km": 22323.11,
+          "label": "Yelcho at sea, northbound"
+        },
+        {
+          "t": "1916-09-01T16:18:00Z",
+          "km": 22861.7,
+          "label": "Yelcho at sea, off Tierra del Fuego"
+        },
+        {
+          "t": "1916-09-03T12:43:00Z",
+          "km": 23506.49,
+          "label": "Rio Seco, Strait of Magellan"
+        },
+        {
+          "t": "1916-09-03T14:44:00Z",
+          "km": 23518.52,
+          "label": "Punta Arenas, Chile"
         }
-      ]
+      ],
+      "statSeries": {
+        "men": {
+          "label": "Men with Shackleton",
+          "format": "men",
+          "initial": 29,
+          "keyframes": [
+            {
+              "t": "1914-10-26T13:53:00Z",
+              "v": 29
+            },
+            {
+              "t": "1914-12-05T11:10:00Z",
+              "v": 29
+            },
+            {
+              "t": "1914-12-05T11:11:00Z",
+              "v": 28
+            },
+            {
+              "t": "1916-04-24T16:08:00Z",
+              "v": 28
+            },
+            {
+              "t": "1916-04-24T16:09:00Z",
+              "v": 6
+            },
+            {
+              "t": "1916-05-19T05:27:00Z",
+              "v": 6
+            },
+            {
+              "t": "1916-05-19T05:28:00Z",
+              "v": 3
+            },
+            {
+              "t": "1916-05-22T20:26:00Z",
+              "v": 3
+            },
+            {
+              "t": "1916-05-22T20:27:00Z",
+              "v": 6
+            },
+            {
+              "t": "1916-05-23T11:26:00Z",
+              "v": 6
+            },
+            {
+              "t": "1916-05-23T11:27:00Z",
+              "v": 3
+            },
+            {
+              "t": "1916-08-30T16:38:00Z",
+              "v": 3
+            },
+            {
+              "t": "1916-08-30T16:39:00Z",
+              "v": 25
+            },
+            {
+              "t": "1916-09-03T16:43:00Z",
+              "v": 25
+            },
+            {
+              "t": "1916-09-03T16:44:00Z",
+              "v": 25
+            }
+          ]
+        },
+        "dogs": {
+          "label": "Sledge dogs",
+          "format": "count",
+          "lapses": true,
+          "keyframes": [
+            {
+              "t": "1914-10-26T15:53:00Z",
+              "v": 69
+            },
+            {
+              "t": "1915-04-09T14:41:00Z",
+              "v": 54
+            },
+            {
+              "t": "1915-04-30T14:47:00Z",
+              "v": 50
+            },
+            {
+              "t": "1915-10-29T15:26:00Z",
+              "v": 49
+            },
+            {
+              "t": "1915-12-27T15:30:00Z",
+              "v": 48
+            },
+            {
+              "t": "1916-01-14T15:30:00Z",
+              "v": 48
+            }
+          ]
+        },
+        "temperature": {
+          "label": "Temperature",
+          "format": "celsius",
+          "lapses": true,
+          "keyframes": [
+            {
+              "t": "1914-12-16T13:13:00Z",
+              "v": 2.8
+            },
+            {
+              "t": "1914-12-21T13:12:00Z",
+              "v": -3.9
+            },
+            {
+              "t": "1914-12-23T13:12:00Z",
+              "v": 1.1
+            },
+            {
+              "t": "1914-12-27T13:10:00Z",
+              "v": -5
+            },
+            {
+              "t": "1915-02-07T05:20:00Z",
+              "v": -17.8
+            },
+            {
+              "t": "1915-02-08T14:20:00Z",
+              "v": -18.9
+            },
+            {
+              "t": "1915-02-11T05:20:00Z",
+              "v": -18.9
+            },
+            {
+              "t": "1915-02-22T05:20:00Z",
+              "v": -23.3
+            },
+            {
+              "t": "1915-03-06T14:24:00Z",
+              "v": -29.4
+            },
+            {
+              "t": "1915-05-02T14:49:00Z",
+              "v": -20.6
+            },
+            {
+              "t": "1915-05-08T14:49:00Z",
+              "v": -26.1
+            },
+            {
+              "t": "1915-05-27T14:59:00Z",
+              "v": -28.9
+            },
+            {
+              "t": "1915-06-15T15:06:00Z",
+              "v": -17.8
+            },
+            {
+              "t": "1915-07-04T15:15:00Z",
+              "v": -22.2
+            },
+            {
+              "t": "1915-07-12T06:17:00Z",
+              "v": -30.6
+            },
+            {
+              "t": "1915-07-13T06:16:00Z",
+              "v": -36.4
+            },
+            {
+              "t": "1915-07-14T15:16:00Z",
+              "v": -34.4
+            },
+            {
+              "t": "1915-09-04T15:21:00Z",
+              "v": -25.6
+            },
+            {
+              "t": "1915-09-07T15:21:00Z",
+              "v": -23.8
+            },
+            {
+              "t": "1915-10-04T15:25:00Z",
+              "v": -31.4
+            },
+            {
+              "t": "1915-10-10T15:22:00Z",
+              "v": -1.2
+            },
+            {
+              "t": "1915-10-14T15:22:00Z",
+              "v": -18.3
+            },
+            {
+              "t": "1915-10-19T15:23:00Z",
+              "v": -11.1
+            },
+            {
+              "t": "1915-10-26T15:24:00Z",
+              "v": -26.1
+            },
+            {
+              "t": "1915-10-27T06:26:00Z",
+              "v": -26.7
+            },
+            {
+              "t": "1915-10-27T15:26:00Z",
+              "v": -22.5
+            },
+            {
+              "t": "1915-10-31T06:26:00Z",
+              "v": -3.9
+            },
+            {
+              "t": "1915-11-13T15:26:00Z",
+              "v": -2.8
+            },
+            {
+              "t": "1915-11-14T15:26:00Z",
+              "v": 0.6
+            },
+            {
+              "t": "1915-11-22T15:30:00Z",
+              "v": -7.1
+            },
+            {
+              "t": "1915-11-23T15:30:00Z",
+              "v": -8.8
+            },
+            {
+              "t": "1915-11-26T15:30:00Z",
+              "v": -1.7
+            },
+            {
+              "t": "1915-11-28T15:30:00Z",
+              "v": -3.3
+            },
+            {
+              "t": "1915-11-30T15:30:00Z",
+              "v": -7.7
+            },
+            {
+              "t": "1915-12-01T15:30:00Z",
+              "v": -7.1
+            },
+            {
+              "t": "1915-12-04T15:30:00Z",
+              "v": -2.2
+            },
+            {
+              "t": "1915-12-06T15:29:00Z",
+              "v": -8.9
+            },
+            {
+              "t": "1915-12-09T15:28:00Z",
+              "v": -1.1
+            },
+            {
+              "t": "1915-12-12T15:26:00Z",
+              "v": -3.6
+            },
+            {
+              "t": "1915-12-16T15:28:00Z",
+              "v": -8.6
+            },
+            {
+              "t": "1915-12-19T15:28:00Z",
+              "v": -3.9
+            },
+            {
+              "t": "1915-12-21T15:29:00Z",
+              "v": 0
+            },
+            {
+              "t": "1915-12-22T15:30:00Z",
+              "v": 1.1
+            },
+            {
+              "t": "1916-01-01T15:31:00Z",
+              "v": 3.3
+            },
+            {
+              "t": "1916-01-25T15:28:00Z",
+              "v": 2.2
+            },
+            {
+              "t": "1916-03-15T06:33:00Z",
+              "v": -23.3
+            },
+            {
+              "t": "1916-03-29T15:33:00Z",
+              "v": 0.6
+            },
+            {
+              "t": "1916-04-01T15:33:00Z",
+              "v": 1.1
+            },
+            {
+              "t": "1916-04-12T06:33:00Z",
+              "v": -12.2
+            },
+            {
+              "t": "1916-04-13T06:38:00Z",
+              "v": -20
+            },
+            {
+              "t": "1916-04-15T06:39:00Z",
+              "v": -11.1
+            },
+            {
+              "t": "1916-04-17T15:39:00Z",
+              "v": -15
+            },
+            {
+              "t": "1916-05-12T05:30:00Z",
+              "v": 3.9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "elephant-island",
+      "name": "The men on Elephant Island",
+      "kind": "party",
+      "color": "#3f5d73",
+      "isPrimary": false,
+      "route": "routes/elephant-island.geojson",
+      "schedule": [
+        {
+          "t": "1916-04-17T14:39:00Z",
+          "km": 0,
+          "label": "Cape Valentine, Elephant Island"
+        },
+        {
+          "t": "1916-04-17T20:39:00Z",
+          "km": 11.65,
+          "label": "Cape Wild, Elephant Island"
+        },
+        {
+          "t": "1916-08-30T16:39:00Z",
+          "km": 11.65,
+          "label": "Cape Wild, Elephant Island"
+        }
+      ],
+      "appears": "1916-04-24T16:09:00Z",
+      "leaves": "1916-08-30T16:39:00Z",
+      "statSeries": {
+        "men": {
+          "label": "Men under Frank Wild",
+          "format": "men",
+          "initial": 22,
+          "keyframes": [
+            {
+              "t": "1916-04-24T16:09:00Z",
+              "v": 22
+            }
+          ]
+        }
+      }
     }
   ],
   "moments": [
     {
-      "t": "1914-08-08T00:00:00Z",
-      "title": "Departure from South Georgia",
-      "body": "Endurance leaves South Georgia, heading towards the Weddell Sea and the Antarctic continent.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-10-26T13:53:00Z",
+      "title": "South from Buenos Aires",
+      "body": "The Endurance sailed for South Georgia with sixty-nine sledge dogs chained on deck. The last war news was that the Russian armies were advancing. Hidden in a locker was Perce Blackborow, a young Welsh seaman who had been turned down for a berth.",
+      "tags": [
+        "departure",
+        "dogs",
+        "war",
+        "stowaway"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "reference"
+      ]
     },
     {
-      "t": "1915-01-19T00:00:00Z",
-      "title": "Trapped in the Ice",
-      "body": "Endurance becomes stuck fast in pack ice, beginning a long drift across the Weddell Sea.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-10-28T13:53:00Z",
+      "title": "The stowaway is found",
+      "body": "On the third day at sea Blackborow was discovered and brought before Shackleton, who told him that on such expeditions a stowaway was the first to be eaten. Blackborow is said to have answered that they would get more meat off Shackleton. He was signed on as steward. The exchange comes from later biography, not from South; the date is ‘the third day at sea’.",
+      "tags": [
+        "stowaway",
+        "blackborow",
+        "crew"
+      ],
+      "significance": 2,
+      "refs": [
+        "reference"
+      ]
     },
     {
-      "t": "1915-10-27T00:00:00Z",
-      "title": "Ship Crushed",
-      "body": "After months locked in ice, Endurance is crushed and sinks, forcing the crew onto the floes.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-11-05T12:26:00Z",
+      "title": "Anchored at Grytviken",
+      "body": "The ship anchored in King Edward Cove off the Grytviken whaling station. The whalers reported that the pack lay unusually far north that season. Shackleton decided to wait a month and to take on extra coal and winter clothing.",
+      "tags": [
+        "south georgia",
+        "port",
+        "whalers"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "rgs"
+      ]
     },
     {
-      "t": "1916-04-08T00:00:00Z",
-      "title": "Elephant Island",
-      "body": "The crew reaches bleak Elephant Island in open boats—safe from the ice but stranded.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-11-20T12:26:00Z",
+      "title": "A month among the whalers",
+      "body": "Through November the crew coaled, loaded a ton of whale meat for the dogs and visited six of the island’s seven whaling stations. The captains advised steering east to about 15 degrees west before turning south. Sir Daniel Gooch, who had come out to help with the dogs, went home from here.",
+      "tags": [
+        "south georgia",
+        "preparation",
+        "dogs",
+        "date-approximate"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "reference"
+      ]
     },
     {
-      "t": "1916-05-10T00:00:00Z",
-      "title": "James Caird Landfall",
-      "body": "Shackleton and a small party reach South Georgia after a perilous open-boat voyage.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-12-05T11:11:00Z",
+      "title": "The last link with civilization",
+      "body": "Shackleton ordered the anchor up at 8.45 a.m. in sleet and gusts of snow. A steamer the evening before had brought no letters. The supply ship Harpoon reached Grytviken with their mail about two hours after they had gone.",
+      "tags": [
+        "departure",
+        "south georgia"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I gave the order to heave anchor at 8.45 a.m. on December 5, 1914, and the clanking of the windlass broke for us the last link with civilization.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
     },
     {
-      "t": "1917-01-10T00:00:00Z",
-      "title": "Rescue",
-      "body": "The remaining men are rescued without loss of life, making the expedition a legendary survival story.",
-      "tags": [],
-      "significance": 2
+      "t": "1914-12-07T19:46:00Z",
+      "title": "First ice at the South Sandwich Islands",
+      "body": "The ship passed between Sanders Island and Candlemas at 6 p.m. and two hours later met a belt of heavy pack, far north of where Shackleton expected it. Worsley and Shackleton spent the night on deck dodging floes in a heavy swell. They got clear at full speed next morning.",
+      "tags": [
+        "pack",
+        "south sandwich"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1914-12-11T09:13:00Z",
+      "title": "Into the pack",
+      "body": "After skirting the edge for two days the Endurance entered the pack at 8 a.m. in 59 46 S. The carpenter rigged a six-foot wooden semaphore on the bridge so the officer conning could signal the helmsman. Three watches were kept, with two officers always on deck.",
+      "tags": [
+        "pack",
+        "routine"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1914-12-12T11:12:00Z",
+      "title": "The penguins call for Clark",
+      "body": "Adelie penguins ran alongside whenever the biologist Robert Clark had the wheel, calling what sounded like his name. It became a standing joke aboard. The day’s run through the ice was 33 miles.",
+      "tags": [
+        "penguins",
+        "clark",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1914-12-20T11:12:00Z",
+      "title": "Football on the floe",
+      "body": "Held up by a gale and moored to a floe, staff and crew played a hard game of football on the ice beside the ship. Twelve icebergs were in sight. The floe drifted six miles north-east while they played and waited.",
+      "tags": [
+        "football",
+        "recreation",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1914-12-25T01:09:00Z",
+      "title": "Christmas in the pack",
+      "body": "Grog was served at midnight and again at breakfast. Orde-Lees decorated the wardroom with flags and gave everyone a small present; dinner was turtle soup, whitebait, jugged hare and Christmas pudding. Hussey played a one-stringed violin he had made. The day’s run of 71 miles was the best since entering the ice.",
+      "tags": [
+        "christmas",
+        "food",
+        "orde-lees",
+        "hussey"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1914-12-31T00:05:00Z",
+      "title": "Across the Antarctic Circle",
+      "body": "The ship crossed the Circle at 11 p.m. following a long lead to the south-east. The sun did not set that night. Shackleton looked in vain for open water.",
+      "tags": [
+        "milestone",
+        "midnight sun"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-06T01:20:00Z",
+      "title": "Worsley goes through the ice",
+      "body": "Moored to a floe in clear weather, the men played football until about midnight under the midnight sun. Worsley dropped through a hole in rotten ice while fetching the ball and had to be pulled out. Clock time is ‘about midnight’.",
+      "tags": [
+        "football",
+        "worsley",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-06T11:26:00Z",
+      "title": "The dogs get a run",
+      "body": "For the first time in a month the dogs were taken on to a floe for exercise. Several fell in the water and two fought their way into a pool still locked together. A sounding found 2,400 fathoms.",
+      "tags": [
+        "dogs",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-10T18:15:00Z",
+      "title": "Land in sight",
+      "body": "At 5 p.m. the look-out reported snow slopes rising to about a thousand feet to the south-south-east: Coats Land, seen by Bruce in 1904. Shortly before midnight the ship broke into a lead of open water along a 70-foot ice barrier.",
+      "tags": [
+        "land",
+        "coats land"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-12T13:31:00Z",
+      "title": "A new coast",
+      "body": "South of 74 degrees the ship passed the farthest point reached by Bruce’s Scotia and began coasting ice cliffs no one had seen. Shackleton named the 200 miles of new coast after Sir James Caird. One sick dog had to be shot this day.",
+      "tags": [
+        "discovery",
+        "caird coast",
+        "dogs"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-16T01:32:00Z",
+      "title": "Glacier Bay passed by",
+      "body": "Shortly before midnight the ship came abreast of a bay with a flat ice-foot like a natural quay and a snow slope to the barrier top. Shackleton would not land so far north of Vahsel Bay, because every mile south saved a mile of sledging. They steamed on.",
+      "tags": [
+        "decision",
+        "caird coast"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I named the place Glacier Bay, and had reason later to remember it with regret.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-19T10:06:00Z",
+      "title": "Fast in the pack",
+      "body": "After a north-easterly gale the ice closed round the ship in the night of 18–19 January, about 85 miles from Vahsel Bay. No water could be seen from the deck. Worsley’s log for the day begins ‘Fast in pack’. By the 20th she was firmly beset as far as the eye could reach.",
+      "tags": [
+        "beset",
+        "turning point"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1915-01-25T12:14:00Z",
+      "title": "Full steam and all sail",
+      "body": "A crack ahead widened to a quarter of a mile and for three hours the ship drove at it with engines full ahead and every sail set. She did not move. Later Tom Crean was pinned by an overturning block of ice while chipping from a stage and escaped with bruises.",
+      "tags": [
+        "beset",
+        "crean",
+        "attempt"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-01-27T12:16:00Z",
+      "title": "The fires are let out",
+      "body": "On the tenth day of inactivity Shackleton let the boiler fires die to save coal. Only 67 tons remained, enough for thirty-three days’ steaming. The floe was drifting slowly west.",
+      "tags": [
+        "beset",
+        "coal",
+        "decision"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-02-11T12:20:00Z",
+      "title": "Sallying ship",
+      "body": "Jammed against soft floe, the ship would not come astern until all hands ran from side to side across the deck together, falling over one another and laughing. Afterwards the motor crawler was tried on the ice and ran at about six miles an hour.",
+      "tags": [
+        "beset",
+        "attempt",
+        "motor sledge",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-02-14T12:21:00Z",
+      "title": "Cutting toward the lead",
+      "body": "With steam up, every man went on to the ice with chisels, saws and picks to cut the ship through to open water ahead. After twenty-four hours they had gained a third of the distance; some 400 yards of heavy ice remained. Shackleton called the attempt off on the 15th. Each cut froze behind them.",
+      "tags": [
+        "beset",
+        "attempt",
+        "turning point"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-02-22T04:20:00Z",
+      "title": "Farthest south",
+      "body": "The drift carried the ship to the 77th parallel, the most southerly point she reached. At 2 a.m. the thermometer stood at 10 below zero Fahrenheit. Land was still visible on the horizon, out of reach.",
+      "tags": [
+        "farthest south",
+        "cold"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The summer had gone; indeed the summer had scarcely been with us at all.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-02-24T12:20:00Z",
+      "title": "The ship becomes a winter station",
+      "body": "Sea watches ended. All hands worked by day and slept at night, with one watchman for the dogs and the ice. Crean built an ice-house for the dog Sally and her new litter. Next day the dogs were moved on to the floe.",
+      "tags": [
+        "winter",
+        "routine",
+        "dogs",
+        "decision"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-02-26T12:20:00Z",
+      "title": "Dogloos",
+      "body": "Worsley led a party building a ring of ice-block kennels round the ship, roofed with boards and sealskins and frozen solid with water. The men called them dogloos. The dogs mostly chose to sleep outside. Four ailing dogs were shot.",
+      "tags": [
+        "dogs",
+        "dogloos",
+        "worsley",
+        "small"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-03-10T12:24:00Z",
+      "title": "Moving into the Ritz",
+      "body": "The hold between decks had been cleared and fitted with cubicles and the stove meant for the shore hut. Officers and scientists moved in and named it the Ritz; the cubicles had names like the Billabong and Auld Reekie. Meals were at 9, 1, 4 and 6.",
+      "tags": [
+        "routine",
+        "winter",
+        "the ritz"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-03-11T12:24:00Z",
+      "title": "To the Rampart Berg",
+      "body": "Worsley, Hurley and Wordie walked seven and a half miles to a large iceberg and back, about seventeen miles in all. Hurley took photographs. Wordie, a geologist with no land to study, came home pleased with a little dust and some moss.",
+      "tags": [
+        "hurley",
+        "photography",
+        "wordie",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-04-14T13:37:00Z",
+      "title": "A stranded berg ahead",
+      "body": "A large crevassed iceberg appeared to the north-west, aground and holding still while the pack piled against it. For four days the ship drifted toward it, to within seven miles. A westward set on the night of the 18th carried her clear.",
+      "tags": [
+        "danger",
+        "iceberg"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "She would be crushed like an egg-shell amid the shattering masses.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-04-30T12:47:00Z",
+      "title": "Six teams of dogs",
+      "body": "During April the dogs were formed into six teams under Wild, Crean, Macklin, McIlroy, Marston and Hurley. Worms were killing them: fifty-four dogs and eight pups early in the month, fifty grown dogs at its end. The worm powders had been left behind with a dog-driver who never joined.",
+      "tags": [
+        "dogs",
+        "loss"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-05-01T16:48:00Z",
+      "title": "The sun sets for the winter",
+      "body": "The sun just cleared the horizon at noon and set shortly before 2 p.m. Worsley told the company they would not see it again for seventy days. There was a concert in the Ritz that evening.",
+      "tags": [
+        "polar night",
+        "sunset"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "We said good-bye to the sun on May 1 and entered the period of twilight that would be followed by the darkness of midwinter.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-05-03T12:49:00Z",
+      "title": "Arresting the emperors",
+      "body": "Emperor penguins surfacing in a lead were herded toward the ship for the larder. One knocked the engineer Kerr flat and jumped on his chest; he and Cheetham marched another, 85 pounds, back between them. Nine more were taken on 6 May.",
+      "tags": [
+        "penguins",
+        "food",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-05-08T13:49:00Z",
+      "title": "The sun comes back by mistake",
+      "body": "A week after its last appearance the sun lifted over the horizon at 11 a.m., set, and rose and set twice more by 1.20 p.m. Refraction in air at 15 below zero had bent it into view. Worsley was teased about his navigation.",
+      "tags": [
+        "refraction",
+        "worsley",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-05-24T13:00:00Z",
+      "title": "Empire Day and electric light",
+      "body": "Patriotic songs were sung in the Ritz and campaigns of the war were fought over maps. During May Hurley rigged the small electric plant, including two lamps on poles to light the kennels if the floe should break in the dark.",
+      "tags": [
+        "hurley",
+        "routine",
+        "war"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-06-15T15:06:00Z",
+      "title": "The Antarctic Derby",
+      "body": "Five dog teams raced 700 yards in the noon twilight with an aurora overhead. Shackleton started them by flashing a lamp; the bos’n took bets in chocolate and cigarettes wearing a straw hat. Wild’s team, the favourite, won in 2 minutes 16 seconds.",
+      "tags": [
+        "dogs",
+        "recreation",
+        "wild"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-06-22T13:11:00Z",
+      "title": "Midwinter’s Day",
+      "body": "The day was kept as a holiday with the best dinner the cook could manage, then speeches, songs and toasts in the Ritz. A sounding found 262 fathoms. The ship was drifting north unusually fast, 39 miles in five days.",
+      "tags": [
+        "midwinter",
+        "celebration"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "After supper at midnight we sang ‘God Save the King’ and wished each other all success in the days of sunshine and effort that lay ahead.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-07-13T23:16:00Z",
+      "title": "The worst blizzard",
+      "body": "A gale of 60 to 70 miles an hour struck in the evening and buried the windward kennels under five feet of drift by morning. The temperature fell to 33.5 below zero Fahrenheit. No one was allowed past the kennels; about a hundred tons of snow had to be dug from the ship’s side. Clock time is ‘the evening’.",
+      "tags": [
+        "blizzard",
+        "cold"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-07-22T16:11:00Z",
+      "title": "The crack reaches the ship",
+      "body": "Early in the afternoon a two-foot crack ran to within 35 yards of the port quarter, the product of pressure piling blocks 15 feet high 300 yards away. Shackleton had the sledges brought aboard and shared the night watches with Wild and Worsley. Clock time is ‘early on the afternoon’.",
+      "tags": [
+        "pressure",
+        "danger"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-07-26T15:05:00Z",
+      "title": "The sun returns",
+      "body": "Just before noon the top of the sun showed by refraction for one minute, seventy-nine days after it was last seen. Clark found diatoms appearing again in his nets with the light.",
+      "tags": [
+        "sunrise",
+        "polar night"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-08-01T13:13:00Z",
+      "title": "The floe breaks up",
+      "body": "In a south-westerly gale the floe cracked at 8 a.m. and two hours later broke up round the ship, which listed first to starboard, then heavily to port. Dogs and sledges were hurried aboard without a single fight. The ice kennels were crushed and the rudder damaged.",
+      "tags": [
+        "pressure",
+        "danger",
+        "dogs",
+        "turning point"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Mighty blocks of ice, gripped between meeting floes, rose slowly till they jumped like cherry-stones squeezed between thumb and finger.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-08-17T13:20:00Z",
+      "title": "Morrell Land sounded away",
+      "body": "A cast of 1,676 fathoms ten miles west of the charted position of Morrell’s ‘New South Greenland’ found deep water and no land in sight from the mast-head. Shackleton struck it from the map.",
+      "tags": [
+        "science",
+        "sounding",
+        "discovery"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "wordie"
+      ]
+    },
+    {
+      "t": "1915-09-07T13:21:00Z",
+      "title": "Hercules leads the choir",
+      "body": "For a fortnight the dog Hercules had started the whole pack howling two or three times a day. Crean’s puppies were now pulling in harness almost as well as the grown teams. The temperature was 10.8 below zero Fahrenheit.",
+      "tags": [
+        "dogs",
+        "crean",
+        "small"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-09-26T13:22:00Z",
+      "title": "Clocks put forward",
+      "body": "The ship’s clock was advanced one hour as a daylight-saving measure. Times given after this date are on the new clock. A bull Weddell seal was killed the same day, welcome after months with almost no fresh meat for the dogs.",
+      "tags": [
+        "routine",
+        "time"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-09-30T18:25:00Z",
+      "title": "The worst squeeze yet",
+      "body": "At 3 p.m. the cracks beside the ship began to work sideways and the port bow took the full weight of a floe. Shackleton ordered all hands to stand by. The floe cracked across just as the hull seemed at its limit.",
+      "tags": [
+        "pressure",
+        "danger"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The decks shuddered and jumped, beams arched, and stanchions buckled and shook.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-10-12T13:22:00Z",
+      "title": "Spring quarters",
+      "body": "After a thaw that sent the temperature to nearly 30 degrees Fahrenheit and left the ship dripping, all hands moved back up to the deck cabins. Seals, penguins and whales were in the leads again. Next evening the ship floated upright for the first time since August.",
+      "tags": [
+        "thaw",
+        "routine"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-10-18T19:23:00Z",
+      "title": "Thirty degrees to port",
+      "body": "In the afternoon the floes moved sideways, the port floe split and within seconds the ship was thrown over 30 degrees with her lee boats almost on the ice. Kennels broke loose on top of the dogs. Hurley climbed down to photograph her; dinner was eaten sitting on the deck. At 8 p.m. the floes opened and she came upright. South says only ‘afternoon’; the clock time here is nominal.",
+      "tags": [
+        "pressure",
+        "hurley",
+        "photography",
+        "danger"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-10-24T22:09:00Z",
+      "title": "The beginning of the end",
+      "body": "At 6.45 p.m. the ship was caught at a bad angle between three masses of ice. The stern-post was twisted, plank ends started and she began to leak at once. Pumps were going by 8 p.m. and McNish worked through the night on a coffer-dam.",
+      "tags": [
+        "pressure",
+        "leak",
+        "turning point"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1915-10-27T00:24:00Z",
+      "title": "Boats lowered to the floe",
+      "body": "At 7 p.m. the planking opened four and five inches and the ship bent like a bow. At 9 Shackleton had boats, sledges and stores lowered to the ice. Eight emperor penguins came up from a crack and stood making a noise none of the men had heard before.",
+      "tags": [
+        "pressure",
+        "penguins",
+        "abandonment"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1915-10-27T20:26:00Z",
+      "title": "Abandon ship",
+      "body": "At 4 p.m. the ice hove the stern up and tore out the rudder and stern-post. At 5 Shackleton ordered everyone on to the floe, 346 miles from the nearest hut on Paulet Island. Twenty-eight men and forty-nine dogs camped on the ice; the night temperature fell to 16 below zero Fahrenheit.",
+      "tags": [
+        "abandonment",
+        "turning point"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "It was a sickening sensation to feel the decks breaking up under one’s feet, the great beams bending and then snapping with a noise like heavy gunfire.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1915-10-28T09:26:00Z",
+      "title": "Hot milk at Dump Camp",
+      "body": "At daybreak Shackleton, Wild and Hurley fetched petrol from the wreck and took hot milk round the tents. New clothing was issued and fur sleeping-bags drawn by lot. Hurley filmed the masts coming down, the crow’s-nest landing within ten feet of him. Clock time is ‘daybreak’.",
+      "tags": [
+        "dump camp",
+        "wild",
+        "hurley",
+        "film"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "If any of you gentlemen would like your boots cleaned just put them outside.",
+        "by": "Frank Wild, in Shackleton’s South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-10-29T13:26:00Z",
+      "title": "Mrs Chippy and the pups",
+      "body": "In the afternoon the three youngest puppies, the pup Sirius and the carpenter’s cat were shot, since nothing weak could be carried. Macklin, Crean and McNish took it hard. Greenstreet was given a seventh dog team.",
+      "tags": [
+        "mrs chippy",
+        "dogs",
+        "loss"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "reference"
+      ]
+    },
+    {
+      "t": "1915-10-30T18:26:00Z",
+      "title": "Two pounds each",
+      "body": "The march for Paulet Island began at 3 p.m. with two boats on sledges. Each man could carry two pounds of personal gear. Shackleton tore the fly-leaf and a page of Job from the ship’s Bible and left the rest. They made one mile by 5 p.m.",
+      "tags": [
+        "march",
+        "dump camp"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "So sovereigns were thrown away and photographs were kept.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-11-01T13:26:00Z",
+      "title": "Ocean Camp",
+      "body": "After two days and barely two miles through soft snow up to the hips, Shackleton stopped the march. The party settled on a heavy old floe a mile and a half from the wreck and called it Ocean Camp. They would live on seal and penguin and save the sledging rations for the boats.",
+      "tags": [
+        "ocean camp",
+        "decision"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-11-02T13:26:00Z",
+      "title": "Hurley saves his negatives",
+      "body": "Working with the salvage parties at the wreck, Hurley dug through icy slush inside the ship and recovered his cases of glass negatives, which were zinc-lined and soldered and mostly unharmed. A killer whale broke the ice near his team on the way back. From Hurley’s manuscript diary.",
+      "tags": [
+        "hurley",
+        "photography",
+        "salvage"
+      ],
+      "significance": 2,
+      "refs": [
+        "hurley",
+        "south"
+      ]
+    },
+    {
+      "t": "1915-11-06T13:26:00Z",
+      "title": "Blizzard at Ocean Camp",
+      "body": "A south-westerly blizzard kept everyone in the tents for two days and buried the sledges. Nobody minded: it drove the floe about eleven miles north in a night. Over the first days at the camp the drift was about twenty miles north.",
+      "tags": [
+        "blizzard",
+        "drift",
+        "ocean camp"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-11-09T13:26:00Z",
+      "title": "Choosing 120 plates",
+      "body": "Hurley and Shackleton went through the rescued negatives and kept about 120. Hurley smashed some 400 others on the ice so he would not be tempted to go back for them. Date from Hurley’s diary via the State Library of New South Wales; the RGS timeline puts it on the 8th.",
+      "tags": [
+        "hurley",
+        "photography"
+      ],
+      "significance": 2,
+      "refs": [
+        "hurley",
+        "rgs"
+      ]
+    },
+    {
+      "t": "1915-11-21T20:30:00Z",
+      "title": "‘She’s gone, boys’",
+      "body": "In the evening Shackleton called from the look-out that the ship was going. A mile and a half away her stern rose and she went down bows first. Afterwards he argued with the storekeeper for two sausages a man instead of one and a half.",
+      "tags": [
+        "sinking",
+        "turning point",
+        "ocean camp"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "She then gave one quick dive and the ice closed over her for ever.",
+        "by": "A diary of the party, in Shackleton’s South"
+      },
+      "refs": [
+        "south",
+        "devos"
+      ]
+    },
+    {
+      "t": "1915-11-22T13:30:00Z",
+      "title": "First morning without a ship",
+      "body": "The Endurance had gone under the evening before, a mile and a half from Ocean Camp. Shackleton raised the rations slightly to steady the camp, and argued with the storekeeper for two sausages each instead of one and a half. The noon temperature was 19 F.",
+      "tags": [
+        "ocean-camp",
+        "morale",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1915-11-24T13:30:00Z",
+      "title": "Seven miles north in a day",
+      "body": "A south-westerly wind carried the floe seven miles north, and another seven in the next two days. With no ship, the drift was now the only way the men could travel, and Hussey was asked for a wind forecast every four hours.",
+      "tags": [
+        "ocean-camp",
+        "drift"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1915-12-07T13:29:00Z",
+      "title": "Practice launch of the boats",
+      "body": "With north-westerly winds expected to open the ice, Shackleton had a slipway cut and the boats launched and stowed as a drill. One sailor said they took the water ‘like a bird’. A blizzard then buried the camp for four days.",
+      "tags": [
+        "ocean-camp",
+        "boats"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-18T13:28:00Z",
+      "title": "Blown back across 67 South",
+      "body": "The floe reached 67 00 S on the 17th; then a north-easterly drove it back more than three miles. Macklin and others wrote of the camp growing restless, and Shackleton began planning a march.",
+      "tags": [
+        "ocean-camp",
+        "drift",
+        "morale"
+      ],
+      "significance": 1,
+      "refs": [
+        "worsley",
+        "lansing",
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-22T13:30:00Z",
+      "title": "Christmas kept three days early",
+      "body": "Because the march was to start next morning, 22 December was kept as Christmas and the luxuries that could not be carried were eaten: anchovies in oil, baked beans and jugged hare. It was the last full meal for eight months.",
+      "tags": [
+        "ocean-camp",
+        "food",
+        "christmas"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-23T08:00:00Z",
+      "title": "The second march begins",
+      "body": "All hands were called at 3 am and started at 4.30 in sea-fog, hauling the James Caird and Dudley Docker in sixty-yard relays. They marched at night for the harder surface and slept by day. The third boat, the Stancomb Wills, was left at Ocean Camp.",
+      "tags": [
+        "march",
+        "boats"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-25T05:30:00Z",
+      "title": "Christmas Day in harness",
+      "body": "Breakfast at 1 am and on the march by 2. Lunch was stale bannock and a mug of thin cocoa; supper was seal steak. The men sank to their knees at every step.",
+      "tags": [
+        "march",
+        "christmas",
+        "food"
+      ],
+      "significance": 1,
+      "quote": {
+        "text": "It’s a hard, rough, jolly life, this marching and camping; no washing of self or dishes, no undressing, no changing of clothes.",
+        "by": "A diary of the party, in Shackleton’s South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-27T13:30:00Z",
+      "title": "McNish refuses to go on",
+      "body": "Among the pressure ridges the carpenter, Harry McNish, told Worsley he would haul no further, arguing that ship’s articles lapsed when the Endurance sank. Worsley fetched Shackleton, who made clear the men were still under orders; McNish went back to his place at the boat. South does not mention it. The same morning Blackie, one of Wild’s dogs, went lame and was shot.",
+      "tags": [
+        "march",
+        "mcnish",
+        "discipline",
+        "dogs"
+      ],
+      "significance": 3,
+      "refs": [
+        "lansing",
+        "reference",
+        "south"
+      ]
+    },
+    {
+      "t": "1915-12-29T13:31:00Z",
+      "title": "The march abandoned",
+      "body": "After seven days the party had made seven and a half miles in a straight line and the ice ahead was too broken to cross. They pulled back to an old floe and settled to wait, with food for forty-two days in hand. South calls the new home Patience Camp from this date.",
+      "tags": [
+        "march",
+        "patience-camp"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "We had marched seven and a half miles in a direct line and at this rate it would take us over three hundred days to reach the land away to the west.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-01-01T13:31:00Z",
+      "title": "A sea leopard hunts Orde-Lees",
+      "body": "Returning on skis from a seal hunt, Thomas Orde-Lees was chased across the floe by a sea leopard, which then dived and came up ahead of him, tracking his shadow through the ice. Wild ran out with a rifle and shot it less than thirty feet away; it measured twelve feet. Lansing places this at New Year; South tells it undated.",
+      "tags": [
+        "patience-camp",
+        "wildlife",
+        "orde-lees",
+        "wild"
+      ],
+      "significance": 2,
+      "refs": [
+        "lansing",
+        "south"
+      ]
+    },
+    {
+      "t": "1916-01-01T18:31:00Z",
+      "title": "New Year, wet underfoot",
+      "body": "The thermometer rose to 38 F. For a fortnight the camp sat in warm calm with no drift at all, the floe softening so that men went through to the waist.",
+      "tags": [
+        "patience-camp",
+        "weather"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-01-14T13:30:00Z",
+      "title": "Four dog teams shot",
+      "body": "Seals were scarce and the dogs ate a seal a day. Shackleton ordered Wild to shoot the teams of Wild, Crean, McIlroy and Marston; each dog was led behind a hummock in turn. Hurley’s team followed on the 16th, leaving Macklin’s team and Greenstreet’s year-old pups. The camp was also shifted 150 yards to cleaner ice that day.",
+      "tags": [
+        "patience-camp",
+        "dogs",
+        "food"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "It was the worst job that we had had throughout the Expedition, and we felt their loss keenly.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "lansing",
+        "south"
+      ]
+    },
+    {
+      "t": "1916-01-15T13:30:00Z",
+      "title": "Last sledge run to Ocean Camp",
+      "body": "Hurley and Macklin took their reprieved teams back to the old camp overnight and returned with about 1,000 lb of stores, falling through thin ice to the waist on the way. They said Ocean Camp ‘looked like a village that had been razed to the ground’.",
+      "tags": [
+        "patience-camp",
+        "ocean-camp",
+        "food",
+        "dogs"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-01-21T13:31:00Z",
+      "title": "Across the Antarctic Circle",
+      "body": "A six-day south-westerly gale kept everyone in the tents. When the sun came out the sights gave 65 43 S: the floe had crossed the Circle and gone 84 miles north in six days, the longest drift they ever made. Bannock was issued to celebrate.",
+      "tags": [
+        "patience-camp",
+        "drift",
+        "milestone"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "lansing",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1916-01-25T13:28:00Z",
+      "title": "Eighty degrees in the tents",
+      "body": "A north-easterly brought fog, then bright sun: 36 F in the shade and nearly 80 F inside the tents. The surface turned to pools.",
+      "tags": [
+        "patience-camp",
+        "weather"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-02-02T04:28:00Z",
+      "title": "The third boat fetched",
+      "body": "Eighteen men under Wild left at 1 am with an empty boat-sledge, reached Ocean Camp at 3.30, and were back at 12.30 pm with the Stancomb Wills and two cases of lentils. Shackleton and Hussey sledged out a mile to meet them with hot tea. Next day the leads had opened and Ocean Camp was never reached again.",
+      "tags": [
+        "patience-camp",
+        "boats",
+        "ocean-camp"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-02-17T13:33:00Z",
+      "title": "The Adelies arrive",
+      "body": "With blubber almost gone and seal heads being dug up for scraps, a flock of Adelie penguins came through. Sixty-nine were taken that day and about six hundred within a week, which carried the camp through February.",
+      "tags": [
+        "patience-camp",
+        "food",
+        "wildlife"
+      ],
+      "significance": 2,
+      "refs": [
+        "lansing",
+        "south"
+      ]
+    },
+    {
+      "t": "1916-02-29T13:33:00Z",
+      "title": "Leap Year Day feast",
+      "body": "Shackleton made 29 February a celebration to lift the camp. The last of the cocoa was drunk; from then on the only drinks were water and occasional weak milk, with three lumps of sugar a day.",
+      "tags": [
+        "patience-camp",
+        "food",
+        "morale"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-03-09T13:34:00Z",
+      "title": "The floe begins to move",
+      "body": "The men felt the ice rising and falling under them: ocean swell, the first sign that open water was within reach. It was also the thing that would break the floe.",
+      "tags": [
+        "patience-camp",
+        "ice",
+        "swell"
+      ],
+      "significance": 2,
+      "refs": [
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-03-17T13:34:00Z",
+      "title": "Paulet Island slides past",
+      "body": "The hut and stores on Paulet Island, which Shackleton himself had fitted out for the Nordenskjold relief ship years before, were now exactly abeam, sixty miles to the west across ice that could be neither sledged nor sailed.",
+      "tags": [
+        "patience-camp",
+        "drift",
+        "paulet-island"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "It might have been six hundred for all the chance that we had of reaching it by sledging across the broken sea-ice in its present condition.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1916-03-23T13:35:00Z",
+      "title": "Land in sight",
+      "body": "After a blizzard cleared, the snow peaks of Joinville Island showed to the west, the first land seen in sixteen months. Worsley took theodolite bearings of Mount Percy, about 57 miles off, to check his chronometers.",
+      "tags": [
+        "patience-camp",
+        "land",
+        "navigation"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "It is Joinville Island, and its serrated mountain ranges, all snow-clad, are just visible on the horizon.",
+        "by": "A diary of the party, in Shackleton’s South"
+      },
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-03-29T13:33:00Z",
+      "title": "Rain",
+      "body": "It rained hard, the first rain since South Georgia sixteen months before. Sleeping bags were soaked through; some men said it made them long for London fog.",
+      "tags": [
+        "patience-camp",
+        "weather"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-03-30T13:33:00Z",
+      "title": "The last dogs",
+      "body": "Wild shot an eleven-foot sea leopard that morning; nearly fifty undigested fish in its stomach became the only fish meal of the drift. With that meat in hand Shackleton had the last two dog teams shot and dressed for food. Lansing, from the diaries, dates this 30 March; the diary extract printed in South says 2 April.",
+      "tags": [
+        "patience-camp",
+        "dogs",
+        "food",
+        "wildlife"
+      ],
+      "significance": 3,
+      "refs": [
+        "lansing",
+        "south"
+      ]
+    },
+    {
+      "t": "1916-04-07T13:38:00Z",
+      "title": "Clarence Island at daylight",
+      "body": "A peak that first looked like a berg proved to be Clarence Island, about sixty miles north; the white peaks of Elephant Island showed later. Sugar was stopped that day; meals were seal meat and blubber only.",
+      "tags": [
+        "patience-camp",
+        "land",
+        "elephant-island"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-04-09T16:37:00Z",
+      "title": "The boats are launched",
+      "body": "The floe split under the boats at 11 am, straight through the site of Shackleton’s tent. At 1 pm the pack opened and the three boats were launched, 28 men in all; an hour later a tide-rip of ice nearly ran them down.",
+      "tags": [
+        "boats",
+        "floe",
+        "launch"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-04-10T02:37:00Z",
+      "title": "Holness in the water",
+      "body": "Camped on a floe, Shackleton went out uneasy at 11 pm. The ice cracked under the men’s tent and he hauled out a sleeping bag with fireman Ernest Holness inside, seconds before the edges slammed together. Shackleton himself was then left alone on a drifting piece until Wild sent a boat.",
+      "tags": [
+        "boats",
+        "floe",
+        "holness",
+        "night"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "For a moment I felt that my piece of rocking floe was the loneliest place in the world.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-04-12T15:33:00Z",
+      "title": "Thirty miles the wrong way",
+      "body": "After three days of pulling west, Worsley balanced on the Dudley Docker’s gunwale for a noon sight. It put them thirty miles east of where they had started. Shackleton told the men only that progress was less than hoped.",
+      "tags": [
+        "boats",
+        "navigation",
+        "worsley"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-04-13T13:38:00Z",
+      "title": "A night hove to at sea",
+      "body": "Out of the pack at noon and running for Elephant Island, the boats hove to at dusk on a sea-anchor of oars. Spray froze on them all night, there was no ice for water, and Shackleton doubted all the men would live till morning.",
+      "tags": [
+        "boats",
+        "thirst",
+        "cold",
+        "night"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "We are doing all right, but I would like some dry mitts.",
+        "by": "A man in the Stancomb Wills, in Shackleton’s South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-04-15T13:09:00Z",
+      "title": "Landing at Cape Valentine",
+      "body": "After 497 days without land the three boats ran through a gap in the reef onto a shingle beach. Shackleton sent the youngest, Perce Blackborow, ashore first, forgetting his feet were frostbitten; he sat down in the surf. Men ran pebbles through their fingers and laughed.",
+      "tags": [
+        "elephant-island",
+        "landing",
+        "blackborow"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "he is now able to say that he was the first man to sit on Elephant Island.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south",
+        "rgs"
+      ]
+    },
+    {
+      "t": "1916-04-17T20:39:00Z",
+      "title": "The move to Wild’s spit",
+      "body": "The first beach would be swept at spring tides, so the party rowed seven miles west into a gale, short of oars, to a spit Wild had found. Rickenson (South’s spelling; usually Rickinson) collapsed in the surf with heart strain. That night the big tent blew to pieces and two bags of clothing were lost to the sea.",
+      "tags": [
+        "elephant-island",
+        "cape-wild",
+        "boats"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-04-18T11:39:00Z",
+      "title": "The penguins leave",
+      "body": "At 8 am the ringed penguins on the spit mustered at the water’s edge and swam north in column before the men could reach them. The camp was dug into the abandoned rookery; body heat turned the floor of Shackleton’s tent to ‘evil smelling yellow mud’.",
+      "tags": [
+        "elephant-island",
+        "wildlife",
+        "food"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-04-24T16:09:00Z",
+      "title": "The James Caird sails",
+      "body": "McNish had decked the boat (22.5 ft; South calls her a 20-ft whaler) with sledge runners, box lids and canvas. She nearly capsized in the launch, throwing McNish and Vincent into the surf. Loaded with a month’s food for six, she cut her painter at half past twelve and stood north-east.",
+      "tags": [
+        "james-caird",
+        "elephant-island",
+        "departure"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The men who were staying behind made a pathetic little group on the beach, with the grim heights of the island behind them and the sea seething at their feet, but they waved to us and gave three hearty cheers.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-04-28T13:21:00Z",
+      "title": "A hut from two boats",
+      "body": "Wild’s men built two stone walls four feet high and nineteen feet apart and laid the Dudley Docker and Stancomb Wills upside down across them, with tent cloth for walls. Twenty-two men slept in it, ten on the thwarts. They called it the Snuggery, or the Sty. (Date approximate: built in the last days of April.)",
+      "tags": [
+        "elephant-island",
+        "hut",
+        "wild"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-05-01T13:12:00Z",
+      "title": "Iced up and lying to",
+      "body": "In a south-westerly gale the Caird lay to a sea anchor, making 30 miles in 24 hours. Spray froze over her until she rode like a log; the men crawled on the deck chipping ice and threw overboard spare oars and two sodden sleeping bags. Next morning the sea anchor broke away.",
+      "tags": [
+        "james-caird",
+        "ice",
+        "gale"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-03T15:03:00Z",
+      "title": "Sun at last",
+      "body": "The gale dropped and Worsley got his first sights in days: 56 13 S, 45 38 W, more than 380 miles made. Sleeping bags were hung from the mast and socks spread on the deck.",
+      "tags": [
+        "james-caird",
+        "navigation",
+        "worsley"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-06T02:43:00Z",
+      "title": "The great wave",
+      "body": "At midnight Shackleton, at the tiller, saw what he took for a line of clear sky to the south-west. It was the crest of a wave larger than any he had seen in twenty-six years at sea. The boat was flung forward half full of water; they baled for their lives and did not get the stove lit until 3 am.",
+      "tags": [
+        "james-caird",
+        "wave",
+        "night"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "For God’s sake, hold on! It’s got us!",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-08T15:01:00Z",
+      "title": "South Georgia sighted",
+      "body": "Kelp at ten, two shags at eleven, and at half past twelve McCarthy saw black cliffs through a rift in the cloud. Reefs kept them off; the water was nearly gone and what remained was brackish.",
+      "tags": [
+        "james-caird",
+        "landfall",
+        "south-georgia"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-09T20:29:00Z",
+      "title": "Hurricane on a lee shore",
+      "body": "A north-westerly hurricane drove the boat toward the cliffs all day. Under reefed sails they clawed past the mainland and Annenkov Island; just after 6 pm the wind shifted. Moments later the pin holding the mast fell out.",
+      "tags": [
+        "james-caird",
+        "hurricane",
+        "south-georgia"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-10T19:30:00Z",
+      "title": "Ashore at Cave Cove",
+      "body": "After five tacks to get through the reef into King Haakon Bay, the Caird touched a boulder beach at dusk. A stream of fresh water ran at their feet. They were too weak to haul the boat up and spent the night fending her off the rocks.",
+      "tags": [
+        "james-caird",
+        "landing",
+        "south-georgia",
+        "cave-cove"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "A moment later we were down on our knees drinking the pure, ice-cold water in long draughts that put new life into us. It was a splendid moment.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-13T12:30:00Z",
+      "title": "The rudder comes back",
+      "body": "The rudder had been knocked off in the landing. Three days later, with the whole Atlantic to drift in, it floated back into the cove and was caught with oars. Worsley took a noon latitude of 54 10 47 S and corrected the chart by a mile.",
+      "tags": [
+        "cave-cove",
+        "james-caird",
+        "luck"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "bergman"
+      ]
+    },
+    {
+      "t": "1916-05-15T14:59:00Z",
+      "title": "Peggotty Camp",
+      "body": "The six sailed up the bay singing and beached among hundreds of sea elephants near its head. The Caird was turned over and turfed round with tussock as a hut, named for the boat-house in David Copperfield.",
+      "tags": [
+        "south-georgia",
+        "peggotty-camp",
+        "james-caird"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-19T05:28:00Z",
+      "title": "Three men start across",
+      "body": "With no tent or sleeping bags, three days’ food, a Primus, a carpenter’s adze, fifty feet of rope and screws from the Caird in their boot soles, Shackleton, Worsley and Crean left by moonlight. McNish walked 200 yards with them. No one had been more than a mile inland on South Georgia.",
+      "tags": [
+        "crossing",
+        "south-georgia"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-19T19:28:00Z",
+      "title": "The slide",
+      "body": "Three times they climbed to a gap in the ridge and found a precipice. At dusk, with fog closing from behind and a night at 4,500 feet ahead, they went over the fourth, cut steps a little way, then unroped and slid, dropping some 900 feet in two or three minutes.",
+      "tags": [
+        "crossing",
+        "south-georgia",
+        "trident"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-05-20T07:27:00Z",
+      "title": "Five minutes’ sleep",
+      "body": "At 5 am the three sat down in the lee of a rock with their arms round each other. Worsley and Crean fell asleep at once. Shackleton, knowing sleep there meant death, woke them after five minutes and told them it had been half an hour.",
+      "tags": [
+        "crossing",
+        "south-georgia",
+        "night"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-20T09:27:00Z",
+      "title": "The seven o’clock whistle",
+      "body": "Above Fortuna Bay they watched the chronometer. At seven exactly the Stromness steam whistle carried over the ridge, the first sound from the outside world since December 1914.",
+      "tags": [
+        "crossing",
+        "south-georgia",
+        "stromness"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-20T18:27:00Z",
+      "title": "Stromness",
+      "body": "Wet from lowering themselves down a waterfall, the three walked into the station. Two boys ran from them. The manager, Mr Sorlle, did not know Shackleton until he gave his name; then came coffee, baths, and news of the war.",
+      "tags": [
+        "crossing",
+        "stromness",
+        "arrival"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "‘The war is not over,’ he answered. ‘Millions are being killed. Europe is mad. The world is mad.’",
+        "by": "Thoralf Sørlle, manager at Stromness, in Shackleton’s South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-20T21:27:00Z",
+      "title": "The fourth presence",
+      "body": "Shackleton wrote afterwards that on the march it often seemed there was a fourth walker with them. Worsley and Crean, unprompted, said the same.",
+      "tags": [
+        "crossing",
+        "fourth-presence"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "it seemed to me often that we were four, not three.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-22T12:27:00Z",
+      "title": "The other three brought round",
+      "body": "A whale-catcher with Worsley aboard fetched McNish, McCarthy and Vincent and the James Caird from King Haakon Bay. Shaved and in clean clothes, Worsley was not recognised by them. That evening the old whaling captains came one by one to shake hands.",
+      "tags": [
+        "south-georgia",
+        "stromness",
+        "james-caird"
+      ],
+      "significance": 2,
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-05-23T11:27:00Z",
+      "title": "First rescue attempt",
+      "body": "Seventy-two hours after walking in, Shackleton, Worsley and Crean sailed in the borrowed whaler Southern Sky. On the 28th a line of pack stopped her about seventy miles from Elephant Island; with coal for four more days she turned for the Falklands.",
+      "tags": [
+        "rescue",
+        "southern-sky"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-05-31T13:51:00Z",
+      "title": "The world hears",
+      "body": "From Port Stanley Shackleton cabled London the first account of the expedition. The King replied next day. The Admiralty said no ship could come before October.",
+      "tags": [
+        "rescue",
+        "port-stanley",
+        "news"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-06-13T13:40:00Z",
+      "title": "Twenty miles short",
+      "body": "The Uruguayan trawler Instituto de Pesca No. 1 came within sight of Elephant Island’s peaks before pack ice stopped her inside twenty miles. A gun was fired; ashore it was taken for the glacier calving. She had three days’ coal left.",
+      "tags": [
+        "rescue",
+        "instituto-de-pesca",
+        "uruguay"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-06-15T13:40:00Z",
+      "title": "Blackborow’s toes",
+      "body": "On a mild day the surgeons McIlroy and Macklin amputated Perce Blackborow’s frostbitten toes in the hut (South: all five on one foot). Hurley fed the stove with penguin skins to raise the heat enough to vaporise their six ounces of chloroform; the operation took 55 minutes. The others waited outside.",
+      "tags": [
+        "elephant-island",
+        "medical",
+        "blackborow"
+      ],
+      "significance": 3,
+      "refs": [
+        "lansing",
+        "south",
+        "reference"
+      ]
+    },
+    {
+      "t": "1916-06-22T13:51:00Z",
+      "title": "Midwinter under the boats",
+      "body": "Breakfast was full-strength hoosh with hot milk; lunch a pudding Wild invented from powdered biscuit and twelve pieces of mouldy nut-food. The toast was a teaspoon of methylated spirit in hot water with ginger and sugar. Hussey played and each man sang a verse about another.",
+      "tags": [
+        "elephant-island",
+        "midwinter",
+        "banjo",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-06-25T13:51:00Z",
+      "title": "The sea reaches the hut",
+      "body": "A north-westerly storm drove waves up the spit to within four yards of the hut. Earlier a block calving from the glacier across the bay had sent a thirty-foot wave that the brash ice damped just in time.",
+      "tags": [
+        "elephant-island",
+        "weather",
+        "sea"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-07-12T14:44:00Z",
+      "title": "Third attempt: the Emma",
+      "body": "British residents of Punta Arenas raised 1,500 pounds in three days and chartered a forty-year-old oak schooner. She left in tow of the Chilean steamer Yelcho; the tow-rope parted twice in a gale and the Yelcho was sent back.",
+      "tags": [
+        "rescue",
+        "emma",
+        "punta-arenas",
+        "yelcho"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-07-22T15:41:00Z",
+      "title": "A hundred miles off",
+      "body": "Within ten minutes of entering the pack the Emma broke her bobstay and her engine inlet choked with ice. Noon on the 22nd found her 108 miles from the island with ropes iced as thick as a man’s arm. Shackleton turned back for the third time.",
+      "tags": [
+        "rescue",
+        "emma",
+        "ice"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1916-07-26T13:51:00Z",
+      "title": "Life in the Snuggery",
+      "body": "By late July the hut floor was a paste of oil, reindeer hair and penguin feathers, and meltwater had to be baled out by the hundred gallons. Marston read one recipe a night from a penny cookery book. Wild rolled his bag each clear morning and told the men to get ready.",
+      "tags": [
+        "elephant-island",
+        "hut",
+        "wild",
+        "morale"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Roll up your sleeping-bags, boys; the boss may come to-day.",
+        "by": "Frank Wild, in Shackleton’s South"
+      },
+      "refs": [
+        "south",
+        "lansing"
+      ]
+    },
+    {
+      "t": "1916-08-10T13:51:00Z",
+      "title": "Stanley, and no ship",
+      "body": "Back at Port Stanley, Shackleton was told the Discovery would not arrive from England until mid-September and that he might as well rest. He asked Chile for the Yelcho again and was towed out on the 10th.",
+      "tags": [
+        "rescue",
+        "port-stanley"
+      ],
+      "significance": 1,
+      "refs": [
+        "south",
+        "worsley"
+      ]
+    },
+    {
+      "t": "1916-08-12T13:51:00Z",
+      "title": "The last methylated spirit",
+      "body": "The Saturday toast used up the last of the spirit. From then on the King, ‘sweethearts and wives’ and ‘the Boss and crew of the Caird’ were drunk in hot water and ginger. Tobacco had run out weeks before; men smoked sennegrass.",
+      "tags": [
+        "elephant-island",
+        "food",
+        "morale"
+      ],
+      "significance": 1,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-08-25T05:14:00Z",
+      "title": "The Yelcho sails",
+      "body": "Chile lent the small steel steamer Yelcho, under Piloto Luis Pardo, on Shackleton’s promise to keep her out of the ice. She left Punta Arenas just after midnight, coaled at Picton Island on the 27th and crossed the Drake Passage in unusually fair weather.",
+      "tags": [
+        "rescue",
+        "yelcho",
+        "pardo",
+        "chile"
+      ],
+      "significance": 3,
+      "refs": [
+        "south",
+        "worsley",
+        "reference"
+      ]
+    },
+    {
+      "t": "1916-08-27T14:28:00Z",
+      "title": "A wind clears the bay",
+      "body": "For ten days pack had filled the bay at Cape Wild and two feet of snow had fallen. On the 27th a strong west-south-westerly drove the ice out. Food on the island was down to stewed seal bones, limpets and seaweed.",
+      "tags": [
+        "elephant-island",
+        "ice",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-08-30T16:39:00Z",
+      "title": "Ship O!",
+      "body": "Wild was serving a hoosh of seal backbone, limpets and seaweed when Marston shouted from the lookout. The men tore down the hut wall to get out. Wild holed the last tin of fuel to make a signal fire; the Yelcho had already turned in. All 22 were aboard within the hour.",
+      "tags": [
+        "rescue",
+        "elephant-island",
+        "yelcho"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I called out, ‘Are you all well?’ and he answered, ‘We are all well, boss,’ and then I heard three cheers.",
+        "by": "Ernest Shackleton, South"
+      },
+      "refs": [
+        "south"
+      ]
+    },
+    {
+      "t": "1916-09-03T14:44:00Z",
+      "title": "Punta Arenas",
+      "body": "From Rio Seco Shackleton telephoned ahead. The fire alarm was rung so the whole town would know, and the Yelcho came in at ten to crowded streets. Every man who had sailed in the Endurance was alive.",
+      "tags": [
+        "rescue",
+        "punta-arenas",
+        "arrival"
+      ],
+      "significance": 3,
+      "refs": [
+        "south"
+      ]
     }
   ],
-  "episodes": [],
-  "conditions": [],
+  "episodes": [
+    {
+      "id": "leaving-south-georgia-1914-12-05",
+      "start": "1914-12-05T11:11:00Z",
+      "end": "1914-12-05T17:11:00Z",
+      "kind": "event",
+      "title": "Leaving South Georgia",
+      "narrativeBeats": [
+        {
+          "t": "1914-12-05T11:11:00Z",
+          "text": "Shackleton gives the order to heave anchor at Grytviken."
+        }
+      ]
+    },
+    {
+      "id": "first-pack-ice-1914-12-07",
+      "start": "1914-12-07T07:46:00Z",
+      "end": "1914-12-08T10:46:00Z",
+      "kind": "event",
+      "title": "First pack ice",
+      "narrativeBeats": [
+        {
+          "t": "1914-12-07T07:46:00Z",
+          "text": "The sea changes from green to deep indigo."
+        },
+        {
+          "t": "1914-12-07T19:46:00Z",
+          "text": "Endurance passes between Sanders Island and Candlemas."
+        },
+        {
+          "t": "1914-12-07T21:46:00Z",
+          "text": "Fifteen miles north-east of Sanders Island a half-mile belt of heavy pack bars the way."
+        },
+        {
+          "t": "1914-12-08T04:46:00Z",
+          "text": "The ship runs south through openings, meets old rafted pack and turns back for open water."
+        }
+      ]
+    },
+    {
+      "id": "getting-beset-1915-01-16",
+      "start": "1915-01-16T10:25:00Z",
+      "end": "1915-01-16T16:25:00Z",
+      "kind": "event",
+      "title": "Getting beset",
+      "narrativeBeats": [
+        {
+          "t": "1915-01-16T10:25:00Z",
+          "text": "Held up by solid pack off the great glacier after a 124-mile run; the ship shelters behind a stranded berg."
+        }
+      ]
+    },
+    {
+      "id": "getting-beset-1915-01-18",
+      "start": "1915-01-18T08:55:00Z",
+      "end": "1915-01-19T16:06:00Z",
+      "kind": "event",
+      "title": "Getting beset",
+      "narrativeBeats": [
+        {
+          "t": "1915-01-18T08:55:00Z",
+          "text": "The gale moderates and the ship leaves the lee of the berg under sail."
+        },
+        {
+          "t": "1915-01-18T11:25:00Z",
+          "text": "The glacier front ends in two bays; pack then forces the ship west and north-west until she lies to."
+        },
+        {
+          "t": "1915-01-19T10:06:00Z",
+          "text": "Morning: the ice has closed round the ship in the night; no water visible from the deck."
+        }
+      ]
+    },
+    {
+      "id": "attempts-to-free-the-ship-1915-01-25",
+      "start": "1915-01-25T02:05:00Z",
+      "end": "1915-01-25T18:14:00Z",
+      "kind": "event",
+      "title": "Attempts to free the ship",
+      "narrativeBeats": [
+        {
+          "t": "1915-01-25T02:05:00Z",
+          "text": "Just before midnight a crack five yards wide and a mile long opens fifty yards ahead."
+        },
+        {
+          "t": "1915-01-25T12:14:00Z",
+          "text": "The crack is a quarter of a mile wide; for three hours the ship drives at it under full steam and all sail without moving."
+        }
+      ]
+    },
+    {
+      "id": "attempts-to-free-the-ship-1915-02-05",
+      "start": "1915-02-05T14:19:00Z",
+      "end": "1915-02-05T20:19:00Z",
+      "kind": "event",
+      "title": "Attempts to free the ship",
+      "narrativeBeats": [
+        {
+          "t": "1915-02-05T14:19:00Z",
+          "text": "In a north-easterly gale the ship starts and heels three degrees; cracks run ahead and astern, then the pack closes before steam is up."
+        }
+      ]
+    },
+    {
+      "id": "attempts-to-free-the-ship-1915-02-09",
+      "start": "1915-02-09T13:20:00Z",
+      "end": "1915-02-09T19:20:00Z",
+      "kind": "event",
+      "title": "Attempts to free the ship",
+      "narrativeBeats": [
+        {
+          "t": "1915-02-09T13:20:00Z",
+          "text": "A long east-west crack opens in fog and steam is raised; the ship breaks the young ice of her pool but not the pack."
+        }
+      ]
+    },
+    {
+      "id": "farthest-south-1915-02-17",
+      "start": "1915-02-17T02:21:00Z",
+      "end": "1915-02-17T08:21:00Z",
+      "kind": "event",
+      "title": "Farthest south",
+      "narrativeBeats": [
+        {
+          "t": "1915-02-17T02:21:00Z",
+          "text": "The sun sets at midnight for the first time in two months."
+        }
+      ]
+    },
+    {
+      "id": "farthest-south-1915-02-22",
+      "start": "1915-02-22T04:20:00Z",
+      "end": "1915-02-22T10:20:00Z",
+      "kind": "event",
+      "title": "Farthest south",
+      "narrativeBeats": [
+        {
+          "t": "1915-02-22T04:20:00Z",
+          "text": "Thermometer at 10 below zero Fahrenheit on the day the drift touches the 77th parallel; Shackleton accepts the ship is held for the winter."
+        }
+      ]
+    },
+    {
+      "id": "winter-station-1915-02-28",
+      "start": "1915-02-28T04:20:00Z",
+      "end": "1915-02-28T10:20:00Z",
+      "kind": "event",
+      "title": "The ship becomes a winter station",
+      "narrativeBeats": [
+        {
+          "t": "1915-02-28T04:20:00Z",
+          "text": "Two days after ship’s routine ended (24 February), Hudson listens for the Port Stanley wireless signal and hears nothing."
+        }
+      ]
+    },
+    {
+      "id": "sun-sets-1915-05-01",
+      "start": "1915-05-01T14:48:00Z",
+      "end": "1915-05-01T22:48:00Z",
+      "kind": "event",
+      "title": "The sun sets for the winter",
+      "narrativeBeats": [
+        {
+          "t": "1915-05-01T14:48:00Z",
+          "text": "The sun just clears the horizon at noon by refraction."
+        },
+        {
+          "t": "1915-05-01T16:48:00Z",
+          "text": "The sun sets, shortly before 2 p.m., for the winter."
+        }
+      ]
+    },
+    {
+      "id": "sun-sets-1915-05-08",
+      "start": "1915-05-08T13:49:00Z",
+      "end": "1915-05-08T19:49:00Z",
+      "kind": "event",
+      "title": "The sun sets for the winter",
+      "narrativeBeats": [
+        {
+          "t": "1915-05-08T13:49:00Z",
+          "text": "The sun reappears by refraction; it sets finally at 1.20 p.m. after rising three times."
+        }
+      ]
+    },
+    {
+      "id": "sun-returns-1915-07-26",
+      "start": "1915-07-26T15:05:00Z",
+      "end": "1915-07-26T21:05:00Z",
+      "kind": "event",
+      "title": "The sun returns",
+      "narrativeBeats": [
+        {
+          "t": "1915-07-26T15:05:00Z",
+          "text": "Just before noon the top of the sun shows for one minute."
+        }
+      ]
+    },
+    {
+      "id": "pressure-of-1-august-1915-08-01",
+      "start": "1915-08-01T11:13:00Z",
+      "end": "1915-08-01T19:13:00Z",
+      "kind": "event",
+      "title": "The floe breaks up",
+      "narrativeBeats": [
+        {
+          "t": "1915-08-01T11:13:00Z",
+          "text": "In a south-westerly gale the floe cracks 40 yards off the starboard bow."
+        },
+        {
+          "t": "1915-08-01T13:13:00Z",
+          "text": "The floe breaks up all round; the ship lists over 10 degrees to starboard and the dogs and sledges are brought aboard."
+        }
+      ]
+    },
+    {
+      "id": "pressure-of-1-august-1915-08-04",
+      "start": "1915-08-04T00:14:00Z",
+      "end": "1915-08-04T06:14:00Z",
+      "kind": "event",
+      "title": "The floe breaks up",
+      "narrativeBeats": [
+        {
+          "t": "1915-08-04T00:14:00Z",
+          "text": "A star sight of Canopus puts the ship at 71 55 17 S: 37 miles north in three days."
+        }
+      ]
+    },
+    {
+      "id": "pressure-of-30-september-1915-09-30",
+      "start": "1915-09-30T18:25:00Z",
+      "end": "1915-10-01T00:25:00Z",
+      "kind": "event",
+      "title": "The worst squeeze yet",
+      "narrativeBeats": [
+        {
+          "t": "1915-09-30T18:25:00Z",
+          "text": "Cracks alongside begin to work laterally; the port bow takes ‘the worst squeeze we had experienced’ until the floe cracks across."
+        }
+      ]
+    },
+    {
+      "id": "pressure-of-17-18-october-1915-10-13",
+      "start": "1915-10-13T22:22:00Z",
+      "end": "1915-10-15T12:22:00Z",
+      "kind": "event",
+      "title": "The ship heels over",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-13T22:22:00Z",
+          "text": "The ship breaks free of the floe under her starboard side and comes upright; the rudder is free."
+        },
+        {
+          "t": "1915-10-15T03:22:00Z",
+          "text": "Midnight of 14–15 Oct: the ship comes free and drives 100 yards along the lead."
+        },
+        {
+          "t": "1915-10-15T06:22:00Z",
+          "text": "The ice closes and the ship is fast again."
+        }
+      ]
+    },
+    {
+      "id": "pressure-of-17-18-october-1915-10-18",
+      "start": "1915-10-18T19:23:00Z",
+      "end": "1915-10-20T20:23:00Z",
+      "kind": "event",
+      "title": "The ship heels over",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-18T19:23:00Z",
+          "text": "Afternoon: the port floe cracks and within seconds the ship heels 30 degrees to port."
+        },
+        {
+          "t": "1915-10-18T23:23:00Z",
+          "text": "The floes open and within minutes the ship is nearly upright again."
+        },
+        {
+          "t": "1915-10-20T02:23:00Z",
+          "text": "Barometer 28.96 inches, the lowest since the July gales."
+        },
+        {
+          "t": "1915-10-20T14:23:00Z",
+          "text": "The engines are given a gentle trial turn astern after eight months frozen."
+        }
+      ]
+    },
+    {
+      "id": "the-leak-1915-10-24",
+      "start": "1915-10-24T22:09:00Z",
+      "end": "1915-10-25T05:24:00Z",
+      "kind": "event",
+      "title": "The leak",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-24T22:09:00Z",
+          "text": "Heavy pressure twists the stern-post and starts the planking; the ship begins to leak badly."
+        },
+        {
+          "t": "1915-10-24T23:24:00Z",
+          "text": "Steam is up and the bilge pumps are started; all hands pump watch and watch through the night while the carpenter builds a coffer-dam."
+        }
+      ]
+    },
+    {
+      "id": "the-leak-1915-10-26",
+      "start": "1915-10-26T22:24:00Z",
+      "end": "1915-10-27T09:26:00Z",
+      "kind": "event",
+      "title": "The leak",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-26T22:24:00Z",
+          "text": "Very heavy twisting pressure opens the starboard plank butts four and five inches; the ship bends like a bow."
+        },
+        {
+          "t": "1915-10-27T00:24:00Z",
+          "text": "Shackleton orders boats, gear, provisions and sledges lowered to the floe."
+        },
+        {
+          "t": "1915-10-27T03:26:00Z",
+          "text": "Midnight of 26–27 Oct: the working of the floes closes the leaks slightly; pumping goes on all night."
+        }
+      ]
+    },
+    {
+      "id": "abandon-ship-1915-10-27",
+      "start": "1915-10-27T19:26:00Z",
+      "end": "1915-10-28T17:26:00Z",
+      "kind": "event",
+      "title": "Abandon ship",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-27T19:26:00Z",
+          "text": "The pressure reaches its climax: the stern is hove up (nine feet, by Worsley’s log) and the rudder, rudder-post and stern-post are torn out."
+        },
+        {
+          "t": "1915-10-27T20:26:00Z",
+          "text": "Shackleton orders all hands on to the ice; fires are drawn and steam let down."
+        },
+        {
+          "t": "1915-10-27T22:26:00Z",
+          "text": "The floe under the first camp splits and the camp is moved 200 yards. (Worsley’s log puts ‘Ship too dangerous to live in we are forced to abandon her’ at 7 p.m.)"
+        },
+        {
+          "t": "1915-10-27T23:26:00Z",
+          "text": "Camp is pitched again: five tents for twenty-eight men."
+        },
+        {
+          "t": "1915-10-28T03:26:00Z",
+          "text": "Midnight: a crack runs through the camp; the whistle turns all hands out to move tents and stores."
+        },
+        {
+          "t": "1915-10-28T08:26:00Z",
+          "text": "Shackleton, pacing the floe all night, finds his own tent was never re-pitched and Hurley is asleep in its canvas."
+        },
+        {
+          "t": "1915-10-28T11:26:00Z",
+          "text": "Breakfast of biscuit and hoosh; Shackleton then inspects the wreck."
+        }
+      ]
+    },
+    {
+      "id": "first-march-1915-10-30",
+      "start": "1915-10-30T18:26:00Z",
+      "end": "1915-10-31T16:26:00Z",
+      "kind": "event",
+      "title": "The first march",
+      "narrativeBeats": [
+        {
+          "t": "1915-10-30T18:26:00Z",
+          "text": "The party leaves Dump Camp with two boats on sledges."
+        },
+        {
+          "t": "1915-10-30T20:26:00Z",
+          "text": "Camp after one mile made good to the north-north-west."
+        },
+        {
+          "t": "1915-10-31T05:26:00Z",
+          "text": "A crack opens 20 feet from the tents; killer whales are blowing all night."
+        },
+        {
+          "t": "1915-10-31T10:26:00Z",
+          "text": "Rickenson and Worsley go back to Dump Camp for wood and blubber."
+        }
+      ]
+    },
+    {
+      "id": "the-sinking-1915-11-21",
+      "start": "1915-11-21T20:30:00Z",
+      "end": "1915-11-22T06:30:00Z",
+      "kind": "event",
+      "title": "The Endurance goes down",
+      "narrativeBeats": [
+        {
+          "t": "1915-11-21T20:30:00Z",
+          "text": "About 5 p.m. Shackleton calls ‘She’s going, boys!’ and the ship goes down bows first."
+        },
+        {
+          "t": "1915-11-22T00:30:00Z",
+          "text": "The wind veers west and the sun comes out."
+        }
+      ]
+    },
+    {
+      "id": "leaving-the-floe-1916-04-08",
+      "start": "1916-04-08T22:06:00Z",
+      "end": "1916-04-10T06:39:00Z",
+      "kind": "event",
+      "title": "Leaving the floe",
+      "narrativeBeats": [
+        {
+          "t": "1916-04-08T22:06:00Z",
+          "text": "A heavy shock cracks the floe under the James Caird; within five minutes the boats are dragged across to the tents."
+        },
+        {
+          "t": "1916-04-09T10:37:00Z",
+          "text": "Lanes of water show on the western horizon but the ice between is churned brash."
+        },
+        {
+          "t": "1916-04-09T14:37:00Z",
+          "text": "The floe splits right across under the boats and through the site of Shackleton’s tent."
+        },
+        {
+          "t": "1916-04-09T16:37:00Z",
+          "text": "The pack opens; Dudley Docker and Stancomb Wills are launched, the James Caird last."
+        },
+        {
+          "t": "1916-04-09T17:07:00Z",
+          "text": "All three boats under way (Worsley’s log)."
+        },
+        {
+          "t": "1916-04-09T17:37:00Z",
+          "text": "A mile from the old floe, a tide-rip drives two masses of ice at the boats at about three knots; the Stancomb Wills barely pulls clear."
+        },
+        {
+          "t": "1916-04-09T21:52:00Z",
+          "text": "After about seven miles north-west the boats are hauled onto a floe for the night."
+        },
+        {
+          "t": "1916-04-09T23:37:00Z",
+          "text": "Tents up and the blubber stove alight."
+        },
+        {
+          "t": "1916-04-10T02:37:00Z",
+          "text": "The floe cracks under the men’s tent; Shackleton pulls Holness out of the water in his sleeping bag."
+        }
+      ]
+    },
+    {
+      "id": "the-open-boats-1916-04-10",
+      "start": "1916-04-10T06:40:00Z",
+      "end": "1916-04-15T10:38:00Z",
+      "kind": "event",
+      "title": "The open boats",
+      "narrativeBeats": [
+        {
+          "t": "1916-04-10T06:40:00Z",
+          "text": "No more sleep: stove lit, hot milk served, men pacing a floe 200 ft by 100 ft."
+        },
+        {
+          "t": "1916-04-10T11:40:00Z",
+          "text": "Boats launched and worked north through the lanes."
+        },
+        {
+          "t": "1916-04-10T14:40:00Z",
+          "text": "Out into open water, where the laden boats ship freezing spray."
+        },
+        {
+          "t": "1916-04-10T18:40:00Z",
+          "text": "Shackleton turns back into the shelter of the pack."
+        },
+        {
+          "t": "1916-04-10T19:10:00Z",
+          "text": "Boats hauled onto a blue floeberg and camp pitched."
+        },
+        {
+          "t": "1916-04-11T03:35:00Z",
+          "text": "The watchman shows Shackleton a piece of the berg broken off eight feet from his tent."
+        },
+        {
+          "t": "1916-04-11T15:35:00Z",
+          "text": "After a morning trapped on the dissolving berg, a lane of water reaches it and the boats are rushed over the edge."
+        },
+        {
+          "t": "1916-04-12T11:33:00Z",
+          "text": "First hot food since leaving the berg: the galley is landed on a floe for three-quarters of an hour."
+        },
+        {
+          "t": "1916-04-12T15:33:00Z",
+          "text": "Worsley’s sight puts them 30 miles east of their starting point."
+        },
+        {
+          "t": "1916-04-12T18:33:00Z",
+          "text": "Course laid for Hope Bay; the James Caird takes the Stancomb Wills in tow."
+        },
+        {
+          "t": "1916-04-13T15:38:00Z",
+          "text": "The boats are ‘suddenly spewed out of the pack into the open ocean’ and set sail for Elephant Island."
+        },
+        {
+          "t": "1916-04-13T23:38:00Z",
+          "text": "Hove to on a sea-anchor of oars at an estimated 61 43 S, 54 36 W; spray freezes on the boats all night."
+        },
+        {
+          "t": "1916-04-14T19:39:00Z",
+          "text": "A stiff head breeze against the current raises a chop; an hour’s pulling gains nothing."
+        },
+        {
+          "t": "1916-04-15T03:39:00Z",
+          "text": "Wind shifts south-west; the Dudley Docker goes ahead and is lost to sight in a snow squall."
+        },
+        {
+          "t": "1916-04-15T06:39:00Z",
+          "text": "Greenstreet relieves Worsley at the Docker’s tiller; Worsley has to be straightened out ‘like a jack-knife’."
+        }
+      ]
+    },
+    {
+      "id": "landing-on-elephant-island-1916-04-15",
+      "start": "1916-04-15T10:39:00Z",
+      "end": "1916-04-16T00:39:00Z",
+      "kind": "event",
+      "title": "Landing on Elephant Island",
+      "narrativeBeats": [
+        {
+          "t": "1916-04-15T10:39:00Z",
+          "text": "The James Caird is right under the cliffs before they are seen through the murk."
+        },
+        {
+          "t": "1916-04-15T12:39:00Z",
+          "text": "A narrow beach is sighted at the north-east end of the island behind a fringe of rocks."
+        },
+        {
+          "t": "1916-04-15T13:09:00Z",
+          "text": "The Dudley Docker sails in to join the others; the Stancomb Wills goes through the reef first and Blackborow is put ashore."
+        },
+        {
+          "t": "1916-04-15T18:39:00Z",
+          "text": "Tents pitched on oars; the cook has been frying seal steak since the landing."
+        }
+      ]
+    },
+    {
+      "id": "the-james-caird-sails-1916-04-24",
+      "start": "1916-04-24T16:09:00Z",
+      "end": "1916-04-25T03:09:00Z",
+      "kind": "event",
+      "title": "The James Caird sails",
+      "narrativeBeats": [
+        {
+          "t": "1916-04-24T16:09:00Z",
+          "text": "The Caird cuts her painter off Cape Wild and steers NNE under all sail."
+        },
+        {
+          "t": "1916-04-24T19:39:00Z",
+          "text": "The gap in the stream ice is found; sail is dropped and the boat rowed through."
+        },
+        {
+          "t": "1916-04-24T21:09:00Z",
+          "text": "Clear of the pack with open water ahead."
+        }
+      ]
+    },
+    {
+      "id": "the-great-wave-1916-05-06",
+      "start": "1916-05-06T02:43:00Z",
+      "end": "1916-05-06T11:43:00Z",
+      "kind": "event",
+      "title": "The great wave",
+      "narrativeBeats": [
+        {
+          "t": "1916-05-06T02:43:00Z",
+          "text": "Midnight after a day of north-westerly gale: Shackleton mistakes the crest of a giant wave for clearing sky."
+        },
+        {
+          "t": "1916-05-06T02:53:00Z",
+          "text": "After about ten minutes’ frantic baling the boat lifts again."
+        },
+        {
+          "t": "1916-05-06T05:43:00Z",
+          "text": "The stove is finally relit and hot drinks made."
+        }
+      ]
+    },
+    {
+      "id": "landfall-1916-05-08",
+      "start": "1916-05-08T12:31:00Z",
+      "end": "1916-05-11T09:30:00Z",
+      "kind": "event",
+      "title": "Landfall",
+      "narrativeBeats": [
+        {
+          "t": "1916-05-08T12:31:00Z",
+          "text": "A bit of kelp floats past."
+        },
+        {
+          "t": "1916-05-08T13:31:00Z",
+          "text": "Two shags on a mass of kelp: land within fifteen miles."
+        },
+        {
+          "t": "1916-05-08T15:01:00Z",
+          "text": "McCarthy sights the cliffs of South Georgia."
+        },
+        {
+          "t": "1916-05-08T17:31:00Z",
+          "text": "Two miles off a reef-bound shore, the boat stands off on the starboard tack for the night."
+        },
+        {
+          "t": "1916-05-09T07:29:00Z",
+          "text": "The wind goes north-west and rises to hurricane force."
+        },
+        {
+          "t": "1916-05-09T15:29:00Z",
+          "text": "Crags seen through the mist: the boat is on a dead lee shore."
+        },
+        {
+          "t": "1916-05-09T20:29:00Z",
+          "text": "Just after six, in the backwash of the cliffs, the wind shifts and they can make an offing."
+        },
+        {
+          "t": "1916-05-10T10:30:00Z",
+          "text": "Wind light and backing north-west; they steer for King Haakon Bay."
+        },
+        {
+          "t": "1916-05-10T14:30:00Z",
+          "text": "A line of reef ‘like blackened teeth’ across the bay mouth; wind heads them."
+        },
+        {
+          "t": "1916-05-10T19:30:00Z",
+          "text": "Fifth tack carries them through; the Caird touches the beach at Cave Cove at dusk."
+        },
+        {
+          "t": "1916-05-10T22:30:00Z",
+          "text": "Hot meal eaten in the cave; Shackleton takes first watch on the boat."
+        },
+        {
+          "t": "1916-05-11T03:30:00Z",
+          "text": "Shackleton calls Crean to relieve him; the boat breaks adrift and is caught again."
+        }
+      ]
+    },
+    {
+      "id": "crossing-south-georgia-1916-05-19",
+      "start": "1916-05-19T04:28:00Z",
+      "end": "1916-05-21T06:27:00Z",
+      "kind": "event",
+      "title": "Crossing South Georgia",
+      "narrativeBeats": [
+        {
+          "t": "1916-05-19T04:28:00Z",
+          "text": "Turn out under a full moon."
+        },
+        {
+          "t": "1916-05-19T05:28:00Z",
+          "text": "Hoosh eaten; the three start round the snout of the glacier (03:10 by Worsley)."
+        },
+        {
+          "t": "1916-05-19T07:28:00Z",
+          "text": "Two hours’ climbing; the bay three miles behind; fog comes down and they rope up."
+        },
+        {
+          "t": "1916-05-19T09:28:00Z",
+          "text": "The ‘frozen lake’ below is Possession Bay; they turn back up the glacier."
+        },
+        {
+          "t": "1916-05-19T11:28:00Z",
+          "text": "Lost ground recovered; course south-east."
+        },
+        {
+          "t": "1916-05-19T13:28:00Z",
+          "text": "First gap in the ridge: a sheer drop."
+        },
+        {
+          "t": "1916-05-19T14:58:00Z",
+          "text": "Second meal at the end of the bergschrund."
+        },
+        {
+          "t": "1916-05-19T17:28:00Z",
+          "text": "Second gap: the same precipice, fog rising on both sides."
+        },
+        {
+          "t": "1916-05-19T19:28:00Z",
+          "text": "‘Come on, boys’: over the last gap, then the slide of about 900 feet."
+        },
+        {
+          "t": "1916-05-19T20:28:00Z",
+          "text": "Meal at the bottom, Worsley and Shackleton lying upwind of the Primus."
+        },
+        {
+          "t": "1916-05-19T22:28:00Z",
+          "text": "The moon rises ahead and lights the crevasses."
+        },
+        {
+          "t": "1916-05-20T02:27:00Z",
+          "text": "About 4,000 feet again, on a snowfield among nunataks."
+        },
+        {
+          "t": "1916-05-20T03:27:00Z",
+          "text": "A pit dug for the Primus; Worsley and Crean sing."
+        },
+        {
+          "t": "1916-05-20T04:27:00Z",
+          "text": "Crevasses underfoot: this is Fortuna Glacier, not Stromness; they climb back."
+        },
+        {
+          "t": "1916-05-20T07:27:00Z",
+          "text": "Five minutes’ sleep under a rock."
+        },
+        {
+          "t": "1916-05-20T08:27:00Z",
+          "text": "Through the gap in the ridge; Husvik’s rocks ahead."
+        },
+        {
+          "t": "1916-05-20T08:57:00Z",
+          "text": "Shackleton thinks he hears a steam whistle."
+        },
+        {
+          "t": "1916-05-20T09:27:00Z",
+          "text": "The whistle sounds to the minute."
+        },
+        {
+          "t": "1916-05-20T14:27:00Z",
+          "text": "Well up the slope on the east side of Fortuna Bay."
+        },
+        {
+          "t": "1916-05-20T14:57:00Z",
+          "text": "Shackleton goes through the snow crust of a lake to his knees."
+        },
+        {
+          "t": "1916-05-20T15:57:00Z",
+          "text": "Stromness station in sight from the last ridge; they shake hands."
+        },
+        {
+          "t": "1916-05-20T18:27:00Z",
+          "text": "At the manager’s door."
+        },
+        {
+          "t": "1916-05-21T00:27:00Z",
+          "text": "Worsley boards the whaler bound for King Haakon Bay."
+        }
+      ]
+    },
+    {
+      "id": "the-rescue-1916-08-30",
+      "start": "1916-08-30T09:04:00Z",
+      "end": "1916-08-30T23:39:00Z",
+      "kind": "event",
+      "title": "The rescue",
+      "narrativeBeats": [
+        {
+          "t": "1916-08-30T09:04:00Z",
+          "text": "Yelcho goes to full speed (Worsley’s log)."
+        },
+        {
+          "t": "1916-08-30T11:39:00Z",
+          "text": "Logged at 60 44 S, 55 54 W in fog."
+        },
+        {
+          "t": "1916-08-30T13:39:00Z",
+          "text": "Stranded bergs passed, then surf on a reef: the island is close."
+        },
+        {
+          "t": "1916-08-30T14:49:00Z",
+          "text": "‘Base of land faintly visible’ (Worsley’s log)."
+        },
+        {
+          "t": "1916-08-30T15:19:00Z",
+          "text": "Camp sighted according to South; Worsley’s log has ‘Sight the Camp to SW’ at 1.10 PM."
+        },
+        {
+          "t": "1916-08-30T16:24:00Z",
+          "text": "On the spit, the lunch hoosh is ready; Marston on the lookout shouts ‘Ship O!’"
+        },
+        {
+          "t": "1916-08-30T16:49:00Z",
+          "text": "Yelcho stops about a mile and a half off; a boat is lowered."
+        },
+        {
+          "t": "1916-08-30T17:39:00Z",
+          "text": "Third boatload aboard; Yelcho steams north within an hour of being seen."
+        }
+      ]
+    },
+    {
+      "id": "the-rescue-1916-09-03",
+      "start": "1916-09-03T12:44:00Z",
+      "end": "1916-09-03T20:44:00Z",
+      "kind": "event",
+      "title": "The rescue",
+      "narrativeBeats": [
+        {
+          "t": "1916-09-03T12:44:00Z",
+          "text": "Rio Seco: Shackleton telephones the Governor."
+        },
+        {
+          "t": "1916-09-03T14:44:00Z",
+          "text": "Alongside at Punta Arenas."
+        }
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "start": "1914-10-26T03:53:00Z",
+      "end": "1914-11-05T02:26:00Z",
+      "activityKey": "sail",
+      "label": "At sea, bound for South Georgia",
+      "zoom": 4.4
+    },
+    {
+      "start": "1914-11-05T02:26:00Z",
+      "end": "1914-12-05T11:11:00Z",
+      "activityKey": "camp",
+      "label": "At anchor off the Grytviken whaling station",
+      "weather": "Dull and overcast with snow and sleet on the day of departure",
+      "zoom": 8
+    },
+    {
+      "start": "1914-12-05T11:11:00Z",
+      "end": "1914-12-11T09:13:00Z",
+      "activityKey": "sail",
+      "label": "Steaming for the Weddell Sea",
+      "weather": "Hazy, heavy south-westerly swell, bergs and stream ice",
+      "zoom": 5
+    },
+    {
+      "start": "1914-12-11T09:13:00Z",
+      "end": "1915-01-09T01:17:00Z",
+      "activityKey": "pack",
+      "label": "Working south through the pack",
+      "weather": "Three south-westerly gales; snow and haze between fine spells; midnight sun from 30 Dec",
+      "zoom": 5.6
+    },
+    {
+      "start": "1915-01-09T01:17:00Z",
+      "end": "1915-01-19T02:06:00Z",
+      "activityKey": "sail",
+      "label": "In open leads along the ice barrier",
+      "weather": "Open water and leads along the barrier; easterly gale and blizzard 16–17 Jan",
+      "zoom": 5.8
+    },
+    {
+      "start": "1915-01-19T02:06:00Z",
+      "end": "1915-02-24T02:20:00Z",
+      "activityKey": "beset",
+      "label": "Beset in the pack",
+      "weather": "North-easterly gales to 22 Jan, then calm with abnormal cold (to -10 F)",
+      "zoom": 6.4
+    },
+    {
+      "start": "1915-02-24T02:20:00Z",
+      "end": "1915-05-01T02:48:00Z",
+      "activityKey": "drift",
+      "label": "Wintering in the ice, drifting with the pack",
+      "weather": "Minus temperatures the rule; north-easterly gales early March and early April; mirages",
+      "zoom": 6.6
+    },
+    {
+      "start": "1915-05-01T02:48:00Z",
+      "end": "1915-07-26T03:10:00Z",
+      "activityKey": "drift",
+      "label": "Drifting through the polar night",
+      "weather": "Polar night; generally fine and clear, -5 to -35 F; severe blizzard 13–16 July",
+      "zoom": 6.6
+    },
+    {
+      "start": "1915-07-26T03:10:00Z",
+      "end": "1915-09-30T03:25:00Z",
+      "activityKey": "drift",
+      "label": "Drifting north, the daylight returning",
+      "weather": "Returning daylight; four-day south-westerly blizzard from 1 Aug; pressure in the pack",
+      "zoom": 6.6
+    },
+    {
+      "start": "1915-09-30T03:25:00Z",
+      "end": "1915-10-27T20:26:00Z",
+      "activityKey": "drift",
+      "label": "Drifting north, the ice closing on the ship",
+      "weather": "Heavy pressure; thaw 10–13 Oct, then gales and renewed cold",
+      "zoom": 6.8
+    },
+    {
+      "start": "1915-10-27T20:26:00Z",
+      "end": "1915-10-30T18:26:00Z",
+      "activityKey": "camp",
+      "label": "Camped on the floe beside the wreck",
+      "weather": "Clear and cold (-8.5 to -16 F), then overcast with snow",
+      "zoom": 7.5
+    },
+    {
+      "start": "1915-10-30T18:26:00Z",
+      "end": "1915-11-01T03:26:00Z",
+      "activityKey": "haul",
+      "label": "Hauling the boats towards Paulet Island",
+      "weather": "Heavy wet snow, +25 F, surface up to the hips",
+      "zoom": 8
+    },
+    {
+      "start": "1915-11-01T03:26:00Z",
+      "end": "1915-11-22T03:30:00Z",
+      "activityKey": "camp",
+      "label": "Ocean Camp, drifting north",
+      "weather": "Blizzard 6–8 Nov, then north-easterly winds and thaw (to 33 F); sleet on 21 Nov",
+      "zoom": 7.2
+    },
+    {
+      "start": "1915-11-22T03:30:00Z",
+      "end": "1915-12-09T03:28:00Z",
+      "activityKey": "camp",
+      "label": "Ocean Camp, drifting north",
+      "weather": "Southerly winds, noon 16–29 F, midnight sun",
+      "zoom": 7.2
+    },
+    {
+      "start": "1915-12-09T03:28:00Z",
+      "end": "1915-12-13T03:26:00Z",
+      "activityKey": "camp",
+      "label": "Ocean Camp, drifting north",
+      "weather": "Blizzard, ENE then SW force 5–7",
+      "zoom": 7.2
+    },
+    {
+      "start": "1915-12-13T03:26:00Z",
+      "end": "1915-12-23T08:00:00Z",
+      "activityKey": "camp",
+      "label": "Ocean Camp, drifting north",
+      "weather": "S then NE winds; thaw, noon up to 34 F",
+      "zoom": 7.2
+    },
+    {
+      "start": "1915-12-23T08:00:00Z",
+      "end": "1915-12-30T03:31:00Z",
+      "activityKey": "haul",
+      "label": "Hauling the boats west over the ice",
+      "weather": "Fine and warm by day, soft wet snow; marching at night",
+      "zoom": 8.5
+    },
+    {
+      "start": "1915-12-30T03:31:00Z",
+      "end": "1916-01-18T03:31:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, drifting north",
+      "weather": "Warm, calm, foggy; up to 38 F",
+      "zoom": 7
+    },
+    {
+      "start": "1916-01-18T03:31:00Z",
+      "end": "1916-01-24T03:28:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, drifting north",
+      "weather": "South-westerly gale and blizzard",
+      "zoom": 7
+    },
+    {
+      "start": "1916-01-24T03:28:00Z",
+      "end": "1916-03-01T03:33:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, drifting north",
+      "weather": "Alternating wet mild northerlies and cold bright southerlies",
+      "zoom": 7
+    },
+    {
+      "start": "1916-03-01T03:33:00Z",
+      "end": "1916-03-13T03:33:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, drifting north",
+      "weather": "Cold, damp, calm; wet snow",
+      "zoom": 7
+    },
+    {
+      "start": "1916-03-13T03:33:00Z",
+      "end": "1916-03-29T03:33:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, drifting north",
+      "weather": "Gales and blizzards; nights to -10 F",
+      "zoom": 7
+    },
+    {
+      "start": "1916-03-29T03:33:00Z",
+      "end": "1916-04-09T16:37:00Z",
+      "activityKey": "camp",
+      "label": "Patience Camp, the floe breaking up",
+      "weather": "Rain, mist, strong southerlies; ocean swell",
+      "zoom": 7
+    },
+    {
+      "start": "1916-04-09T16:37:00Z",
+      "end": "1916-04-15T13:09:00Z",
+      "activityKey": "boats",
+      "label": "In the three open boats",
+      "weather": "Snow squalls, hard frost (to -4 F), then gale",
+      "zoom": 7.6
+    },
+    {
+      "start": "1916-04-15T13:09:00Z",
+      "end": "1916-04-17T14:39:00Z",
+      "activityKey": "camp",
+      "label": "Ashore at Cape Valentine, Elephant Island",
+      "weather": "Two fine days at Cape Valentine",
+      "zoom": 9
+    },
+    {
+      "start": "1916-04-17T14:39:00Z",
+      "end": "1916-04-24T16:09:00Z",
+      "activityKey": "camp",
+      "label": "Cape Wild, Elephant Island",
+      "weather": "Southerly gale and blizzard, gusts over 70 mph",
+      "zoom": 9
+    },
+    {
+      "start": "1916-04-24T16:09:00Z",
+      "end": "1916-04-30T03:14:00Z",
+      "activityKey": "sail",
+      "label": "The James Caird at sea",
+      "weather": "W to SW gales, high cross seas",
+      "zoom": 6
+    },
+    {
+      "start": "1916-04-30T03:14:00Z",
+      "end": "1916-05-03T03:03:00Z",
+      "activityKey": "sail",
+      "label": "The James Caird at sea",
+      "weather": "SW gale, hove to, boat iced up",
+      "zoom": 6
+    },
+    {
+      "start": "1916-05-03T03:03:00Z",
+      "end": "1916-05-05T02:50:00Z",
+      "activityKey": "sail",
+      "label": "The James Caird at sea",
+      "weather": "Fine and clear, moderate sea",
+      "zoom": 6
+    },
+    {
+      "start": "1916-05-05T02:50:00Z",
+      "end": "1916-05-10T19:30:00Z",
+      "activityKey": "sail",
+      "label": "The James Caird at sea",
+      "weather": "NW gales to hurricane, confused sea",
+      "zoom": 6
+    },
+    {
+      "start": "1916-05-10T19:30:00Z",
+      "end": "1916-05-19T05:28:00Z",
+      "activityKey": "camp",
+      "label": "King Haakon Bay, South Georgia",
+      "weather": "Rain, sleet, mild (about 39 F); squalls",
+      "zoom": 9
+    },
+    {
+      "start": "1916-05-19T05:28:00Z",
+      "end": "1916-05-20T18:27:00Z",
+      "activityKey": "march",
+      "label": "Crossing South Georgia on foot",
+      "weather": "Clear, calm, full moon; fog on the ridges",
+      "zoom": 10.5
+    },
+    {
+      "start": "1916-05-20T18:27:00Z",
+      "end": "1916-05-23T11:27:00Z",
+      "activityKey": "camp",
+      "label": "At the Stromness whaling station",
+      "weather": "Heavy snowstorm from two hours after arrival",
+      "zoom": 9
+    },
+    {
+      "start": "1916-05-23T11:27:00Z",
+      "end": "1916-06-01T03:51:00Z",
+      "activityKey": "sail",
+      "label": "First rescue attempt: the whaler Southern Sky",
+      "weather": "Very cold, sea freezing, pack ice",
+      "zoom": 4.8
+    },
+    {
+      "start": "1916-06-01T03:51:00Z",
+      "end": "1916-06-10T03:51:00Z",
+      "activityKey": "camp",
+      "label": "Port Stanley, looking for a ship",
+      "zoom": 5.5
+    },
+    {
+      "start": "1916-06-10T03:51:00Z",
+      "end": "1916-06-17T03:51:00Z",
+      "activityKey": "sail",
+      "label": "Second attempt: the trawler Instituto de Pesca No. 1",
+      "weather": "Bad weather, fog and dense pack off the island",
+      "zoom": 4.8
+    },
+    {
+      "start": "1916-06-17T03:51:00Z",
+      "end": "1916-07-12T04:44:00Z",
+      "activityKey": "camp",
+      "label": "Port Stanley, then Punta Arenas, looking for a ship",
+      "zoom": 5
+    },
+    {
+      "start": "1916-07-12T04:44:00Z",
+      "end": "1916-08-04T03:51:00Z",
+      "activityKey": "sail",
+      "label": "Third attempt: the schooner Emma",
+      "weather": "Continuous gales, ice, schooner iced up",
+      "zoom": 4.8
+    },
+    {
+      "start": "1916-08-04T03:51:00Z",
+      "end": "1916-08-25T04:44:00Z",
+      "activityKey": "camp",
+      "label": "Waiting for a fourth ship",
+      "weather": "Westerly gales at Stanley; NW gale on passage 10–14 Aug",
+      "zoom": 5
+    },
+    {
+      "start": "1916-08-25T04:44:00Z",
+      "end": "1916-08-30T16:39:00Z",
+      "activityKey": "sail",
+      "label": "Fourth attempt: the Chilean tug Yelcho",
+      "weather": "Comparatively fine; fog near the island",
+      "zoom": 5
+    },
+    {
+      "start": "1916-08-30T16:39:00Z",
+      "end": "1916-09-03T16:44:00Z",
+      "activityKey": "sail",
+      "label": "Bound for Punta Arenas with every man aboard",
+      "weather": "Bad weather northbound",
+      "zoom": 5
+    }
+  ],
   "attribution": [
-    "Living Historical Journeys — mechanically ported from the proof of concept."
+    "Quotations are from Shackleton’s South (1919) — public domain.",
+    "Base geography © OpenStreetMap contributors, tiles by OpenFreeMap."
   ],
   "sources": [],
-  "bibliography": [],
-  "notes": []
+  "bibliography": [
+    {
+      "id": "south",
+      "short": "Shackleton",
+      "citation": "Ernest Shackleton, South: The Story of Shackleton’s Last Expedition, 1914–1917 (London: Heinemann, 1919).",
+      "url": "https://www.gutenberg.org/ebooks/5199"
+    },
+    {
+      "id": "worsley",
+      "short": "Worsley’s logs",
+      "citation": "Frank Worsley’s logs and drift table for the Endurance, the James Caird, the Emma and the Yelcho, and Leonard Hussey’s weather register, as digitised by the oldWeather Expeditions project.",
+      "url": "https://github.com/oldweather/Expeditions/tree/master/voyages/endurance_1914-6"
+    },
+    {
+      "id": "wordie",
+      "short": "Wordie",
+      "citation": "J. M. Wordie, “Shackleton Antarctic Expedition, 1914–1917: Depths and Deposits of the Weddell Sea,” Transactions of the Royal Society of Edinburgh 52 (1921): 781–793 — the table of soundings, with a noon position for each day of the 1915 drift.",
+      "url": "https://archive.org/details/transacti523419191921roya"
+    },
+    {
+      "id": "bergman",
+      "short": "Bergman & Stuart",
+      "citation": "Lars Bergman, Robin G. Stuart and others, three papers on the expedition’s navigation — the voyage out, the drift on the pack ice, and the James Caird — Records of the Canterbury Museum 32–33 (2018–19).",
+      "url": "https://cms.canterburymuseum.com/assets/Navigation-of-the-James-Caird-on-the-Shackleton-Expedition.pdf"
+    },
+    {
+      "id": "lansing",
+      "short": "Lansing",
+      "citation": "Alfred Lansing, Endurance: Shackleton’s Incredible Voyage (1959) — built on the diaries of Macklin, Orde-Lees, McNish, Hurley, James, Greenstreet and Worsley; used for events South leaves out, not for quotations."
+    },
+    {
+      "id": "devos",
+      "short": "de Vos et al.",
+      "citation": "M. de Vos and others, “Understanding the drift of Shackleton’s Endurance during its last days before it sank in November 1915,” History of Geo- and Space Sciences 14 (2023).",
+      "url": "https://hgss.copernicus.org/articles/14/1/2023/"
+    },
+    {
+      "id": "hurley",
+      "short": "Hurley",
+      "citation": "Frank Hurley, manuscript diary, November 1915 (State Library of New South Wales)."
+    },
+    {
+      "id": "rgs",
+      "short": "RGS",
+      "citation": "Royal Geographical Society (with IBG), Shackleton expedition timeline.",
+      "url": "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+    },
+    {
+      "id": "reference",
+      "short": "Reference works",
+      "citation": "Wikipedia articles on the expedition, its ship and its people, and the Cool Antarctica timeline — used as cross-checks, and for a few details from Orde-Lees’s unpublished diary.",
+      "url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+    }
+  ],
+  "notes": [
+    "The marker follows Shackleton himself. He joined the ship at Buenos Aires, where this journey begins; the Endurance had left Plymouth on 8 August 1914 without him.",
+    "Positions are the expedition’s own: noon fixes printed in South, the daily positions in Wordie’s table of soundings (read from a scan, so a few figures may be misread), and Worsley’s logs. Between two fixes the marker moves in a straight line. In the pack a ‘position’ is where the ice had carried them.",
+    "Positions in the open boats, on the nights of 10, 11 and 14 April 1916, and the turning points of the first two rescue ships, are estimates. The James Caird’s are Worsley’s dead reckoning, which he could check against the sun only four times.",
+    "Farthest south is given three ways in the sources: 22 February 1915 near 77°S in the narrative of South, 19 March in its appendix, and never beyond 76°55′S in Wordie’s corrected table. The narrative is followed here.",
+    "The wreck was found in 2022 about five nautical miles from where Worsley reckoned she sank. His figure is used, since it is where the men believed they were.",
+    "Clock times are local mean time. The ship’s own clock ran an hour ahead of it from 26 September 1915. For the rescue, South says the ship was sighted at 11:40 and Worsley’s log says 1:10 p.m.",
+    "Temperatures are readings the expedition recorded, converted from Fahrenheit: Hussey’s register to 22 December 1915, and after that only figures mentioned in passing. None survives for the winter on Elephant Island, so the reading stops in May 1916.",
+    "Dog numbers are known at only a few dates, and none is recorded after four teams were shot on 14 January 1916. The last were shot on 2 April (South) or 30 March (the diaries).",
+    "The crossing of South Georgia is drawn through the named features the three men passed, not along a surveyed track. Ships’ courses through the Strait of Magellan and the Beagle Channel are drawn schematically, and the Yelcho’s call at Ushuaia is dated by inference from a damaged log entry.",
+    "The expedition’s other half, the Ross Sea party laying depots on the far side of the continent, is not shown."
+  ]
 }

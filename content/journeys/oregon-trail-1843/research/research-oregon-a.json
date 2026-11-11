@@ -1,0 +1,3431 @@
+{
+ "spine": "The itinerary follows James W. Nesmith's diary (OHQ vol. 7, 1906), which is the only day-by-day diary of the light column printed in full and freely readable. Nesmith was orderly sergeant of the whole company to 8 June, then travelled in William Martin's light column, and from 28 July in a 13-to-19-wagon fragment of it under Cooper that leap-frogged Martin's and Applegate's companies to Fort Hall. His diary has two gaps, filled from Peter H. Burnett, who kept a journal and stayed with Martin's wagons: 26 May–8 June (Burnett's 1844 letters to the New York Herald and his 1880 Recollections) and 9–13 August (Recollections). From 20 to 25 June Nesmith was with a hunting party ahead of the wagons, so the wagon rows for those days come from Burnett and from Nesmith's remarks about where the company was. Dates from William T. Newby's diary are the cow column's and are labelled so; Newby was generally one to two days ahead of Nesmith between Fort Laramie and Independence Rock. By late August the front of the emigration (Burnett) was one to three days ahead of Nesmith's wagons (Soda Springs 22 vs 24 August; Fort Hall 27 vs 28 August).",
+ "itinerary": [
+  {
+   "date": "1843-05-17",
+   "localTime": null,
+   "place": "The rendezvous west of Independence (Fitzhugh's Mill / Indian Creek)",
+   "modernName": "state line south-west of Kansas City, Missouri/Kansas",
+   "lat": 38.93,
+   "lon": -94.62,
+   "event": "at",
+   "milesToday": null,
+   "note": "Burnett arrives from Weston and finds \"a large body of emigrants\" waiting. He puts the rendezvous 12 miles west of Independence in his Recollections and 20 miles in his 1844 letter; Barry puts about 300 people and 50 wagons at the Indian Creek rendezvous just over the Missouri line. Coordinates are approximate (state line, 12 miles west of Independence).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-18",
+   "localTime": null,
+   "place": "The grove west of Fitzhugh's Mill",
+   "modernName": "state line south-west of Kansas City, Missouri/Kansas",
+   "lat": 38.93,
+   "lon": -94.62,
+   "event": "at",
+   "milesToday": null,
+   "note": "First general meeting (Nesmith, Burnett): Layson in the chair, Burnett secretary; committees named to see Dr. Whitman, to inspect outfits (seven men) and to draft rules (nine men per Nesmith, five per Burnett).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-20",
+   "localTime": null,
+   "place": "Big Springs, near Fitzhugh's Grove",
+   "modernName": "state line south-west of Kansas City, Missouri/Kansas",
+   "lat": 38.93,
+   "lon": -94.63,
+   "event": "at",
+   "milesToday": null,
+   "note": "Second meeting (Burnett): rules adopted, John Gantt engaged as pilot to Fort Hall, start fixed for Monday 22 May. The grass had been too short to leave earlier.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-21",
+   "localTime": null,
+   "place": "Grove of timber south of the Santa Fe Trail",
+   "modernName": "Overland Park / Olathe area, Kansas",
+   "lat": 38.88,
+   "lon": -94.72,
+   "event": "departs",
+   "milesToday": null,
+   "note": "Nesmith: \"Cooper's wagons, with some others, start out from the encampment in the morning.\" Nesmith rides to Fitzhugh's Mill with Burnett to settle Gantt's terms, then overtakes the wagons. Fine and clear. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-22",
+   "localTime": "15:00",
+   "place": "Elm Grove (Lone Elm)",
+   "modernName": "Lone Elm Park, Olathe, Kansas",
+   "lat": 38.826,
+   "lon": -94.833,
+   "event": "arrives",
+   "milesToday": 10,
+   "note": "The general start. Nesmith: \"Trailed to Elm Grove, distance about ten miles.\" Burnett says 15 miles from the rendezvous and that they got in \"about 3 P. M.\" Placed at the Lone Elm campground site on the Santa Fe/Oregon road.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-05-23",
+   "localTime": null,
+   "place": "Camp at timber near a small creek, a mile off the Santa Fe Trail",
+   "modernName": "west of Gardner, Kansas",
+   "lat": 38.84,
+   "lon": -95.02,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith: ten miles on the Santa Fe Trail, \"then turned to the right\" (the Oregon road fork) and camped a mile off the trail; about twelve miles. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-24",
+   "localTime": null,
+   "place": "Wakarusa River (\"Rockariski\", \"Walkalusia\")",
+   "modernName": "Wakarusa River south-east of Lawrence, Kansas",
+   "lat": 38.93,
+   "lon": -95.17,
+   "event": "crossing",
+   "milesToday": 12,
+   "note": "Nesmith and Burnett agree on the date: wagons let down the steep bank by ropes; camp on the west side. Gantt the pilot came into camp that evening. Burnett later learned there was a good ford a hundred yards upstream. Placed at the Oregon Trail crossing of the Wakarusa (Blue Jacket's crossing area).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-05-25",
+   "localTime": null,
+   "place": "Camp on a creek, wagons on both sides",
+   "modernName": "between Big Springs and Tecumseh, Kansas",
+   "lat": 39.02,
+   "lon": -95.45,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: \"Traveled about fifteen miles to a creek.\" Barry says the vanguard reached the Kansas crossing this day. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-05-26",
+   "localTime": null,
+   "place": "Kansas (Kaw) River crossing, Papin's ferry",
+   "modernName": "North Topeka, Kansas",
+   "lat": 39.0646,
+   "lon": -95.6713,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "Nesmith's wagons and Burnett both reach the river on the 26th; it is too high to ford. Nesmith crosses the same day \"on a platform made of two canoes\" (Papin's) and nearly drowns helping William Vaughn. Coordinates: NPS ferry-site point.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.nps.gov/places/kansas-river-crossing-and-pappins-ferry.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-05-27",
+   "localTime": null,
+   "place": "Kansas River crossing",
+   "modernName": "Topeka, Kansas",
+   "lat": 39.0646,
+   "lon": -95.6713,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Burnett (1844 letter): meeting held; committee of three fails to hire \"Pappa's platform\", so the company builds its own from two large canoes. Some families make private deals with Papin: \"This produced great dissatisfaction in camp.\"",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-05-28",
+   "localTime": null,
+   "place": "Kansas River crossing",
+   "modernName": "Topeka, Kansas",
+   "lat": 39.0646,
+   "lon": -95.6713,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Burnett: Papin's platform sinks; \"several men, women, and children came near being drowned, but all escaped with the loss of some property.\" No organization and no guard yet; wagons still arriving.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-05-29",
+   "localTime": null,
+   "place": "Kansas River crossing",
+   "modernName": "Topeka, Kansas",
+   "lat": 39.0646,
+   "lon": -95.6713,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Burnett (1844 letter): the company \"commenced crossing on the 29th\" on its own platform. (Barry dates the home-made ferry's completion to the 28th.)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-05-30",
+   "localTime": null,
+   "place": "Kansas River crossing",
+   "modernName": "Topeka, Kansas",
+   "lat": 39.0646,
+   "lon": -95.6713,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Burnett: two Catholic missionaries bound for the Flatheads arrive and cross. Johnson and Winter also reach \"where the Emigrants were crossing\" on the 30th.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-05-31",
+   "localTime": null,
+   "place": "Soldier Creek (\"Black Warrior Creek\")",
+   "modernName": "Soldier Creek, North Topeka, Kansas",
+   "lat": 39.09,
+   "lon": -95.7,
+   "event": "camp",
+   "milesToday": 2,
+   "note": "Burnett: \"We finished crossing on the thirty-first of May.\" Camp on a muddy creek he calls Black Warrior; Nesmith calls it Soldier Creek, \"two miles from Kansas Landing\". Placed two miles north-west of the ferry point.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-06-01",
+   "localTime": null,
+   "place": "Soldier Creek",
+   "modernName": "Soldier Creek, North Topeka, Kansas",
+   "lat": 39.09,
+   "lon": -95.7,
+   "event": "at",
+   "milesToday": 0,
+   "note": "The company organizes: Peter H. Burnett captain, J. W. Nesmith orderly sergeant, and a council of nine (Burnett). Nesmith's diary gives the event without a date; the date is Burnett's. Nesmith's roll: 254 men for duty, 111 wagons.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/78187/pg78187.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-06-02",
+   "localTime": null,
+   "place": "Camp in a square on the bank of the Kansas River",
+   "modernName": "near Silver Lake, Kansas",
+   "lat": 39.1,
+   "lon": -95.8,
+   "event": "camp",
+   "milesToday": 5,
+   "note": "Nesmith (undated passage): \"Moved about five miles and encamped on the banks of the Kansas River, in a square.\" The date is inferred as the first travelling day after the election. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-04",
+   "localTime": null,
+   "place": "\"Big Sandy\" creek",
+   "modernName": "Red Vermillion Creek near Belvue, Kansas (probable)",
+   "lat": 39.262,
+   "lon": -96.247,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "Burnett (1844 letter): \"On the 4th we crossed Big Sandy, a large creek with high banks.\" Hard rain the night before; Kansa chiefs visited camp. His table puts it 31 miles from the Kansas crossing, which fits the Red Vermillion crossing; the identification is mine.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-05",
+   "localTime": null,
+   "place": "East Fork of Blue",
+   "modernName": "Black Vermillion River near Bigelow, Kansas (probable)",
+   "lat": 39.65,
+   "lon": -96.47,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "Burnett (1844 letter): \"On the 5th we crossed the East Fork of Blue, a large creek.\" Fifteen miles short of the Big Blue by his table, which fits the Black Vermillion.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-06",
+   "localTime": null,
+   "place": "West Fork of Blue (Big Blue River)",
+   "modernName": "Independence Crossing near Alcove Spring, south of Marysville, Kansas",
+   "lat": 39.75,
+   "lon": -96.679,
+   "event": "crossing",
+   "milesToday": 15,
+   "note": "Burnett: crossed in the evening, fordable \"by propping up our wagon beds with large blocks of wood\"; camp on level prairie beyond. Newby (cow-column diarist) also dates reaching the Big Blue to 6 June. That night a thunderstorm blew down half the tents. Placed at the Independence-road ford of the Big Blue; no 1843 diarist names the ford.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-06-07",
+   "localTime": null,
+   "place": "Flooded camp west of the Big Blue",
+   "modernName": "west bank of the Big Blue south of Marysville, Kansas",
+   "lat": 39.755,
+   "lon": -96.69,
+   "event": "at",
+   "milesToday": 0.5,
+   "note": "Burnett: camp moved half a mile to drier ground, and flooded again that night. Newby: \"Mooved our incampment a bout 4 hundred yards\" (his entry is dated the 8th). Burnett's letter dates the meeting with the Kansa and Osage war party to this morning; his Recollections say the 6th.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-06-08",
+   "localTime": null,
+   "place": "Grove of green elm trees",
+   "modernName": "north-west of the Big Blue crossing, Marshall County, Kansas",
+   "lat": 39.8,
+   "lon": -96.74,
+   "event": "camp",
+   "milesToday": 5,
+   "note": "Burnett: five miles in torrents of rain to a grove on high ground. \"P. H. Burnett this day resigned the command of the company in consequence of ill health\" (1844 letter); William Martin succeeds him. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-09",
+   "localTime": "12:00",
+   "place": "Small grove south of the trail",
+   "modernName": "near Hanover, Kansas",
+   "lat": 39.84,
+   "lon": -96.79,
+   "event": "camp",
+   "milesToday": 2,
+   "note": "Nesmith: \"We moved from the wet encampment about two miles, and encamped about noon\"; weather cleared at noon. The company is divided into four divisions. Burnett: five miles, clothes dried, and the body separates into Applegate's company and Martin's (72 wagons, 175 men). Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-10",
+   "localTime": null,
+   "place": "Grove north of the trail",
+   "modernName": "near the Kansas–Nebraska line north-west of Hanover, Kansas",
+   "lat": 39.95,
+   "lon": -96.9,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith (Martin's light column from here on): left camp about 8:00; about 11:00 the advance guard found a beheaded Indian, thought killed by the Kansa war party. Burnett: met four fur wagons from Fort Laramie bound for Independence. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-11",
+   "localTime": null,
+   "place": "Horse Creek (west side)",
+   "modernName": "Rock Creek east of Fairbury, Nebraska (possible)",
+   "lat": 40.09,
+   "lon": -97.04,
+   "event": "camp",
+   "milesToday": 14,
+   "note": "Nesmith: left about 8:00, passed the California wagons about 13:00, hard crossing, some wagons left on the far side overnight; rain in the evening. He says they have been travelling up the Blue \"for four days\". \"Horse Creek\" is his name; Rock Creek is the steep-banked crossing at this mileage. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-12",
+   "localTime": null,
+   "place": "Grove a mile and a half north of the (Little) Blue",
+   "modernName": "near Fairbury, Nebraska",
+   "lat": 40.15,
+   "lon": -97.19,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith: late start (about 10:00) because of the creek; about noon Gantt, Nesmith and four others chase and kill the first buffalo, an old bull, taking seven balls.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-13",
+   "localTime": null,
+   "place": "Ash Creek",
+   "modernName": "Little Blue valley between Fairbury and Hebron, Nebraska",
+   "lat": 40.21,
+   "lon": -97.38,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith is away hunting; he records that \"the company camped at Ash Creek\" and made ten miles. Burnett says the course from the 13th was up the \"Republican Fork of Blue\" (the Little Blue). Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-14",
+   "localTime": null,
+   "place": "Bank of the (Little) Blue",
+   "modernName": "near Hebron, Nebraska",
+   "lat": 40.19,
+   "lon": -97.62,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith rejoins about noon; sixteen miles. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-15",
+   "localTime": null,
+   "place": "Bank of the (Little) Blue",
+   "modernName": "near Oak, Nebraska",
+   "lat": 40.24,
+   "lon": -97.9,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith: first antelope killed; the council sits at night on a dispute between John B. Howell and Elbridge Edson. A little rain at night. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-16",
+   "localTime": null,
+   "place": "Bank of the (Little) Blue",
+   "modernName": "near Deweese, Nebraska",
+   "lat": 40.36,
+   "lon": -98.16,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith: eighteen miles, \"Weather fine and cool.\" Burnett: dogs race an antelope down the line of wagons. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-17",
+   "localTime": null,
+   "place": "Last timber on the (Little) Blue",
+   "modernName": "Little Blue south of Hastings, Nebraska",
+   "lat": 40.43,
+   "lon": -98.42,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith: rain in the forenoon; Pawnees come into camp for the first time; \"Mr. Applegate's company passed us in the evening.\" Burnett: Pawnee hunters gave the emigrants dried buffalo meat. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-18",
+   "localTime": null,
+   "place": "Platte River near the head of Grand Island",
+   "modernName": "Platte valley east of Fort Kearny State Historical Park, Nebraska",
+   "lat": 40.66,
+   "lon": -98.9,
+   "event": "arrives",
+   "milesToday": 20,
+   "note": "Nesmith: about twenty miles north-west over the divide, river very high, no wood. Burnett: 25 miles (25–30 in the Recollections), arriving \"just as the sun was going down\", camp two miles from the river without fuel; 271 miles from the rendezvous. Placed at the usual Independence-road strike of the Platte.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-06-19",
+   "localTime": null,
+   "place": "Bank of the Platte",
+   "modernName": "near Fort Kearny State Historical Park, Nebraska",
+   "lat": 40.65,
+   "lon": -99.08,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith: started early, five miles before breakfast, ten in all. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-22",
+   "localTime": null,
+   "place": "Platte valley, first buffalo herd",
+   "modernName": "near Cozad, Nebraska",
+   "lat": 40.84,
+   "lon": -99.97,
+   "event": "at",
+   "milesToday": null,
+   "note": "Burnett (1844 letter): \"On the twenty-second day of June, we saw the first band of buffaloes\", about fifty, two killed. His table puts the spot 56 miles above where they struck the Platte. Nesmith is ahead with the twenty-man hunting party (20–25 June). Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-24",
+   "localTime": null,
+   "place": "Bank of the Platte below the forks",
+   "modernName": "east of North Platte, Nebraska",
+   "lat": 41.08,
+   "lon": -100.55,
+   "event": "camp",
+   "milesToday": null,
+   "note": "Nesmith, at the hunters' meat-drying camp: \"Tonight our hunters saw the company encamped four miles in our rear.\" Burnett says the hunters came back on the 24th with fresh meat. Johnson and Winter put the hunters' camp \"at the Forks\". Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-26",
+   "localTime": "12:00",
+   "place": "The usual crossing of the South Fork",
+   "modernName": "South Platte near Paxton, Nebraska",
+   "lat": 41.12,
+   "lon": -101.38,
+   "event": "at",
+   "milesToday": 16,
+   "note": "Nesmith: \"The company came up and overtook us about noon at the crossing, but found the water so high that it was impossible to ford.\" Sixteen miles that day, burning buffalo chips; Applegate's company four miles behind; McCarver leaves to join it. Position is 45 diary-miles below Sleepy Grove.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-27",
+   "localTime": null,
+   "place": "Bank of the South Fork",
+   "modernName": "near Ogallala, Nebraska",
+   "lat": 41.12,
+   "lon": -101.72,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "At the noon halt buffalo bulls (five per Nesmith, seven per Burnett) swim the river and run past the wagons; three are killed. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-28",
+   "localTime": null,
+   "place": "Bank of the South Fork",
+   "modernName": "near Big Springs, Nebraska",
+   "lat": 41.06,
+   "lon": -102.02,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: fifteen miles; \"no rain since the twenty-first of the month\". Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-29",
+   "localTime": null,
+   "place": "Sleepy Grove, south bank of the South Fork",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "arrives",
+   "milesToday": 10,
+   "note": "Nesmith: a morning spent looking for a ford, start about 9:00, halt to eat at 10:00, then to \"a grove consisting of some large cottonwood trees, where we intend crossing\". Burnett: 173 miles in eleven days from the first Platte camp. Three mileage statements (Burnett 173 from the Platte strike, Johnson and Winter 85 above the Forks, Nesmith 460 from Independence) converge near the present Colorado–Nebraska line.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-06-30",
+   "localTime": null,
+   "place": "Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: laid by; the skins of eight buffalo killed the evening before are packed in \"to make skin boats\".",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-01",
+   "localTime": null,
+   "place": "Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Burnett: three boats made by covering wagon beds with green buffalo hides. Nesmith: several loads crossed in the afternoon; Applegate and Whitman visit, their company camped eight miles below; a daughter born to Mr. Stewart in the evening.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-02",
+   "localTime": null,
+   "place": "Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Nesmith: cold strong south-west wind, \"water still colder\"; part of the company crosses. Chiles (\"Childs\") and Waldo, bound for California, join in the evening.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-03",
+   "localTime": null,
+   "place": "Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Nesmith: most families and baggage over, wagons still on the south side. Two men come from Applegate's company to borrow the skin boats and report Bennett O'Neil three days lost.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-04",
+   "localTime": null,
+   "place": "Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 40.99,
+   "lon": -102.25,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Nesmith: the Fourth spent \"swimming and fording the South fork of the Big Platte, with cattle, wagons, baggage and so forth\". John Arthur recalled eleven wagons stuck in mid-river that day.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-05",
+   "localTime": null,
+   "place": "North bank opposite Sleepy Grove",
+   "modernName": "South Platte near Julesburg, Colorado",
+   "lat": 41,
+   "lon": -102.25,
+   "event": "crossing",
+   "milesToday": 0,
+   "note": "Nesmith: the last wagons are hauled out of the river and everything is across by evening \"without any serious disaster\"; a dance on the sand beach after dark. Burnett: crossing lasted 1–5 July inclusive.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-06",
+   "localTime": null,
+   "place": "Camp on the river bank seven miles from the crossing",
+   "modernName": "north bank of the South Platte near the Colorado–Nebraska line",
+   "lat": 41.04,
+   "lon": -102.13,
+   "event": "camp",
+   "milesToday": 7,
+   "note": "Nesmith: \"The whole company went seven miles down the river to get timber.\" Chiles and Waldo's California company goes three miles further, taking several wagons from the Oregon company. Rain in the night.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-07",
+   "localTime": null,
+   "place": "North Fork of the Platte",
+   "modernName": "North Platte River between Oshkosh and Lisco, Nebraska",
+   "lat": 41.45,
+   "lon": -102.48,
+   "event": "arrives",
+   "milesToday": 25,
+   "note": "Nesmith: across the divide, \"course about north, northwest\", 25 miles, camp two miles behind Chiles. Burnett: 29 miles (31 in his 1844 table). Burnett's table puts this point 36 miles below the \"Solitary Tower\" (Courthouse Rock), i.e. well above Ash Hollow. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-08",
+   "localTime": null,
+   "place": "North Fork of the Platte",
+   "modernName": "near Broadwater, Nebraska",
+   "lat": 41.57,
+   "lon": -102.82,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith rides back seven miles to find lost men; roads sandy. Burnett's table has a \"Cedar Grove\" 18 miles up the North Fork. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-09",
+   "localTime": null,
+   "place": "Bank of the North Fork, Chimney Rock in sight",
+   "modernName": "near Bridgeport, Nebraska (opposite Courthouse Rock)",
+   "lat": 41.67,
+   "lon": -103.12,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: \"Came in sight of the Chimney about noon.\" Burnett saw three wild horses. Burnett's table calls Courthouse Rock the \"Solitary Tower\". Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-10",
+   "localTime": null,
+   "place": "Chimney Rock; camp about nine miles beyond",
+   "modernName": "west of Chimney Rock National Historic Site, near McGrew, Nebraska",
+   "lat": 41.75,
+   "lon": -103.5,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith and eight or ten others climb the mound of \"the Chimney\"; camp on the river about nine miles from it. Chimney Rock itself is at 41.7037, -103.3481 (NPS). Camp placed nine miles west on the river.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-07-11",
+   "localTime": "16:00",
+   "place": "Small creek in the prairie behind Scott's Bluffs",
+   "modernName": "west of Robidoux Pass, south-west of Gering, Nebraska",
+   "lat": 41.87,
+   "lon": -103.82,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: the company leaves the river \"to avoid some high bluffs\" (Scotts Bluff); he and Reading explore the badlands and rejoin at 4:00; camp four miles from the river with a first view of the Black Hills (Laramie Range). Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-12",
+   "localTime": null,
+   "place": "Bank of the North Fork under sand and clay bluffs",
+   "modernName": "near Henry, Nebraska / Torrington, Wyoming",
+   "lat": 42.03,
+   "lon": -104.1,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith: ten miles to a sandy creek (Horse Creek), four more to the river, sixteen in all. A sleeping sentry's gun is sold. The cow column (Newby) reaches Fort Laramie this day about 12 o'clock. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-13",
+   "localTime": null,
+   "place": "Camp on the river short of a Sioux village",
+   "modernName": "near Lingle, Wyoming",
+   "lat": 42.12,
+   "lon": -104.34,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith: passed \"an old fort\" about 2:00; the advance guard reports an Indian village two miles ahead, so the train turns right to camp on the river. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-14",
+   "localTime": "10:00",
+   "place": "Fort Laramie (Fort John) on Laramie Fork; Fort Platte a mile below",
+   "modernName": "Fort Laramie National Historic Site, Wyoming",
+   "lat": 42.2029,
+   "lon": -104.5584,
+   "event": "arrives",
+   "milesToday": 8,
+   "note": "Nesmith: \"Arrived at Fort Laramie about 10:00 o'clock where we found Childs and Applegate's company.\" Laramie Fork is very high; ferrying goes on all afternoon and all night. Burnett also dates arrival to the 14th. Johnson and Winter, with an earlier party, say the 13th; Newby (cow column) the 12th.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-15",
+   "localTime": null,
+   "place": "Fort Laramie",
+   "modernName": "Fort Laramie National Historic Site, Wyoming",
+   "lat": 42.2029,
+   "lon": -104.5584,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: crossing finished in the morning; lay by. Sioux in from a fight with the Pawnees. Burnett: two days spent repairing wagons.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-16",
+   "localTime": null,
+   "place": "Big spring on Sand Creek (Warm Springs)",
+   "modernName": "Warm Springs near Guernsey, Wyoming",
+   "lat": 42.2462,
+   "lon": -104.7786,
+   "event": "camp",
+   "milesToday": 8,
+   "note": "Nesmith: eight miles \"to the big spring on Sand Creek\", camping with Chiles; Applegate's company has gone ahead. Johnson and Winter: left the forts on the 16th and camped ten miles out \"at a large Spring, the water of which was quite warm\". Placed at Warm Springs (the \"Emigrants' Laundry Tub\").",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-07-17",
+   "localTime": null,
+   "place": "Between the two canyons of the Platte",
+   "modernName": "North Platte above Guernsey, near Cottonwood Creek, Wyoming",
+   "lat": 42.36,
+   "lon": -104.93,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith: \"country very rough and hills very high.\" Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-18",
+   "localTime": null,
+   "place": "Dry creek with cottonwoods at the Platte",
+   "modernName": "near Glendo, Wyoming",
+   "lat": 42.48,
+   "lon": -105.03,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: nooned just below a canyon of the Platte, camped in the point between the river and the cottonwoods. This is the day Joel Hembree was run over in Applegate's company, ahead (Newby). Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-19",
+   "localTime": null,
+   "place": "Big Rock Creek",
+   "modernName": "Wagon Hound Creek / La Bonte Creek area south of Douglas, Wyoming",
+   "lat": 42.65,
+   "lon": -105.42,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: worst of the Black Hills, red bluffs and red earth \"resembling vermillion\"; camp on \"Big Rock Creek, having passed Deer Creek\". A night alarm: young men firing guns are put under guard by Colonel Martin. Nesmith's creek names are not the later ones; placed by the red-earth country and by being 12 miles short of La Prele Creek.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-20",
+   "localTime": "12:00",
+   "place": "Squaw Butte Creek; grave of Joel Hembree",
+   "modernName": "La Prele Creek, about 9 miles west of Douglas, Wyoming",
+   "lat": 42.75,
+   "lon": -105.6,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith: at noon the advance guard \"came up to a fresh grave with stones piled over it\" with a note and a headstone for Joel Hembree, aged six; beyond the creek they meet Vasquez's party of mountaineers. Reading's diary names the same camp (WyoHistory). Approximate location of the La Prele crossing; the grave has since been moved a short distance.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.wyohistory.org/encyclopedia/la-prele-creek-crossing",
+    "https://octa-trails.org/people-places/joel-hembree"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-07-21",
+   "localTime": null,
+   "place": "Bank of the North Platte",
+   "modernName": "near Glenrock (Deer Creek), Wyoming",
+   "lat": 42.86,
+   "lon": -105.87,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: \"Left Squaw Butte Creek, traveled fifteen miles and camped on the Platte.\" Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-22",
+   "localTime": "12:00",
+   "place": "Bank of the North Platte",
+   "modernName": "between Glenrock and Casper, Wyoming",
+   "lat": 42.86,
+   "lon": -105.99,
+   "event": "camp",
+   "milesToday": 6,
+   "note": "Nesmith: six miles, camped about noon to look for a ford; fever in camp; \"strong symptoms of mutiny\". The cow column fords the North Platte this day, ahead (Newby).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-23",
+   "localTime": null,
+   "place": "Small creek a mile from the Platte",
+   "modernName": "east of Casper, Wyoming",
+   "lat": 42.85,
+   "lon": -106.22,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith's 23rd birthday. The company noons near the ford Applegate used the evening before, sees his column crossing a ridge about 3:00, and elects five councilmen. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-24",
+   "localTime": "12:00",
+   "place": "Crossing of the North Fork of the Platte",
+   "modernName": "North Platte at Casper, Wyoming",
+   "lat": 42.84,
+   "lon": -106.35,
+   "event": "crossing",
+   "milesToday": 6,
+   "note": "Nesmith: \"Got up to the crossing about noon... Drove across in the afternoon without difficulty.\" Burnett: forded on the 24th, 122 miles from Fort Laramie in nine days. Johnson and Winter's party crossed on the 23rd, 127 miles above the fort. Placed in the Casper reach by those mileages.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-25",
+   "localTime": null,
+   "place": "A salt creek",
+   "modernName": "Poison Spider Creek area west of Casper, Wyoming",
+   "lat": 42.79,
+   "lon": -106.7,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith: \"Left the Platte, struck across to Sweet Water, trailed about eighteen miles and camped on a salt creek.\" Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-26",
+   "localTime": null,
+   "place": "A beautiful creek seven miles from Sweet Water",
+   "modernName": "Horse (Greasewood) Creek, Natrona County, Wyoming",
+   "lat": 42.57,
+   "lon": -107.02,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith is off on Gantt's buffalo hunt; the company trails eighteen miles. Johnson and Winter's party lay nearly a day at Willow Springs on the 25th. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-07-27",
+   "localTime": null,
+   "place": "Sweetwater River at Independence Rock",
+   "modernName": "Independence Rock State Historic Site, Wyoming",
+   "lat": 42.4936,
+   "lon": -107.1319,
+   "event": "arrives",
+   "milesToday": 8,
+   "note": "Nesmith: \"Company traveled eight miles.\" Burnett: \"On the 27th we arrived at the Sweetwater\", 55 miles from the North Fork in three days. The cow column reached the rock on the 28th about 10 o'clock (Newby).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-28",
+   "localTime": null,
+   "place": "Independence Rock",
+   "modernName": "Independence Rock State Historic Site, Wyoming",
+   "lat": 42.4936,
+   "lon": -107.1319,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith gets back from hunting in cold rain and finds the company split: Martin \"with most of the wagons, has gone ahead\"; nineteen wagons remain below Applegate's camp at the rock.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-29",
+   "localTime": null,
+   "place": "Independence Rock",
+   "modernName": "Independence Rock State Historic Site, Wyoming",
+   "lat": 42.4936,
+   "lon": -107.1319,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: Applegate's company leaves; Cooper takes command of the small rear company, which dries meat and makes moccasins.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-30",
+   "localTime": null,
+   "place": "Independence Rock",
+   "modernName": "Independence Rock State Historic Site, Wyoming",
+   "lat": 42.4936,
+   "lon": -107.1319,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: \"Most beautiful morning\"; names painted on the rock in gunpowder, tar and buffalo grease.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-07-31",
+   "localTime": "11:00",
+   "place": "Sweetwater above the Canyon of the Sweet Water (Devil's Gate)",
+   "modernName": "just west of Devil's Gate, Natrona County, Wyoming",
+   "lat": 42.45,
+   "lon": -107.26,
+   "event": "camp",
+   "milesToday": 7,
+   "note": "Nesmith: left about 11:00, reached Martin's company about 2:00 (sick men: Payne, Stevenson), camped three miles beyond; visited the canyon, \"about eight feet wide and 200 feet high\" (Devil's Gate, 42.4478, -107.2105). Thirteen wagons and 31 men in his company.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-01",
+   "localTime": null,
+   "place": "Sweetwater under a point of mountain",
+   "modernName": "Split Rock area, Wyoming",
+   "lat": 42.46,
+   "lon": -107.58,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: twenty miles; Vasquez and Walker's mountain party comes up; camp close to Chiles's company. Johnson and Winter first see the Wind River Mountains this day. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-02",
+   "localTime": null,
+   "place": "Sweetwater",
+   "modernName": "near Three Crossings, west of Split Rock, Wyoming",
+   "lat": 42.48,
+   "lon": -107.68,
+   "event": "camp",
+   "milesToday": 7,
+   "note": "Nesmith: Chiles and Walker turn off to cure meat; Nesmith dines at Applegate and Whitman's camp; alarm about Cheyennes and Sioux; Wind River Mountains in sight; Martin's company passes and camps a mile and a half ahead. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-03",
+   "localTime": null,
+   "place": "Sweetwater, end of the cut-off of the bend",
+   "modernName": "Sweetwater between Ice Slough and Sweetwater Station, Wyoming",
+   "lat": 42.52,
+   "lon": -108.02,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: early start, eighteen miles without good water across the bend, twenty in all; Martin's company camps 200 yards below. Burnett: first sight of \"the eternal snows\". Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-04",
+   "localTime": "03:00",
+   "place": "Sweetwater; grave of Clayborne Payne",
+   "modernName": "near Sweetwater Station, Fremont County, Wyoming",
+   "lat": 42.53,
+   "lon": -108.18,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith: \"Mr. Payne, a man in Martin's company, died this morning at 3:00 o'clock... decently interred on a rise of ground at the left of the road.\" Burnett: Martin's company stayed in camp to bury him; Nesmith's went on ten miles. Newby dates the death to the 3rd. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-05",
+   "localTime": null,
+   "place": "Small branches of good water above the Sweetwater",
+   "modernName": "Rocky Ridge / Strawberry Creek area, Fremont County, Wyoming",
+   "lat": 42.47,
+   "lon": -108.55,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith: \"very rough road\"; nights very cold, midday very warm; 231 miles from Fort Laramie. (He gives both fifteen and eighteen miles.) Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-06",
+   "localTime": null,
+   "place": "Last camp on the Sweetwater",
+   "modernName": "Burnt Ranch (last crossing of the Sweetwater), Wyoming",
+   "lat": 42.376,
+   "lon": -108.722,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith: twelve miles, \"Passed Applegate's company\" — the cow column lay by this day for a birth (Newby). Placed at the usual last crossing of the Sweetwater.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-07",
+   "localTime": "12:00",
+   "place": "South Pass; the spring beyond (Pacific Springs)",
+   "modernName": "South Pass, Fremont County, Wyoming",
+   "lat": 42.3436,
+   "lon": -108.887,
+   "event": "crossing",
+   "milesToday": 16,
+   "note": "Nesmith: left the Sweetwater, \"the last water of the Atlantic\", nooned at the spring, then out on the twenty-mile barren and stopped half way. \"Crossed the Divide August 7.\" Burnett: crossed the summit 5–7 August and on the evening of the 7th first drank Pacific water from \"a large, pure spring\". Coordinates are the pass summit (NPS/National Historic Landmark).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-08",
+   "localTime": null,
+   "place": "Sandy (Little Sandy Creek)",
+   "modernName": "Little Sandy crossing north-east of Farson, Wyoming",
+   "lat": 42.2,
+   "lon": -109.27,
+   "event": "camp",
+   "milesToday": 10,
+   "note": "Nesmith: cattle strayed for food; left about 9:00 and crossed \"a plain of sand and sage\" to the Sandy; Applegate's and Martin's companies have gone ahead. The printed text says they travelled until \"2:00 o'clock a. m.\", probably p.m. given ten miles.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-09",
+   "localTime": "12:00",
+   "place": "Big Sandy",
+   "modernName": "Big Sandy River at Farson, Wyoming",
+   "lat": 42.11,
+   "lon": -109.45,
+   "event": "at",
+   "milesToday": 14,
+   "note": "Burnett (Martin's company): \"On the 9th we came to the Big Sandy at noon. This day Stevenson died of fever, and we buried him on the sterile banks of that stream.\" Nesmith's diary lapses 9–13 August; he and Newby confirm the death date.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-11",
+   "localTime": null,
+   "place": "Green River crossing",
+   "modernName": "Green River near the mouth of the Big Sandy (Lombard Ferry area), Wyoming",
+   "lat": 41.898,
+   "lon": -109.81,
+   "event": "crossing",
+   "milesToday": null,
+   "note": "Burnett: \"On the 11th we crossed Green River\". Latitude taken from Frémont's observation at the emigrant ford four days later (41° 53' 54\"); longitude adjusted to the river.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-12",
+   "localTime": null,
+   "place": "Down Green River",
+   "modernName": "Green River below the Big Sandy, Sweetwater County, Wyoming",
+   "lat": 41.76,
+   "lon": -109.87,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Burnett: heavy frost and thin ice in the morning; word of a letter from Whitman that the Catholic missionaries had found a shorter way \"by way of Fort Bridger\", so the company decides to go by the fort. His table gives 12 miles down the river. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-13",
+   "localTime": null,
+   "place": "Ham's Fork / Black's Fork",
+   "modernName": "Granger, Wyoming",
+   "lat": 41.594,
+   "lon": -109.967,
+   "event": "camp",
+   "milesToday": null,
+   "note": "Nesmith (summary entry): \"I started on ahead to go to Fort Bridger, but stopped at Ham's Fork\". Burnett's table: 22 miles from the Green to Black's Fork, then 30 to the fort. The date is interpolated.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-14",
+   "localTime": "12:00",
+   "place": "Fort Bridger on Black's Fork",
+   "modernName": "Fort Bridger State Historic Site, Wyoming",
+   "lat": 41.3183,
+   "lon": -110.3893,
+   "event": "arrives",
+   "milesToday": null,
+   "note": "Nesmith: \"most of our company and men arrived at Fort Bridger, on Black's Ford, Monday, August 14.\" Burnett the same day, overtaking the missionaries. Newby (cow column) \"reached Fort Bridges at 12 oclock\" and records the death of Catherine Carey.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-15",
+   "localTime": null,
+   "place": "Fort Bridger",
+   "modernName": "Fort Bridger State Historic Site, Wyoming",
+   "lat": 41.3183,
+   "lon": -110.3893,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: Cooper sets up his blacksmith tools and works for the company; sixty miles from Little Sandy to here.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-16",
+   "localTime": null,
+   "place": "Fort Bridger",
+   "modernName": "Fort Bridger State Historic Site, Wyoming",
+   "lat": 41.3183,
+   "lon": -110.3893,
+   "event": "at",
+   "milesToday": 0,
+   "note": "Nesmith: \"Remained all day at the fort.\" Carey's child, who died the day before, is buried this morning (Newby dates the death to the 14th and burial to the 15th).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1843-08-17",
+   "localTime": null,
+   "place": "Muddy Creek",
+   "modernName": "Muddy Creek north-west of Fort Bridger, Uinta County, Wyoming",
+   "lat": 41.5,
+   "lon": -110.6,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith's wagons are the last to leave the fort; Muddy Creek at noon, eight miles up it; the big wagon capsizes in the creek at evening. Burnett, three days ahead, reaches Bear River this day. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-18",
+   "localTime": null,
+   "place": "Head of Muddy Creek",
+   "modernName": "Little Muddy headwaters near Cumberland Gap, Wyoming",
+   "lat": 41.64,
+   "lon": -110.63,
+   "event": "camp",
+   "milesToday": 12,
+   "note": "Nesmith: twelve miles; overtook Waldo's company. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-19",
+   "localTime": null,
+   "place": "Over the Bear River Divide",
+   "modernName": "Bear River Divide west of Kemmerer, Wyoming",
+   "lat": 41.78,
+   "lon": -110.82,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: \"Crossed a large mountain\"; he rides until midnight after strayed cattle. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-20",
+   "localTime": "12:00",
+   "place": "Bear River",
+   "modernName": "Bear River near Sage and Cokeville, Wyoming",
+   "lat": 41.97,
+   "lon": -110.97,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: \"Struck Bear River about noon, and traveled down it about ten miles over a fine level bottom. Course, Northwest.\" Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-21",
+   "localTime": null,
+   "place": "Bank of Bear River",
+   "modernName": "Bear River near Thomas Fork, Wyoming–Idaho line",
+   "lat": 42.2,
+   "lon": -111.03,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: twenty miles; McHaley's wagon upset in the river. Frémont, a day behind, camps this night with a lone emigrant family \"bringing up the rear of the great caravan\". Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-22",
+   "localTime": null,
+   "place": "Bear River beyond the high mountain (Big Hill)",
+   "modernName": "Bear River near Montpelier, Idaho",
+   "lat": 42.31,
+   "lon": -111.3,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith: seven wagons go on, leaving McHaley and Applegate to lay by; over \"a high mountain about three miles\" and back to the river; trout and chub caught. Frémont crosses the same ridge after dark and reaches the river about ten o'clock. Burnett, ahead, reaches Soda Springs this day. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-23",
+   "localTime": null,
+   "place": "Small creek three miles from Bear River",
+   "modernName": "near Georgetown, Idaho",
+   "lat": 42.48,
+   "lon": -111.38,
+   "event": "camp",
+   "milesToday": 15,
+   "note": "Nesmith: \"Lieutenant Freemont... with his party, overtook us this morning\"; a Snake village at noon, where he buys a black horse. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-24",
+   "localTime": "14:00",
+   "place": "Soda Springs (Beer Springs); camp where the trail leaves Bear River",
+   "modernName": "Soda Springs and Sheep Rock (Soda Point), Idaho",
+   "lat": 42.648,
+   "lon": -111.705,
+   "event": "camp",
+   "milesToday": 18,
+   "note": "Nesmith: \"Passed the Soda Springs about 2:00 o'clock. Camped on Bear River at a place where our trail leaves it.\" Newby (cow column) reaches the springs the same day. The springs are at 42.6544, -111.6047; the camp is placed at Sheep Rock, where the road leaves the river.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1843-08-25",
+   "localTime": null,
+   "place": "Portneuf River",
+   "modernName": "upper Portneuf valley near Chesterfield, Idaho",
+   "lat": 42.86,
+   "lon": -111.92,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: twenty miles to \"a creek running into the Snake River, by the name of Portneuf\"; volcanic rock that \"ring[s] like earthenware\". Frémont spends the day at the Beer Springs. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-26",
+   "localTime": null,
+   "place": "Some springs",
+   "modernName": "between the Portneuf and Ross Fork, Fort Hall Reservation, Idaho",
+   "lat": 42.93,
+   "lon": -112.14,
+   "event": "camp",
+   "milesToday": 16,
+   "note": "Nesmith: \"Kit Carson, of Freemont's company, camped with us, on his return from Fort Hall, having been on express.\" Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-27",
+   "localTime": null,
+   "place": "Left of the trail near the turn for Snake River",
+   "modernName": "Ross Fork area east of Fort Hall, Idaho",
+   "lat": 43.01,
+   "lon": -112.42,
+   "event": "camp",
+   "milesToday": 20,
+   "note": "Nesmith: twenty miles, very rough country. Burnett, with the leading wagons, arrives at Fort Hall this day: 235 miles from Fort Bridger in thirteen days. Placed by counting the diarist's daily mileage along the mapped Oregon Trail corridor between fixed landmarks; not a surveyed campsite.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1843-08-28",
+   "localTime": null,
+   "place": "Fort Hall on Snake River",
+   "modernName": "Fort Hall site, Fort Hall Indian Reservation, Idaho",
+   "lat": 43.0203,
+   "lon": -112.6342,
+   "event": "arrives",
+   "milesToday": 12,
+   "note": "Nesmith: \"Trailed twelve miles to-day and arrived at Fort Hall, where we remained until Friday, September 1.\" Trading with Richard Grant of the Hudson's Bay Company at high prices; some go on with pack animals. Coordinates: the original fort site on the Snake River bottoms.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1843-05-18",
+   "localTime": null,
+   "title": "First meeting at the rendezvous",
+   "body": "The emigrants camped west of Fitzhugh's Mill held their first meeting, with Layson in the chair and Peter Burnett as secretary. They named committees to consult Dr. Marcus Whitman, to inspect every outfit, and to draft rules for the road.",
+   "tags": [
+    "politics",
+    "gathering"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-05-20",
+   "localTime": null,
+   "title": "Rules adopted, a pilot hired",
+   "body": "At Big Springs the company adopted its rules: every man of sixteen a voter, a captain, an orderly sergeant and a council of nine, and no election until the Kansas River. John Gantt, a former army captain and fur trader, was hired as pilot to Fort Hall. One member proposed adopting the criminal code of Tennessee or Missouri for the journey.",
+   "tags": [
+    "politics",
+    "rules",
+    "Gantt"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": {
+    "text": "Some one privately suggested that we should also take along a penitentiary, if Captain Dulany's proposition should pass.",
+    "by": "Peter H. Burnett, letter to the New York Herald, 1844 (OHQ vol. 3, \"Documents\")"
+   }
+  },
+  {
+   "date": "1843-05-22",
+   "localTime": "15:00",
+   "title": "The start: Elm Grove",
+   "body": "The general start was made on Monday 22 May. The wagons reached Elm Grove in mid-afternoon; Burnett counted two elms there, Nesmith one stump. Burnett remembered about sixty wagons and a thousand cattle in the moonlight and violin music in the tents.",
+   "tags": [
+    "departure",
+    "camp"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": {
+    "text": "Encamped at the grove, consisting of one old elm stump, which the Sante Fe traders had chipped and trimmed for the purpose of procuring wood to cook with.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 22 May"
+   }
+  },
+  {
+   "date": "1843-05-24",
+   "localTime": null,
+   "title": "Wagons roped down the Wakarusa",
+   "body": "At the Wakarusa the bank was too steep to drive, so each wagon was let down by ropes. Gantt joined the camp that evening. Burnett later found there had been an easy ford a hundred yards upstream.",
+   "tags": [
+    "river crossing",
+    "Gantt"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-05-26",
+   "localTime": null,
+   "title": "Nesmith nearly drowns in the Kaw",
+   "body": "The Kansas River was too high to ford. Nesmith crossed on Papin's platform of two canoes, swam the river several times, and was pulled under while helping a young man named William Vaughn; G. W. Stewart got them both to shore.",
+   "tags": [
+    "river crossing",
+    "accident"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Came near drowning myself in consequence of Vaughn's struggling with me in the water.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 26 May"
+   }
+  },
+  {
+   "date": "1843-05-28",
+   "localTime": null,
+   "title": "Papin's ferry sinks",
+   "body": "A committee failed to hire the Frenchman Papin's ferry on reasonable terms, so the company built its own from two large canoes. Families who had paid Papin privately were aboard his platform when it sank on the 28th. No one drowned, but property was lost.",
+   "tags": [
+    "river crossing",
+    "accident"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.nps.gov/places/kansas-river-crossing-and-pappins-ferry.htm"
+   ],
+   "quote": {
+    "text": "several men, women, and children came near being drowned, but all escaped with the loss of some property.",
+    "by": "Peter H. Burnett, letter to the New York Herald, 1844 (OHQ vol. 3)"
+   }
+  },
+  {
+   "date": "1843-05-30",
+   "localTime": null,
+   "title": "Jesuits and a hunting party pass",
+   "body": "Two Catholic missionaries bound for the Flathead mission reached the crossing and went over on the 30th. Sir William Drummond Stewart's sporting party, with the New Orleans journalist Matthew Field, passed the emigrant camp about the first of June and stayed ahead of the wagons all summer.",
+   "tags": [
+    "meetings",
+    "missionaries",
+    "Stewart party"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.gutenberg.org/cache/epub/78187/pg78187.txt"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-06-01",
+   "localTime": null,
+   "title": "Election by running",
+   "body": "On Soldier Creek, north of the Kansas, the emigrants elected Peter Burnett captain and James Nesmith orderly sergeant, with a council of nine. Matthew Field watched: candidates marched off across the prairie and voters fell in behind the man they wanted.",
+   "tags": [
+    "politics",
+    "election"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/cache/epub/78187/pg78187.txt",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "every candidate flourished a sort of a tail of his own, and the man with the longest tail was elected!",
+    "by": "Matthew C. Field, \"Prairie and Mountain Life—The Oregon Emigrants\", New Orleans Picayune, 21 November 1843"
+   }
+  },
+  {
+   "date": "1843-06-01",
+   "localTime": null,
+   "title": "The orderly sergeant's roll",
+   "body": "Nesmith's first duty as orderly sergeant was to list the men liable for guard. He counted 254 men and 111 wagons; Burnett's letter says 263 men and about 110 wagons. Women and children were not counted.",
+   "tags": [
+    "numbers"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": {
+    "text": "My duty required me to take the names of men for duty. They numbered 254. The number of wagons was 111.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843"
+   }
+  },
+  {
+   "date": "1843-06-06",
+   "localTime": null,
+   "title": "A Kansa and Osage war party",
+   "body": "About ninety mounted Kansa and Osage warriors met the train carrying a divided Pawnee scalp, and said they had not eaten for three days. On Gantt's advice the emigrants fed them, and gave them a calf. Burnett's Recollections date this to the 6th; his 1844 letter puts it on the morning after the storm.",
+   "tags": [
+    "meetings",
+    "Kansa",
+    "Osage",
+    "Pawnee"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-06-06",
+   "localTime": "22:00",
+   "title": "Storm at the Big Blue",
+   "body": "The wagons forded the Big Blue on the evening of the 6th with the beds propped up on blocks. That night a thunderstorm flattened half the tents and left the camp under eight inches of water; the next night was nearly as bad. Newby says the storm began about 10 o'clock and lasted till day.",
+   "tags": [
+    "storm",
+    "river crossing"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "We had the worst storme and raine I ever saw which commenst a bout 10 o'clock & held till day.",
+    "by": "William T. Newby, diary, entry for 6 June 1843 (OHQ vol. 40)"
+   }
+  },
+  {
+   "date": "1843-06-08",
+   "localTime": null,
+   "title": "Burnett resigns",
+   "body": "After a week as captain Burnett gave up the command. His 1844 letter says ill health; his memoir says he found so large and undisciplined a body could not be kept together. William Martin was elected in his place.",
+   "tags": [
+    "politics"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": {
+    "text": "These considerations induced me to resign on the 8th of June, and William Martin was elected as my successor.",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880), ch. 3"
+   }
+  },
+  {
+   "date": "1843-06-09",
+   "localTime": null,
+   "title": "The cattle quarrel splits the company",
+   "body": "Men with only their teams resented guarding other men's herds, and the rule limiting loose cattle to three per man was challenged. When the weather cleared on the 9th the emigration divided: Martin's \"light column\" of about 72 wagons and 175 men, and Jesse Applegate's \"cow column\" of about 60 wagons with the big herds.",
+   "tags": [
+    "politics",
+    "cattle",
+    "cow column"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/78187/pg78187.txt"
+   ],
+   "quote": {
+    "text": "Those not encumbered with or having but few loose cattle attached themselves to the light column; those having more than four or five cows had of necessity to join the heavy or cow column.",
+    "by": "Jesse Applegate, \"A Day with the Cow Column in 1843\" (1877; OHQ vol. 1)"
+   }
+  },
+  {
+   "date": "1843-06-10",
+   "localTime": "11:00",
+   "title": "A beheaded man on the prairie",
+   "body": "About eleven o'clock Nesmith's advance guard came on the mutilated body of an Indian, his head cut off. They took it for the Pawnee killed by the Kansa war party they had fed four days earlier, and picked up arrows from the ground.",
+   "tags": [
+    "Pawnee",
+    "death"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-06-12",
+   "localTime": "12:00",
+   "title": "The first buffalo",
+   "body": "About noon Nesmith saw a lone buffalo two miles north of the trail. Gantt, Nesmith and four others ran it down; it took seven balls. It was an old bull, poor and tough, but the camp was delighted.",
+   "tags": [
+    "buffalo",
+    "hunting",
+    "Gantt"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": {
+    "text": "He proved to be one of the male kind, about eight years old.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 12 June"
+   }
+  },
+  {
+   "date": "1843-06-17",
+   "localTime": null,
+   "title": "Pawnees, Applegate, and Whitman",
+   "body": "At the last camp on the Little Blue, Pawnee hunters came in with packs of dried buffalo meat and shared it. Applegate's cow column passed the light column that evening. Newby, in the cow column, noted next day that Dr. Whitman had overtaken them, travelling with his young nephew Perrin.",
+   "tags": [
+    "Pawnee",
+    "Whitman",
+    "cow column"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-06-18",
+   "localTime": null,
+   "title": "Sunset on the Platte",
+   "body": "The light column crossed the dry divide from the Little Blue in one long day, twenty miles by Nesmith and twenty-five or more by Burnett. They reached the Platte bottom near the head of Grand Island at sunset and camped without wood.",
+   "tags": [
+    "Platte",
+    "landmark"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "our eyes first beheld the wide and beautiful valley of the Great Platte just as the sun was going down behind the bleak sand hills.",
+    "by": "Peter H. Burnett, letter to the New York Herald, 1844 (OHQ vol. 3)"
+   }
+  },
+  {
+   "date": "1843-06-21",
+   "localTime": null,
+   "title": "Camp Disagreeable",
+   "body": "Twenty mounted men, Nesmith among them, went ahead on the 20th to kill and dry buffalo meat for the company. On the second evening a cold rainstorm caught them on the open river bank. Johnson and Winter, in the same party, said none of the twenty had ever passed a worse night.",
+   "tags": [
+    "storm",
+    "hunting"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": {
+    "text": "Lay in wet blankets on the wet sand. Extremely cold.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 21 June"
+   }
+  },
+  {
+   "date": "1843-06-24",
+   "localTime": null,
+   "title": "Whitman delivers a child",
+   "body": "Applegate's account of a day on the Platte (he gives no date) has Dr. Whitman pull a wagon out of the line at one o'clock for a woman in labour; by sunset the wagon rolled into the corral with mother and child well. Applegate credits Whitman's constant urging with keeping the column moving.",
+   "tags": [
+    "Whitman",
+    "birth",
+    "cow column"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+   ],
+   "quote": {
+    "text": "Travel, travel, travel; nothing else will take you to the end of your journey; nothing is wise that does not help you along; nothing is good for you that causes a moment's delay.",
+    "by": "Marcus Whitman, as quoted by Jesse Applegate, \"A Day with the Cow Column in 1843\" (1877)"
+   }
+  },
+  {
+   "date": "1843-06-26",
+   "localTime": "12:00",
+   "title": "South Fork too high to ford",
+   "body": "The light column caught up with its hunters at the usual crossing of the South Platte about noon and found the river too deep. They kept on up the south bank for four more days looking for a ford. General McCarver left to join Applegate's company, four miles behind.",
+   "tags": [
+    "river crossing",
+    "Platte"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-06-27",
+   "localTime": "12:00",
+   "title": "Buffalo charge the wagon line",
+   "body": "While the wagons were halted for noon, a band of buffalo bulls swam the river straight at the train. The men lined up with rifles; the bulls broke through and three were killed. Nesmith says five bulls, Burnett seven.",
+   "tags": [
+    "buffalo"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ],
+   "quote": {
+    "text": "The Invincibles turned out and kept up a running fire, like a military muster.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 27 June"
+   }
+  },
+  {
+   "date": "1843-07-01",
+   "localTime": null,
+   "title": "Wagon beds become boats",
+   "body": "At a cottonwood grove the men stretched green buffalo hides over wagon beds, flesh side out, and dried them in the sun; Johnson and Winter add that they were greased with tallow and ashes. Six men worked each boat, some wading alongside. The first loads went over on the afternoon of 1 July.",
+   "tags": [
+    "river crossing",
+    "South Platte"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "On July 1st we made three boats by covering our wagon boxes or beds with green buffalo hides sewed together, stretched tightly over the boxes, flesh side out, and tacked on with large tacks",
+    "by": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (1880), ch. 3"
+   }
+  },
+  {
+   "date": "1843-07-01",
+   "localTime": null,
+   "title": "A daughter born at Sleepy Grove",
+   "body": "On the evening the crossing began, a girl was born to the Stewart family in the light column's camp. Applegate and Whitman rode in the same evening from the cow column, camped eight miles below. That morning a sentinel's gun had gone off and killed James Williams's mule.",
+   "tags": [
+    "birth",
+    "Whitman"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Mr. Stewart had the gratification of being presented with a daughter this evening.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 1 July"
+   }
+  },
+  {
+   "date": "1843-07-03",
+   "localTime": null,
+   "title": "A lost man and a burst rifle",
+   "body": "Two men came up from the cow column to borrow the skin boats and reported Bennett O'Neil three days missing. In the light column a Cherokee named Kerritook was badly hurt when his rifle burst at the breech. In the cow column the day before, Richard Goodman had been shot through the arm by a companion's gun while stalking buffalo.",
+   "tags": [
+    "accident",
+    "cow column"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-04",
+   "localTime": null,
+   "title": "A cold-water Fourth of July",
+   "body": "Independence Day was spent swimming cattle and dragging wagons across the South Platte. John Arthur remembered eleven wagons stuck in a washed-out channel and thirty men waist-deep getting them out. Nesmith listed the drinks the men talked about and did not have.",
+   "tags": [
+    "river crossing",
+    "holiday"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "the Oregon emigrant must forget those luxuries and, for a time, submit to hard fare, and put up with truly cold-water celebrations",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 4 July"
+   }
+  },
+  {
+   "date": "1843-07-05",
+   "localTime": null,
+   "title": "A dance on the sandbar",
+   "body": "Everything was across by the evening of the 5th without a serious loss. After dark the young men danced on a sand beach to two violins. The women were not asked.",
+   "tags": [
+    "camp life",
+    "river crossing"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-06",
+   "localTime": null,
+   "title": "The California party breaks off",
+   "body": "Joseph Chiles and Daniel Waldo's California-bound wagons, which had joined on the 2nd, pulled ahead on the 6th and took several Oregon wagons with them. They kept just in front of the light column to Fort Laramie and beyond.",
+   "tags": [
+    "California party",
+    "Chiles",
+    "politics"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "Several wagons broke off from our company to join them, among the rest, Old Prairie Chicken. Nobody sorry.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 6 July"
+   }
+  },
+  {
+   "date": "1843-07-10",
+   "localTime": null,
+   "title": "Climbing the Chimney",
+   "body": "The Chimney came in sight about noon on the 9th. Next day Nesmith and eight or ten others rode over and climbed the mound under the shaft. He judged the whole 350 feet above the plain.",
+   "tags": [
+    "landmark",
+    "Chimney Rock"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": {
+    "text": "one of the greatest curiosities I have ever seen in the West, and can be seen distinctly thirty miles on the plains.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 10 July"
+   }
+  },
+  {
+   "date": "1843-07-11",
+   "localTime": null,
+   "title": "Behind Scotts Bluff",
+   "body": "The wagons left the river to pass behind the bluffs. Nesmith and Pierson Reading rode through the badlands, down ravines fifty feet deep and wide enough only for a mule, and named one bluff after a building in Cincinnati. From camp they had their first view of the Black Hills, the Laramie Range.",
+   "tags": [
+    "landmark",
+    "Scotts Bluff"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-13",
+   "localTime": null,
+   "title": "A Sioux village ahead",
+   "body": "A day short of Fort Laramie the advance guard reported an Indian village two miles on, probably Sioux. The train swung to the river to camp away from it, and the men cleaned their rifles. Nothing happened.",
+   "tags": [
+    "Sioux",
+    "alarm"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-14",
+   "localTime": "10:00",
+   "title": "Fort Laramie and a ball",
+   "body": "The light column reached Fort Laramie about ten in the morning and found Chiles's and Applegate's companies already there. Laramie Fork was in flood, and ferrying went on through the afternoon and all night. The traders at the rival Fort Platte, a mile below, gave the emigrants a dance.",
+   "tags": [
+    "fort",
+    "river crossing",
+    "meetings"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": {
+    "text": "The boys at Fort Platte gave us a ball in the evening, where we received hospitable treatment.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 14 July"
+   }
+  },
+  {
+   "date": "1843-07-15",
+   "localTime": null,
+   "title": "Prices, Sioux and a Cheyenne chief",
+   "body": "Burnett wrote down the fort's prices: coffee and brown sugar $1.50 a pint, unbolted flour 25 cents a pound, powder $1.50 a pound. Sioux had just come in from a fight on the forks of the Platte in which they said thirty-six Pawnees were killed. Burnett also describes calming a Cheyenne chief insulted by a young emigrant.",
+   "tags": [
+    "fort",
+    "prices",
+    "Sioux",
+    "Cheyenne"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-18",
+   "localTime": null,
+   "title": "Joel Hembree is run over",
+   "body": "In the cow column, on a very bad road in the Black Hills, six-year-old Joel Hembree fell from a wagon tongue and both wheels passed over him. He died the next day about two o'clock and was buried on the 20th under a stone with his name cut in it. His is the oldest identified emigrant grave on the Oregon Trail.",
+   "tags": [
+    "death",
+    "grave",
+    "cow column"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.wyohistory.org/encyclopedia/la-prele-creek-crossing",
+    "https://octa-trails.org/people-places/joel-hembree"
+   ],
+   "quote": {
+    "text": "Joel J. Hembree son Joel fel off the waggeon tung & both wheels run over him.",
+    "by": "William T. Newby, diary, 18 July 1843 (OHQ vol. 40)"
+   }
+  },
+  {
+   "date": "1843-07-20",
+   "localTime": "12:00",
+   "title": "The fresh grave; mountain men",
+   "body": "At noon Nesmith, riding ahead with Gantt, came on Hembree's grave beside Squaw Butte Creek (La Prele Creek), with a note tied to a stick. Across the creek Louis Vasquez's trappers were stopped for dinner with packs of furs from Black's Fork. With them were two men returning from Oregon who gave a bad account of it.",
+   "tags": [
+    "grave",
+    "mountain men",
+    "meetings"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": {
+    "text": "the first death that has occurred on the expedition.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 20 July"
+   }
+  },
+  {
+   "date": "1843-07-22",
+   "localTime": "12:00",
+   "title": "Symptoms of mutiny",
+   "body": "The light column stopped at noon to hunt a ford on the North Platte. Men were down with fever and the rest could not agree whether to go faster, slower, cross here or go on. The same day, ahead, the cow column forded with ropes and forty men hauling; Newby's wagon rolled over and he lost his gun, axe and ox-yoke.",
+   "tags": [
+    "politics",
+    "river crossing",
+    "sickness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "They have the elements of their own destruction within themselves.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 22 July"
+   }
+  },
+  {
+   "date": "1843-07-24",
+   "localTime": "12:00",
+   "title": "Fording the North Platte",
+   "body": "The light column reached the ford about noon and drove across that afternoon without trouble, with Applegate's company in sight on the far bank. The day before, two of Chiles's men had reported they could not find the rubber boat Sir William Stewart had left for them in the fork of a tree.",
+   "tags": [
+    "river crossing",
+    "Stewart party"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-07-26",
+   "localTime": null,
+   "title": "Stewart's hunters and scarce buffalo",
+   "body": "Gantt led a buffalo hunt on the 26th that broke up when he lost his temper. Game was thin all the way from the South Fork. Johnson and Winter blamed Sir William Stewart's party, which kept a few days ahead with fifty or sixty horses, running the herds off.",
+   "tags": [
+    "buffalo",
+    "hunting",
+    "Stewart party",
+    "Gantt"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": {
+    "text": "it will be prudent to place him in the rear, instead of the van.",
+    "by": "Overton Johnson and William H. Winter, Route Across the Rocky Mountains (1846), ch. 1"
+   }
+  },
+  {
+   "date": "1843-07-28",
+   "localTime": null,
+   "title": "The company breaks up at the rock",
+   "body": "Nesmith came in from two nights out hunting in cold rain to find the light column itself divided. Martin had gone ahead with most of the wagons; nineteen, including deserters from Applegate's company, stayed behind under Cooper. Applegate says that from Independence Rock the emigrants travelled in small parties.",
+   "tags": [
+    "politics",
+    "Independence Rock"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+   ],
+   "quote": {
+    "text": "The Oregon emigrating company has been strangely divided, and no doubt the dividend will be again divided.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 28 July"
+   }
+  },
+  {
+   "date": "1843-07-30",
+   "localTime": null,
+   "title": "Names on Independence Rock",
+   "body": "On a fine Sunday morning Nesmith and other young men escorted five or six young women to the rock. He put up the names of Mary Zachary and Jane Mills on the south-east point and his own facing the road. Newby, two days earlier, had cut his about fifty feet up.",
+   "tags": [
+    "landmark",
+    "Independence Rock",
+    "camp life"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "Facing the road, in all the splendor of gunpowder, tar and buffalo greese, may be seen the name of J. W. Nesmith, from Maine, with an anchor.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 30 July"
+   }
+  },
+  {
+   "date": "1843-07-31",
+   "localTime": "14:00",
+   "title": "Sick men and Devil's Gate",
+   "body": "Nesmith's thirteen wagons overtook Martin's company about two o'clock and found Payne and Stevenson very ill with fever. He rode to see the canyon where the Sweetwater cuts through the rock. An emigrant named Zachary had been expelled from Martin's company for cheating a young man of his provisions.",
+   "tags": [
+    "sickness",
+    "landmark",
+    "Devil's Gate"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-02",
+   "localTime": null,
+   "title": "Wind River Mountains and an alarm",
+   "body": "Snow peaks came in sight. Nesmith dined at Applegate and Whitman's camp, where seven buffalo cows had been killed. The camps were uneasy: Cheyennes and Sioux were said to be gathered in great numbers forty miles south on the Platte.",
+   "tags": [
+    "landmark",
+    "Whitman",
+    "alarm"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-04",
+   "localTime": "03:00",
+   "title": "Clayborne Payne dies",
+   "body": "Payne, sick since Fort Laramie, died at three in the morning in Martin's company, leaving a wife and four small children. He was buried on a rise left of the road; the preacher Garrison prayed at the grave. He was the first adult to die on the journey.",
+   "tags": [
+    "death",
+    "grave"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "He was decently interred on a rise of ground at the left of the road.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 4 August"
+   }
+  },
+  {
+   "date": "1843-08-04",
+   "localTime": "14:00",
+   "title": "A fireball over the Sweetwater",
+   "body": "About two in the afternoon Nesmith's hunting party heard a sharp report overhead like heavy artillery and a long rumble, with hardly a cloud in the sky. Newby, in the cow column, saw it: a ball of fire, then a zigzag streak of blue smoke two hundred yards long, then the report.",
+   "tags": [
+    "sky",
+    "weather"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-06",
+   "localTime": null,
+   "title": "A birth below South Pass",
+   "body": "The cow column lay by on the 6th because John Pennington's wife was in labour; she had a daughter. Nesmith's party passed Applegate's camp that day and made its last camp on the Sweetwater.",
+   "tags": [
+    "birth",
+    "cow column"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-07",
+   "localTime": "12:00",
+   "title": "Over the divide",
+   "body": "Nesmith's company left the Sweetwater in the morning, nooned at a spring, and went out onto twenty miles of waterless sage. Burnett says the companies crossed the summit between the 5th and the 7th. On reaching the Sandy next day Nesmith counted himself in Oregon Territory.",
+   "tags": [
+    "landmark",
+    "South Pass"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": {
+    "text": "We now consider ourselves in Oregon Territory, and we consider this part of it a poor sample of the El Dorado.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 8 August"
+   }
+  },
+  {
+   "date": "1843-08-09",
+   "localTime": "12:00",
+   "title": "Stevenson buried on the Big Sandy",
+   "body": "Martin's company reached the Big Sandy at noon. Stevenson, a strong young man travelling without family, died of fever that day and was buried on the bank. Nesmith had seen him delirious nine days earlier and had not expected him to live.",
+   "tags": [
+    "death",
+    "grave",
+    "sickness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-12",
+   "localTime": null,
+   "title": "Whitman's letter: go by Fort Bridger",
+   "body": "After crossing the Green River the emigrants learned that Whitman had written back that the Catholic missionaries, with a Flathead pilot, had found a shorter pass by way of Fort Bridger. They turned south for the fort. There was heavy frost and thin ice that morning.",
+   "tags": [
+    "Whitman",
+    "route",
+    "missionaries"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-14",
+   "localTime": "12:00",
+   "title": "Fort Bridger; a child dies",
+   "body": "Burnett, Nesmith's company and the cow column all reached the fort on Black's Fork on the 14th and overtook the missionaries there. Catherine Carey, a child who had been sick for days, died; she was buried next morning. Cooper traded his heavy wagon and blacksmith tools for a lighter wagon.",
+   "tags": [
+    "fort",
+    "death",
+    "missionaries"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-17",
+   "localTime": null,
+   "title": "A wagon capsizes in the Muddy",
+   "body": "Leaving the fort last, Nesmith's wagon tipped over crossing Muddy Creek at evening and threw its whole load into the water. The men waded waist-deep in mud for an hour to save it; the flour came through. They cut a new coupling pole after dark.",
+   "tags": [
+    "accident",
+    "river crossing"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-22",
+   "localTime": null,
+   "title": "Frémont comes on the camps",
+   "body": "Lieutenant John C. Frémont's exploring party, following the wagon ruts from the Sweetwater, came down into the Bear River valley and found emigrant camps strung for miles along the river, resting their cattle. He overtook Nesmith's wagons on the morning of the 23rd.",
+   "tags": [
+    "Frémont",
+    "meetings",
+    "Bear River"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": {
+    "text": "The edge of the wood, for several miles along the river, was dotted with the white covers of emigrant wagons, collected in groups at different camps",
+    "by": "John C. Frémont, Report of the Exploring Expedition (1845), 22 August 1843"
+   }
+  },
+  {
+   "date": "1843-08-24",
+   "localTime": "14:00",
+   "title": "Soda Springs",
+   "body": "Nesmith passed the Soda Springs about two o'clock; Newby's cow column reached them the same day and Burnett two days earlier. Newby counted ten springs and a warm one. Frémont arrived on the 25th and tested the gas at the steam vent on a wary emigrant boy.",
+   "tags": [
+    "landmark",
+    "Soda Springs",
+    "Frémont"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ],
+   "quote": {
+    "text": "They are quite numerous and have exactly the taste of soda water without the syrup.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 25 August"
+   }
+  },
+  {
+   "date": "1843-08-26",
+   "localTime": null,
+   "title": "Kit Carson at the campfire",
+   "body": "Frémont had sent Kit Carson ahead to Fort Hall for provisions. On his way back he camped the night of the 26th with Nesmith's party at some springs between the Portneuf and the fort.",
+   "tags": [
+    "meetings",
+    "Frémont",
+    "mountain men"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1843-08-28",
+   "localTime": null,
+   "title": "Fort Hall: wagons or packs",
+   "body": "Burnett reached the Hudson's Bay post on the 27th and Nesmith on the 28th. Richard Grant sold flour at 25 cents a pint and told Burnett he could not see how wagons could go on. Whitman told the emigrants they could; some young men packed anyway. Gantt's contract ended here.",
+   "tags": [
+    "fort",
+    "prices",
+    "Whitman",
+    "Gantt",
+    "route"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ],
+   "quote": {
+    "text": "He sells at an exhorbitant price; flour, 25 cents per pint; sugar, 50; coffee, 50; rice, 33⅓.",
+    "by": "James W. Nesmith, Diary of the Emigration of 1843, 28 August"
+   }
+  }
+ ],
+ "stats": [
+  {
+   "date": "1843-05-17",
+   "series": "people",
+   "value": 300,
+   "note": "Louise Barry (The Beginning of the West), people at the Indian Creek rendezvous on 17 May, as abstracted on oregonpioneers.com.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-05-17",
+   "series": "wagons",
+   "value": 50,
+   "note": "Barry, wagons at the rendezvous on 17 May.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-05-22",
+   "series": "wagons",
+   "value": 60,
+   "note": "Burnett's 1844 letter: \"the white sheets of sixty wagons\" at Elm Grove on the first night; later arrivals were still behind.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-05-22",
+   "series": "cattle",
+   "value": 1000,
+   "note": "Burnett's 1844 letter: \"a thousand herd of cattle\" at Elm Grove.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "people",
+   "value": 254,
+   "note": "Nesmith's roll at organization: men liable for guard duty only (16 and over). Women and children not counted.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "wagons",
+   "value": 111,
+   "note": "Nesmith's count as orderly sergeant at organization.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "people",
+   "value": 263,
+   "note": "Burnett's 1844 letter: \"two hundred and sixty-three men, all able to bear arms\" at organization.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "wagons",
+   "value": 110,
+   "note": "Burnett's 1844 letter: \"about one hundred and ten wagons\" at organization.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "people",
+   "value": 700,
+   "note": "Matthew Field (Picayune): \"six or eight hundred\" Oregonians assembled after crossing the Kansas; midpoint entered. He elsewhere says the company numbered \"about a thousand souls\".",
+   "source": "https://www.gutenberg.org/cache/epub/78187/pg78187.txt"
+  },
+  {
+   "date": "1843-06-01",
+   "series": "people",
+   "value": 800,
+   "note": "Barry: \"probably numbered upwards of 800 persons, with 110 wagons\" at Soldier Creek on 1 June.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-06-09",
+   "series": "wagons",
+   "value": 72,
+   "note": "Burnett's 1844 letter: Martin's (light) company after the split, \"about seventy-two wagons and one hundred and seventy-five men\".",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-06-09",
+   "series": "people",
+   "value": 175,
+   "note": "Men in Martin's company after the split (Burnett's 1844 letter).",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-06-09",
+   "series": "wagons",
+   "value": 60,
+   "note": "Applegate: \"There are sixty wagons\" in the cow column, in fifteen platoons of four.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+  },
+  {
+   "date": "1843-06-09",
+   "series": "cattle",
+   "value": 5000,
+   "note": "Applegate: \"five thousand animals\" gathered each morning by the cow column (cattle and horses).",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+  },
+  {
+   "date": "1843-06-18",
+   "series": "other",
+   "value": 271,
+   "note": "Miles from the rendezvous to the Platte, by Burnett's journal estimates.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "date": "1843-07-01",
+   "series": "people",
+   "value": 1,
+   "note": "Birth: a daughter to Mr. Stewart at Sleepy Grove (Nesmith). Value = births this day.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-07-05",
+   "series": "other",
+   "value": 460,
+   "note": "Miles from Independence to Sleepy Grove, as reckoned in Nesmith's camp.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-07-05",
+   "series": "people",
+   "value": 1000,
+   "note": "Whole-emigration total per Jesse Applegate (1877): \"over one thousand souls\", about 120 wagons, several thousand loose stock. Entered at the last date the whole body was near one place.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+  },
+  {
+   "date": "1843-07-05",
+   "series": "wagons",
+   "value": 120,
+   "note": "Whole-emigration wagons per Applegate (\"about one hundred and twenty\") and Tallmadge Wood's 1844 letter.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+  },
+  {
+   "date": "1843-07-05",
+   "series": "cattle",
+   "value": 2000,
+   "note": "Tallmadge B. Wood, letter of 1844: \"about two thousand head of cows, young cattle, & horses\" besides the teams. John Arthur (1887) says over 3,000; Barry allows 3,000 with estimates to 5,000.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "date": "1843-07-05",
+   "series": "people",
+   "value": 850,
+   "note": "Barry's reckoning of the final total: \"around 850 persons (although some claimed up to 1,000), with 120, or more, wagons\".",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-07-19",
+   "series": "other",
+   "value": 1,
+   "note": "Death: Joel Hembree, aged six, cow column (Newby). Cumulative deaths: 1.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-07-28",
+   "series": "wagons",
+   "value": 19,
+   "note": "Nesmith: the rear fragment left at Independence Rock after Martin went ahead, \"making in all nineteen wagons\".",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-07-31",
+   "series": "wagons",
+   "value": 13,
+   "note": "Nesmith: his company under Cooper leaving Independence Rock, \"thirteen wagons and thirty-one men\".",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-07-31",
+   "series": "people",
+   "value": 31,
+   "note": "Men in Nesmith's company leaving Independence Rock.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-08-04",
+   "series": "other",
+   "value": 2,
+   "note": "Death: Clayborne Payne, Martin's company, 3 a.m. (Nesmith); Newby says the 3rd. Cumulative deaths: 2.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-08-05",
+   "series": "other",
+   "value": 231,
+   "note": "Miles from Fort Laramie, by Nesmith's reckoning, near Rocky Ridge.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "date": "1843-08-06",
+   "series": "people",
+   "value": 1,
+   "note": "Birth: a daughter to Mrs. John Pennington, cow column (Newby). Value = births this day.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-08-09",
+   "series": "other",
+   "value": 3,
+   "note": "Death: Stevenson, of fever, Big Sandy (Burnett, Nesmith, Newby). Cumulative deaths: 3.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "date": "1843-08-13",
+   "series": "temperatureC",
+   "value": -3.1,
+   "note": "Frémont, a little before sunrise at his last Sweetwater camp below South Pass: 26.5°F; water froze in the lodge overnight. His party was six days behind Nesmith.",
+   "source": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "date": "1843-08-14",
+   "series": "other",
+   "value": 4,
+   "note": "Death: Catherine Carey, a child, at Fort Bridger (Newby 14th; Nesmith 15th). Cumulative deaths: 4.",
+   "source": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "date": "1843-08-21",
+   "series": "temperatureC",
+   "value": 18.3,
+   "note": "Frémont, sunset on Bear River near latitude 42° 03' 47\": 65°F, distant thunderstorm.",
+   "source": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "date": "1843-08-25",
+   "series": "temperatureC",
+   "value": 7.2,
+   "note": "Frémont, sunrise on Bear River above the Beer (Soda) Springs: 45°F, cloudless, smoky, cold south-east wind.",
+   "source": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "date": "1843-08-25",
+   "series": "temperatureC",
+   "value": 16.9,
+   "note": "Frémont, air at sunset at the Beer Springs camp: 62.5°F (spring water 65°F).",
+   "source": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "date": "1843-08-26",
+   "series": "temperatureC",
+   "value": -1.9,
+   "note": "Frémont, sunrise at the Beer Springs: 28.5°F, calm, smoky.",
+   "source": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "date": "1843-08-28",
+   "series": "people",
+   "value": 293,
+   "note": "Nesmith's roll of men over sixteen, as published in 1875 and checked by Burnett: 293 names, 267 reached Oregon, 6 died on the way, 5 turned back on the Platte, 15 went to California.",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "date": "1843-08-28",
+   "series": "other",
+   "value": 800,
+   "note": "Burnett's estimate of all persons who reached Oregon: \"not exceeding eight hundred\" (Judge Deady estimated 900 for the emigration).",
+   "source": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "The start",
+   "date": "1843-05-22",
+   "localTime": "15:00",
+   "text": "Burnett's wagons reach Elm Grove \"about 3 P. M.\" after the general start from the rendezvous.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Crossing the Kansas",
+   "date": "1843-05-26",
+   "localTime": null,
+   "text": "Nesmith and Burnett reach the Kansas River; Nesmith crosses on Papin's two-canoe platform and nearly drowns helping William Vaughn.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Crossing the Kansas",
+   "date": "1843-05-27",
+   "localTime": null,
+   "text": "A committee of three fails to hire Papin's platform; the emigrants start building their own from two canoes.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "Crossing the Kansas",
+   "date": "1843-05-28",
+   "localTime": null,
+   "text": "Papin's platform sinks with emigrant families aboard; all are saved.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "Crossing the Kansas",
+   "date": "1843-05-29",
+   "localTime": null,
+   "text": "The company begins ferrying on its own platform.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "Crossing the Kansas",
+   "date": "1843-05-31",
+   "localTime": null,
+   "text": "The last wagons are over and camp is made on Soldier (\"Black Warrior\") Creek.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "The election",
+   "date": "1843-06-01",
+   "localTime": null,
+   "text": "Candidates march off across the prairie and voters line up behind them; Burnett is elected captain, Nesmith orderly sergeant, with a council of nine.",
+   "sources": [
+    "https://www.gutenberg.org/cache/epub/78187/pg78187.txt",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Storm at the Big Blue",
+   "date": "1843-06-06",
+   "localTime": "22:00",
+   "text": "After an evening ford of the Big Blue a thunderstorm begins about 10 o'clock (Newby) and lasts till day, flooding the camp.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "The split",
+   "date": "1843-06-09",
+   "localTime": "12:00",
+   "text": "The weather clears about noon; the company camps at a grove and divides (Nesmith: four divisions; Burnett: Applegate's and Martin's companies).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "First buffalo",
+   "date": "1843-06-12",
+   "localTime": "12:00",
+   "text": "About 12:00 Nesmith sights a lone bull two miles north of the trail; Gantt, Nesmith and four others kill it with seven balls.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Reaching the Platte",
+   "date": "1843-06-18",
+   "localTime": null,
+   "text": "After 20–25 miles across the divide the light column reaches the Platte at the head of Grand Island at sundown.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-06-26",
+   "localTime": "12:00",
+   "text": "The company reaches the usual crossing about noon and finds it too high to ford.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-06-29",
+   "localTime": "09:00",
+   "text": "After a morning hunting a ford the train starts about 9:00, eats at 10:00 by an alkali pond, and reaches the cottonwood grove chosen for the crossing.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-06-30",
+   "localTime": null,
+   "text": "The skins of eight buffalo are packed in to cover wagon beds.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-07-01",
+   "localTime": null,
+   "text": "In the afternoon the first loads go over in hide-covered wagon bodies; Applegate and Whitman ride in that evening and a girl is born.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-07-02",
+   "localTime": null,
+   "text": "Crossing begins \"tolerably early\" in a cold south-west wind; part of the company gets over.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-07-04",
+   "localTime": null,
+   "text": "Most of the company spends the Fourth swimming cattle and fording wagons.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Crossing the South Platte",
+   "date": "1843-07-05",
+   "localTime": null,
+   "text": "The last wagons are hauled out by evening; a dance on the sandbar after dark.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Laramie",
+   "date": "1843-07-12",
+   "localTime": "12:00",
+   "text": "The cow column (Newby) reaches Fort Laramie \"a bout 12 oclock\", two days ahead of the light column.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Fort Laramie",
+   "date": "1843-07-13",
+   "localTime": "14:00",
+   "text": "Nesmith's company passes an old fort on the river bank about 2:00, then camps short of a Sioux village.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Laramie",
+   "date": "1843-07-14",
+   "localTime": "10:00",
+   "text": "The light column arrives about 10:00 and finds Chiles's and Applegate's companies there.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Laramie",
+   "date": "1843-07-14",
+   "localTime": null,
+   "text": "Ferrying of the swollen Laramie Fork goes on all afternoon and all night; the traders at Fort Platte give a ball in the evening.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Laramie",
+   "date": "1843-07-15",
+   "localTime": null,
+   "text": "The crossing is finished in the morning; the company lies by to repair wagons and trade.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Joel Hembree",
+   "date": "1843-07-18",
+   "localTime": null,
+   "text": "Joel Hembree falls from the wagon tongue and both wheels pass over him (Newby, cow column).",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Joel Hembree",
+   "date": "1843-07-19",
+   "localTime": null,
+   "text": "The cow column lies by; the boy dies \"about 2 oclock\" (Newby does not say morning or afternoon).",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Joel Hembree",
+   "date": "1843-07-20",
+   "localTime": "12:00",
+   "text": "The cow column buries him and cuts his name on a headstone; at noon Nesmith's advance guard reaches the fresh grave.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the North Platte",
+   "date": "1843-07-22",
+   "localTime": null,
+   "text": "The cow column fords in two channels with ropes and 30–40 men hauling from a sandbar (Newby).",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "Crossing the North Platte",
+   "date": "1843-07-23",
+   "localTime": "15:00",
+   "text": "About 3:00 Nesmith's company sees Applegate's column crossing a ridge beyond the river.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Crossing the North Platte",
+   "date": "1843-07-24",
+   "localTime": "12:00",
+   "text": "The light column reaches the ford about noon and drives across in the afternoon.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Independence Rock",
+   "date": "1843-07-27",
+   "localTime": null,
+   "text": "The light column reaches the Sweetwater (Burnett) after eight miles (Nesmith).",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Independence Rock",
+   "date": "1843-07-28",
+   "localTime": "10:00",
+   "text": "The cow column reaches the rock \"a bout 10 oclock\" and lies by (Newby); Nesmith returns from hunting in cold rain that evening.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Independence Rock",
+   "date": "1843-07-30",
+   "localTime": null,
+   "text": "After breakfast Nesmith and friends paint names on the south-east point of the rock.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Independence Rock",
+   "date": "1843-07-31",
+   "localTime": "11:00",
+   "text": "Nesmith's thirteen wagons leave the rock about 11:00 and reach Martin's company about 2:00.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Payne's death",
+   "date": "1843-08-04",
+   "localTime": "03:00",
+   "text": "Clayborne Payne dies at 3:00 in the morning in Martin's company.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Payne's death",
+   "date": "1843-08-04",
+   "localTime": "14:00",
+   "text": "About 2:00 in the afternoon a loud report and rumbling pass overhead in a clear sky (Nesmith); Newby saw a fireball \"at noon\".",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "episode": "South Pass",
+   "date": "1843-08-06",
+   "localTime": null,
+   "text": "Nesmith's company passes Applegate's camp and makes its last camp on the Sweetwater.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "South Pass",
+   "date": "1843-08-07",
+   "localTime": "12:00",
+   "text": "Six miles from the Sweetwater the company noons at the spring, then starts across the twenty-mile barren.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "South Pass",
+   "date": "1843-08-08",
+   "localTime": "09:00",
+   "text": "After hunting strayed cattle the company leaves its dry camp about 9:00 and reaches the Sandy.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Bridger",
+   "date": "1843-08-14",
+   "localTime": "12:00",
+   "text": "Newby's party reaches Fort Bridger at 12 o'clock; Burnett and most of Nesmith's company arrive the same day.",
+   "sources": [
+    "https://www.oregonpioneers.com/1843trip.htm",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Soda Springs",
+   "date": "1843-08-23",
+   "localTime": "12:00",
+   "text": "Frémont overtakes Nesmith's wagons in the morning; at noon Nesmith reaches a Snake village and buys a horse.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ]
+  },
+  {
+   "episode": "Soda Springs",
+   "date": "1843-08-24",
+   "localTime": "14:00",
+   "text": "Nesmith passes the Soda Springs about 2:00 and camps where the road leaves Bear River.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "episode": "Fort Hall",
+   "date": "1843-08-27",
+   "localTime": null,
+   "text": "Burnett arrives at Fort Hall, thirteen days from Fort Bridger.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "episode": "Fort Hall",
+   "date": "1843-08-28",
+   "localTime": null,
+   "text": "Nesmith arrives after twelve miles; his party stays until 1 September.",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1843-05-13",
+   "end": "1843-05-21",
+   "activity": "gathering",
+   "weather": "fine since 13 May (Burnett); late spring, grass short",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-05-22",
+   "end": "1843-05-25",
+   "activity": "on the prairie",
+   "weather": "clear and fine",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+   ]
+  },
+  {
+   "start": "1843-05-26",
+   "end": "1843-05-31",
+   "activity": "ferrying",
+   "weather": "Kansas River high; cold incessant rain on 29 May (Frémont, at the frontier)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ]
+  },
+  {
+   "start": "1843-06-01",
+   "end": "1843-06-05",
+   "activity": "on the prairie",
+   "weather": "hard rain night of 3 June; roads muddy",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ]
+  },
+  {
+   "start": "1843-06-06",
+   "end": "1843-06-08",
+   "activity": "laid by",
+   "weather": "thunderstorms and torrents of rain three nights running; camp flooded",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "start": "1843-06-09",
+   "end": "1843-06-17",
+   "activity": "on the prairie",
+   "weather": "cleared 9 June; roads wet and soft; showers 11, 15 and 17 June; otherwise fine and cool",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+   ]
+  },
+  {
+   "start": "1843-06-18",
+   "end": "1843-06-29",
+   "activity": "along the Platte",
+   "weather": "hard cold rain 21 June, then dry and sultry; brief hot wind 27 June; river very high",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "start": "1843-06-30",
+   "end": "1843-07-05",
+   "activity": "ferrying",
+   "weather": "cool; cold strong south-west wind 2 July; extremely warm and sultry 5 July",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-07-06",
+   "end": "1843-07-13",
+   "activity": "along the Platte",
+   "weather": "rain nights of 6 and 7 July; warm; thundercloud 9 July",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ]
+  },
+  {
+   "start": "1843-07-14",
+   "end": "1843-07-15",
+   "activity": "ferrying",
+   "weather": "Laramie Fork very high; hail storm after one party crossed (Johnson and Winter)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+   ]
+  },
+  {
+   "start": "1843-07-16",
+   "end": "1843-07-24",
+   "activity": "in the mountains",
+   "weather": null,
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-07-25",
+   "end": "1843-07-30",
+   "activity": "laid by",
+   "weather": "rain 27 July; very cold rain 28 July; calm and serene 30 July",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+   ]
+  },
+  {
+   "start": "1843-07-31",
+   "end": "1843-08-07",
+   "activity": "in the mountains",
+   "weather": "nights very cold, middle of the day very warm; cold enough for frost 4 August (Newby)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  },
+  {
+   "start": "1843-08-08",
+   "end": "1843-08-16",
+   "activity": "in the mountains",
+   "weather": "heavy frost and thin ice 12 August; dusty, smoky and hot days (Frémont)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+   ]
+  },
+  {
+   "start": "1843-08-17",
+   "end": "1843-08-28",
+   "activity": "in the mountains",
+   "weather": "dry and smoky; cool mornings, frost at Soda Springs 26 August (Frémont); no rain for five weeks before 29 August (Newby)",
+   "sources": [
+    "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+    "https://www.gutenberg.org/cache/epub/9294/pg9294.txt",
+    "https://www.oregonpioneers.com/1843trip.htm"
+   ]
+  }
+ ],
+ "dailyRoutine": "Jesse Applegate, \"A Day with the Cow Column in 1843\" (read 1876, printed 1877; OHQ vol. 1): at 4 a.m. the sentinels fire their rifles to end the night; by 5 the herders are closing in the stock and in about an hour \"five thousand animals\" are at the camp; 6 to 7 is breakfast, striking tents, loading and yoking; at 7 a trumpet sounds and the leading platoon of four wagons moves out, platoons taking the lead in rotation, and anyone not ready falls to the dusty rear. The pilot chooses a nooning place about five hours on; teams are turned loose in the yokes but no corral is formed, the wagons standing four abreast. At 1 p.m. the bugle sounds and the march resumes until near sunset, when the pilot leads the wagons round a circle he has paced out; within ten minutes the corral (about 100 yards across, wagons chained tongue to tail) is closed and the teams are out at grass. The watch is set at 8 p.m. in four reliefs and ends at 4 a.m.; the men are in three companies, each standing guard every third night. Nesmith's diary for the light column agrees on the morning: departures \"about 8:00 o'clock\" on 10 and 11 June, a late start at 10:00 after a bad creek crossing on 12 June, 9:00 on 29 June and 8 August. Burnett adds that on the Platte drivers and oxen dozed on the road in the afternoon. Source: https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843 ; https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843",
+ "bibliography": [
+  {
+   "short": "Nesmith",
+   "citation": "James W. Nesmith, \"Diary of the Emigration of 1843,\" Oregon Historical Quarterly 7, no. 4 (December 1906): 329–359. Transcribed on Wikisource.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+  },
+  {
+   "short": "Burnett, Recollections",
+   "citation": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (New York: D. Appleton, 1880), ch. 3; reprinted in Oregon Historical Quarterly 5 (1904): 64 ff.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+  },
+  {
+   "short": "Burnett, Letters",
+   "citation": "Peter H. Burnett, letters from Linnton, Oregon, 1844, printed in the New York Herald, December 1844–January 1845; reprinted in \"Documents,\" Oregon Historical Quarterly 3 (1902): 398–426. The same \"Documents\" section prints Tallmadge B. Wood's letter of April 1844.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+  },
+  {
+   "short": "Applegate",
+   "citation": "Jesse Applegate, \"A Day with the Cow Column in 1843,\" Transactions of the Oregon Pioneer Association (1876/1877); reprinted in Oregon Historical Quarterly 1, no. 4 (December 1900): 371–383.",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+  },
+  {
+   "short": "Johnson & Winter",
+   "citation": "Overton Johnson and William H. Winter, Route Across the Rocky Mountains, with a Description of Oregon and California (Lafayette, Ind.: John B. Semans, 1846), ch. 1; reprinted in Oregon Historical Quarterly 7 (1906).",
+   "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+  },
+  {
+   "short": "Newby (abstracts)",
+   "citation": "William T. Newby, \"Diary of the Emigration of 1843,\" ed. Harry N. M. Winton, Oregon Historical Quarterly 40, no. 3 (September 1939): 219–242. Read here only through the dated abstracts in Stephenie Flora, \"The Emigration to the Oregon Country in 1843,\" oregonpioneers.com, which also abstracts Louise Barry, The Beginning of the West (1972), John Arthur (Trans. Oregon Pioneer Assn., 1887), John B. McClane, Ninevah Ford and Alexander Blevins.",
+   "url": "https://www.oregonpioneers.com/1843trip.htm"
+  },
+  {
+   "short": "Frémont",
+   "citation": "John C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843–'44 (Washington, 1845). Project Gutenberg text no. 9294.",
+   "url": "https://www.gutenberg.org/cache/epub/9294/pg9294.txt"
+  },
+  {
+   "short": "Field / Picayune",
+   "citation": "[Matthew C. Field], \"Prairie and Mountain Life—The Oregon Emigrants,\" New Orleans Picayune, 21 November 1843; reprinted as \"Document,\" Oregon Historical Quarterly 1, no. 4 (December 1900): 398–401 (the reprint's heading misprints the year as 1848). Project Gutenberg text no. 78187.",
+   "url": "https://www.gutenberg.org/cache/epub/78187/pg78187.txt"
+  },
+  {
+   "short": "NPS Kansas crossing",
+   "citation": "National Park Service, \"Kansas River Crossing and Pappin's Ferry,\" Oregon National Historic Trail places page (ferry-site coordinates).",
+   "url": "https://www.nps.gov/places/kansas-river-crossing-and-pappins-ferry.htm"
+  },
+  {
+   "short": "WyoHistory La Prele",
+   "citation": "Randy Brown, \"La Prele Creek Crossing,\" WyoHistory.org (Wyoming Historical Society): identifies the 1843 \"Squaw Butte Creek\" as La Prele Creek and quotes Pierson B. Reading's diary on the Hembree grave.",
+   "url": "https://www.wyohistory.org/encyclopedia/la-prele-creek-crossing"
+  },
+  {
+   "short": "OCTA Hembree",
+   "citation": "Oregon-California Trails Association, \"Joel Hembree\" (people and places page). The page refused automated fetching; only its search-result summary was seen.",
+   "url": "https://octa-trails.org/people-places/joel-hembree"
+  }
+ ],
+ "corrections": [
+  "The emigration did not travel as one train. It was a single company for only eight days (1–8 June). From 9 June it moved as two columns a few miles to two days apart, with the California wagons as a third camp; at Independence Rock (28 July) the light column itself split, and from there it was a string of small parties. Any single date for \"the migration\" at a landmark is one diarist's party.",
+  "Marcus Whitman did not lead or pilot the train from Missouri. The hired pilot to Fort Hall was John Gantt. Whitman left the frontier late, overtook the cow column on the Little Blue on 17 June (Newby), travelled mostly with Applegate's company as doctor and adviser, and became the guide only from Fort Hall. The 1906 OHQ editor's note that the emigration \"was to be led across the plains to Oregon by Dr. Marcus Whitman\" was challenged in the Quarterly itself.",
+  "Burnett was not elected at the start. The rules adopted on 20 May postponed the election to the Kansas River; he was elected on 1 June at Soldier Creek and resigned on 8 June. Nesmith's diary records the 18 May meeting with Burnett only as its secretary; a later reading of that entry as an election on 18 May is wrong. Blevins's recollection that Burnett was chosen at Westport, and that the start was in April, is also wrong.",
+  "The \"light column / cow column\" division was made on 9 June, a day's travel beyond the Big Blue crossing, after three nights of storms, not at the crossing itself. Burnett resigned on the 8th; the companies re-formed on the 9th when the weather cleared (Nesmith, Burnett's 1844 letter).",
+  "The priests met at the Kansas crossing are named by Burnett in 1880 as \"Fathers De Smet and De Vos\". His 1844 letter says only \"two Catholic missionaries to the Flathead Indians\". De Smet was not on the plains in 1843; the party was Father Peter De Vos's (with Father Adrian Hoecken, per the standard histories). I could not open Barry's annals to confirm the second name, so the JSON says \"two Catholic missionaries\".",
+  "The South Platte was not crossed at the later \"California Crossing\" with a descent into Ash Hollow. The 1843 wagons went 45 miles above the usual ford looking for low water, crossed at a cottonwood grove about 85 miles above the forks (Johnson and Winter) and 173 miles above the head of Grand Island (Burnett), near present Julesburg, and reached the North Platte about 36 miles below Courthouse Rock (Burnett's table), which is above Ash Hollow. None of the 1843 sources read here mentions Ash Hollow.",
+  "Fort Laramie in 1843 was two rival adobe posts a mile apart: the American Fur Company's Fort Laramie (Fort John) and Fort Platte. The ball of 14 July was given at Fort Platte. The river ferried there was Laramie Fork, not the North Platte.",
+  "Joel Hembree was hurt on 18 July, died on the 19th and was buried on the 20th (Newby, who was in the same company). 18 July is the accident, not the death. Nesmith calls it \"the first death that has occurred on the expedition\"; Clayborne Payne (4 August) was the first adult death, not the first death.",
+  "Nesmith's \"Blue River\" from 9 to 17 June is the Little Blue (Burnett calls it the \"Republican Fork of Blue\"); Nesmith's \"Squaw Butte Creek\" is La Prele Creek; his \"Big Rock Creek\" and \"Deer Creek\" of 19 July are not the creeks that later carried those names.",
+  "Whitman's famous \"Travel, travel, travel\" is Applegate's recollection written more than thirty years later, and the printed text has it in lower case (\"Travel, travel, travel; nothing else will take you to the end of your journey\"); it is often quoted with the last word capitalised."
+ ],
+ "openQuestions": [
+  "Size of the emigration. Counted at the time: Nesmith 254 men and 111 wagons, Burnett 263 men and about 110 wagons (both 1 June, men only). Estimates of everyone: Field \"six or eight hundred\" at the Kansas and \"about a thousand souls\" in all; Applegate \"over one thousand souls\" and about 120 wagons; Wood 120 wagons and 2,000 loose stock; Arthur 1,000 people and 3,000 loose stock; Applegate 5,000 animals in the cow column alone; Burnett not more than 800 arriving in Oregon; Deady 900; Barry about 850 people and perhaps 3,000 animals. J. M. Shively's full list made at the Kansas crossing is lost.",
+  "Start date. Nesmith has some wagons leaving on Sunday 21 May and reaching Elm Grove on the 22nd (about 10 miles that day); Burnett has \"a general start\" on the 22nd and 15 miles to Elm Grove. Barry gives 21 and 22 May. Burnett also gives the rendezvous as 12 miles (1880) and 20 miles (1844) from Independence.",
+  "Elm Grove: Nesmith saw \"one old elm stump\"; Burnett saw two elms, one trimmed of its branches.",
+  "War party: Burnett's Recollections date the meeting with the Kansa and Osage warriors to 6 June; his 1844 letter places it on the morning after the storm (7 June).",
+  "Why Burnett resigned: \"in consequence of ill health\" (1844 letter) versus the impossibility of governing so large a body (1880 Recollections). How the company divided on 9 June: Nesmith says \"four divisions\"; Burnett says two companies, Applegate's and Martin's.",
+  "Council size: Burnett and the rules say nine; Field says a council of ten. Committee to draft rules on 18 May: nine (Nesmith) or five (Burnett).",
+  "Distance to the Platte on 18 June: about 20 miles (Nesmith), 25 (Burnett 1844), 25 to 30 (Burnett 1880).",
+  "Buffalo that ran the wagon line on 27 June: five bulls (Nesmith) or seven (Burnett); both say three killed.",
+  "Length of the South Platte crossing: 1–5 July (Burnett, Nesmith), \"six days\" (Johnson and Winter), \"eight days\" (Arthur, probably counting from arrival on 29 June). Number of hide boats: three (Burnett) or two (Newby, for the cow column, which crossed eight miles below).",
+  "Where exactly the South Platte crossing (\"Sleepy Grove\") and the North Platte strike were. The coordinates given are mileage reconstructions and could be off by 10 to 15 miles. Nesmith says the company went \"seven miles down the river\" after crossing before turning north; Burnett gives 29 to 31 miles from the crossing to the North Fork against Nesmith's 25.",
+  "Fort Laramie arrival: 12 July about noon (Newby, cow column), 13 July (Johnson and Winter's party), 14 July about 10:00 (Nesmith, Burnett). These are different parties, not a contradiction. Fort Laramie prices: Burnett lists coffee and sugar at $1.50 a pint; Frémont, speaking of 1842, has them at a dollar a pound.",
+  "Hembree: Newby says he died \"about 2 oclock\" on the 19th without saying morning or afternoon. Nesmith gives his age as six; Arthur, from memory, \"four or five\". The exact original grave site and its coordinates were not confirmed (OCTA page not readable); the row is placed at the La Prele Creek crossing.",
+  "North Platte ford: Nesmith and Burnett 24 July, 122 miles from Fort Laramie; Johnson and Winter 23 July and 127 miles; Newby (cow column) 22 July. The site is placed at Casper by mileage only.",
+  "Payne: Nesmith and Burnett say he died on 4 August (Nesmith: 3:00 a.m.); Newby heard it was the 3rd. Burnett says fever, Nesmith \"inflamation of the bowels\". His first name (Clayborne) comes from the task brief and trail literature, not from the diaries read. The fireball the same day: about 2 p.m. (Nesmith) or noon (Newby).",
+  "South Pass: Nesmith crossed on 7 August; Burnett says \"on the 5th, 6th and 7th we crossed the summit\". Nesmith's entry for 8 August says they travelled \"until about 2:00 o'clock a. m.\" for ten miles, which is probably a misprint for p.m.",
+  "Carey child: Newby has her die on 14 August and be buried on the 15th; Nesmith has \"died yesterday and was buried this morning\" under 16 August.",
+  "Bear River and Fort Hall: Burnett reached Bear River on the 17th, Soda Springs on the 22nd and Fort Hall on the 27th; Nesmith reached them on the 20th, 24th and 28th; Newby reached Soda Springs on the 24th. Nesmith's printed heading \"Tuesday, August 17\" should read Thursday.",
+  "Not consulted directly: Theodore Talbot's journals, Pierson B. Reading's journal (one sentence seen via WyoHistory), John Boardman's journal (the University of Utah copy refused connections), Edward Lenox's Overland to Oregon, Whitman's own letters, and the full Newby diary (JSTOR). Nothing in the JSON is attributed to Talbot, Boardman, Lenox or Whitman's letters.",
+  "Fort Bridger \"newly built\" in 1843 is from the task brief and general histories; the 1843 sources read here call it only Vasquez and Bridger's \"small Trading Post\" (Johnson and Winter) and do not describe its state."
+ ]
+}

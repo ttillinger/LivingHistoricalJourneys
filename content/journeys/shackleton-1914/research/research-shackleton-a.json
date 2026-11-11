@@ -1,0 +1,4598 @@
+{
+ "itinerary": [
+  {
+   "date": "1914-08-05",
+   "localTime": "18:00",
+   "place": "Plymouth, England",
+   "lat": 50.3667,
+   "lon": -4.15,
+   "event": "arrives",
+   "note": "Worsley's log: 'Arr: Plym.h 6 P.M. 5th Aug.' after leaving London (South West India Dock) on 1 Aug and calling at Southend, Margate and Eastbourne. Coordinates are the modern position of Plymouth Sound, not from the log.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-08-08",
+   "localTime": null,
+   "place": "Cawsand Bay, off Plymouth",
+   "lat": 50.33,
+   "lon": -4.19,
+   "event": "at",
+   "note": "Anchored in Cawsand Bay in thick weather and a south-west gale (Worsley's log). Coordinates are the modern position of the bay.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-08-08",
+   "localTime": "12:00",
+   "place": "Plymouth, England",
+   "lat": 50.3667,
+   "lon": -4.15,
+   "event": "departs",
+   "note": "Worsley's log: 'Left Plymouth Noon Aug: 8th Sir Ernest landed in Admirals barge'. Shackleton did not sail; he followed by steamer to Buenos Aires. South (Preface) gives only the date, Saturday 8 Aug.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-08-09",
+   "localTime": "04:00",
+   "place": "Cawsand Bay, off Plymouth",
+   "lat": 50.33,
+   "lon": -4.19,
+   "event": "departs",
+   "note": "Worsley's log: '9th Aug 4 a.m. proceeded on voyage ... against mod. SW gale'. Lizard abeam 2.30 p.m., Wolf Rock 7.53 p.m., departure taken off St Mary's, Scilly, 10.25 p.m.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-08-10",
+   "localTime": "10:35",
+   "place": "Western Approaches",
+   "lat": 48.4667,
+   "lon": -6.9333,
+   "event": "position",
+   "note": "Worsley's log: '10.35 a.m. 48 28 N. 6 56 W.' (surface temperature and tow-net station).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-08-20",
+   "localTime": "20:00",
+   "place": "North-east of Madeira",
+   "lat": 33.9,
+   "lon": -15.05,
+   "event": "position",
+   "note": "Latitude 33 54 N by Polaris on the evening of 20 Aug, about 120 nautical miles from the Madeira waypoint (Bergman & Stuart 2019). LONGITUDE IS MY ESTIMATE from that distance, not a logged value; clock time approximate ('evening').",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1914-08-21",
+   "localTime": null,
+   "place": "Funchal, Madeira",
+   "lat": 32.6333,
+   "lon": -16.9,
+   "event": "arrives",
+   "note": "Position of the anchorage from Worsley's log ('Funchal anchorage 32 38 N 16 54 W'). No log entries 21-25 Aug 'while the ship was in Madeira'; the arrival day (21st) is inferred from that gap, not stated.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-08-24",
+   "localTime": null,
+   "place": "Funchal, Madeira",
+   "lat": 32.6333,
+   "lon": -16.9,
+   "event": "at",
+   "note": "Short 54-nautical-mile side trip to the Desertas Islands and back to the Funchal anchorage (leg table in Worsley's log).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-08-25",
+   "localTime": null,
+   "place": "Funchal, Madeira",
+   "lat": 32.6333,
+   "lon": -16.9,
+   "event": "departs",
+   "note": "'The expedition departed Madeira on the 25 August' (Bergman & Stuart 2019 from Worsley's log).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-08-26",
+   "localTime": null,
+   "place": "North of the Salvages (Selvagens) Islands",
+   "lat": 30.97,
+   "lon": -15.9,
+   "event": "position",
+   "note": "Double-altitude fix on 26 Aug 'about 50 NM north of the Salvages Islands and about 150 NM from Tenerife'. Coordinates are my conversion of that description, not printed figures.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1914-08-27",
+   "localTime": null,
+   "place": "Santa Cruz de Tenerife, Canary Islands",
+   "lat": 28.47,
+   "lon": -16.25,
+   "event": "arrives",
+   "note": "Call at Tenerife (Santa Cruz) confirmed by Worsley's waypoint list; arrival day is inferred (150 NM out on the 26th) and not stated in the sources I could read. Modern port coordinates.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1914-08-30",
+   "localTime": null,
+   "place": "Santa Cruz de Tenerife, Canary Islands",
+   "lat": 28.47,
+   "lon": -16.25,
+   "event": "departs",
+   "note": "'They departed the Canary Islands on 30 August' (Bergman & Stuart 2019).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-09-05",
+   "localTime": "12:00",
+   "place": "Off St Vincent (Sao Vicente), Cape Verde Islands",
+   "lat": 16.8667,
+   "lon": -25.0833,
+   "event": "position",
+   "note": "Noon position 16 52 N 25 5 W in Worsley's log; Orde-Lees's diary: 'At noon we passed St. Vincent Island ... about 100 yds. off the mouth of the harbour'. No call was made.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-10-03",
+   "localTime": "12:00",
+   "place": "Off southern Brazil",
+   "lat": -31.65,
+   "lon": -50.45,
+   "event": "position",
+   "note": "Observed latitude 31 39 S with 'Long by Soundg' 50 27 W, about 32 NM off the coast (Worsley's log).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-10-09",
+   "localTime": null,
+   "place": "Buenos Ayres, Argentina",
+   "lat": -34.6,
+   "lon": -58.37,
+   "event": "arrives",
+   "note": "'Endurance stopped in Buenos Aires from 9 to 26 October during which time the ship's chronometers were rated.' Some popular accounts add a call at Montevideo; Worsley's leg list as summarised by Bergman & Stuart does not show one. Modern port coordinates.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-10-26",
+   "localTime": null,
+   "place": "Buenos Ayres, Argentina",
+   "lat": -34.6,
+   "lon": -58.37,
+   "event": "departs",
+   "note": "South, Preface: 'on October 26 we sailed from that port for South Georgia'. Shackleton, Hurley, the dogs, Bakewell and the stowaway Blackborow joined here.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-11-02",
+   "localTime": "12:00",
+   "place": "South Atlantic, north-west of South Georgia",
+   "lat": -47.8567,
+   "lon": -44.7367,
+   "event": "position",
+   "note": "Double-altitude fix worked in Worsley's log for 2 Nov 1914 (47 51.4 S, 44 44.2 W), replicated by Bergman & Stuart 2019, Table 3. Time is nominal (forenoon sights).",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-11-05",
+   "localTime": null,
+   "place": "Grytviken (King Edward Cove, Cumberland Bay), South Georgia",
+   "lat": -54.28,
+   "lon": -36.51,
+   "event": "arrives",
+   "note": "South, Appendix I (Clark): 'The Endurance reached South Georgia on November 5, 1914, and anchored in King Edward Cove, Cumberland Bay, off Grytviken'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-05",
+   "localTime": "08:45",
+   "place": "Grytviken, South Georgia",
+   "lat": -54.28,
+   "lon": -36.51,
+   "event": "departs",
+   "note": "South ch. I: 'I gave the order to heave anchor at 8.45 a.m. on December 5, 1914'. Course then round Cooper Island (54 46 S 35 32 W in Worsley's log) for the South Sandwich group.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-07",
+   "localTime": "18:00",
+   "place": "Between Sanders (Saunders) Island and Candlemas, South Sandwich Group",
+   "lat": -57.45,
+   "lon": -26.55,
+   "event": "position",
+   "note": "South ch. I: passed between Sanders Island and Candlemas at 6 p.m.; noon latitude that day 57 26 S (no longitude printed). Coordinates are the mid-channel between the two islands on a modern chart. Heavy pack met two hours later, 15 miles NE of Sanders Island.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-12-09",
+   "localTime": "16:30",
+   "place": "Edge of the pack, Weddell Sea",
+   "lat": -58.45,
+   "lon": -22.1333,
+   "event": "position",
+   "note": "South ch. I: 'at 4.30 p.m. we encountered the edge of pack-ice in lat. 58 27 S., long. 22 08 W.'",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-10",
+   "localTime": "12:00",
+   "place": "Weddell Sea",
+   "lat": -58.4667,
+   "lon": -20.4667,
+   "event": "position",
+   "note": "Noon position printed in South ch. I.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-11",
+   "localTime": "08:00",
+   "place": "Weddell Sea pack",
+   "lat": -59.7667,
+   "lon": -18.3667,
+   "event": "position",
+   "note": "South ch. I: 'till 8 a.m. on the 11th, when we entered the pack in lat. 59 46 S., long. 18 22 W.'",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-12",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -60.4333,
+   "lon": -17.9667,
+   "event": "position",
+   "note": "Noon position printed in South ch. I; run 33 miles.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-15",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -61.5167,
+   "lon": -18.2,
+   "event": "position",
+   "note": "Noon position printed in South ch. I (hove to against a floe in a SW gale).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-17",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -62.2167,
+   "lon": -18.8833,
+   "event": "position",
+   "note": "Noon position printed in South ch. I; run 32 miles SW.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-18",
+   "localTime": null,
+   "place": "Weddell Sea pack",
+   "lat": -62.7,
+   "lon": -18.2333,
+   "event": "position",
+   "note": "Sounding No. 1 in Wordie's table (2810 fathoms, 'very doubtful'), position by dead reckoning from the noon fix. South gives the same sounding on this day.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-12-20",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -62.7,
+   "lon": -17.9,
+   "event": "position",
+   "note": "Noon position printed in South ch. I (moored to a floe; drifted about six miles NE).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-24",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -64.5333,
+   "lon": -17.2833,
+   "event": "position",
+   "note": "Noon position printed in South ch. I; run 70 miles.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-26",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -65.7167,
+   "lon": -17.6,
+   "event": "position",
+   "note": "Noon position printed in South ch. I; same figures in Wordie's sounding table (2819 fathoms).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1914-12-30",
+   "localTime": "23:00",
+   "place": "Antarctic Circle, Weddell Sea",
+   "lat": -66.55,
+   "lon": -16.3,
+   "event": "position",
+   "note": "South ch. I: 'at 11 p.m. we crossed the Antarctic Circle'. Latitude is the Circle; longitude is interpolated toward the next noon fix (15 52 W), not printed.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1914-12-31",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -66.7833,
+   "lon": -15.8667,
+   "event": "position",
+   "note": "Noon position printed in South ch. I; run 51 miles S 29 E. Ship jammed between floes about noon and heeled six degrees.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-02",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -69.8167,
+   "lon": -15.7,
+   "event": "position",
+   "note": "Noon position printed in South ch. II; run 124 miles S 3 W.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-03",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -69.9833,
+   "lon": -17.5167,
+   "event": "position",
+   "note": "Position printed in South ch. II for the floe under the lee of a 120-ft berg where the ship made fast about midday on 3 Jan.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-05",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -70.4667,
+   "lon": -20.2667,
+   "event": "position",
+   "note": "Noon position printed in South ch. II; run 62 miles S 62 W.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-06",
+   "localTime": null,
+   "place": "Weddell Sea pack",
+   "lat": -70.7333,
+   "lon": -21.4167,
+   "event": "position",
+   "note": "Sounding No. 3 in Wordie's table (2400 fathoms), ship moored to a floe; position by dead reckoning. Lies about 16 miles south of what South's narrative implies for this mooring, so treat as approximate.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-08",
+   "localTime": "12:00",
+   "place": "Weddell Sea pack",
+   "lat": -70,
+   "lon": -19.15,
+   "event": "position",
+   "note": "Noon position printed in South ch. II; 66 miles made to the north-east.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-10",
+   "localTime": "12:00",
+   "place": "Off Coats Land",
+   "lat": -72.0333,
+   "lon": -16.1167,
+   "event": "position",
+   "note": "Noon position printed in South ch. II (run 136 miles S 6 E after 100 miles of open water); also in Wordie.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-10",
+   "localTime": "23:45",
+   "place": "Barrier edge, Coats Land",
+   "lat": -72.7167,
+   "lon": -18.7833,
+   "event": "position",
+   "note": "Wordie sounding No. 5 'Barrier edge only about 100 yards distant'; South: 'shortly before midnight she broke into a lead of open sea along a barrier-edge' and sounded 210 fathoms no bottom. Clock time approximate.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-11",
+   "localTime": "12:00",
+   "place": "Off Coats Land barrier",
+   "lat": -73.2167,
+   "lon": -20.7167,
+   "event": "position",
+   "note": "Noon position printed in South ch. II (sounding 155 fathoms). Wordie's table gives 73 20 S 20 55 W for the same sounding.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-12",
+   "localTime": "12:00",
+   "place": "Off Coats Land barrier",
+   "lat": -74.0667,
+   "lon": -22.8,
+   "event": "position",
+   "note": "Noon position printed in South ch. II (three soundings, 95/128/103 fathoms). Wordie's table puts them at 74 06-74 10 S, 22 51-23 02 W. Beyond the Scotia's farthest from here.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-13",
+   "localTime": "16:00",
+   "place": "Off the Stancomb Wills Promontory, Caird Coast",
+   "lat": -74.0333,
+   "lon": -26.2,
+   "event": "position",
+   "note": "Wordie sounding No. 11 (676 fathoms, no bottom): 'Stancomb Wills Promontory bore E. 2.5 miles'. South: at 4 p.m. reached a corner where the barrier receded abruptly SE; moored to a floe. I have attached the 4 p.m. time to Wordie's position; the pairing is my inference.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-14",
+   "localTime": "12:00",
+   "place": "Off the Caird Coast",
+   "lat": -74.15,
+   "lon": -27.2667,
+   "event": "position",
+   "note": "Noon position printed in South ch. II (ship not moved on the 14th; sounding 1357 fathoms). Wordie: 74 10 S 27 21 W.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-15",
+   "localTime": "19:00",
+   "place": "Off the Caird Coast barrier",
+   "lat": -75.0333,
+   "lon": -25.4167,
+   "event": "position",
+   "note": "Wordie sounding No. 13 (268 fathoms); South: held up by pack against the barrier at 7 p.m., 'got 268 fathoms'.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-15",
+   "localTime": "23:45",
+   "place": "'Glacier Bay', Caird Coast",
+   "lat": -75.3333,
+   "lon": -26.6833,
+   "event": "position",
+   "note": "Wordie sounding No. 14 on 15 Jan. South places Glacier Bay 'shortly before midnight on the 15th' but prints 80 fathoms where Wordie's table has 120, so the match of this position to Glacier Bay is probable, not certain.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-16",
+   "localTime": "12:00",
+   "place": "Off the Caird Coast (later Dawson-Lambton Glacier)",
+   "lat": -76.45,
+   "lon": -28.85,
+   "event": "position",
+   "note": "Noon position printed in South ch. II; 124 miles SW in 24 hours; held up 8.30 a.m. by solid pack; sheltered behind a stranded berg through the gale of 16-17 Jan.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-19",
+   "localTime": "08:00",
+   "place": "Weddell Sea, off Luitpold Coast",
+   "lat": -76.5667,
+   "lon": -31.5,
+   "event": "position",
+   "note": "BESET. South ch. II: 'Our position on the morning of the 19th was lat. 76 34 S., long. 31 30 W.' Worsley's log for 19 Jan: 'Fast in pack. ... To Vahsel Bucht S31W. 85m.' Wordie: 76 34 S 31 27 W. Clock time nominal ('morning').",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-20",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.65,
+   "lon": -32.1333,
+   "event": "position",
+   "note": "Daily noon position (76 39 S, 32 08 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-21",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.7333,
+   "lon": -32.75,
+   "event": "position",
+   "note": "Daily noon position (76 44 S, 32 45 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8167,
+   "lon": -33.3667,
+   "event": "position",
+   "note": "Daily noon position (76 49 S, 33 22 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-24",
+   "localTime": "12:00",
+   "place": "Beset, Weddell Sea",
+   "lat": -76.8167,
+   "lon": -33.85,
+   "event": "position",
+   "note": "Printed in South ch. II ('The position to-day was 76 49 S., 33 51 W.'). Wordie's adjusted longitudes for 22 and 25 Jan are 33 22 and 33 36 W, so this figure is about 4 miles west of the corrected track.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-01-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8,
+   "lon": -33.6,
+   "event": "position",
+   "note": "Daily noon position (76 48 S, 33 36 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8333,
+   "lon": -33.95,
+   "event": "position",
+   "note": "Daily noon position (76 50 S, 33 57 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-27",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8333,
+   "lon": -34.0333,
+   "event": "position",
+   "note": "Daily noon position (76 50 S, 34 02 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.7667,
+   "lon": -34.0833,
+   "event": "position",
+   "note": "Daily noon position (76 46 S, 34 05 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-01-29",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.7833,
+   "lon": -34.2,
+   "event": "position",
+   "note": "Daily noon position (76 47 S, 34 12 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-01",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8167,
+   "lon": -34.5167,
+   "event": "position",
+   "note": "Daily noon position (76 49 S, 34 31 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-03",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8333,
+   "lon": -34.7833,
+   "event": "position",
+   "note": "Daily noon position (76 50 S, 34 47 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8833,
+   "lon": -34.6333,
+   "event": "position",
+   "note": "Daily noon position (76 53 S, 34 38 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-06",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8833,
+   "lon": -34.8,
+   "event": "position",
+   "note": "Daily noon position (76 53 S, 34 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-07",
+   "localTime": "12:00",
+   "place": "Beset, Weddell Sea",
+   "lat": -76.95,
+   "lon": -35.1167,
+   "event": "position",
+   "note": "Printed in South ch. II. Wordie's corrected noon positions for 6 and 8 Feb are 76 53 S 34 48 W and 76 55 S 35 01 W.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-02-08",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.9167,
+   "lon": -35.0167,
+   "event": "position",
+   "note": "Daily noon position (76 55 S, 35 01 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-13",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8333,
+   "lon": -35.3,
+   "event": "position",
+   "note": "Daily noon position (76 50 S, 35 18 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-19",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.9167,
+   "lon": -34.9,
+   "event": "position",
+   "note": "Daily noon position (76 55 S, 34 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-02-22",
+   "localTime": "12:00",
+   "place": "Beset, Weddell Sea - farthest south",
+   "lat": -76.9667,
+   "lon": -35,
+   "event": "position",
+   "note": "FARTHEST SOUTH. South ch. II: 'On the 22nd the Endurance reached the farthest south point of her drift, touching the 77th parallel of latitude in long. 35 W.' The usually quoted figure is 76 58 S (Wikipedia; RGS timeline says '77 deg S'); I have used 76 58 S, 35 00 W. See openQuestions for Clark's conflicting figure.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-03-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8833,
+   "lon": -35.9,
+   "event": "position",
+   "note": "Daily noon position (76 53 S, 35 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-14",
+   "localTime": "12:00",
+   "place": "Beset, Weddell Sea",
+   "lat": -76.9,
+   "lon": -36.1667,
+   "event": "position",
+   "note": "Noon position printed in South ch. III; land faintly visible about 36 miles SE.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-18",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.8833,
+   "lon": -37.2833,
+   "event": "position",
+   "note": "Daily noon position (76 53 S, 37 17 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.6167,
+   "lon": -38.25,
+   "event": "position",
+   "note": "Daily noon position (76 37 S, 38 15 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-23",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.6167,
+   "lon": -38.3667,
+   "event": "position",
+   "note": "Daily noon position (76 37 S, 38 22 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Latitude minutes illegible in the scan ('76 3;'); 37 assumed from the neighbouring days (76 37 and 76 36).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-03-24",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.6,
+   "lon": -38.3667,
+   "event": "position",
+   "note": "Daily noon position (76 36 S, 38 22 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.5333,
+   "lon": -38.6167,
+   "event": "position",
+   "note": "Daily noon position (76 32 S, 38 37 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.45,
+   "lon": -38.7167,
+   "event": "position",
+   "note": "Daily noon position (76 27 S, 38 43 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-27",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.3667,
+   "lon": -38.8333,
+   "event": "position",
+   "note": "Daily noon position (76 22 S, 38 50 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-03-31",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.3,
+   "lon": -38.3833,
+   "event": "position",
+   "note": "Daily noon position (76 18 S, 38 23 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-02",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.2833,
+   "lon": -38.4,
+   "event": "position",
+   "note": "Daily noon position (76 17 S, 38 24 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-03",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.2833,
+   "lon": -38.5667,
+   "event": "position",
+   "note": "Daily noon position (76 17 S, 38 34 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.15,
+   "lon": -38.5,
+   "event": "position",
+   "note": "Daily noon position (76 09 S, 38 30 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.15,
+   "lon": -38.7167,
+   "event": "position",
+   "note": "Daily noon position (76 09 S, 38 43 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-06",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.2,
+   "lon": -39.0667,
+   "event": "position",
+   "note": "Daily noon position (76 12 S, 39 04 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-07",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.3,
+   "lon": -39.8,
+   "event": "position",
+   "note": "Daily noon position (76 18 S, 39 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-09",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.4833,
+   "lon": -40.2333,
+   "event": "position",
+   "note": "Daily noon position (76 29 S, 40 14 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-10",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.45,
+   "lon": -40.15,
+   "event": "position",
+   "note": "Daily noon position (76 27 S, 40 09 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-11",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.4,
+   "lon": -40.05,
+   "event": "position",
+   "note": "Daily noon position (76 24 S, 40 03 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-12",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.2333,
+   "lon": -39.2333,
+   "event": "position",
+   "note": "Daily noon position (76 14 S, 39 14 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-13",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.0667,
+   "lon": -39.3333,
+   "event": "position",
+   "note": "Daily noon position (76 04 S, 39 20 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-14",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.9833,
+   "lon": -39.2167,
+   "event": "position",
+   "note": "Daily noon position (75 59 S, 39 13 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-15",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.9,
+   "lon": -39.2667,
+   "event": "position",
+   "note": "Daily noon position (75 54 S, 39 16 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-16",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.9167,
+   "lon": -39.5167,
+   "event": "position",
+   "note": "Daily noon position (75 55 S, 39 31 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-17",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.95,
+   "lon": -39.6833,
+   "event": "position",
+   "note": "Daily noon position (75 57 S, 39 41 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-18",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.95,
+   "lon": -39.8167,
+   "event": "position",
+   "note": "Daily noon position (75 57 S, 39 49 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-19",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.9833,
+   "lon": -40.1833,
+   "event": "position",
+   "note": "Daily noon position (75 59 S, 40 11 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Longitude degrees read '10' in the scan; 40 is the only value consistent with the neighbouring days.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-04-20",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76,
+   "lon": -40.8,
+   "event": "position",
+   "note": "Daily noon position (76 00 S, 40 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-21",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.05,
+   "lon": -41.8,
+   "event": "position",
+   "note": "Daily noon position (76 03 S, 41 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. As printed in the scan; a 60-minute jump in longitude in one day followed by a small reversal, so the minutes may be misread.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-04-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.0167,
+   "lon": -42.0167,
+   "event": "position",
+   "note": "Daily noon position (76 01 S, 42 01 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-23",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -76.0333,
+   "lon": -41.8,
+   "event": "position",
+   "note": "Daily noon position (76 02 S, 41 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.9333,
+   "lon": -41.6667,
+   "event": "position",
+   "note": "Daily noon position (75 56 S, 41 40 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.8167,
+   "lon": -41.7,
+   "event": "position",
+   "note": "Daily noon position (75 49 S, 41 42 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-27",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.75,
+   "lon": -41.7,
+   "event": "position",
+   "note": "Daily noon position (75 45 S, 41 42 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.6333,
+   "lon": -41.55,
+   "event": "position",
+   "note": "Daily noon position (75 38 S, 41 33 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-29",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.4833,
+   "lon": -41.4167,
+   "event": "position",
+   "note": "Daily noon position (75 29 S, 41 25 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-04-30",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.4167,
+   "lon": -41.7167,
+   "event": "position",
+   "note": "Daily noon position (75 25 S, 41 43 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-01",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.45,
+   "lon": -42,
+   "event": "position",
+   "note": "Daily noon position (75 27 S, 42 00 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Day the sun set for the winter.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-02",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, Weddell Sea",
+   "lat": -75.3833,
+   "lon": -42.2333,
+   "event": "position",
+   "note": "Printed in South ch. III ('The ship's position on Sunday, May 2'), the day after the sun set for the winter.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-03",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3667,
+   "lon": -42.3,
+   "event": "position",
+   "note": "Daily noon position (75 22 S, 42 18 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3833,
+   "lon": -42.4333,
+   "event": "position",
+   "note": "Daily noon position (75 23 S, 42 26 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3167,
+   "lon": -42.4333,
+   "event": "position",
+   "note": "Daily noon position (75 19 S, 42 26 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-06",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.1667,
+   "lon": -42.3333,
+   "event": "position",
+   "note": "Daily noon position (75 10 S, 42 20 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-07",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.1167,
+   "lon": -41.8667,
+   "event": "position",
+   "note": "Daily noon position (75 07 S, 41 52 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-08",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.05,
+   "lon": -42.2833,
+   "event": "position",
+   "note": "Daily noon position (75 03 S, 42 17 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-10",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.9833,
+   "lon": -42.1,
+   "event": "position",
+   "note": "Daily noon position (74 59 S, 42 06 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-11",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75,
+   "lon": -41.9667,
+   "event": "position",
+   "note": "Daily noon position (75 00 S, 41 58 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-12",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.1333,
+   "lon": -41.9,
+   "event": "position",
+   "note": "Daily noon position (75 08 S, 41 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-13",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3167,
+   "lon": -42.3667,
+   "event": "position",
+   "note": "Daily noon position (75 19 S, 42 22 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-14",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3833,
+   "lon": -42.8667,
+   "event": "position",
+   "note": "Daily noon position (75 23 S, 42 52 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-15",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.45,
+   "lon": -43.15,
+   "event": "position",
+   "note": "Daily noon position (75 27 S, 43 09 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-16",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.4333,
+   "lon": -43.6167,
+   "event": "position",
+   "note": "Daily noon position (75 26 S, 43 37 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-17",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.4,
+   "lon": -43.95,
+   "event": "position",
+   "note": "Daily noon position (75 24 S, 43 57 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-18",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3833,
+   "lon": -44.0167,
+   "event": "position",
+   "note": "Daily noon position (75 23 S, 44 01 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-20",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.45,
+   "lon": -44.4333,
+   "event": "position",
+   "note": "Daily noon position (75 27 S, 44 26 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-21",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.4,
+   "lon": -44.75,
+   "event": "position",
+   "note": "Daily noon position (75 24 S, 44 45 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.3833,
+   "lon": -44.9833,
+   "event": "position",
+   "note": "Daily noon position (75 23 S, 44 59 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.2333,
+   "lon": -44.9,
+   "event": "position",
+   "note": "Daily noon position (75 14 S, 44 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-27",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -75.0667,
+   "lon": -44.85,
+   "event": "position",
+   "note": "Daily noon position (75 04 S, 44 51 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.9833,
+   "lon": -44.9333,
+   "event": "position",
+   "note": "Daily noon position (74 59 S, 44 56 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-29",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.9167,
+   "lon": -44.6833,
+   "event": "position",
+   "note": "Daily noon position (74 55 S, 44 41 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-30",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.7667,
+   "lon": -44.95,
+   "event": "position",
+   "note": "Daily noon position (74 46 S, 44 57 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-05-31",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.8167,
+   "lon": -45.5,
+   "event": "position",
+   "note": "Daily noon position (74 49 S, 45 30 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. As printed in the scan; longitude is about 8 miles west of the days either side and may be misread.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-06-02",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.7833,
+   "lon": -45.2,
+   "event": "position",
+   "note": "Daily noon position (74 47 S, 45 12 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-03",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.75,
+   "lon": -45.0833,
+   "event": "position",
+   "note": "Daily noon position (74 45 S, 45 05 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.7333,
+   "lon": -44.95,
+   "event": "position",
+   "note": "Daily noon position (74 44 S, 44 57 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.7167,
+   "lon": -44.9167,
+   "event": "position",
+   "note": "Daily noon position (74 43 S, 44 55 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-07",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.5333,
+   "lon": -45.05,
+   "event": "position",
+   "note": "Daily noon position (74 32 S, 45 03 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-08",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.45,
+   "lon": -45.2167,
+   "event": "position",
+   "note": "Daily noon position (74 27 S, 45 13 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-09",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.4333,
+   "lon": -45.3833,
+   "event": "position",
+   "note": "Daily noon position (74 26 S, 45 23 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-10",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.4167,
+   "lon": -45.4667,
+   "event": "position",
+   "note": "Daily noon position (74 25 S, 45 28 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-13",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.4833,
+   "lon": -46.35,
+   "event": "position",
+   "note": "Daily noon position (74 29 S, 46 21 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-14",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.5,
+   "lon": -46.35,
+   "event": "position",
+   "note": "Daily noon position (74 30 S, 46 21 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-15",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.55,
+   "lon": -46.3833,
+   "event": "position",
+   "note": "Daily noon position (74 33 S, 46 23 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Day of the Antarctic Derby.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-17",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.65,
+   "lon": -46.65,
+   "event": "position",
+   "note": "Daily noon position (74 39 S, 46 39 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-18",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.6167,
+   "lon": -46.8,
+   "event": "position",
+   "note": "Daily noon position (74 37 S, 46 48 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-21",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.5,
+   "lon": -47.65,
+   "event": "position",
+   "note": "Daily noon position (74 30 S, 47 39 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.35,
+   "lon": -47.65,
+   "event": "position",
+   "note": "Daily noon position (74 21 S, 47 39 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Midwinter's Day.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-24",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.0333,
+   "lon": -47.3833,
+   "event": "position",
+   "note": "Daily noon position (74 02 S, 47 23 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Scan reads '75 02', impossible between 74 21 (22 Jun) and 73 57 (25 Jun); corrected to 74 02. Worsley's occultation latitudes that night are 73 57-74 00 S (Bergman & Stuart 2018, Table 5).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-06-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.95,
+   "lon": -47.3,
+   "event": "position",
+   "note": "Daily noon position (73 57 S, 47 18 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.9667,
+   "lon": -47.2833,
+   "event": "position",
+   "note": "Daily noon position (73 58 S, 47 17 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.9833,
+   "lon": -47.3333,
+   "event": "position",
+   "note": "Daily noon position (73 59 S, 47 20 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-06-29",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.05,
+   "lon": -47.4833,
+   "event": "position",
+   "note": "Daily noon position (74 03 S, 47 29 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-01",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1333,
+   "lon": -47.9,
+   "event": "position",
+   "note": "Daily noon position (74 08 S, 47 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-03",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1833,
+   "lon": -48.65,
+   "event": "position",
+   "note": "Daily noon position (74 11 S, 48 39 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.15,
+   "lon": -48.8333,
+   "event": "position",
+   "note": "Daily noon position (74 09 S, 48 50 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Worsley's log for 4 July gives 74 9 S 48 57 W before James's later longitude adjustment (Bergman & Stuart 2018, Fig. 3).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1,
+   "lon": -49.1333,
+   "event": "position",
+   "note": "Daily noon position (74 06 S, 49 08 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-06",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1,
+   "lon": -49.1833,
+   "event": "position",
+   "note": "Daily noon position (74 06 S, 49 11 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-07",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1167,
+   "lon": -49.2333,
+   "event": "position",
+   "note": "Daily noon position (74 07 S, 49 14 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-08",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1333,
+   "lon": -48.8833,
+   "event": "position",
+   "note": "Daily noon position (74 08 S, 48 53 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-09",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1,
+   "lon": -49.3333,
+   "event": "position",
+   "note": "Daily noon position (74 06 S, 49 20 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-11",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.1,
+   "lon": -49.2833,
+   "event": "position",
+   "note": "Daily noon position (74 06 S, 49 17 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-13",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -74.2,
+   "lon": -48.95,
+   "event": "position",
+   "note": "Daily noon position (74 12 S, 48 57 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Last fix before the blizzard of 13-16 July.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-16",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.6,
+   "lon": -48.45,
+   "event": "position",
+   "note": "Daily noon position (73 36 S, 48 27 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. First fix after the blizzard: 36 miles of northing in three days.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-17",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.6333,
+   "lon": -48.4667,
+   "event": "position",
+   "note": "Daily noon position (73 38 S, 48 28 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-20",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.4333,
+   "lon": -48.0833,
+   "event": "position",
+   "note": "Daily noon position (73 26 S, 48 05 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-21",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.4333,
+   "lon": -48.1167,
+   "event": "position",
+   "note": "Daily noon position (73 26 S, 48 07 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-22",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.3167,
+   "lon": -47.8333,
+   "event": "position",
+   "note": "Daily noon position (73 19 S, 47 50 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-24",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -73.1167,
+   "lon": -48.2,
+   "event": "position",
+   "note": "Daily noon position (73 07 S, 48 12 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.9833,
+   "lon": -48.0667,
+   "event": "position",
+   "note": "Daily noon position (72 59 S, 48 04 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-26",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.85,
+   "lon": -47.5667,
+   "event": "position",
+   "note": "Daily noon position (72 51 S, 47 34 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Day the sun returned.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-27",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.7833,
+   "lon": -47.6,
+   "event": "position",
+   "note": "Daily noon position (72 47 S, 47 36 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.7333,
+   "lon": -47.5667,
+   "event": "position",
+   "note": "Daily noon position (72 44 S, 47 34 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-29",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.6667,
+   "lon": -47.5667,
+   "event": "position",
+   "note": "Daily noon position (72 40 S, 47 34 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-30",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.65,
+   "lon": -47.5667,
+   "event": "position",
+   "note": "Daily noon position (72 39 S, 47 34 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-07-31",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -72.6167,
+   "lon": -47.7833,
+   "event": "position",
+   "note": "Daily noon position (72 37 S, 47 47 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Last sounding on the continental shelf (185 fathoms).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-01",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, Weddell Sea",
+   "lat": -72.4333,
+   "lon": -48.1667,
+   "event": "position",
+   "note": "Printed in South ch. III for the day the floe broke up.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-03",
+   "localTime": "21:00",
+   "place": "Drifting in the pack, Weddell Sea",
+   "lat": -71.9214,
+   "lon": -48.5,
+   "event": "position",
+   "note": "South ch. III: 'At 9 p.m. a rough altitude of Canopus gave the latitude as 71 55 17 S.' Latitude only; LONGITUDE INTERPOLATED between 1 Aug (48 10 W) and 4 Aug (48 41 W).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-08-04",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -71.8333,
+   "lon": -48.6833,
+   "event": "position",
+   "note": "Daily noon position (71 50 S, 48 41 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-05",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -71.7,
+   "lon": -49.2667,
+   "event": "position",
+   "note": "Daily noon position (71 42 S, 49 16 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. First deep sounding off the shelf (1146 fathoms).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-08",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, Weddell Sea",
+   "lat": -71.3833,
+   "lon": -49.2167,
+   "event": "position",
+   "note": "Noon observation printed in South ch. III.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-12",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -71.05,
+   "lon": -49.6667,
+   "event": "position",
+   "note": "Daily noon position (71 03 S, 49 40 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-17",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -70.6333,
+   "lon": -49.9,
+   "event": "position",
+   "note": "Daily noon position (70 38 S, 49 54 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Sounding 1676 fathoms '10 miles west of the charted position of Morell Land' (South).",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-08-25",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -70.15,
+   "lon": -50.1333,
+   "event": "position",
+   "note": "Daily noon position (70 09 S, 50 08 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Row is headed 'Sept.' in the scan by a line-slip; South dates this 1900-fathom sounding to 25 August.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-09-06",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -69.9,
+   "lon": -50.3667,
+   "event": "position",
+   "note": "Daily noon position (69 54 S, 50 22 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-09-20",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -69.6333,
+   "lon": -50.5833,
+   "event": "position",
+   "note": "Daily noon position (69 38 S, 50 35 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-09-28",
+   "localTime": "12:00",
+   "place": "Beset, drifting with the Weddell Sea pack",
+   "lat": -69.5333,
+   "lon": -51.2,
+   "event": "position",
+   "note": "Daily noon position (69 32 S, 51 12 W) from the Table of Soundings in Wordie 1921, which states that from 20 Jan 1915 'the positions entered are the daily noon positions observed by the ship's officers', adjusted by James after the occultation work; read from the archive.org OCR scan. Last sounding before the ship was lost.",
+   "sources": [
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-03",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, western Weddell Sea",
+   "lat": -69.2333,
+   "lon": -51.1333,
+   "event": "position",
+   "note": "Printed in South ch. IV (Sunday 3 Oct).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-10",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, western Weddell Sea",
+   "lat": -69.35,
+   "lon": -50.5667,
+   "event": "position",
+   "note": "Printed in South ch. IV (Sunday 10 Oct, the day of the thaw).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-17",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, western Weddell Sea",
+   "lat": -69.3167,
+   "lon": -50.6667,
+   "event": "position",
+   "note": "Printed in South ch. IV for 17 Oct (ship lifted and heeled six degrees to port).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-24",
+   "localTime": "12:00",
+   "place": "Drifting in the pack, western Weddell Sea",
+   "lat": -69.1833,
+   "lon": -51.0833,
+   "event": "position",
+   "note": "Printed in South ch. IV for Sunday 24 Oct, 'the beginning of the end'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-27",
+   "localTime": "17:00",
+   "place": "Endurance abandoned; first camp on the floe",
+   "lat": -69.0833,
+   "lon": -51.5,
+   "event": "position",
+   "note": "ABANDONMENT. South ch. IV: 'Wednesday, October 27. The position was lat. 69 5 S., long. 51 30 W.' Worsley's log: 'Landed on Floe 69 5' 51 32' 27.X.15' (2 minutes of longitude different).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1915-10-28",
+   "localTime": null,
+   "place": "Dump Camp",
+   "lat": -69.083,
+   "lon": -51.5,
+   "event": "at",
+   "note": "Camp moved about 200 yards to a stronger floe off the ship's starboard bow and named Dump Camp. No separate fix; coordinates repeat the abandonment position.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-10-30",
+   "localTime": "15:00",
+   "place": "Dump Camp",
+   "lat": -69.083,
+   "lon": -51.5,
+   "event": "departs",
+   "note": "March toward Paulet Island begun at 3 p.m.; one mile NNW made good by 5 p.m. No fix; coordinates repeat the abandonment position (the floe was also drifting).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1915-11-01",
+   "localTime": null,
+   "place": "Ocean Camp",
+   "lat": -69.07,
+   "lon": -51.53,
+   "event": "arrives",
+   "note": "March abandoned; camp made on a thick old floe 'about one and a half miles from the wreck'. NO FIX PRINTED: coordinates are the abandonment position nudged 1.5 miles NNW, i.e. my estimate.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1915-11-21",
+   "localTime": "17:00",
+   "place": "Ocean Camp / wreck of the Endurance",
+   "lat": -68.6583,
+   "lon": -52.4417,
+   "event": "position",
+   "note": "SINKING. Worsley's log: 'Sunday Nov.r 21st 1915 68 39 30 52 26 30 Endurance sank after drifting in 306 days'. Not a sight on the day: Worsley had fixes on 18 and 22 Nov only and reckoned back. The wreck was found on 5 March 2022 at 68 44 21 S 52 19 47 W, 3,008 m down, about 4.9 NM south and 2.4 NM east of this figure. South prints no position for the sinking. Time 'just before 17:00' per de Vos et al.; South says only 'this evening'. Ocean Camp was about 1.5 miles from the ship.",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf",
+    "https://hgss.copernicus.org/articles/14/1/2023/",
+    "https://en.wikipedia.org/wiki/Endurance_(1912_ship)",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1914-08-08",
+   "localTime": "12:00",
+   "title": "Endurance sails from Plymouth",
+   "body": "Four days after Britain entered the war, the Endurance left Plymouth at noon under Captain Frank Worsley. Shackleton was landed in the Admiral's barge and stayed behind to settle the expedition's affairs; he followed by mail steamer. The ship anchored in Cawsand Bay in a south-west gale and got away at 4 a.m. next day.",
+   "tags": [
+    "departure",
+    "war",
+    "Worsley"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf",
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-08-10",
+   "localTime": "17:00",
+   "title": "First trawl in the Channel approaches",
+   "body": "Two days out, the scientists shot an otter trawl in 70 fathoms and hauled up sea urchins, brittle stars and bivalves. Worsley's log already records surface temperatures and tow-net samples. The science programme began before the ship had cleared home waters.",
+   "tags": [
+    "science",
+    "routine"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-08-24",
+   "localTime": null,
+   "title": "A day trip from Madeira",
+   "body": "While lying at Funchal the ship made a 54-mile run out to the Desertas Islands and back. She left Madeira the next day for Tenerife. There are no log entries for the days in port.",
+   "tags": [
+    "port",
+    "Madeira"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-09-05",
+   "localTime": "12:00",
+   "title": "Past St Vincent at 100 yards",
+   "body": "At noon the Endurance passed the harbour mouth of St Vincent in the Cape Verde Islands without stopping. Orde-Lees noted that they went by about 100 yards off. The next land would be South America, five weeks away.",
+   "tags": [
+    "Atlantic",
+    "Orde-Lees"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-09-13",
+   "localTime": null,
+   "title": "Mrs Chippy goes overboard",
+   "body": "The carpenter's cat jumped through a porthole into the Atlantic at night. Hudson, on watch, heard her and turned the ship round; Clark scooped her out with a sample net after about ten minutes in the water. The date and details are from Orde-Lees's diary as quoted on Wikipedia.",
+   "tags": [
+    "Mrs Chippy",
+    "animals",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mrs_Chippy"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-10-09",
+   "localTime": null,
+   "title": "Arrival at Buenos Aires",
+   "body": "The ship reached Buenos Aires on 9 October and stayed seventeen days while the chronometers were rated. Shackleton arrived by steamer a few days later. The cook was dismissed for drunkenness and Charles Green was hired; the American seaman William Bakewell also signed on, and Frank Hurley and the sledge dogs joined here.",
+   "tags": [
+    "port",
+    "crew",
+    "dogs"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf",
+    "https://en.wikipedia.org/wiki/Endurance_(1912_ship)",
+    "https://en.wikipedia.org/wiki/Charles_Green_(cook)",
+    "https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_whos_who_endurance.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-10-26",
+   "localTime": null,
+   "title": "South from Buenos Aires",
+   "body": "The Endurance sailed for South Georgia with sixty-nine sledge dogs chained on deck. The last war news was that the Russian armies were advancing. Hidden in a locker was Perce Blackborow, a young Welsh seaman who had been turned down for a berth.",
+   "tags": [
+    "departure",
+    "dogs",
+    "war",
+    "stowaway"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Perce_Blackborow",
+    "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-10-28",
+   "localTime": null,
+   "title": "The stowaway is found",
+   "body": "On the third day at sea Blackborow was discovered and brought before Shackleton, who told him that on such expeditions a stowaway was the first to be eaten. Blackborow is said to have answered that they would get more meat off Shackleton. He was signed on as steward. The exchange comes from later biography, not from South; the date is 'the third day at sea'.",
+   "tags": [
+    "stowaway",
+    "Blackborow",
+    "crew"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Perce_Blackborow"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-11-05",
+   "localTime": null,
+   "title": "Anchored at Grytviken",
+   "body": "The ship anchored in King Edward Cove off the Grytviken whaling station. The whalers reported that the pack lay unusually far north that season. Shackleton decided to wait a month and to take on extra coal and winter clothing.",
+   "tags": [
+    "South Georgia",
+    "port",
+    "whalers"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-11-20",
+   "localTime": null,
+   "title": "A month among the whalers",
+   "body": "Through November the crew coaled, loaded a ton of whale meat for the dogs and visited six of the island's seven whaling stations. The captains advised steering east to about 15 degrees west before turning south. Sir Daniel Gooch, who had come out to help with the dogs, went home from here. (Undated within the month; placed mid-stay.)",
+   "tags": [
+    "South Georgia",
+    "preparation",
+    "dogs",
+    "date-approximate"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Personnel_of_the_Imperial_Trans-Antarctic_Expedition"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-05",
+   "localTime": "08:45",
+   "title": "The last link with civilization",
+   "body": "Shackleton ordered the anchor up at 8.45 a.m. in sleet and gusts of snow. A steamer the evening before had brought no letters. The supply ship Harpoon reached Grytviken with their mail about two hours after they had gone.",
+   "tags": [
+    "departure",
+    "South Georgia"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "I gave the order to heave anchor at 8.45 a.m. on December 5, 1914, and the clanking of the windlass broke for us the last link with civilization.",
+    "by": "Ernest Shackleton, South (1919), ch. I"
+   }
+  },
+  {
+   "date": "1914-12-07",
+   "localTime": "18:00",
+   "title": "First ice at the South Sandwich Islands",
+   "body": "The ship passed between Sanders Island and Candlemas at 6 p.m. and two hours later met a belt of heavy pack, far north of where Shackleton expected it. Worsley and Shackleton spent the night on deck dodging floes in a heavy swell. They got clear at full speed next morning.",
+   "tags": [
+    "pack",
+    "South Sandwich"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-11",
+   "localTime": "08:00",
+   "title": "Into the pack",
+   "body": "After skirting the edge for two days the Endurance entered the pack at 8 a.m. in 59 46 S. The carpenter rigged a six-foot wooden semaphore on the bridge so the officer conning could signal the helmsman. Three watches were kept, with two officers always on deck.",
+   "tags": [
+    "pack",
+    "routine"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-12",
+   "localTime": null,
+   "title": "The penguins call for Clark",
+   "body": "Adelie penguins ran alongside whenever the biologist Robert Clark had the wheel, calling what sounded like his name. It became a standing joke aboard. The day's run through the ice was 33 miles.",
+   "tags": [
+    "penguins",
+    "Clark",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-20",
+   "localTime": null,
+   "title": "Football on the floe",
+   "body": "Held up by a gale and moored to a floe, staff and crew played a hard game of football on the ice beside the ship. Twelve icebergs were in sight. The floe drifted six miles north-east while they played and waited.",
+   "tags": [
+    "football",
+    "recreation",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-25",
+   "localTime": "00:00",
+   "title": "Christmas in the pack",
+   "body": "Grog was served at midnight and again at breakfast. Orde-Lees decorated the wardroom with flags and gave everyone a small present; dinner was turtle soup, whitebait, jugged hare and Christmas pudding. Hussey played a one-stringed violin he had made. The day's run of 71 miles was the best since entering the ice.",
+   "tags": [
+    "Christmas",
+    "food",
+    "Orde-Lees",
+    "Hussey"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1914-12-30",
+   "localTime": "23:00",
+   "title": "Across the Antarctic Circle",
+   "body": "The ship crossed the Circle at 11 p.m. following a long lead to the south-east. The sun did not set that night. Shackleton looked in vain for open water.",
+   "tags": [
+    "milestone",
+    "midnight sun"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-05",
+   "localTime": "23:59",
+   "title": "Worsley goes through the ice",
+   "body": "Moored to a floe in clear weather, the men played football until about midnight under the midnight sun. Worsley dropped through a hole in rotten ice while fetching the ball and had to be pulled out. Clock time is 'about midnight'.",
+   "tags": [
+    "football",
+    "Worsley",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-06",
+   "localTime": null,
+   "title": "The dogs get a run",
+   "body": "For the first time in a month the dogs were taken on to a floe for exercise. Several fell in the water and two fought their way into a pool still locked together. A sounding found 2,400 fathoms.",
+   "tags": [
+    "dogs",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-10",
+   "localTime": "17:00",
+   "title": "Land in sight",
+   "body": "At 5 p.m. the look-out reported snow slopes rising to about a thousand feet to the south-south-east: Coats Land, seen by Bruce in 1904. Shortly before midnight the ship broke into a lead of open water along a 70-foot ice barrier.",
+   "tags": [
+    "land",
+    "Coats Land"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-12",
+   "localTime": "12:00",
+   "title": "A new coast",
+   "body": "South of 74 degrees the ship passed the farthest point reached by Bruce's Scotia and began coasting ice cliffs no one had seen. Shackleton named the 200 miles of new coast after Sir James Caird. One sick dog had to be shot this day.",
+   "tags": [
+    "discovery",
+    "Caird Coast",
+    "dogs"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-15",
+   "localTime": "23:45",
+   "title": "Glacier Bay passed by",
+   "body": "Shortly before midnight the ship came abreast of a bay with a flat ice-foot like a natural quay and a snow slope to the barrier top. Shackleton would not land so far north of Vahsel Bay, because every mile south saved a mile of sledging. They steamed on.",
+   "tags": [
+    "decision",
+    "Caird Coast"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "I named the place Glacier Bay, and had reason later to remember it with regret.",
+    "by": "Ernest Shackleton, South (1919), ch. II"
+   }
+  },
+  {
+   "date": "1915-01-19",
+   "localTime": "08:00",
+   "title": "Fast in the pack",
+   "body": "After a north-easterly gale the ice closed round the ship in the night of 18-19 January, about 85 miles from Vahsel Bay. No water could be seen from the deck. Worsley's log for the day begins 'Fast in pack'. By the 20th she was firmly beset as far as the eye could reach.",
+   "tags": [
+    "beset",
+    "turning point"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-25",
+   "localTime": "10:00",
+   "title": "Full steam and all sail",
+   "body": "A crack ahead widened to a quarter of a mile and for three hours the ship drove at it with engines full ahead and every sail set. She did not move. Later Tom Crean was pinned by an overturning block of ice while chipping from a stage and escaped with bruises.",
+   "tags": [
+    "beset",
+    "Crean",
+    "attempt"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-01-27",
+   "localTime": null,
+   "title": "The fires are let out",
+   "body": "On the tenth day of inactivity Shackleton let the boiler fires die to save coal. Only 67 tons remained, enough for thirty-three days' steaming. The floe was drifting slowly west.",
+   "tags": [
+    "beset",
+    "coal",
+    "decision"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-02-11",
+   "localTime": null,
+   "title": "Sallying ship",
+   "body": "Jammed against soft floe, the ship would not come astern until all hands ran from side to side across the deck together, falling over one another and laughing. Afterwards the motor crawler was tried on the ice and ran at about six miles an hour.",
+   "tags": [
+    "beset",
+    "attempt",
+    "motor sledge",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-02-14",
+   "localTime": null,
+   "title": "Cutting toward the lead",
+   "body": "With steam up, every man went on to the ice with chisels, saws and picks to cut the ship through to open water ahead. After twenty-four hours they had gained a third of the distance; some 400 yards of heavy ice remained. Shackleton called the attempt off on the 15th. Each cut froze behind them.",
+   "tags": [
+    "beset",
+    "attempt",
+    "turning point"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-02-22",
+   "localTime": "02:00",
+   "title": "Farthest south",
+   "body": "The drift carried the ship to the 77th parallel, the most southerly point she reached. At 2 a.m. the thermometer stood at 10 below zero Fahrenheit. Land was still visible on the horizon, out of reach.",
+   "tags": [
+    "farthest south",
+    "cold"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "The summer had gone; indeed the summer had scarcely been with us at all.",
+    "by": "Ernest Shackleton, South (1919), ch. II"
+   }
+  },
+  {
+   "date": "1915-02-24",
+   "localTime": null,
+   "title": "The ship becomes a winter station",
+   "body": "Sea watches ended. All hands worked by day and slept at night, with one watchman for the dogs and the ice. Crean built an ice-house for the dog Sally and her new litter. Next day the dogs were moved on to the floe.",
+   "tags": [
+    "winter",
+    "routine",
+    "dogs",
+    "decision"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-02-26",
+   "localTime": null,
+   "title": "Dogloos",
+   "body": "Worsley led a party building a ring of ice-block kennels round the ship, roofed with boards and sealskins and frozen solid with water. The men called them dogloos. The dogs mostly chose to sleep outside. Four ailing dogs were shot.",
+   "tags": [
+    "dogs",
+    "dogloos",
+    "Worsley",
+    "small"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-03-10",
+   "localTime": null,
+   "title": "Moving into the Ritz",
+   "body": "The hold between decks had been cleared and fitted with cubicles and the stove meant for the shore hut. Officers and scientists moved in and named it the Ritz; the cubicles had names like the Billabong and Auld Reekie. Meals were at 9, 1, 4 and 6.",
+   "tags": [
+    "routine",
+    "winter",
+    "the Ritz"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-03-11",
+   "localTime": null,
+   "title": "To the Rampart Berg",
+   "body": "Worsley, Hurley and Wordie walked seven and a half miles to a large iceberg and back, about seventeen miles in all. Hurley took photographs. Wordie, a geologist with no land to study, came home pleased with a little dust and some moss.",
+   "tags": [
+    "Hurley",
+    "photography",
+    "Wordie",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-03-15",
+   "localTime": null,
+   "title": "Orde-Lees's bicycle",
+   "body": "The storekeeper Thomas Orde-Lees had brought a bicycle and rode it on the floes. On one ride he was gone two hours and Shackleton sent out a search party. The sources I could reach give no date for this; it is filed here under the autumn of 1915 and should be treated as undated.",
+   "tags": [
+    "Orde-Lees",
+    "bicycle",
+    "small",
+    "date-approximate"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://course-exhibits.library.dartmouth.edu/s/ENVS15_24F/page/resnick3"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-04-14",
+   "localTime": "11:00",
+   "title": "A stranded berg ahead",
+   "body": "A large crevassed iceberg appeared to the north-west, aground and holding still while the pack piled against it. For four days the ship drifted toward it, to within seven miles. A westward set on the night of the 18th carried her clear.",
+   "tags": [
+    "danger",
+    "iceberg"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "She would be crushed like an egg-shell amid the shattering masses.",
+    "by": "Ernest Shackleton, South (1919), ch. III"
+   }
+  },
+  {
+   "date": "1915-04-30",
+   "localTime": null,
+   "title": "Six teams of dogs",
+   "body": "During April the dogs were formed into six teams under Wild, Crean, Macklin, McIlroy, Marston and Hurley. Worms were killing them: fifty-four dogs and eight pups early in the month, fifty grown dogs at its end. The worm powders had been left behind with a dog-driver who never joined.",
+   "tags": [
+    "dogs",
+    "loss"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-05-01",
+   "localTime": "14:00",
+   "title": "The sun sets for the winter",
+   "body": "The sun just cleared the horizon at noon and set shortly before 2 p.m. Worsley told the company they would not see it again for seventy days. There was a concert in the Ritz that evening.",
+   "tags": [
+    "polar night",
+    "sunset"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "We said good-bye to the sun on May 1 and entered the period of twilight that would be followed by the darkness of midwinter.",
+    "by": "Ernest Shackleton, South (1919), ch. III"
+   }
+  },
+  {
+   "date": "1915-05-03",
+   "localTime": null,
+   "title": "Arresting the emperors",
+   "body": "Emperor penguins surfacing in a lead were herded toward the ship for the larder. One knocked the engineer Kerr flat and jumped on his chest; he and Cheetham marched another, 85 pounds, back between them. Nine more were taken on 6 May.",
+   "tags": [
+    "penguins",
+    "food",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-05-08",
+   "localTime": "11:00",
+   "title": "The sun comes back by mistake",
+   "body": "A week after its last appearance the sun lifted over the horizon at 11 a.m., set, and rose and set twice more by 1.20 p.m. Refraction in air at 15 below zero had bent it into view. Worsley was teased about his navigation.",
+   "tags": [
+    "refraction",
+    "Worsley",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-05-24",
+   "localTime": null,
+   "title": "Empire Day and electric light",
+   "body": "Patriotic songs were sung in the Ritz and campaigns of the war were fought over maps. During May Hurley rigged the small electric plant, including two lamps on poles to light the kennels if the floe should break in the dark.",
+   "tags": [
+    "Hurley",
+    "routine",
+    "war"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-06-15",
+   "localTime": "12:00",
+   "title": "The Antarctic Derby",
+   "body": "Five dog teams raced 700 yards in the noon twilight with an aurora overhead. Shackleton started them by flashing a lamp; the bos'n took bets in chocolate and cigarettes wearing a straw hat. Wild's team, the favourite, won in 2 minutes 16 seconds.",
+   "tags": [
+    "dogs",
+    "recreation",
+    "Wild"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-06-22",
+   "localTime": null,
+   "title": "Midwinter's Day",
+   "body": "The day was kept as a holiday with the best dinner the cook could manage, then speeches, songs and toasts in the Ritz. A sounding found 262 fathoms. The ship was drifting north unusually fast, 39 miles in five days.",
+   "tags": [
+    "midwinter",
+    "celebration"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "After supper at midnight we sang “God Save the King” and wished each other all success in the days of sunshine and effort that lay ahead.",
+    "by": "Ernest Shackleton, South (1919), ch. III"
+   }
+  },
+  {
+   "date": "1915-07-13",
+   "localTime": "20:00",
+   "title": "The worst blizzard",
+   "body": "A gale of 60 to 70 miles an hour struck in the evening and buried the windward kennels under five feet of drift by morning. The temperature fell to 33.5 below zero Fahrenheit. No one was allowed past the kennels; about a hundred tons of snow had to be dug from the ship's side. Clock time is 'the evening'.",
+   "tags": [
+    "blizzard",
+    "cold"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-07-22",
+   "localTime": "13:00",
+   "title": "The crack reaches the ship",
+   "body": "Early in the afternoon a two-foot crack ran to within 35 yards of the port quarter, the product of pressure piling blocks 15 feet high 300 yards away. Shackleton had the sledges brought aboard and shared the night watches with Wild and Worsley. Clock time is 'early on the afternoon'.",
+   "tags": [
+    "pressure",
+    "danger"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-07-26",
+   "localTime": "11:55",
+   "title": "The sun returns",
+   "body": "Just before noon the top of the sun showed by refraction for one minute, seventy-nine days after it was last seen. Clark found diatoms appearing again in his nets with the light.",
+   "tags": [
+    "sunrise",
+    "polar night"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-08-01",
+   "localTime": "10:00",
+   "title": "The floe breaks up",
+   "body": "In a south-westerly gale the floe cracked at 8 a.m. and two hours later broke up round the ship, which listed first to starboard, then heavily to port. Dogs and sledges were hurried aboard without a single fight. The ice kennels were crushed and the rudder damaged.",
+   "tags": [
+    "pressure",
+    "danger",
+    "dogs",
+    "turning point"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "Mighty blocks of ice, gripped between meeting floes, rose slowly till they jumped like cherry-stones squeezed between thumb and finger.",
+    "by": "Ernest Shackleton, South (1919), ch. III"
+   }
+  },
+  {
+   "date": "1915-08-17",
+   "localTime": null,
+   "title": "Morrell Land sounded away",
+   "body": "A cast of 1,676 fathoms ten miles west of the charted position of Morrell's 'New South Greenland' found deep water and no land in sight from the mast-head. Shackleton struck it from the map.",
+   "tags": [
+    "science",
+    "sounding",
+    "discovery"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://archive.org/details/transacti523419191921roya"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-09-07",
+   "localTime": null,
+   "title": "Hercules leads the choir",
+   "body": "For a fortnight the dog Hercules had started the whole pack howling two or three times a day. Crean's puppies were now pulling in harness almost as well as the grown teams. The temperature was 10.8 below zero Fahrenheit.",
+   "tags": [
+    "dogs",
+    "Crean",
+    "small"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-09-26",
+   "localTime": null,
+   "title": "Clocks put forward",
+   "body": "The ship's clock was advanced one hour as a daylight-saving measure. Times given after this date are on the new clock. A bull Weddell seal was killed the same day, welcome after months with almost no fresh meat for the dogs.",
+   "tags": [
+    "routine",
+    "time"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-09-30",
+   "localTime": "15:00",
+   "title": "The worst squeeze yet",
+   "body": "At 3 p.m. the cracks beside the ship began to work sideways and the port bow took the full weight of a floe. Shackleton ordered all hands to stand by. The floe cracked across just as the hull seemed at its limit.",
+   "tags": [
+    "pressure",
+    "danger"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "The decks shuddered and jumped, beams arched, and stanchions buckled and shook.",
+    "by": "Ernest Shackleton, South (1919), ch. IV"
+   }
+  },
+  {
+   "date": "1915-10-12",
+   "localTime": null,
+   "title": "Spring quarters",
+   "body": "After a thaw that sent the temperature to nearly 30 degrees Fahrenheit and left the ship dripping, all hands moved back up to the deck cabins. Seals, penguins and whales were in the leads again. Next evening the ship floated upright for the first time since August.",
+   "tags": [
+    "thaw",
+    "routine"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-10-18",
+   "localTime": "16:00",
+   "title": "Thirty degrees to port",
+   "body": "In the afternoon the floes moved sideways, the port floe split and within seconds the ship was thrown over 30 degrees with her lee boats almost on the ice. Kennels broke loose on top of the dogs. Hurley climbed down to photograph her; dinner was eaten sitting on the deck. At 8 p.m. the floes opened and she came upright. South says only 'afternoon'; the clock time here is nominal.",
+   "tags": [
+    "pressure",
+    "Hurley",
+    "photography",
+    "danger"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-10-24",
+   "localTime": "18:45",
+   "title": "The beginning of the end",
+   "body": "At 6.45 p.m. the ship was caught at a bad angle between three masses of ice. The stern-post was twisted, plank ends started and she began to leak at once. Pumps were going by 8 p.m. and McNish worked through the night on a coffer-dam.",
+   "tags": [
+    "pressure",
+    "leak",
+    "turning point"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-10-26",
+   "localTime": "21:00",
+   "title": "Boats lowered to the floe",
+   "body": "At 7 p.m. the planking opened four and five inches and the ship bent like a bow. At 9 Shackleton had boats, sledges and stores lowered to the ice. Eight emperor penguins came up from a crack and stood making a noise none of the men had heard before.",
+   "tags": [
+    "pressure",
+    "penguins",
+    "abandonment"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-10-27",
+   "localTime": "17:00",
+   "title": "Abandon ship",
+   "body": "At 4 p.m. the ice hove the stern up and tore out the rudder and stern-post. At 5 Shackleton ordered everyone on to the floe, 346 miles from the nearest hut on Paulet Island. Twenty-eight men and forty-nine dogs camped on the ice; the night temperature fell to 16 below zero Fahrenheit.",
+   "tags": [
+    "abandonment",
+    "turning point"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ],
+   "quote": {
+    "text": "It was a sickening sensation to feel the decks breaking up under one’s feet, the great beams bending and then snapping with a noise like heavy gunfire.",
+    "by": "Ernest Shackleton, South (1919), ch. IV"
+   }
+  },
+  {
+   "date": "1915-10-28",
+   "localTime": "06:00",
+   "title": "Hot milk at Dump Camp",
+   "body": "At daybreak Shackleton, Wild and Hurley fetched petrol from the wreck and took hot milk round the tents. New clothing was issued and fur sleeping-bags drawn by lot. Hurley filmed the masts coming down, the crow's-nest landing within ten feet of him. Clock time is 'daybreak'.",
+   "tags": [
+    "Dump Camp",
+    "Wild",
+    "Hurley",
+    "film"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "If any of you gentlemen would like your boots cleaned just put them outside.",
+    "by": "Frank Wild, quoted in Ernest Shackleton, South (1919), ch. IV"
+   }
+  },
+  {
+   "date": "1915-10-29",
+   "localTime": null,
+   "title": "Mrs Chippy and the pups",
+   "body": "In the afternoon the three youngest puppies, the pup Sirius and the carpenter's cat were shot, since nothing weak could be carried. Macklin, Crean and McNish took it hard. Greenstreet was given a seventh dog team.",
+   "tags": [
+    "Mrs Chippy",
+    "dogs",
+    "loss"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://en.wikipedia.org/wiki/Mrs_Chippy"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-10-30",
+   "localTime": "15:00",
+   "title": "Two pounds each",
+   "body": "The march for Paulet Island began at 3 p.m. with two boats on sledges. Each man could carry two pounds of personal gear. Shackleton tore the fly-leaf and a page of Job from the ship's Bible and left the rest. They made one mile by 5 p.m.",
+   "tags": [
+    "march",
+    "Dump Camp"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": {
+    "text": "So sovereigns were thrown away and photographs were kept.",
+    "by": "Ernest Shackleton, South (1919), ch. IV"
+   }
+  },
+  {
+   "date": "1915-11-01",
+   "localTime": null,
+   "title": "Ocean Camp",
+   "body": "After two days and barely two miles through soft snow up to the hips, Shackleton stopped the march. The party settled on a heavy old floe a mile and a half from the wreck and called it Ocean Camp. They would live on seal and penguin and save the sledging rations for the boats.",
+   "tags": [
+    "Ocean Camp",
+    "decision"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-11-02",
+   "localTime": null,
+   "title": "Hurley saves his negatives",
+   "body": "Working with the salvage parties at the wreck, Hurley dug through icy slush inside the ship and recovered his cases of glass negatives, which were zinc-lined and soldered and mostly unharmed. A killer whale broke the ice near his team on the way back. From Hurley's manuscript diary.",
+   "tags": [
+    "Hurley",
+    "photography",
+    "salvage"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://diariesofnote.com/?p=3231",
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-11-06",
+   "localTime": null,
+   "title": "Blizzard at Ocean Camp",
+   "body": "A south-westerly blizzard kept everyone in the tents for two days and buried the sledges. Nobody minded: it drove the floe about eleven miles north in a night. Over the first days at the camp the drift was about twenty miles north.",
+   "tags": [
+    "blizzard",
+    "drift",
+    "Ocean Camp"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-11-09",
+   "localTime": null,
+   "title": "Choosing 120 plates",
+   "body": "Hurley and Shackleton went through the rescued negatives and kept about 120. Hurley smashed some 400 others on the ice so he would not be tempted to go back for them. Date from Hurley's diary via the State Library of New South Wales; the RGS timeline puts it on the 8th.",
+   "tags": [
+    "Hurley",
+    "photography"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.sl.nsw.gov.au/node/60721",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1915-11-21",
+   "localTime": "17:00",
+   "title": "'She's gone, boys'",
+   "body": "In the evening Shackleton called from the look-out that the ship was going. A mile and a half away her stern rose and she went down bows first. Afterwards he argued with the storekeeper for two sausages a man instead of one and a half.",
+   "tags": [
+    "sinking",
+    "turning point",
+    "Ocean Camp"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://hgss.copernicus.org/articles/14/1/2023/"
+   ],
+   "quote": {
+    "text": "She then gave one quick dive and the ice closed over her for ever.",
+    "by": "Unnamed member's diary, 21 November 1915, quoted in Ernest Shackleton, South (1919), ch. V"
+   }
+  }
+ ],
+ "stats": [
+  {
+   "date": "1914-10-26",
+   "series": "men",
+   "value": 29,
+   "note": "Leaving Buenos Aires: the 28 of the final party (27 signed on plus the stowaway Blackborow) and Sir Daniel Gooch, who helped with the dogs as far as South Georgia. Derived count; no source prints '29'.",
+   "source": "https://en.wikipedia.org/wiki/Personnel_of_the_Imperial_Trans-Antarctic_Expedition"
+  },
+  {
+   "date": "1914-12-05",
+   "series": "men",
+   "value": 28,
+   "note": "Leaving South Georgia after Gooch went home. South ch. I (13 Dec 1914) speaks of 'our twenty-eight men'.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-29",
+   "series": "men",
+   "value": 28,
+   "note": "South ch. IV: 'We are twenty-eight men with forty-nine dogs'. No man was lost in this slice.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1914-10-26",
+   "series": "dogs",
+   "value": 69,
+   "note": "Sixty-nine sledge dogs embarked (Wikipedia; 99 were sent from Canada and 69 chosen). South ch. I lists 61 names on 24 Dec and says eight were still unnamed, which also totals 69.",
+   "source": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+  },
+  {
+   "date": "1915-01-12",
+   "series": "other",
+   "value": 1,
+   "note": "Dogs shot: one, off the Caird Coast (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-24",
+   "series": "other",
+   "value": 1,
+   "note": "Litter born: Sally 'had added a little litter of pups' by this date; Sue also had pups (number not given here; eight pups are counted in April).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-26",
+   "series": "other",
+   "value": 4,
+   "note": "Dogs shot: four ailing dogs (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-03-02",
+   "series": "other",
+   "value": 1,
+   "note": "Dog died: Saint, 'appendicitis' according to the surgeons (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-04-09",
+   "series": "dogs",
+   "value": 54,
+   "note": "South ch. III: 'We had fifty-four dogs and eight pups early in April'. Date nominal (early April).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-04-30",
+   "series": "dogs",
+   "value": 50,
+   "note": "South ch. III: 'the number of mature dogs was reduced to fifty by the end of the month' (worms). Pups not included.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-08-03",
+   "series": "other",
+   "value": 4,
+   "note": "Dogs shot: 'Four of the poorest dogs', suffering from worms (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-29",
+   "series": "dogs",
+   "value": 49,
+   "note": "South ch. IV: 'forty-nine dogs, including Sue's and Sallie's five grown-up pups'. That afternoon Sallie's three youngest pups and Sue's Sirius were shot; it is unclear whether the 49 includes them.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-01-27",
+   "series": "other",
+   "value": 67,
+   "note": "Tons of coal in the bunkers when the fires were let out (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-03-15",
+   "series": "other",
+   "value": 52,
+   "note": "Tons of coal left when the boilers were blown down (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-20",
+   "series": "other",
+   "value": 50,
+   "note": "Tons of coal remaining, 'about fifty' (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1914-12-16",
+   "series": "temperatureC",
+   "value": 2.8,
+   "note": "37 F. Air temperature, 'pleasantly warm'; water 29 F (South ch. I; the day after 15 Dec).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1914-12-21",
+   "series": "temperatureC",
+   "value": -3.9,
+   "note": "25 F. Air temperature had been down to this on 21 Dec (South ch. I).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1914-12-23",
+   "series": "temperatureC",
+   "value": 1.1,
+   "note": "34 F. Air temperature had risen to this by 23 Dec (South ch. I).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1914-12-27",
+   "series": "temperatureC",
+   "value": -5,
+   "note": "23 F. Southerly gale (South ch. I).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-07",
+   "series": "temperatureC",
+   "value": -17.8,
+   "note": "0 F. Night of the 7th, midsummer cold spell (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-08",
+   "series": "temperatureC",
+   "value": -18.9,
+   "note": "-2 F. South ch. II.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-11",
+   "series": "temperatureC",
+   "value": -18.9,
+   "note": "-2 F. At midnight (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-02-22",
+   "series": "temperatureC",
+   "value": -23.3,
+   "note": "-10 F. At 2 a.m. on the day of farthest south (South ch. II).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-03-06",
+   "series": "temperatureC",
+   "value": -29.4,
+   "note": "-21 F. South ch. III.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-05-02",
+   "series": "temperatureC",
+   "value": -20.6,
+   "note": "-5 F. At noon, overcast (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-05-08",
+   "series": "temperatureC",
+   "value": -26.1,
+   "note": "-15 F. During the refracted reappearance of the sun (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-05-27",
+   "series": "temperatureC",
+   "value": -28.9,
+   "note": "-20 F. Log entry quoted in South ch. III.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-06-15",
+   "series": "temperatureC",
+   "value": -17.8,
+   "note": "0 F. 'a zero temperature' at the Antarctic Derby (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-07-04",
+   "series": "temperatureC",
+   "value": -22.2,
+   "note": "-8 F. Worsley's log entry for 4 July (Bergman & Stuart 2018, Fig. 3).",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+  },
+  {
+   "date": "1915-07-12",
+   "series": "temperatureC",
+   "value": -30.6,
+   "note": "-23 F. About 2 a.m., when the lead ahead opened (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-07-13",
+   "series": "temperatureC",
+   "value": -36.4,
+   "note": "-33.5 F. Minimum during the blizzard of 13-14 July; range -21 to -33.5 F (South ch. III). Hussey gives -35 F as the lowest of the whole drift, in July, without a date.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-07-14",
+   "series": "temperatureC",
+   "value": -34.4,
+   "note": "-30 F. 'something like -30 F' while digging out on the morning of the 14th (South ch. III).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-09-04",
+   "series": "temperatureC",
+   "value": -25.6,
+   "note": "-14.1 F. Log entry quoted in South ch. IV.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-09-07",
+   "series": "temperatureC",
+   "value": -23.8,
+   "note": "-10.8 F. Log entry quoted in South ch. IV.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-04",
+   "series": "temperatureC",
+   "value": -31.4,
+   "note": "-24.5 F. South ch. IV.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-10",
+   "series": "temperatureC",
+   "value": -1.2,
+   "note": "29.8 F. Thaw: rose from -10 F to +29.8 F, 'the highest we had experienced since January' (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-14",
+   "series": "temperatureC",
+   "value": -18.3,
+   "note": "-1 F. Fell from +31 F to -1 F as a south-westerly gale came on (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-19",
+   "series": "temperatureC",
+   "value": -11.1,
+   "note": "12 F. Overcast with snow (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-26",
+   "series": "temperatureC",
+   "value": -26.1,
+   "note": "-15 F. Worsley's log, 26 Oct: 'Temperture 0 to -15' (Bergman & Stuart 2018).",
+   "source": "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+  },
+  {
+   "date": "1915-10-27",
+   "series": "temperatureC",
+   "value": -22.5,
+   "note": "-8.5 F. At the abandonment (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-27",
+   "series": "temperatureC",
+   "value": -26.7,
+   "note": "-16 F. First night on the floe (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-10-31",
+   "series": "temperatureC",
+   "value": -3.9,
+   "note": "25 F. Night of 30-31 Oct on the march; heavy wet snow (South ch. IV).",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-11-13",
+   "series": "temperatureC",
+   "value": -2.8,
+   "note": "27 F. North-easterly wind; South ch. V dates this only as 'the next day' after four fine days following the 6-8 Nov blizzard, so the date is approximate.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "date": "1915-11-14",
+   "series": "temperatureC",
+   "value": 0.6,
+   "note": "33 F. South ch. V.",
+   "source": "https://www.gutenberg.org/ebooks/5199"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "Leaving South Georgia",
+   "date": "1914-12-05",
+   "localTime": "08:45",
+   "text": "Shackleton gives the order to heave anchor at Grytviken.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First pack ice",
+   "date": "1914-12-07",
+   "localTime": "06:00",
+   "text": "The sea changes from green to deep indigo.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First pack ice",
+   "date": "1914-12-07",
+   "localTime": "18:00",
+   "text": "Endurance passes between Sanders Island and Candlemas.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First pack ice",
+   "date": "1914-12-07",
+   "localTime": "20:00",
+   "text": "Fifteen miles north-east of Sanders Island a half-mile belt of heavy pack bars the way.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First pack ice",
+   "date": "1914-12-08",
+   "localTime": "03:00",
+   "text": "The ship runs south through openings, meets old rafted pack and turns back for open water.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Getting beset",
+   "date": "1915-01-16",
+   "localTime": "08:30",
+   "text": "Held up by solid pack off the great glacier after a 124-mile run; the ship shelters behind a stranded berg.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Getting beset",
+   "date": "1915-01-18",
+   "localTime": "07:00",
+   "text": "The gale moderates and the ship leaves the lee of the berg under sail.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Getting beset",
+   "date": "1915-01-18",
+   "localTime": "09:30",
+   "text": "The glacier front ends in two bays; pack then forces the ship west and north-west until she lies to.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Getting beset",
+   "date": "1915-01-19",
+   "localTime": "08:00",
+   "text": "Morning: the ice has closed round the ship in the night; no water visible from the deck (South says 'morning'; Worsley's log: 'Fast in pack').",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "episode": "Attempts to free the ship",
+   "date": "1915-01-24",
+   "localTime": "23:50",
+   "text": "Just before midnight a crack five yards wide and a mile long opens fifty yards ahead (exact minute not given).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Attempts to free the ship",
+   "date": "1915-01-25",
+   "localTime": "10:00",
+   "text": "The crack is a quarter of a mile wide; for three hours the ship drives at it under full steam and all sail without moving.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Attempts to free the ship",
+   "date": "1915-02-05",
+   "localTime": "12:00",
+   "text": "In a north-easterly gale the ship starts and heels three degrees; cracks run ahead and astern, then the pack closes before steam is up.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Attempts to free the ship",
+   "date": "1915-02-09",
+   "localTime": "11:00",
+   "text": "A long east-west crack opens in fog and steam is raised; the ship breaks the young ice of her pool but not the pack.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Farthest south",
+   "date": "1915-02-17",
+   "localTime": "00:00",
+   "text": "The sun sets at midnight for the first time in two months.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Farthest south",
+   "date": "1915-02-22",
+   "localTime": "02:00",
+   "text": "Thermometer at 10 below zero Fahrenheit on the day the drift touches the 77th parallel; Shackleton accepts the ship is held for the winter.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Winter station",
+   "date": "1915-02-28",
+   "localTime": "02:00",
+   "text": "Two days after ship's routine ended (24 Feb, no clock time recorded), Hudson listens for the Port Stanley wireless signal and hears nothing.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Sun sets",
+   "date": "1915-05-01",
+   "localTime": "12:00",
+   "text": "The sun just clears the horizon at noon by refraction.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Sun sets",
+   "date": "1915-05-01",
+   "localTime": "14:00",
+   "text": "The sun sets, shortly before 2 p.m., for the winter.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Sun sets",
+   "date": "1915-05-08",
+   "localTime": "11:00",
+   "text": "The sun reappears by refraction; it sets finally at 1.20 p.m. after rising three times.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Sun returns",
+   "date": "1915-07-26",
+   "localTime": "11:55",
+   "text": "Just before noon the top of the sun shows for one minute.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 1 August",
+   "date": "1915-08-01",
+   "localTime": "08:00",
+   "text": "In a south-westerly gale the floe cracks 40 yards off the starboard bow.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 1 August",
+   "date": "1915-08-01",
+   "localTime": "10:00",
+   "text": "The floe breaks up all round; the ship lists over 10 degrees to starboard and the dogs and sledges are brought aboard.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 1 August",
+   "date": "1915-08-03",
+   "localTime": "21:00",
+   "text": "A star sight of Canopus puts the ship at 71 55 17 S: 37 miles north in three days.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 30 September",
+   "date": "1915-09-30",
+   "localTime": "15:00",
+   "text": "Cracks alongside begin to work laterally; the port bow takes 'the worst squeeze we had experienced' until the floe cracks across.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-13",
+   "localTime": "19:00",
+   "text": "The ship breaks free of the floe under her starboard side and comes upright; the rudder is free.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-15",
+   "localTime": "00:00",
+   "text": "Midnight of 14-15 Oct: the ship comes free and drives 100 yards along the lead.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-15",
+   "localTime": "03:00",
+   "text": "The ice closes and the ship is fast again.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-18",
+   "localTime": "16:00",
+   "text": "Afternoon (South gives no clock time): the port floe cracks and within seconds the ship heels 30 degrees to port.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-18",
+   "localTime": "20:00",
+   "text": "The floes open and within minutes the ship is nearly upright again.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-19",
+   "localTime": "23:00",
+   "text": "Barometer 28.96 inches, the lowest since the July gales.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Pressure of 17-18 October",
+   "date": "1915-10-20",
+   "localTime": "11:00",
+   "text": "The engines are given a gentle trial turn astern after eight months frozen.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The leak",
+   "date": "1915-10-24",
+   "localTime": "18:45",
+   "text": "Heavy pressure twists the stern-post and starts the planking; the ship begins to leak badly.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The leak",
+   "date": "1915-10-24",
+   "localTime": "20:00",
+   "text": "Steam is up and the bilge pumps are started; all hands pump watch and watch through the night while the carpenter builds a coffer-dam.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The leak",
+   "date": "1915-10-26",
+   "localTime": "19:00",
+   "text": "Very heavy twisting pressure opens the starboard plank butts four and five inches; the ship bends like a bow.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The leak",
+   "date": "1915-10-26",
+   "localTime": "21:00",
+   "text": "Shackleton orders boats, gear, provisions and sledges lowered to the floe.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "The leak",
+   "date": "1915-10-27",
+   "localTime": "00:00",
+   "text": "Midnight of 26-27 Oct: the working of the floes closes the leaks slightly; pumping goes on all night.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-27",
+   "localTime": "16:00",
+   "text": "The pressure reaches its climax: the stern is hove up (nine feet, by Worsley's log) and the rudder, rudder-post and stern-post are torn out.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-27",
+   "localTime": "17:00",
+   "text": "Shackleton orders all hands on to the ice; fires are drawn and steam let down.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-27",
+   "localTime": "19:00",
+   "text": "The floe under the first camp splits and the camp is moved 200 yards. (Worsley's log puts 'Ship too dangerous to live in we are forced to abandon her' at 7 p.m.)",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-27",
+   "localTime": "20:00",
+   "text": "Camp is pitched again: five tents for twenty-eight men.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-28",
+   "localTime": "00:00",
+   "text": "Midnight: a crack runs through the camp; the whistle turns all hands out to move tents and stores.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-28",
+   "localTime": "05:00",
+   "text": "Shackleton, pacing the floe all night, finds his own tent was never re-pitched and Hurley is asleep in its canvas.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "Abandon ship",
+   "date": "1915-10-28",
+   "localTime": "08:00",
+   "text": "Breakfast of biscuit and hoosh; Shackleton then inspects the wreck.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First march",
+   "date": "1915-10-30",
+   "localTime": "15:00",
+   "text": "The party leaves Dump Camp with two boats on sledges.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First march",
+   "date": "1915-10-30",
+   "localTime": "17:00",
+   "text": "Camp after one mile made good to the north-north-west.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First march",
+   "date": "1915-10-31",
+   "localTime": "02:00",
+   "text": "A crack opens 20 feet from the tents; killer whales are blowing all night.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "First march",
+   "date": "1915-10-31",
+   "localTime": "07:00",
+   "text": "Rickenson and Worsley go back to Dump Camp for wood and blubber.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "episode": "The sinking",
+   "date": "1915-11-21",
+   "localTime": "17:00",
+   "text": "About 5 p.m. ('this evening' in South; 'just before 17:00 LT' in de Vos et al.) Shackleton calls 'She's going, boys!' and the ship goes down bows first.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://hgss.copernicus.org/articles/14/1/2023/"
+   ]
+  },
+  {
+   "episode": "The sinking",
+   "date": "1915-11-21",
+   "localTime": "21:00",
+   "text": "The wind veers west and the sun comes out.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1914-08-08",
+   "end": "1914-08-09",
+   "activity": "at anchor",
+   "weather": "thick weather, south-west gale",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-08-09",
+   "end": "1914-08-21",
+   "activity": "sailing",
+   "weather": "moderate SW gale at first, then light northerly airs and a high swell",
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-08-21",
+   "end": "1914-08-25",
+   "activity": "in port (Madeira)",
+   "weather": null,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-08-25",
+   "end": "1914-08-30",
+   "activity": "sailing / in port (Tenerife)",
+   "weather": null,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-08-30",
+   "end": "1914-10-09",
+   "activity": "sailing",
+   "weather": null,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-10-09",
+   "end": "1914-10-26",
+   "activity": "in port (Buenos Aires)",
+   "weather": null,
+   "sources": [
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-10-26",
+   "end": "1914-11-05",
+   "activity": "sailing",
+   "weather": null,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199",
+    "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+   ]
+  },
+  {
+   "start": "1914-11-05",
+   "end": "1914-12-05",
+   "activity": "at anchor (Grytviken)",
+   "weather": "dull and overcast with snow and sleet on the day of departure",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1914-12-05",
+   "end": "1914-12-11",
+   "activity": "sailing",
+   "weather": "hazy, heavy south-westerly swell, bergs and stream ice",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1914-12-11",
+   "end": "1915-01-09",
+   "activity": "in the pack",
+   "weather": "three south-westerly gales; snow and haze between fine spells; midnight sun from 30 Dec",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-01-09",
+   "end": "1915-01-18",
+   "activity": "sailing",
+   "weather": "open water and leads along the barrier; easterly gale and blizzard 16-17 Jan",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-01-19",
+   "end": "1915-02-24",
+   "activity": "beset",
+   "weather": "north-easterly gales to 22 Jan, then calm with abnormal cold (to -10 F)",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-02-24",
+   "end": "1915-04-30",
+   "activity": "drifting",
+   "weather": "minus temperatures the rule; north-easterly gales early March and early April; mirages",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-05-01",
+   "end": "1915-07-25",
+   "activity": "drifting",
+   "weather": "polar night; generally fine and clear, -5 to -35 F; severe blizzard 13-16 July",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-07-26",
+   "end": "1915-09-29",
+   "activity": "drifting",
+   "weather": "returning daylight; four-day south-westerly blizzard from 1 Aug; pressure in the pack",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-09-30",
+   "end": "1915-10-27",
+   "activity": "drifting",
+   "weather": "heavy pressure; thaw 10-13 Oct, then gales and renewed cold",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-10-27",
+   "end": "1915-10-30",
+   "activity": "camped on the ice",
+   "weather": "clear and cold (-8.5 to -16 F), then overcast with snow",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-10-30",
+   "end": "1915-11-01",
+   "activity": "marching",
+   "weather": "heavy wet snow, +25 F, surface up to the hips",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  },
+  {
+   "start": "1915-11-01",
+   "end": "1915-11-21",
+   "activity": "camped on the ice",
+   "weather": "blizzard 6-8 Nov, then north-easterly winds and thaw (to 33 F); sleet on 21 Nov",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/5199"
+   ]
+  }
+ ],
+ "bibliography": [
+  {
+   "short": "Shackleton",
+   "citation": "Shackleton, Sir Ernest. South: The Story of Shackleton’s Last Expedition, 1914–1917. London: William Heinemann, 1919. Project Gutenberg ebook #5199. Preface and chapters I–V; Appendix I (Hussey, Meteorology; Clark, South Atlantic Whales and Whaling).",
+   "url": "https://www.gutenberg.org/ebooks/5199"
+  },
+  {
+   "short": "Wordie 1921",
+   "citation": "Wordie, J. M. “Shackleton Antarctic Expedition, 1914–1917: Depths and Deposits of the Weddell Sea.” Transactions of the Royal Society of Edinburgh 52, part IV, no. 30 (1921): 781–793. Table of Soundings with daily noon positions, 20 Jan–28 Sep 1915. Read from the archive.org scan of vol. 52 (OCR). DOI 10.1017/S008045680001601X.",
+   "url": "https://archive.org/details/transacti523419191921roya"
+  },
+  {
+   "short": "Wordie 1918",
+   "citation": "Wordie, J. M. “The Drift of the Endurance.” The Geographical Journal 51, no. 4 (April 1918): 216–237. Consulted only through a damaged OCR scan; used for context, not for figures.",
+   "url": "https://archive.org/details/sim_geographical-journal_1918-04_51_4"
+  },
+  {
+   "short": "Bergman & Stuart 2018",
+   "citation": "Bergman, Lars, and Robin G. Stuart. “Navigation of the Shackleton Expedition on the Weddell Sea pack ice.” Records of the Canterbury Museum 32 (2018): 67–98. Transcribes Worsley’s log for 24–27 Oct and 21 Nov 1915.",
+   "url": "https://cms.canterburymuseum.com/assets/Navigation-of-the-Shackleton-Expedition-on-the-Weddell-Sea-pack-ice.pdf"
+  },
+  {
+   "short": "Bergman & Stuart 2019",
+   "citation": "Bergman, Lars, and Robin G. Stuart. “Navigation on Shackleton’s voyage to Antarctica.” Records of the Canterbury Museum 33 (2019): 5–22. Worsley’s log, 1 Aug 1914–19 Jan 1915.",
+   "url": "https://cms.canterburymuseum.com/assets/Navigation-on-Shackletons-voyage-to-Antarctica.pdf"
+  },
+  {
+   "short": "de Vos et al. 2023",
+   "citation": "de Vos, M., P. Kountouris, L. Rabenstein, J. Shears, M. Suhrhoff and C. Katlein. “Understanding the drift of Shackleton’s Endurance during its last days before it sank in November 1915, using meteorological reanalysis data.” History of Geo- and Space Sciences 14 (2023): 1–13.",
+   "url": "https://hgss.copernicus.org/articles/14/1/2023/"
+  },
+  {
+   "short": "RGS timeline",
+   "citation": "Royal Geographical Society (with IBG) and Weddell Sea Expedition. “Shackleton expedition timeline” (education sheet, PDF).",
+   "url": "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+  },
+  {
+   "short": "Wikipedia: ITAE",
+   "citation": "“Imperial Trans-Antarctic Expedition,” Wikipedia (English). Cross-check only.",
+   "url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+  },
+  {
+   "short": "Wikipedia: Endurance",
+   "citation": "“Endurance (1912 ship),” Wikipedia (English). Cross-check; wreck position and depth.",
+   "url": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+  },
+  {
+   "short": "Wikipedia: Personnel",
+   "citation": "“Personnel of the Imperial Trans-Antarctic Expedition,” Wikipedia (English). Cross-check only.",
+   "url": "https://en.wikipedia.org/wiki/Personnel_of_the_Imperial_Trans-Antarctic_Expedition"
+  },
+  {
+   "short": "Wikipedia: Blackborow",
+   "citation": "“Perce Blackborow,” Wikipedia (English), citing Huntford, Shackleton (1985/1998), p. 384.",
+   "url": "https://en.wikipedia.org/wiki/Perce_Blackborow"
+  },
+  {
+   "short": "Wikipedia: Mrs Chippy",
+   "citation": "“Mrs Chippy,” Wikipedia (English), citing Orde-Lees’s diary for 13 Sep 1914.",
+   "url": "https://en.wikipedia.org/wiki/Mrs_Chippy"
+  },
+  {
+   "short": "Wikipedia: Green",
+   "citation": "“Charles Green (cook),” Wikipedia (English). Uncited statement on the dismissed cook.",
+   "url": "https://en.wikipedia.org/wiki/Charles_Green_(cook)"
+  },
+  {
+   "short": "Hurley diary (2 Nov 1915)",
+   "citation": "Frank Hurley, manuscript diary, 2 November 1915, State Library of New South Wales; reproduced at Diaries of Note.",
+   "url": "https://diariesofnote.com/?p=3231"
+  },
+  {
+   "short": "SLNSW",
+   "citation": "State Library of New South Wales, feature on Frank Hurley’s Endurance glass plates (Hurley diary, 9 November 1915). Seen only as a search-result summary, not opened.",
+   "url": "https://www.sl.nsw.gov.au/node/60721"
+  },
+  {
+   "short": "Dartmouth exhibit",
+   "citation": "Dartmouth Library course exhibit (ENVS 15, 2024), “Thomas Orde-Lees’ Role,” drawing on the Orde-Lees diary in the Rauner Stefansson collection.",
+   "url": "https://course-exhibits.library.dartmouth.edu/s/ENVS15_24F/page/resnick3"
+  },
+  {
+   "short": "Cool Antarctica",
+   "citation": "Cool Antarctica, “Sir Ernest Shackleton, Endurance” timeline and crew pages. Cross-check only.",
+   "url": "https://www.coolantarctica.com/Antarctica%20fact%20file/History/Shackleton-Endurance-Trans-Antarctic_expedition.php"
+  }
+ ],
+ "corrections": [
+  "The ship was not lost on the day she was abandoned. She was abandoned on 27 October 1915 (69 05 S, 51 30 W) and sank on 21 November 1915, 25 days and about 28 nautical miles later. Clark's appendix in South itself wrongly says she was 'crushed ... on October 26'.",
+  "Shackleton was not aboard when the Endurance left Plymouth on 8 August 1914, although South's Preface reads as if he were. Worsley's log has him landed in the Admiral's barge; Worsley took the ship to Buenos Aires and Shackleton joined there by steamer in mid-October.",
+  "South's Preface says 'We sailed from London on Friday, August 1, 1914'. 1 August 1914 was a Saturday. The other weekdays in that passage (Tuesday 4 Aug, Saturday 8 Aug) are right.",
+  "'Beset on 18 January' is loose. On 18 Jan the ship was stopped by brash and lay to; the ice closed round her in the night and the morning of 19 Jan is the date Shackleton and Worsley both count from ('281 days' to 27 Oct; '306 days' to 21 Nov); South says a survey on the 20th 'showed that the ship was firmly beset'.",
+  "Clark's appendix in South prints the besetment longitude as 37 30 W. The narrative (31 30 W) and Wordie's table (31 27 W) agree; 37 30 is a misprint.",
+  "The wreck is not where Worsley logged it. He recorded 68 39 30 S, 52 26 30 W, reckoned from sights on 18 and 22 November because of bad weather; the Endurance22 expedition found her on 5 March 2022 at 68 44 21 S, 52 19 47 W in 3,008 m, about 4.9 nautical miles south and 2.4 east (roughly 9 km south-east) of his figure.",
+  "The farthest south (22 Feb 1915, about 76 58 S) was reached by drift while frozen in, a month after the ship stopped, not under her own power. The highest latitude she steamed to was about 76 34 S on 18-19 January.",
+  "The crew did not 'camp at Ocean Camp' from the day of abandonment. They spent 27-30 Oct at Dump Camp beside the wreck, marched about two miles in two days (30-31 Oct), and settled at Ocean Camp on 1 November, a mile and a half from the ship.",
+  "Sixty-nine dogs started; far fewer were alive when the ship was lost. Worms, not cold, killed most: 54 dogs and 8 pups in early April 1915, 50 grown dogs by the end of April, 49 including five grown pups on 29 Oct 1915.",
+  "The lowest temperature of the drift was -35 F (-37.2 C) in July 1915 (Hussey), not the -70s sometimes quoted. Hussey's own summary is that 'Temperatures on the whole were fairly high'.",
+  "From 26 September 1915 the ship's clock ran one hour ahead ('daylight-saving'), so clock times for the October pressure and the abandonment are on that advanced clock. Hussey's meteorological readings from June 1915 were kept on Greenwich time, about three hours ahead of ship's time (Wordie 1918)."
+ ],
+ "openQuestions": [
+  "Farthest south. South: 22 Feb 1915, 'touching the 77th parallel of latitude in long. 35 W'. Popular figure: 76 58 S. Clark's appendix in South: 'The ship drifted to lat. 76 59 S., long. 37 47 W. on March 19, 1915'. Wordie's corrected noon positions never exceed 76 55 S (8 and 19 Feb) and give 76 53 S 37 17 W on 18 March. Wordie's table has no entry for 22 Feb, so the three versions cannot be reconciled from print.",
+  "Abandonment longitude: South prints 51 30 W; Worsley's log (as transcribed by Bergman & Stuart) has 'Landed on Floe 69 5' 51 32''.",
+  "Time of abandonment: South has the climax at 4 p.m. and the order 'all hands on to the ice' at 5 p.m., with the camp moved at 7 p.m. Worsley's log reads '4P Terrific pressure ... Decks breaking up 7P. Ship too dangerous to live in we are forced to abandon her' — the '7P' may belong to either sentence.",
+  "Time of the sinking: South gives no clock time ('This evening, as we were lying in our tents'). 'About 5 p.m.' is the usual statement and de Vos et al. say 'just before 17:00 LT'; I did not see the diary line that fixes it.",
+  "Longitudes during the drift come in two series. South prints the figures as worked on board; Wordie's table prints them after James re-reduced the lunar occultations (shifts of several miles, largest in mid-1915). Where both exist (24 Jan, 7 Feb, 4 Jul) they differ by 7-15 minutes of longitude. Both are in the itinerary and labelled.",
+  "Wordie's table was read from an OCR scan. Flagged readings: 23 Mar latitude, 19 Apr and 21 Apr longitude, 31 May longitude, 24 Jun latitude (scan '75 02', taken as 74 02). Two rows were left out as probably misread: 24 May (75 22 S, 45 45 W) and 11 Jun (74 27 S, 44 45 W). A check against the printed page would settle these.",
+  "11-12 Jan 1915: South's noon positions (73 13 S 20 43 W; 74 04 S 22 48 W) and Wordie's dead-reckoned sounding positions for what appear to be the same casts (73 20 S 20 55 W; 74 06-74 10 S 22 51-23 02 W) differ by up to 7 miles.",
+  "Buenos Aires. Arrival 9 Oct and departure 26 Oct are firm (Worsley's log). I could not source Shackleton's own arrival date (Wikipedia: 'a few days after Endurance's arrival'; others 'mid-October'), nor the names of the men discharged. Wikipedia's Green article says the cook was fired for drunkenness but cites nothing; the often-repeated detail that two or three seamen were also paid off rests on Lansing/Alexander, which I did not consult.",
+  "Ports on the way out. Bergman & Stuart (from Worsley's log) give Plymouth - Madeira - Tenerife - past Cape Verde - Buenos Aires. Some secondary accounts list 'Madeira, Montevideo and Buenos Aires'. I found no log evidence of a Montevideo call. Arrival dates at Madeira (about 21 Aug) and Tenerife (about 27 Aug) are inferred, not printed.",
+  "When Blackborow was found. Wikipedia (after Huntford): 'the third day at sea' out of Buenos Aires, i.e. about 28 Oct 1914. Another reference summary (SNAC) says shortly after leaving South Georgia. The first is the standard version.",
+  "Hurley's plates. The State Library of NSW dates the choosing of 120 plates and smashing of about 400 to Hurley's diary of 9 Nov 1915; the RGS timeline says 8 Nov; a Mystic Seaport reading quotes Hurley's original diary as 'about 150' kept. The recovery of the cases from the wreck is in his diary for 2 Nov.",
+  "Dog arithmetic on 29 Oct 1915: '49 dogs including five grown-up pups', then four pups shot that afternoon, yet seven teams are described afterwards. South does not say whether the 49 is before or after the shooting.",
+  "Orde-Lees's bicycle rides and the search party sent after him are attested (Dartmouth exhibit from his diary) but I found no date; the moment is filed at 15 March 1915 as a placeholder.",
+  "Worsley's sun-sight fixes of 18 and 22 November 1915, which bracket the sinking, are discussed by de Vos et al. and Bergman & Stuart but the figures are in the paywalled Journal of Navigation paper (2019, vol. 72) and are not in this file. No positions at all are printed in South between 27 Oct and 21 Nov."
+ ]
+}

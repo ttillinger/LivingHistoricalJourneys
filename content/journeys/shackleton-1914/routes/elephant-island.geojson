@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shackleton’s Endurance Expedition — The men on Elephant Island"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -54.65,
+        -61.1
+      ],
+      [
+        -54.8667,
+        -61.1
+      ],
+      [
+        -54.8667,
+        -61.1
+      ]
+    ]
+  }
+}

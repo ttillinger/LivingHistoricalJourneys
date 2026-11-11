@@ -1,152 +1,3797 @@
 {
   "id": "oregon-trail-1843",
-  "version": 1,
-  "title": "Oregon Trail Wagon Train (1843)",
-  "description": "Highly simplified route of a typical wagon train from Independence, Missouri to the Willamette Valley in 1843.",
+  "version": 2,
+  "title": "The Oregon Emigration of 1843",
+  "description": "The Great Migration: the first large wagon train to Oregon, some 900 people and 120 wagons, from the Missouri frontier to the Willamette. Followed camp by camp through the diary of one young man who drove a wagon in it.",
   "tier": "premium",
   "coordinateSpace": "geo",
   "time": {
-    "start": "1843-05-01T00:00:00Z",
-    "end": "1843-10-15T00:00:00Z"
+    "start": "1843-05-18T14:18:00Z",
+    "end": "1843-11-30T23:10:00Z"
   },
   "mapDefaults": {
     "bounds": [
-      -125,
-      37,
-      -95,
-      47.5
+      -123.6,
+      38.2,
+      -93.8,
+      46.6
     ],
     "styles": [
-      "modern",
-      "atlas"
-    ]
+      "period",
+      "modern"
+    ],
+    "followZoom": 6.8
   },
   "tracks": [
     {
-      "id": "wagon-train",
-      "name": "Wagon Train",
-      "kind": "caravan",
-      "color": "#8e5c2c",
+      "id": "wagons",
+      "name": "The wagons",
+      "kind": "wagon-train",
+      "color": "#8a5a2b",
       "isPrimary": true,
-      "route": "routes/wagon-train.geojson",
+      "route": "routes/wagons.geojson",
       "schedule": [
         {
-          "t": "1843-05-01T00:00:00Z",
+          "t": "1843-05-18T14:18:00Z",
           "km": 0,
-          "label": "Independence, Missouri – Starting out"
+          "label": "The rendezvous west of Independence"
         },
         {
-          "t": "1843-05-20T00:00:00Z",
-          "km": 350.28,
-          "label": "Across the prairie in Kansas/Nebraska"
+          "t": "1843-05-22T13:18:00Z",
+          "km": 0,
+          "label": "The rendezvous west of Independence"
         },
         {
-          "t": "1843-06-15T00:00:00Z",
-          "km": 626.17,
-          "label": "Near Missouri River crossings"
+          "t": "1843-05-22T21:19:00Z",
+          "km": 25.78,
+          "label": "Elm Grove (Lone Elm)"
         },
         {
-          "t": "1843-07-01T00:00:00Z",
-          "km": 1499.8,
-          "label": "Approaching South Pass in the Rockies"
+          "t": "1843-05-23T13:19:00Z",
+          "km": 25.78,
+          "label": "Elm Grove (Lone Elm)"
         },
         {
-          "t": "1843-08-01T00:00:00Z",
-          "km": 1969.41,
-          "label": "Snake River country"
+          "t": "1843-05-23T23:20:00Z",
+          "km": 46.3,
+          "label": "Camp at timber near a small creek, a mile off the Santa Fe Trail"
         },
         {
-          "t": "1843-09-01T00:00:00Z",
-          "km": 2357.85,
-          "label": "Boise area / western Idaho"
+          "t": "1843-05-24T13:20:00Z",
+          "km": 46.3,
+          "label": "Camp at timber near a small creek, a mile off the Santa Fe Trail"
         },
         {
-          "t": "1843-10-15T00:00:00Z",
-          "km": 2833.32,
-          "label": "Willamette Valley / Oregon City"
+          "t": "1843-05-24T23:21:00Z",
+          "km": 64.24,
+          "label": "Wakarusa River (“Rockariski”, “Walkalusia”)"
+        },
+        {
+          "t": "1843-05-25T13:21:00Z",
+          "km": 64.24,
+          "label": "Wakarusa River (“Rockariski”, “Walkalusia”)"
+        },
+        {
+          "t": "1843-05-25T23:22:00Z",
+          "km": 98.18,
+          "label": "Camp on a creek, wagons on both sides"
+        },
+        {
+          "t": "1843-05-26T13:22:00Z",
+          "km": 98.18,
+          "label": "Camp on a creek, wagons on both sides"
+        },
+        {
+          "t": "1843-05-26T23:23:00Z",
+          "km": 118.92,
+          "label": "Kansas (Kaw) River crossing, Papin’s ferry"
+        },
+        {
+          "t": "1843-05-31T13:23:00Z",
+          "km": 118.92,
+          "label": "Kansas (Kaw) River crossing, Papin’s ferry"
+        },
+        {
+          "t": "1843-05-31T23:23:00Z",
+          "km": 123.42,
+          "label": "Soldier Creek (“Black Warrior Creek”)"
+        },
+        {
+          "t": "1843-06-02T13:23:00Z",
+          "km": 123.42,
+          "label": "Soldier Creek (“Black Warrior Creek”)"
+        },
+        {
+          "t": "1843-06-02T23:23:00Z",
+          "km": 134,
+          "label": "Camp in a square on the bank of the Kansas River"
+        },
+        {
+          "t": "1843-06-03T13:23:00Z",
+          "km": 134,
+          "label": "Camp in a square on the bank of the Kansas River"
+        },
+        {
+          "t": "1843-06-04T23:25:00Z",
+          "km": 178.5,
+          "label": "“Big Sandy” creek"
+        },
+        {
+          "t": "1843-06-05T13:25:00Z",
+          "km": 178.5,
+          "label": "“Big Sandy” creek"
+        },
+        {
+          "t": "1843-06-05T23:26:00Z",
+          "km": 229.24,
+          "label": "East Fork of Blue"
+        },
+        {
+          "t": "1843-06-06T13:26:00Z",
+          "km": 229.24,
+          "label": "East Fork of Blue"
+        },
+        {
+          "t": "1843-06-06T23:27:00Z",
+          "km": 252.56,
+          "label": "West Fork of Blue (Big Blue River)"
+        },
+        {
+          "t": "1843-06-07T13:27:00Z",
+          "km": 252.56,
+          "label": "West Fork of Blue (Big Blue River)"
+        },
+        {
+          "t": "1843-06-07T23:27:00Z",
+          "km": 254.47,
+          "label": "Flooded camp west of the Big Blue"
+        },
+        {
+          "t": "1843-06-08T13:27:00Z",
+          "km": 254.47,
+          "label": "Flooded camp west of the Big Blue"
+        },
+        {
+          "t": "1843-06-08T23:27:00Z",
+          "km": 261.05,
+          "label": "Grove of green elm trees"
+        },
+        {
+          "t": "1843-06-09T13:27:00Z",
+          "km": 261.05,
+          "label": "Grove of green elm trees"
+        },
+        {
+          "t": "1843-06-09T18:27:00Z",
+          "km": 267.78,
+          "label": "Small grove south of the trail"
+        },
+        {
+          "t": "1843-06-10T13:27:00Z",
+          "km": 267.78,
+          "label": "Small grove south of the trail"
+        },
+        {
+          "t": "1843-06-10T23:28:00Z",
+          "km": 283.47,
+          "label": "Grove north of the trail"
+        },
+        {
+          "t": "1843-06-11T13:28:00Z",
+          "km": 283.47,
+          "label": "Grove north of the trail"
+        },
+        {
+          "t": "1843-06-11T23:28:00Z",
+          "km": 304.94,
+          "label": "Horse Creek (west side)"
+        },
+        {
+          "t": "1843-06-12T13:28:00Z",
+          "km": 304.94,
+          "label": "Horse Creek (west side)"
+        },
+        {
+          "t": "1843-06-12T23:29:00Z",
+          "km": 320.01,
+          "label": "Grove a mile and a half north of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-13T13:29:00Z",
+          "km": 320.01,
+          "label": "Grove a mile and a half north of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-13T23:30:00Z",
+          "km": 341.41,
+          "label": "Ash Creek"
+        },
+        {
+          "t": "1843-06-14T13:30:00Z",
+          "km": 341.41,
+          "label": "Ash Creek"
+        },
+        {
+          "t": "1843-06-14T23:30:00Z",
+          "km": 361.25,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-15T13:30:00Z",
+          "km": 361.25,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-15T23:32:00Z",
+          "km": 386.96,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-16T13:32:00Z",
+          "km": 386.96,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-16T23:33:00Z",
+          "km": 414.22,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-17T13:33:00Z",
+          "km": 414.22,
+          "label": "Bank of the (Little) Blue"
+        },
+        {
+          "t": "1843-06-17T23:34:00Z",
+          "km": 437.39,
+          "label": "Last timber on the (Little) Blue"
+        },
+        {
+          "t": "1843-06-18T13:34:00Z",
+          "km": 437.39,
+          "label": "Last timber on the (Little) Blue"
+        },
+        {
+          "t": "1843-06-18T23:36:00Z",
+          "km": 491.01,
+          "label": "Platte River near the head of Grand Island"
+        },
+        {
+          "t": "1843-06-19T13:36:00Z",
+          "km": 491.01,
+          "label": "Platte River near the head of Grand Island"
+        },
+        {
+          "t": "1843-06-19T23:36:00Z",
+          "km": 506.31,
+          "label": "Bank of the Platte"
+        },
+        {
+          "t": "1843-06-20T13:36:00Z",
+          "km": 506.31,
+          "label": "Bank of the Platte"
+        },
+        {
+          "t": "1843-06-22T23:40:00Z",
+          "km": 588.08,
+          "label": "Platte valley, first buffalo herd"
+        },
+        {
+          "t": "1843-06-23T13:40:00Z",
+          "km": 588.08,
+          "label": "Platte valley, first buffalo herd"
+        },
+        {
+          "t": "1843-06-24T23:42:00Z",
+          "km": 645.28,
+          "label": "Bank of the Platte below the forks"
+        },
+        {
+          "t": "1843-06-25T13:42:00Z",
+          "km": 645.28,
+          "label": "Bank of the Platte below the forks"
+        },
+        {
+          "t": "1843-06-26T18:46:00Z",
+          "km": 715.3,
+          "label": "The usual crossing of the South Fork"
+        },
+        {
+          "t": "1843-06-27T13:46:00Z",
+          "km": 715.3,
+          "label": "The usual crossing of the South Fork"
+        },
+        {
+          "t": "1843-06-27T23:47:00Z",
+          "km": 744.26,
+          "label": "Bank of the South Fork"
+        },
+        {
+          "t": "1843-06-28T13:47:00Z",
+          "km": 744.26,
+          "label": "Bank of the South Fork"
+        },
+        {
+          "t": "1843-06-28T23:48:00Z",
+          "km": 765.91,
+          "label": "Bank of the South Fork"
+        },
+        {
+          "t": "1843-06-29T13:48:00Z",
+          "km": 765.91,
+          "label": "Bank of the South Fork"
+        },
+        {
+          "t": "1843-06-29T23:49:00Z",
+          "km": 792.15,
+          "label": "Sleepy Grove, south bank of the South Fork"
+        },
+        {
+          "t": "1843-07-05T13:49:00Z",
+          "km": 792.15,
+          "label": "Sleepy Grove, south bank of the South Fork"
+        },
+        {
+          "t": "1843-07-05T23:49:00Z",
+          "km": 793.27,
+          "label": "North bank opposite Sleepy Grove"
+        },
+        {
+          "t": "1843-07-06T13:49:00Z",
+          "km": 793.27,
+          "label": "North bank opposite Sleepy Grove"
+        },
+        {
+          "t": "1843-07-06T23:49:00Z",
+          "km": 804.27,
+          "label": "Camp on the river bank seven miles from the crossing"
+        },
+        {
+          "t": "1843-07-07T13:49:00Z",
+          "km": 804.27,
+          "label": "Camp on the river bank seven miles from the crossing"
+        },
+        {
+          "t": "1843-07-07T23:50:00Z",
+          "km": 857.62,
+          "label": "North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-08T13:50:00Z",
+          "km": 857.62,
+          "label": "North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-08T23:51:00Z",
+          "km": 889.42,
+          "label": "North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-09T13:51:00Z",
+          "km": 889.42,
+          "label": "North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-09T23:52:00Z",
+          "km": 917.38,
+          "label": "Bank of the North Fork, Chimney Rock in sight"
+        },
+        {
+          "t": "1843-07-10T13:52:00Z",
+          "km": 917.38,
+          "label": "Bank of the North Fork, Chimney Rock in sight"
+        },
+        {
+          "t": "1843-07-10T23:54:00Z",
+          "km": 950.1,
+          "label": "Chimney Rock; camp about nine miles beyond"
+        },
+        {
+          "t": "1843-07-11T13:54:00Z",
+          "km": 950.1,
+          "label": "Chimney Rock; camp about nine miles beyond"
+        },
+        {
+          "t": "1843-07-11T22:55:00Z",
+          "km": 982.53,
+          "label": "Small creek in the prairie behind Scott’s Bluffs"
+        },
+        {
+          "t": "1843-07-12T13:55:00Z",
+          "km": 982.53,
+          "label": "Small creek in the prairie behind Scott’s Bluffs"
+        },
+        {
+          "t": "1843-07-12T23:56:00Z",
+          "km": 1014.6,
+          "label": "Bank of the North Fork under sand and clay bluffs"
+        },
+        {
+          "t": "1843-07-13T13:56:00Z",
+          "km": 1014.6,
+          "label": "Bank of the North Fork under sand and clay bluffs"
+        },
+        {
+          "t": "1843-07-13T23:57:00Z",
+          "km": 1037.29,
+          "label": "Camp on the river short of a Sioux village"
+        },
+        {
+          "t": "1843-07-14T13:57:00Z",
+          "km": 1037.29,
+          "label": "Camp on the river short of a Sioux village"
+        },
+        {
+          "t": "1843-07-14T16:58:00Z",
+          "km": 1058.51,
+          "label": "Fort Laramie"
+        },
+        {
+          "t": "1843-07-16T13:58:00Z",
+          "km": 1058.51,
+          "label": "Fort Laramie"
+        },
+        {
+          "t": "1843-07-16T23:59:00Z",
+          "km": 1079.26,
+          "label": "Big spring on Sand Creek (Warm Springs)"
+        },
+        {
+          "t": "1843-07-17T13:59:00Z",
+          "km": 1079.26,
+          "label": "Big spring on Sand Creek (Warm Springs)"
+        },
+        {
+          "t": "1843-07-18T00:00:00Z",
+          "km": 1098.16,
+          "label": "Between the two canyons of the Platte"
+        },
+        {
+          "t": "1843-07-18T14:00:00Z",
+          "km": 1098.16,
+          "label": "Between the two canyons of the Platte"
+        },
+        {
+          "t": "1843-07-19T00:00:00Z",
+          "km": 1113.9,
+          "label": "Dry creek with cottonwoods at the Platte"
+        },
+        {
+          "t": "1843-07-19T14:00:00Z",
+          "km": 1113.9,
+          "label": "Dry creek with cottonwoods at the Platte"
+        },
+        {
+          "t": "1843-07-20T00:02:00Z",
+          "km": 1155.14,
+          "label": "Big Rock Creek"
+        },
+        {
+          "t": "1843-07-20T14:02:00Z",
+          "km": 1155.14,
+          "label": "Big Rock Creek"
+        },
+        {
+          "t": "1843-07-20T19:02:00Z",
+          "km": 1175.23,
+          "label": "Squaw Butte Creek; grave of Joel Hembree"
+        },
+        {
+          "t": "1843-07-21T14:02:00Z",
+          "km": 1175.23,
+          "label": "Squaw Butte Creek; grave of Joel Hembree"
+        },
+        {
+          "t": "1843-07-22T00:03:00Z",
+          "km": 1203.44,
+          "label": "Bank of the North Platte"
+        },
+        {
+          "t": "1843-07-22T14:03:00Z",
+          "km": 1203.44,
+          "label": "Bank of the North Platte"
+        },
+        {
+          "t": "1843-07-22T19:04:00Z",
+          "km": 1213.91,
+          "label": "Bank of the North Platte"
+        },
+        {
+          "t": "1843-07-23T14:04:00Z",
+          "km": 1213.91,
+          "label": "Bank of the North Platte"
+        },
+        {
+          "t": "1843-07-24T00:05:00Z",
+          "km": 1233.86,
+          "label": "Small creek a mile from the Platte"
+        },
+        {
+          "t": "1843-07-24T14:05:00Z",
+          "km": 1233.86,
+          "label": "Small creek a mile from the Platte"
+        },
+        {
+          "t": "1843-07-24T19:05:00Z",
+          "km": 1246.28,
+          "label": "Crossing of the North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-25T14:05:00Z",
+          "km": 1246.28,
+          "label": "Crossing of the North Fork of the Platte"
+        },
+        {
+          "t": "1843-07-26T00:07:00Z",
+          "km": 1278.58,
+          "label": "A salt creek"
+        },
+        {
+          "t": "1843-07-26T14:07:00Z",
+          "km": 1278.58,
+          "label": "A salt creek"
+        },
+        {
+          "t": "1843-07-27T00:08:00Z",
+          "km": 1315.48,
+          "label": "A beautiful creek seven miles from Sweet Water"
+        },
+        {
+          "t": "1843-07-27T14:08:00Z",
+          "km": 1315.48,
+          "label": "A beautiful creek seven miles from Sweet Water"
+        },
+        {
+          "t": "1843-07-28T00:09:00Z",
+          "km": 1328.52,
+          "label": "Independence Rock, on the Sweetwater"
+        },
+        {
+          "t": "1843-07-31T14:09:00Z",
+          "km": 1328.52,
+          "label": "Independence Rock, on the Sweetwater"
+        },
+        {
+          "t": "1843-08-01T00:09:00Z",
+          "km": 1342.17,
+          "label": "Sweetwater above the Canyon of the Sweet Water (Devil’s Gate)"
+        },
+        {
+          "t": "1843-08-01T14:09:00Z",
+          "km": 1342.17,
+          "label": "Sweetwater above the Canyon of the Sweet Water (Devil’s Gate)"
+        },
+        {
+          "t": "1843-08-02T00:10:00Z",
+          "km": 1370.53,
+          "label": "Sweetwater under a point of mountain"
+        },
+        {
+          "t": "1843-08-02T14:10:00Z",
+          "km": 1370.53,
+          "label": "Sweetwater under a point of mountain"
+        },
+        {
+          "t": "1843-08-03T00:11:00Z",
+          "km": 1379.29,
+          "label": "Sweetwater"
+        },
+        {
+          "t": "1843-08-03T14:11:00Z",
+          "km": 1379.29,
+          "label": "Sweetwater"
+        },
+        {
+          "t": "1843-08-04T00:12:00Z",
+          "km": 1409.58,
+          "label": "Sweetwater, end of the cut-off of the bend"
+        },
+        {
+          "t": "1843-08-04T14:12:00Z",
+          "km": 1409.58,
+          "label": "Sweetwater, end of the cut-off of the bend"
+        },
+        {
+          "t": "1843-08-05T00:13:00Z",
+          "km": 1422.69,
+          "label": "Sweetwater; grave of Clayborne Payne"
+        },
+        {
+          "t": "1843-08-05T14:13:00Z",
+          "km": 1422.69,
+          "label": "Sweetwater; grave of Clayborne Payne"
+        },
+        {
+          "t": "1843-08-06T00:14:00Z",
+          "km": 1456.47,
+          "label": "Small branches of good water above the Sweetwater"
+        },
+        {
+          "t": "1843-08-06T14:14:00Z",
+          "km": 1456.47,
+          "label": "Small branches of good water above the Sweetwater"
+        },
+        {
+          "t": "1843-08-07T00:15:00Z",
+          "km": 1475.22,
+          "label": "Last camp on the Sweetwater"
+        },
+        {
+          "t": "1843-08-07T14:15:00Z",
+          "km": 1475.22,
+          "label": "Last camp on the Sweetwater"
+        },
+        {
+          "t": "1843-08-07T19:16:00Z",
+          "km": 1490.13,
+          "label": "South Pass"
+        },
+        {
+          "t": "1843-08-08T14:16:00Z",
+          "km": 1490.13,
+          "label": "South Pass"
+        },
+        {
+          "t": "1843-08-09T00:17:00Z",
+          "km": 1528.85,
+          "label": "Sandy (Little Sandy Creek)"
+        },
+        {
+          "t": "1843-08-09T14:17:00Z",
+          "km": 1528.85,
+          "label": "Sandy (Little Sandy Creek)"
+        },
+        {
+          "t": "1843-08-09T19:18:00Z",
+          "km": 1547.29,
+          "label": "Big Sandy"
+        },
+        {
+          "t": "1843-08-10T14:18:00Z",
+          "km": 1547.29,
+          "label": "Big Sandy"
+        },
+        {
+          "t": "1843-08-12T00:19:00Z",
+          "km": 1586.66,
+          "label": "Green River crossing"
+        },
+        {
+          "t": "1843-08-12T14:19:00Z",
+          "km": 1586.66,
+          "label": "Green River crossing"
+        },
+        {
+          "t": "1843-08-13T00:19:00Z",
+          "km": 1607.78,
+          "label": "Down Green River"
+        },
+        {
+          "t": "1843-08-13T14:19:00Z",
+          "km": 1607.78,
+          "label": "Down Green River"
+        },
+        {
+          "t": "1843-08-14T00:20:00Z",
+          "km": 1628.86,
+          "label": "Ham’s Fork / Black’s Fork"
+        },
+        {
+          "t": "1843-08-14T14:20:00Z",
+          "km": 1628.86,
+          "label": "Ham’s Fork / Black’s Fork"
+        },
+        {
+          "t": "1843-08-15T00:22:00Z",
+          "km": 1680.33,
+          "label": "Fort Bridger on Black’s Fork"
+        },
+        {
+          "t": "1843-08-17T14:22:00Z",
+          "km": 1680.33,
+          "label": "Fort Bridger on Black’s Fork"
+        },
+        {
+          "t": "1843-08-18T00:22:00Z",
+          "km": 1723.43,
+          "label": "Muddy Creek"
+        },
+        {
+          "t": "1843-08-18T14:22:00Z",
+          "km": 1723.43,
+          "label": "Muddy Creek"
+        },
+        {
+          "t": "1843-08-19T00:23:00Z",
+          "km": 1727.07,
+          "label": "Head of Muddy Creek"
+        },
+        {
+          "t": "1843-08-19T14:23:00Z",
+          "km": 1727.07,
+          "label": "Head of Muddy Creek"
+        },
+        {
+          "t": "1843-08-20T00:23:00Z",
+          "km": 1755.11,
+          "label": "Over the Bear River Divide"
+        },
+        {
+          "t": "1843-08-20T14:23:00Z",
+          "km": 1755.11,
+          "label": "Over the Bear River Divide"
+        },
+        {
+          "t": "1843-08-21T00:24:00Z",
+          "km": 1798.04,
+          "label": "Bear River"
+        },
+        {
+          "t": "1843-08-21T14:24:00Z",
+          "km": 1798.04,
+          "label": "Bear River"
+        },
+        {
+          "t": "1843-08-22T00:24:00Z",
+          "km": 1826.55,
+          "label": "Bank of Bear River"
+        },
+        {
+          "t": "1843-08-22T14:24:00Z",
+          "km": 1826.55,
+          "label": "Bank of Bear River"
+        },
+        {
+          "t": "1843-08-23T00:25:00Z",
+          "km": 1856.93,
+          "label": "Bear River beyond the high mountain (Big Hill)"
+        },
+        {
+          "t": "1843-08-23T14:25:00Z",
+          "km": 1856.93,
+          "label": "Bear River beyond the high mountain (Big Hill)"
+        },
+        {
+          "t": "1843-08-24T00:26:00Z",
+          "km": 1878.39,
+          "label": "Small creek three miles from Bear River"
+        },
+        {
+          "t": "1843-08-24T14:26:00Z",
+          "km": 1878.39,
+          "label": "Small creek three miles from Bear River"
+        },
+        {
+          "t": "1843-08-24T21:27:00Z",
+          "km": 1914.63,
+          "label": "Soda Springs, on Bear River"
+        },
+        {
+          "t": "1843-08-25T14:27:00Z",
+          "km": 1914.63,
+          "label": "Soda Springs, on Bear River"
+        },
+        {
+          "t": "1843-08-26T00:28:00Z",
+          "km": 1945.29,
+          "label": "Portneuf River"
+        },
+        {
+          "t": "1843-08-26T14:28:00Z",
+          "km": 1945.29,
+          "label": "Portneuf River"
+        },
+        {
+          "t": "1843-08-27T00:29:00Z",
+          "km": 1969.92,
+          "label": "Some springs"
+        },
+        {
+          "t": "1843-08-27T14:29:00Z",
+          "km": 1969.92,
+          "label": "Some springs"
+        },
+        {
+          "t": "1843-08-28T00:30:00Z",
+          "km": 1997.15,
+          "label": "Left of the trail near the turn for Snake River"
+        },
+        {
+          "t": "1843-08-28T14:30:00Z",
+          "km": 1997.15,
+          "label": "Left of the trail near the turn for Snake River"
+        },
+        {
+          "t": "1843-08-29T00:31:00Z",
+          "km": 2016.69,
+          "label": "Fort Hall on Snake River"
+        },
+        {
+          "t": "1843-09-01T14:31:00Z",
+          "km": 2016.69,
+          "label": "Fort Hall on Snake River"
+        },
+        {
+          "t": "1843-09-02T00:31:00Z",
+          "km": 2047.06,
+          "label": "Snake River below Fort Hall"
+        },
+        {
+          "t": "1843-09-02T14:31:00Z",
+          "km": 2047.06,
+          "label": "Snake River below Fort Hall"
+        },
+        {
+          "t": "1843-09-03T00:33:00Z",
+          "km": 2091.32,
+          "label": "Small branch six miles from the river (past American Falls)"
+        },
+        {
+          "t": "1843-09-03T14:33:00Z",
+          "km": 2091.32,
+          "label": "Small branch six miles from the river (past American Falls)"
+        },
+        {
+          "t": "1843-09-04T00:34:00Z",
+          "km": 2122.69,
+          "label": "Small branch with excellent grass"
+        },
+        {
+          "t": "1843-09-04T14:34:00Z",
+          "km": 2122.69,
+          "label": "Small branch with excellent grass"
+        },
+        {
+          "t": "1843-09-05T00:36:00Z",
+          "km": 2152.96,
+          "label": "Bank of Snake River"
+        },
+        {
+          "t": "1843-09-05T14:36:00Z",
+          "km": 2152.96,
+          "label": "Bank of Snake River"
+        },
+        {
+          "t": "1843-09-05T21:37:00Z",
+          "km": 2170.38,
+          "label": "Creek with water in holes"
+        },
+        {
+          "t": "1843-09-06T14:37:00Z",
+          "km": 2170.38,
+          "label": "Creek with water in holes"
+        },
+        {
+          "t": "1843-09-07T00:38:00Z",
+          "km": 2202.8,
+          "label": "Rock Creek crossing (in the canyon)"
+        },
+        {
+          "t": "1843-09-07T14:38:00Z",
+          "km": 2202.8,
+          "label": "Rock Creek crossing (in the canyon)"
+        },
+        {
+          "t": "1843-09-08T00:39:00Z",
+          "km": 2230.55,
+          "label": "Snake River ten miles above Salmon Falls"
+        },
+        {
+          "t": "1843-09-08T14:39:00Z",
+          "km": 2230.55,
+          "label": "Snake River ten miles above Salmon Falls"
+        },
+        {
+          "t": "1843-09-09T00:39:00Z",
+          "km": 2245.1,
+          "label": "Creek near Salmon Falls"
+        },
+        {
+          "t": "1843-09-09T14:39:00Z",
+          "km": 2245.1,
+          "label": "Creek near Salmon Falls"
+        },
+        {
+          "t": "1843-09-10T00:41:00Z",
+          "km": 2283.85,
+          "label": "Big bluff without grass, below Salmon Falls"
+        },
+        {
+          "t": "1843-09-10T14:41:00Z",
+          "km": 2283.85,
+          "label": "Big bluff without grass, below Salmon Falls"
+        },
+        {
+          "t": "1843-09-11T00:41:00Z",
+          "km": 2296.89,
+          "label": "Island in Snake River (the upper crossing)"
+        },
+        {
+          "t": "1843-09-11T14:41:00Z",
+          "km": 2296.89,
+          "label": "Island in Snake River (the upper crossing)"
+        },
+        {
+          "t": "1843-09-12T00:41:00Z",
+          "km": 2304.37,
+          "label": "North bank of Snake River, dry branch"
+        },
+        {
+          "t": "1843-09-12T14:41:00Z",
+          "km": 2304.37,
+          "label": "North bank of Snake River, dry branch"
+        },
+        {
+          "t": "1843-09-13T00:42:00Z",
+          "km": 2312.12,
+          "label": "Small creek north of the crossing"
+        },
+        {
+          "t": "1843-09-13T14:42:00Z",
+          "km": 2312.12,
+          "label": "Small creek north of the crossing"
+        },
+        {
+          "t": "1843-09-13T19:42:00Z",
+          "km": 2328.13,
+          "label": "Hot Spring"
+        },
+        {
+          "t": "1843-09-14T14:42:00Z",
+          "km": 2328.13,
+          "label": "Hot Spring"
+        },
+        {
+          "t": "1843-09-15T00:43:00Z",
+          "km": 2350.98,
+          "label": "Small creek"
+        },
+        {
+          "t": "1843-09-15T14:43:00Z",
+          "km": 2350.98,
+          "label": "Small creek"
+        },
+        {
+          "t": "1843-09-16T00:44:00Z",
+          "km": 2385.18,
+          "label": "Small branch eight miles west of the deep hole spring"
+        },
+        {
+          "t": "1843-09-16T14:44:00Z",
+          "km": 2385.18,
+          "label": "Small branch eight miles west of the deep hole spring"
+        },
+        {
+          "t": "1843-09-17T00:45:00Z",
+          "km": 2409.99,
+          "label": "Boise River"
+        },
+        {
+          "t": "1843-09-17T14:45:00Z",
+          "km": 2409.99,
+          "label": "Boise River"
+        },
+        {
+          "t": "1843-09-18T00:46:00Z",
+          "km": 2435.21,
+          "label": "South bank of Boise River"
+        },
+        {
+          "t": "1843-09-18T14:46:00Z",
+          "km": 2435.21,
+          "label": "South bank of Boise River"
+        },
+        {
+          "t": "1843-09-19T00:47:00Z",
+          "km": 2457.37,
+          "label": "Boise River crossing"
+        },
+        {
+          "t": "1843-09-19T14:47:00Z",
+          "km": 2457.37,
+          "label": "Boise River crossing"
+        },
+        {
+          "t": "1843-09-20T00:48:00Z",
+          "km": 2483.31,
+          "label": "Fort Boise"
+        },
+        {
+          "t": "1843-09-20T14:48:00Z",
+          "km": 2483.31,
+          "label": "Fort Boise"
+        },
+        {
+          "t": "1843-09-21T00:48:00Z",
+          "km": 2484.42,
+          "label": "Snake River ford below Fort Boise"
+        },
+        {
+          "t": "1843-09-21T14:48:00Z",
+          "km": 2484.42,
+          "label": "Snake River ford below Fort Boise"
+        },
+        {
+          "t": "1843-09-22T00:49:00Z",
+          "km": 2509.64,
+          "label": "Malheur Creek"
+        },
+        {
+          "t": "1843-09-22T14:49:00Z",
+          "km": 2509.64,
+          "label": "Malheur Creek"
+        },
+        {
+          "t": "1843-09-23T00:49:00Z",
+          "km": 2536.47,
+          "label": "Small stream"
+        },
+        {
+          "t": "1843-09-23T14:49:00Z",
+          "km": 2536.47,
+          "label": "Small stream"
+        },
+        {
+          "t": "1843-09-24T00:49:00Z",
+          "km": 2555.58,
+          "label": "Burnt River"
+        },
+        {
+          "t": "1843-09-24T14:49:00Z",
+          "km": 2555.58,
+          "label": "Burnt River"
+        },
+        {
+          "t": "1843-09-25T00:49:00Z",
+          "km": 2569.1,
+          "label": "Burnt River canyon"
+        },
+        {
+          "t": "1843-09-25T14:49:00Z",
+          "km": 2569.1,
+          "label": "Burnt River canyon"
+        },
+        {
+          "t": "1843-09-26T00:50:00Z",
+          "km": 2593.6,
+          "label": "Head of the left-hand fork of Burnt River"
+        },
+        {
+          "t": "1843-09-26T14:50:00Z",
+          "km": 2593.6,
+          "label": "Head of the left-hand fork of Burnt River"
+        },
+        {
+          "t": "1843-09-27T00:50:00Z",
+          "km": 2611.19,
+          "label": "Where the trail leaves Burnt River"
+        },
+        {
+          "t": "1843-09-27T14:50:00Z",
+          "km": 2611.19,
+          "label": "Where the trail leaves Burnt River"
+        },
+        {
+          "t": "1843-09-28T00:51:00Z",
+          "km": 2638.45,
+          "label": "The Lone Pine, Powder River valley"
+        },
+        {
+          "t": "1843-09-28T14:51:00Z",
+          "km": 2638.45,
+          "label": "The Lone Pine, Powder River valley"
+        },
+        {
+          "t": "1843-09-29T00:52:00Z",
+          "km": 2660.27,
+          "label": "Third fork of Powder River"
+        },
+        {
+          "t": "1843-09-29T14:52:00Z",
+          "km": 2660.27,
+          "label": "Third fork of Powder River"
+        },
+        {
+          "t": "1843-09-30T00:52:00Z",
+          "km": 2688.91,
+          "label": "Grande Ronde"
+        },
+        {
+          "t": "1843-09-30T14:52:00Z",
+          "km": 2688.91,
+          "label": "Grande Ronde"
+        },
+        {
+          "t": "1843-10-01T00:52:00Z",
+          "km": 2697.46,
+          "label": "Foot of the Blue Mountains, west side of Grande Ronde"
+        },
+        {
+          "t": "1843-10-01T14:52:00Z",
+          "km": 2697.46,
+          "label": "Foot of the Blue Mountains, west side of Grande Ronde"
+        },
+        {
+          "t": "1843-10-02T00:53:00Z",
+          "km": 2715.64,
+          "label": "Dry creek in a deep ravine, Blue Mountains"
+        },
+        {
+          "t": "1843-10-02T14:53:00Z",
+          "km": 2715.64,
+          "label": "Dry creek in a deep ravine, Blue Mountains"
+        },
+        {
+          "t": "1843-10-03T00:54:00Z",
+          "km": 2734.68,
+          "label": "Small stream of good water, Blue Mountains"
+        },
+        {
+          "t": "1843-10-03T14:54:00Z",
+          "km": 2734.68,
+          "label": "Small stream of good water, Blue Mountains"
+        },
+        {
+          "t": "1843-10-04T00:54:00Z",
+          "km": 2741.08,
+          "label": "West side of a very bad ravine"
+        },
+        {
+          "t": "1843-10-04T14:54:00Z",
+          "km": 2741.08,
+          "label": "West side of a very bad ravine"
+        },
+        {
+          "t": "1843-10-05T00:54:00Z",
+          "km": 2762.67,
+          "label": "Umatilla River, near Cayuse lodges"
+        },
+        {
+          "t": "1843-10-05T14:54:00Z",
+          "km": 2762.67,
+          "label": "Umatilla River, near Cayuse lodges"
+        },
+        {
+          "t": "1843-10-06T00:54:00Z",
+          "km": 2776.99,
+          "label": "On the trail to Dr. Whitman’s"
+        },
+        {
+          "t": "1843-10-06T14:54:00Z",
+          "km": 2776.99,
+          "label": "On the trail to Dr. Whitman’s"
+        },
+        {
+          "t": "1843-10-06T21:54:00Z",
+          "km": 2806.46,
+          "label": "Dr. Whitman’s mission at Waiilatpu"
+        },
+        {
+          "t": "1843-10-07T14:54:00Z",
+          "km": 2806.46,
+          "label": "Dr. Whitman’s mission at Waiilatpu"
+        },
+        {
+          "t": "1843-10-07T22:55:00Z",
+          "km": 2829.4,
+          "label": "Walla Walla River"
+        },
+        {
+          "t": "1843-10-08T14:55:00Z",
+          "km": 2829.4,
+          "label": "Walla Walla River"
+        },
+        {
+          "t": "1843-10-09T00:56:00Z",
+          "km": 2841.46,
+          "label": "Fort Walla Walla"
+        },
+        {
+          "t": "1843-10-09T14:56:00Z",
+          "km": 2841.46,
+          "label": "Fort Walla Walla"
+        },
+        {
+          "t": "1843-10-10T00:56:00Z",
+          "km": 2845.39,
+          "label": "Fort Walla Walla"
+        },
+        {
+          "t": "1843-10-18T14:56:00Z",
+          "km": 2845.39,
+          "label": "Fort Walla Walla"
+        },
+        {
+          "t": "1843-11-02T20:02:00Z",
+          "km": 2985.92,
+          "label": "John Day’s River"
+        },
+        {
+          "t": "1843-11-03T15:02:00Z",
+          "km": 2985.92,
+          "label": "John Day’s River"
+        },
+        {
+          "t": "1843-11-04T00:04:00Z",
+          "km": 3010.72,
+          "label": "The ford of Fall River (the Deschutes)"
+        },
+        {
+          "t": "1843-11-04T15:04:00Z",
+          "km": 3010.72,
+          "label": "The ford of Fall River (the Deschutes)"
+        },
+        {
+          "t": "1843-11-04T23:05:00Z",
+          "km": 3032.35,
+          "label": "The Methodist mission at The Dalles"
+        },
+        {
+          "t": "1843-11-05T17:05:00Z",
+          "km": 3032.35,
+          "label": "The Methodist mission at The Dalles"
+        },
+        {
+          "t": "1843-11-07T20:08:00Z",
+          "km": 3095.67,
+          "label": "The Cascades of the Columbia"
+        },
+        {
+          "t": "1843-11-09T16:08:00Z",
+          "km": 3095.67,
+          "label": "The Cascades of the Columbia"
+        },
+        {
+          "t": "1843-11-10T23:11:00Z",
+          "km": 3153.81,
+          "label": "Fort Vancouver"
+        },
+        {
+          "t": "1843-11-12T16:11:00Z",
+          "km": 3153.81,
+          "label": "Fort Vancouver"
+        },
+        {
+          "t": "1843-11-14T00:10:00Z",
+          "km": 3196.63,
+          "label": "Oregon City, at the falls of the Willamette"
+        },
+        {
+          "t": "1843-11-30T23:10:00Z",
+          "km": 3196.63,
+          "label": "Oregon City, at the falls of the Willamette"
         }
-      ]
+      ],
+      "dailyRhythm": {
+        "marchStartLocal": "07:00",
+        "marchEndLocal": "18:00"
+      },
+      "statSeries": {
+        "deaths": {
+          "label": "Deaths recorded on the road",
+          "format": "count",
+          "keyframes": [
+            {
+              "t": "1843-05-18T14:18:00Z",
+              "v": 0
+            },
+            {
+              "t": "1843-07-19T20:59:00Z",
+              "v": 0
+            },
+            {
+              "t": "1843-07-19T21:00:00Z",
+              "v": 1
+            },
+            {
+              "t": "1843-08-04T10:11:00Z",
+              "v": 1
+            },
+            {
+              "t": "1843-08-04T10:12:00Z",
+              "v": 2
+            },
+            {
+              "t": "1843-08-09T19:17:00Z",
+              "v": 2
+            },
+            {
+              "t": "1843-08-09T19:18:00Z",
+              "v": 3
+            },
+            {
+              "t": "1843-08-15T01:19:00Z",
+              "v": 3
+            },
+            {
+              "t": "1843-08-15T01:20:00Z",
+              "v": 4
+            },
+            {
+              "t": "1843-08-31T19:30:00Z",
+              "v": 4
+            },
+            {
+              "t": "1843-08-31T19:31:00Z",
+              "v": 5
+            },
+            {
+              "t": "1843-09-11T17:40:00Z",
+              "v": 5
+            },
+            {
+              "t": "1843-09-11T17:41:00Z",
+              "v": 6
+            },
+            {
+              "t": "1843-10-01T15:51:00Z",
+              "v": 6
+            },
+            {
+              "t": "1843-10-01T15:52:00Z",
+              "v": 7
+            },
+            {
+              "t": "1843-11-02T22:01:00Z",
+              "v": 7
+            },
+            {
+              "t": "1843-11-02T22:02:00Z",
+              "v": 10
+            },
+            {
+              "t": "1843-11-03T04:01:00Z",
+              "v": 10
+            },
+            {
+              "t": "1843-11-03T04:02:00Z",
+              "v": 11
+            },
+            {
+              "t": "1843-11-30T23:09:00Z",
+              "v": 11
+            },
+            {
+              "t": "1843-11-30T23:10:00Z",
+              "v": 11
+            }
+          ]
+        }
+      }
     }
   ],
   "moments": [
     {
-      "t": "1843-05-01T00:00:00Z",
-      "title": "Departure from Independence",
-      "body": "Families gather wagons, livestock, and supplies before heading west into the unknown.",
-      "tags": [],
-      "significance": 2
+      "t": "1843-05-18T16:18:00Z",
+      "title": "First meeting at the rendezvous",
+      "body": "The emigrants camped west of Fitzhugh’s Mill held their first meeting, with Layson in the chair and Peter Burnett as secretary. They named committees to consult Dr. Marcus Whitman, to inspect every outfit, and to draft rules for the road.",
+      "tags": [
+        "politics",
+        "gathering"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett"
+      ]
     },
     {
-      "t": "1843-07-01T00:00:00Z",
-      "title": "Crossing the Rockies",
-      "body": "At South Pass, wagons cross the Continental Divide before the snows close the route.",
-      "tags": [],
-      "significance": 2
+      "t": "1843-05-20T16:18:00Z",
+      "title": "Rules adopted, a pilot hired",
+      "body": "At Big Springs the company adopted its rules: every man of sixteen a voter, a captain, an orderly sergeant and a council of nine, and no election until the Kansas River. John Gantt, a former army captain and fur trader, was hired as pilot to Fort Hall. One member proposed adopting the criminal code of Tennessee or Missouri for the journey.",
+      "tags": [
+        "politics",
+        "rules",
+        "gantt"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Some one privately suggested that we should also take along a penitentiary, if Captain Dulany’s proposition should pass.",
+        "by": "Peter H. Burnett, letter of 1844"
+      },
+      "refs": [
+        "burnett-letters",
+        "burnett"
+      ]
     },
     {
-      "t": "1843-08-01T00:00:00Z",
-      "title": "Snake River Country",
-      "body": "Dust, heat, and river crossings test the wagons and the people driving them.",
-      "tags": [],
-      "significance": 2
+      "t": "1843-05-22T21:19:00Z",
+      "title": "The start: Elm Grove",
+      "body": "The general start was made on Monday 22 May. The wagons reached Elm Grove in mid-afternoon; Burnett counted two elms there, Nesmith one stump. Burnett remembered about sixty wagons and a thousand cattle in the moonlight and violin music in the tents.",
+      "tags": [
+        "departure",
+        "camp"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Encamped at the grove, consisting of one old elm stump, which the Sante Fe traders had chipped and trimmed for the purpose of procuring wood to cook with.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett",
+        "burnett-letters"
+      ]
     },
     {
-      "t": "1843-10-15T00:00:00Z",
-      "title": "Reaching the Willamette",
-      "body": "After months on the trail, the wagon train descends into Oregon's fertile valleys.",
-      "tags": [],
-      "significance": 2
+      "t": "1843-05-24T16:21:00Z",
+      "title": "Wagons roped down the Wakarusa",
+      "body": "At the Wakarusa the bank was too steep to drive, so each wagon was let down by ropes. Gantt joined the camp that evening. Burnett later found there had been an easy ford a hundred yards upstream.",
+      "tags": [
+        "river crossing",
+        "gantt"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-05-26T16:23:00Z",
+      "title": "Nesmith nearly drowns in the Kaw",
+      "body": "The Kansas River was too high to ford. Nesmith crossed on Papin’s platform of two canoes, swam the river several times, and was pulled under while helping a young man named William Vaughn; G. W. Stewart got them both to shore.",
+      "tags": [
+        "river crossing",
+        "accident"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Came near drowning myself in consequence of Vaughn’s struggling with me in the water.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-05-28T16:23:00Z",
+      "title": "Papin’s ferry sinks",
+      "body": "A committee failed to hire the Frenchman Papin’s ferry on reasonable terms, so the company built its own from two large canoes. Families who had paid Papin privately were aboard his platform when it sank on the 28th. No one drowned, but property was lost.",
+      "tags": [
+        "river crossing",
+        "accident"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "several men, women, and children came near being drowned, but all escaped with the loss of some property.",
+        "by": "Peter H. Burnett, letter of 1844"
+      },
+      "refs": [
+        "burnett-letters",
+        "historians"
+      ]
+    },
+    {
+      "t": "1843-05-30T16:23:00Z",
+      "title": "Jesuits and a hunting party pass",
+      "body": "Two Catholic missionaries bound for the Flathead mission reached the crossing and went over on the 30th. Sir William Drummond Stewart’s sporting party, with the New Orleans journalist Matthew Field, passed the emigrant camp about the first of June and stayed ahead of the wagons all summer.",
+      "tags": [
+        "meetings",
+        "missionaries",
+        "stewart party"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett-letters",
+        "field"
+      ]
+    },
+    {
+      "t": "1843-06-01T16:23:00Z",
+      "title": "Election by running",
+      "body": "On Soldier Creek, north of the Kansas, the emigrants elected Peter Burnett captain and James Nesmith orderly sergeant, with a council of nine. Matthew Field watched: candidates marched off across the prairie and voters fell in behind the man they wanted.",
+      "tags": [
+        "politics",
+        "election"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "every candidate flourished a sort of a tail of his own, and the man with the longest tail was elected!",
+        "by": "Matthew C. Field, New Orleans Picayune"
+      },
+      "refs": [
+        "field",
+        "burnett",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-06-01T21:23:00Z",
+      "title": "The orderly sergeant’s roll",
+      "body": "Nesmith’s first duty as orderly sergeant was to list the men liable for guard. He counted 254 men and 111 wagons; Burnett’s letter says 263 men and about 110 wagons. Women and children were not counted.",
+      "tags": [
+        "numbers"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "My duty required me to take the names of men for duty. They numbered 254. The number of wagons was 111.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-06-06T16:27:00Z",
+      "title": "A Kansa and Osage war party",
+      "body": "About ninety mounted Kansa and Osage warriors met the train carrying a divided Pawnee scalp, and said they had not eaten for three days. On Gantt’s advice the emigrants fed them, and gave them a calf. Burnett’s Recollections date this to the 6th; his 1844 letter puts it on the morning after the storm.",
+      "tags": [
+        "meetings",
+        "kansa",
+        "osage",
+        "pawnee"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-06-07T04:27:00Z",
+      "title": "Storm at the Big Blue",
+      "body": "The wagons forded the Big Blue on the evening of the 6th with the beds propped up on blocks. That night a thunderstorm flattened half the tents and left the camp under eight inches of water; the next night was nearly as bad. Newby says the storm began about 10 o’clock and lasted till day.",
+      "tags": [
+        "storm",
+        "river crossing"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "We had the worst storme and raine I ever saw which commenst a bout 10 o’clock & held till day.",
+        "by": "William T. Newby, diary"
+      },
+      "refs": [
+        "burnett-letters",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-06-08T16:27:00Z",
+      "title": "Burnett resigns",
+      "body": "After a week as captain Burnett gave up the command. His 1844 letter says ill health; his memoir says he found so large and undisciplined a body could not be kept together. William Martin was elected in his place.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "These considerations induced me to resign on the 8th of June, and William Martin was elected as my successor.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-06-09T16:27:00Z",
+      "title": "The cattle quarrel splits the company",
+      "body": "Men with only their teams resented guarding other men’s herds, and the rule limiting loose cattle to three per man was challenged. When the weather cleared on the 9th the emigration divided: Martin’s “light column” of about 72 wagons and 175 men, and Jesse Applegate’s “cow column” of about 60 wagons with the big herds.",
+      "tags": [
+        "politics",
+        "cattle",
+        "cow column"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Those not encumbered with or having but few loose cattle attached themselves to the light column; those having more than four or five cows had of necessity to join the heavy or cow column.",
+        "by": "Jesse Applegate, A Day with the Cow Column"
+      },
+      "refs": [
+        "applegate",
+        "burnett-letters",
+        "nesmith",
+        "field"
+      ]
+    },
+    {
+      "t": "1843-06-10T17:28:00Z",
+      "title": "A beheaded man on the prairie",
+      "body": "About eleven o’clock Nesmith’s advance guard came on the mutilated body of an Indian, his head cut off. They took it for the Pawnee killed by the Kansa war party they had fed four days earlier, and picked up arrows from the ground.",
+      "tags": [
+        "pawnee",
+        "death"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-06-12T18:29:00Z",
+      "title": "The first buffalo",
+      "body": "About noon Nesmith saw a lone buffalo two miles north of the trail. Gantt, Nesmith and four others ran it down; it took seven balls. It was an old bull, poor and tough, but the camp was delighted.",
+      "tags": [
+        "buffalo",
+        "hunting",
+        "gantt"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "He proved to be one of the male kind, about eight years old.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-06-17T16:34:00Z",
+      "title": "Pawnees, Applegate, and Whitman",
+      "body": "At the last camp on the Little Blue, Pawnee hunters came in with packs of dried buffalo meat and shared it. Applegate’s cow column passed the light column that evening. Newby, in the cow column, noted next day that Dr. Whitman had overtaken them, travelling with his young nephew Perrin.",
+      "tags": [
+        "pawnee",
+        "whitman",
+        "cow column"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-06-18T16:36:00Z",
+      "title": "Sunset on the Platte",
+      "body": "The light column crossed the dry divide from the Little Blue in one long day, twenty miles by Nesmith and twenty-five or more by Burnett. They reached the Platte bottom near the head of Grand Island at sunset and camped without wood.",
+      "tags": [
+        "platte",
+        "landmark"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "our eyes first beheld the wide and beautiful valley of the Great Platte just as the sun was going down behind the bleak sand hills.",
+        "by": "Peter H. Burnett, letter of 1844"
+      },
+      "refs": [
+        "burnett-letters",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-06-21T16:36:00Z",
+      "title": "Camp Disagreeable",
+      "body": "Twenty mounted men, Nesmith among them, went ahead on the 20th to kill and dry buffalo meat for the company. On the second evening a cold rainstorm caught them on the open river bank. Johnson and Winter, in the same party, said none of the twenty had ever passed a worse night.",
+      "tags": [
+        "storm",
+        "hunting"
+      ],
+      "significance": 1,
+      "quote": {
+        "text": "Lay in wet blankets on the wet sand. Extremely cold.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-06-24T16:42:00Z",
+      "title": "Whitman delivers a child",
+      "body": "Applegate’s account of a day on the Platte (he gives no date) has Dr. Whitman pull a wagon out of the line at one o’clock for a woman in labour; by sunset the wagon rolled into the corral with mother and child well. Applegate credits Whitman’s constant urging with keeping the column moving.",
+      "tags": [
+        "whitman",
+        "birth",
+        "cow column"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Travel, travel, travel; nothing else will take you to the end of your journey; nothing is wise that does not help you along; nothing is good for you that causes a moment’s delay.",
+        "by": "Marcus Whitman, as Jesse Applegate recalled it"
+      },
+      "refs": [
+        "applegate"
+      ]
+    },
+    {
+      "t": "1843-06-26T18:46:00Z",
+      "title": "South Fork too high to ford",
+      "body": "The light column caught up with its hunters at the usual crossing of the South Platte about noon and found the river too deep. They kept on up the south bank for four more days looking for a ford. General McCarver left to join Applegate’s company, four miles behind.",
+      "tags": [
+        "river crossing",
+        "platte"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-06-27T18:47:00Z",
+      "title": "Buffalo charge the wagon line",
+      "body": "While the wagons were halted for noon, a band of buffalo bulls swam the river straight at the train. The men lined up with rifles; the bulls broke through and three were killed. Nesmith says five bulls, Burnett seven.",
+      "tags": [
+        "buffalo"
+      ],
+      "significance": 1,
+      "quote": {
+        "text": "The Invincibles turned out and kept up a running fire, like a military muster.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-07-01T16:49:00Z",
+      "title": "Wagon beds become boats",
+      "body": "At a cottonwood grove the men stretched green buffalo hides over wagon beds, flesh side out, and dried them in the sun; Johnson and Winter add that they were greased with tallow and ashes. Six men worked each boat, some wading alongside. The first loads went over on the afternoon of 1 July.",
+      "tags": [
+        "river crossing",
+        "south platte"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "On July 1st we made three boats by covering our wagon boxes or beds with green buffalo hides sewed together, stretched tightly over the boxes, flesh side out, and tacked on with large tacks",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "johnson-winter",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-01T21:49:00Z",
+      "title": "A daughter born at Sleepy Grove",
+      "body": "On the evening the crossing began, a girl was born to the Stewart family in the light column’s camp. Applegate and Whitman rode in the same evening from the cow column, camped eight miles below. That morning a sentinel’s gun had gone off and killed James Williams’s mule.",
+      "tags": [
+        "birth",
+        "whitman"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Mr. Stewart had the gratification of being presented with a daughter this evening.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-03T16:49:00Z",
+      "title": "A lost man and a burst rifle",
+      "body": "Two men came up from the cow column to borrow the skin boats and reported Bennett O’Neil three days missing. In the light column a Cherokee named Kerritook was badly hurt when his rifle burst at the breech. In the cow column the day before, Richard Goodman had been shot through the arm by a companion’s gun while stalking buffalo.",
+      "tags": [
+        "accident",
+        "cow column"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-07-04T16:49:00Z",
+      "title": "A cold-water Fourth of July",
+      "body": "Independence Day was spent swimming cattle and dragging wagons across the South Platte. John Arthur remembered eleven wagons stuck in a washed-out channel and thirty men waist-deep getting them out. Nesmith listed the drinks the men talked about and did not have.",
+      "tags": [
+        "river crossing",
+        "holiday"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "the Oregon emigrant must forget those luxuries and, for a time, submit to hard fare, and put up with truly cold-water celebrations",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-07-05T16:49:00Z",
+      "title": "A dance on the sandbar",
+      "body": "Everything was across by the evening of the 5th without a serious loss. After dark the young men danced on a sand beach to two violins. The women were not asked.",
+      "tags": [
+        "camp life",
+        "river crossing"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-06T16:49:00Z",
+      "title": "The California party breaks off",
+      "body": "Joseph Chiles and Daniel Waldo’s California-bound wagons, which had joined on the 2nd, pulled ahead on the 6th and took several Oregon wagons with them. They kept just in front of the light column to Fort Laramie and beyond.",
+      "tags": [
+        "california party",
+        "chiles",
+        "politics"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Several wagons broke off from our company to join them, among the rest, Old Prairie Chicken. Nobody sorry.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-10T16:54:00Z",
+      "title": "Climbing the Chimney",
+      "body": "The Chimney came in sight about noon on the 9th. Next day Nesmith and eight or ten others rode over and climbed the mound under the shaft. He judged the whole 350 feet above the plain.",
+      "tags": [
+        "landmark",
+        "chimney rock"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "one of the greatest curiosities I have ever seen in the West, and can be seen distinctly thirty miles on the plains.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-07-11T16:55:00Z",
+      "title": "Behind Scotts Bluff",
+      "body": "The wagons left the river to pass behind the bluffs. Nesmith and Pierson Reading rode through the badlands, down ravines fifty feet deep and wide enough only for a mule, and named one bluff after a building in Cincinnati. From camp they had their first view of the Black Hills, the Laramie Range.",
+      "tags": [
+        "landmark",
+        "scotts bluff"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-07-13T16:57:00Z",
+      "title": "A Sioux village ahead",
+      "body": "A day short of Fort Laramie the advance guard reported an Indian village two miles on, probably Sioux. The train swung to the river to camp away from it, and the men cleaned their rifles. Nothing happened.",
+      "tags": [
+        "sioux",
+        "alarm"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-14T16:58:00Z",
+      "title": "Fort Laramie and a ball",
+      "body": "The light column reached Fort Laramie about ten in the morning and found Chiles’s and Applegate’s companies already there. Laramie Fork was in flood, and ferrying went on through the afternoon and all night. The traders at the rival Fort Platte, a mile below, gave the emigrants a dance.",
+      "tags": [
+        "fort",
+        "river crossing",
+        "meetings"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The boys at Fort Platte gave us a ball in the evening, where we received hospitable treatment.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-07-15T16:58:00Z",
+      "title": "Prices, Sioux and a Cheyenne chief",
+      "body": "Burnett wrote down the fort’s prices: coffee and brown sugar $1.50 a pint, unbolted flour 25 cents a pound, powder $1.50 a pound. Sioux had just come in from a fight on the forks of the Platte in which they said thirty-six Pawnees were killed. Burnett also describes calming a Cheyenne chief insulted by a young emigrant.",
+      "tags": [
+        "fort",
+        "prices",
+        "sioux",
+        "cheyenne"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-07-18T17:00:00Z",
+      "title": "Joel Hembree is run over",
+      "body": "In the cow column, on a very bad road in the Black Hills, six-year-old Joel Hembree fell from a wagon tongue and both wheels passed over him. He died the next day about two o’clock and was buried on the 20th under a stone with his name cut in it. His is the oldest identified emigrant grave on the Oregon Trail.",
+      "tags": [
+        "death",
+        "grave",
+        "cow column"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Joel J. Hembree son Joel fel off the waggeon tung & both wheels run over him.",
+        "by": "William T. Newby, diary"
+      },
+      "refs": [
+        "newby",
+        "nesmith",
+        "historians"
+      ]
+    },
+    {
+      "t": "1843-07-20T19:02:00Z",
+      "title": "The fresh grave; mountain men",
+      "body": "At noon Nesmith, riding ahead with Gantt, came on Hembree’s grave beside Squaw Butte Creek (La Prele Creek), with a note tied to a stick. Across the creek Louis Vasquez’s trappers were stopped for dinner with packs of furs from Black’s Fork. With them were two men returning from Oregon who gave a bad account of it.",
+      "tags": [
+        "grave",
+        "mountain men",
+        "meetings"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "the first death that has occurred on the expedition.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-07-22T19:04:00Z",
+      "title": "Symptoms of mutiny",
+      "body": "The light column stopped at noon to hunt a ford on the North Platte. Men were down with fever and the rest could not agree whether to go faster, slower, cross here or go on. The same day, ahead, the cow column forded with ropes and forty men hauling; Newby’s wagon rolled over and he lost his gun, axe and ox-yoke.",
+      "tags": [
+        "politics",
+        "river crossing",
+        "sickness"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "They have the elements of their own destruction within themselves.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-07-24T19:05:00Z",
+      "title": "Fording the North Platte",
+      "body": "The light column reached the ford about noon and drove across that afternoon without trouble, with Applegate’s company in sight on the far bank. The day before, two of Chiles’s men had reported they could not find the rubber boat Sir William Stewart had left for them in the fork of a tree.",
+      "tags": [
+        "river crossing",
+        "stewart party"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-07-26T17:07:00Z",
+      "title": "Stewart’s hunters and scarce buffalo",
+      "body": "Gantt led a buffalo hunt on the 26th that broke up when he lost his temper. Game was thin all the way from the South Fork. Johnson and Winter blamed Sir William Stewart’s party, which kept a few days ahead with fifty or sixty horses, running the herds off.",
+      "tags": [
+        "buffalo",
+        "hunting",
+        "stewart party",
+        "gantt"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "it will be prudent to place him in the rear, instead of the van.",
+        "by": "Overton Johnson and William H. Winter (1846)"
+      },
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-07-28T17:09:00Z",
+      "title": "The company breaks up at the rock",
+      "body": "Nesmith came in from two nights out hunting in cold rain to find the light column itself divided. Martin had gone ahead with most of the wagons; nineteen, including deserters from Applegate’s company, stayed behind under Cooper. Applegate says that from Independence Rock the emigrants travelled in small parties.",
+      "tags": [
+        "politics",
+        "independence rock"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The Oregon emigrating company has been strangely divided, and no doubt the dividend will be again divided.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "applegate"
+      ]
+    },
+    {
+      "t": "1843-07-30T17:09:00Z",
+      "title": "Names on Independence Rock",
+      "body": "On a fine Sunday morning Nesmith and other young men escorted five or six young women to the rock. He put up the names of Mary Zachary and Jane Mills on the south-east point and his own facing the road. Newby, two days earlier, had cut his about fifty feet up.",
+      "tags": [
+        "landmark",
+        "independence rock",
+        "camp life"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Facing the road, in all the splendor of gunpowder, tar and buffalo greese, may be seen the name of J. W. Nesmith, from Maine, with an anchor.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-07-31T21:09:00Z",
+      "title": "Sick men and Devil’s Gate",
+      "body": "Nesmith’s thirteen wagons overtook Martin’s company about two o’clock and found Payne and Stevenson very ill with fever. He rode to see the canyon where the Sweetwater cuts through the rock. An emigrant named Zachary had been expelled from Martin’s company for cheating a young man of his provisions.",
+      "tags": [
+        "sickness",
+        "landmark",
+        "devil's gate"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-02T17:10:00Z",
+      "title": "Wind River Mountains and an alarm",
+      "body": "Snow peaks came in sight. Nesmith dined at Applegate and Whitman’s camp, where seven buffalo cows had been killed. The camps were uneasy: Cheyennes and Sioux were said to be gathered in great numbers forty miles south on the Platte.",
+      "tags": [
+        "landmark",
+        "whitman",
+        "alarm"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-08-04T10:12:00Z",
+      "title": "Clayborne Payne dies",
+      "body": "Payne, sick since Fort Laramie, died at three in the morning in Martin’s company, leaving a wife and four small children. He was buried on a rise left of the road; the preacher Garrison prayed at the grave. He was the first adult to die on the journey.",
+      "tags": [
+        "death",
+        "grave"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "He was decently interred on a rise of ground at the left of the road.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-04T21:12:00Z",
+      "title": "A fireball over the Sweetwater",
+      "body": "About two in the afternoon Nesmith’s hunting party heard a sharp report overhead like heavy artillery and a long rumble, with hardly a cloud in the sky. Newby, in the cow column, saw it: a ball of fire, then a zigzag streak of blue smoke two hundred yards long, then the report.",
+      "tags": [
+        "sky",
+        "weather"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-06T17:14:00Z",
+      "title": "A birth below South Pass",
+      "body": "The cow column lay by on the 6th because John Pennington’s wife was in labour; she had a daughter. Nesmith’s party passed Applegate’s camp that day and made its last camp on the Sweetwater.",
+      "tags": [
+        "birth",
+        "cow column"
+      ],
+      "significance": 2,
+      "refs": [
+        "newby",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-07T19:16:00Z",
+      "title": "Over the divide",
+      "body": "Nesmith’s company left the Sweetwater in the morning, nooned at a spring, and went out onto twenty miles of waterless sage. Burnett says the companies crossed the summit between the 5th and the 7th. On reaching the Sandy next day Nesmith counted himself in Oregon Territory.",
+      "tags": [
+        "landmark",
+        "south pass"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "We now consider ourselves in Oregon Territory, and we consider this part of it a poor sample of the El Dorado.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-08-09T19:18:00Z",
+      "title": "Stevenson buried on the Big Sandy",
+      "body": "Martin’s company reached the Big Sandy at noon. Stevenson, a strong young man travelling without family, died of fever that day and was buried on the bank. Nesmith had seen him delirious nine days earlier and had not expected him to live.",
+      "tags": [
+        "death",
+        "grave",
+        "sickness"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-12T17:19:00Z",
+      "title": "Whitman’s letter: go by Fort Bridger",
+      "body": "After crossing the Green River the emigrants learned that Whitman had written back that the Catholic missionaries, with a Flathead pilot, had found a shorter pass by way of Fort Bridger. They turned south for the fort. There was heavy frost and thin ice that morning.",
+      "tags": [
+        "whitman",
+        "route",
+        "missionaries"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-08-14T19:20:00Z",
+      "title": "Fort Bridger; a child dies",
+      "body": "Burnett, Nesmith’s company and the cow column all reached the fort on Black’s Fork on the 14th and overtook the missionaries there. Catherine Carey, a child who had been sick for days, died; she was buried next morning. Cooper traded his heavy wagon and blacksmith tools for a lighter wagon.",
+      "tags": [
+        "fort",
+        "death",
+        "missionaries"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-17T17:22:00Z",
+      "title": "A wagon capsizes in the Muddy",
+      "body": "Leaving the fort last, Nesmith’s wagon tipped over crossing Muddy Creek at evening and threw its whole load into the water. The men waded waist-deep in mud for an hour to save it; the flour came through. They cut a new coupling pole after dark.",
+      "tags": [
+        "accident",
+        "river crossing"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-22T17:24:00Z",
+      "title": "Frémont comes on the camps",
+      "body": "Lieutenant John C. Frémont’s exploring party, following the wagon ruts from the Sweetwater, came down into the Bear River valley and found emigrant camps strung for miles along the river, resting their cattle. He overtook Nesmith’s wagons on the morning of the 23rd.",
+      "tags": [
+        "frémont",
+        "meetings",
+        "bear river"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "The edge of the wood, for several miles along the river, was dotted with the white covers of emigrant wagons, collected in groups at different camps",
+        "by": "John C. Frémont, Report (1845)"
+      },
+      "refs": [
+        "fremont",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-24T21:27:00Z",
+      "title": "Soda Springs",
+      "body": "Nesmith passed the Soda Springs about two o’clock; Newby’s cow column reached them the same day and Burnett two days earlier. Newby counted ten springs and a warm one. Frémont arrived on the 25th and tested the gas at the steam vent on a wary emigrant boy.",
+      "tags": [
+        "landmark",
+        "soda springs",
+        "frémont"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "They are quite numerous and have exactly the taste of soda water without the syrup.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "newby",
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-08-26T17:28:00Z",
+      "title": "Kit Carson at the campfire",
+      "body": "Frémont had sent Kit Carson ahead to Fort Hall for provisions. On his way back he camped the night of the 26th with Nesmith’s party at some springs between the Portneuf and the fort.",
+      "tags": [
+        "meetings",
+        "frémont",
+        "mountain men"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-28T17:30:00Z",
+      "title": "Fort Hall: wagons or packs",
+      "body": "Burnett reached the Hudson’s Bay post on the 27th and Nesmith on the 28th. Richard Grant sold flour at 25 cents a pint and told Burnett he could not see how wagons could go on. Whitman told the emigrants they could; some young men packed anyway. Gantt’s contract ended here.",
+      "tags": [
+        "fort",
+        "prices",
+        "whitman",
+        "gantt",
+        "route"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "He sells at an exhorbitant price; flour, 25 cents per pint; sugar, 50; coffee, 50; rice, 33⅓.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-28T22:30:00Z",
+      "title": "Fort Hall and its prices",
+      "body": "The wagons rolled in to the Hudson’s Bay post on the Snake between 27 and 28 August and stayed three or four days. Richard Grant had little to sell and charged heavily for it. Nesmith wrote down the prices.",
+      "tags": [
+        "fort-hall",
+        "trade",
+        "hudsons-bay-company"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "He sells at an exhorbitant price; flour, 25 cents per pint; sugar, 50; coffee, 50; rice, 33⅓.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-08-29T02:30:00Z",
+      "title": "Can wagons go on?",
+      "body": "No loaded wagon had ever gone beyond Fort Hall to the Columbia. Burnett asked Grant directly; Grant had only ridden the pack trail and doubted it. Whitman told the emigrants to keep their wagons, and most did.",
+      "tags": [
+        "fort-hall",
+        "decision",
+        "whitman",
+        "wagons"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "He replied that, while he would not say it was impossible for us Americans to make the trip in our wagons, he could not himself see how it could be done.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "mcclane"
+      ]
+    },
+    {
+      "t": "1843-08-29T17:31:00Z",
+      "title": "The packers go ahead",
+      "body": "Some of the young men traded or left their wagons and went on with pack animals. M. M. McCarver later said he rode from Fort Hall “in company with some thirty persons, principally young men” and reached the Willamette three weeks before the wagons’ people. The first rain in five weeks fell on the camp.",
+      "tags": [
+        "fort-hall",
+        "packers"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "letters-1843",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-08-31T17:31:00Z",
+      "title": "A burial at Fort Hall",
+      "body": "A Mr. Richardson died at the fort of an old complaint and was buried on 31 August. Newby noted that he left a wife and two children.",
+      "tags": [
+        "death",
+        "fort-hall"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-01T17:31:00Z",
+      "title": "Whitman’s light wagon and notes",
+      "body": "Whitman’s own mess drove a light wagon ahead to leave a track. Where the ground was open he set up poles with written notes telling the trains how to go. Ninevah Ford remembered travelling “by these notices from place to place” all the way to the Grande Ronde.",
+      "tags": [
+        "whitman",
+        "road",
+        "navigation"
+      ],
+      "significance": 2,
+      "refs": [
+        "mcclane",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-02T17:31:00Z",
+      "title": "Sage and dust",
+      "body": "Below American Falls the road was rock and sagebrush two or three feet high. The leading wagons crushed it down for those behind, and lead teams were changed every day. The broken soil turned to powder.",
+      "tags": [
+        "snake-plain",
+        "sagebrush",
+        "dust"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "It was very soft on the surface and easily worked up into a most disagreeable dust, as fine as ashes or flour.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-05T17:37:00Z",
+      "title": "Gunpowder burns a packer",
+      "body": "A Mr. Wilson, who had sold his wagon and team at Fort Hall and was packing, set off a pound and a half of powder while striking a fire. Newby saw him two days later, badly burned, with a wife and two children; Mr. Mills took the family into his wagon.",
+      "tags": [
+        "accident",
+        "packers"
+      ],
+      "significance": 1,
+      "refs": [
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-07T17:38:00Z",
+      "title": "Salmon for powder and ball",
+      "body": "At Salmon Falls the Shoshone were spearing salmon in the shallow channels. The emigrants, short of food, bought fresh and dried fish. Burnett recorded the price as one ball and one charge of powder for each dried fish.",
+      "tags": [
+        "salmon-falls",
+        "shoshone",
+        "trade",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-09-08T17:39:00Z",
+      "title": "A stabbing in camp",
+      "body": "Tempers were short after two weeks of dust and thin rations. In Nesmith’s camp near Salmon Falls an old man named Zachary knifed another emigrant.",
+      "tags": [
+        "violence",
+        "camp-life"
+      ],
+      "significance": 1,
+      "quote": {
+        "text": "Had a fight in camp this evening. Old Zachary stabbed Mr. Wheeler with his knife.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-09-10T17:41:00Z",
+      "title": "Chained wagons at the island ford",
+      "body": "At the upper crossing of the Snake the river spread round islands. The wagons were fastened together in a long line so their combined weight held against the current. Burnett’s division crossed on the 10th and Nesmith’s on the morning of the 11th.",
+      "tags": [
+        "three-island-crossing",
+        "river-crossing",
+        "snake-river"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "in crossing we killed a salmon weighing twenty-three pounds, one of our wagons running over it as it lay on the bottom of the pebbly stream.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "nesmith",
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-09-11T17:41:00Z",
+      "title": "A man lost at the crossing",
+      "body": "Miles Eyres, an Englishman, rode his mule off the shallow line of the ford into deep water and was drowned with the animal; Ninevah Ford named him “Mr. Ayres”. Three weeks later Indians at the ford told Fremont that an emigrant turning cattle was carried off and drowned. Ford, driving alone behind the chained wagons, said Whitman threw him a rope and towed his team out.",
+      "tags": [
+        "three-island-crossing",
+        "death",
+        "drowning",
+        "whitman"
+      ],
+      "significance": 3,
+      "refs": [
+        "newby",
+        "fremont",
+        "historians"
+      ]
+    },
+    {
+      "t": "1843-09-13T19:42:00Z",
+      "title": "The boiling spring",
+      "body": "North of the crossing the road passed hot springs running off in a steaming branch. Nesmith passed about noon on the 13th and Burnett a day later. Burnett judged the water hot enough to cook an egg.",
+      "tags": [
+        "hot-springs",
+        "landmark"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-09-16T17:44:00Z",
+      "title": "Fremont a month behind",
+      "body": "On 16 September, while the wagons reached the Boise River, the Chiles party left Fort Hall for California. Fremont did not reach Fort Hall until 18–19 September, in falling snow, and found its provisions “entirely exhausted by the necessities of the emigrants”. He followed the wagon track all the way to The Dalles.",
+      "tags": [
+        "fremont",
+        "california",
+        "fort-hall"
+      ],
+      "significance": 1,
+      "refs": [
+        "fremont",
+        "historians"
+      ]
+    },
+    {
+      "t": "1843-09-17T17:45:00Z",
+      "title": "Dried salmon on the Boise",
+      "body": "Along the Boise River, Shoshone came into camp each evening with dried salmon to sell. General McCarver’s packers, ahead, took a split salmon on a pole for a red battle flag and formed up to fight before they saw it was a shop sign.",
+      "tags": [
+        "boise-river",
+        "shoshone",
+        "trade",
+        "food"
+      ],
+      "significance": 1,
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-19T17:47:00Z",
+      "title": "A dance at Fort Boise",
+      "body": "A north-west gale raised swells on the Snake and stopped the ford. Nesmith and Haggard spent the evening inside the little Hudson’s Bay post with its master, Francois Payette, who came to the Columbia with the Astor venture.",
+      "tags": [
+        "fort-boise",
+        "hudsons-bay-company"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "We spent a pleasant evening in his company and had a dance.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-09-20T17:48:00Z",
+      "title": "Second ford of the Snake",
+      "body": "Below Fort Boise the wagons crossed back to the west bank in about four and a half feet of water. Ford said they blocked the wagon beds up six inches on the standards to keep the loads dry. Nesmith crossed on the 20th, Burnett on the 21st, Newby on the 23rd.",
+      "tags": [
+        "fort-boise",
+        "river-crossing",
+        "snake-river"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-23T17:49:00Z",
+      "title": "Provisions getting scarce",
+      "body": "The road left the Snake for the last time at what is now Farewell Bend and turned up the Burnt River. Flour brought from Missouri was nearly gone. Nesmith’s mess butchered one of its cattle.",
+      "tags": [
+        "burnt-river",
+        "food"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Killed a beef in the evening. Provisions getting scarce.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-09-24T17:49:00Z",
+      "title": "Burnt River canyon",
+      "body": "For three days the wagons worked up a narrow canyon choked with brush and timber that there were too few hands to clear. Where the bank was blocked they drove in the stream bed. Fremont, following in October, saw where one wagon overturned twice in a short distance.",
+      "tags": [
+        "burnt-river",
+        "road"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Trailed ten miles over the roughest country I ever saw, Burnt River being hemmed in by hills on both sides.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "burnett",
+        "mcclane",
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-09-27T17:50:00Z",
+      "title": "The Lone Pine cut down",
+      "body": "A single tall pine in the Powder River valley had guided travellers for years. Burnett watched it as he drove; near dark he looked up and it was gone. Emigrants ahead of him had felled it for firewood.",
+      "tags": [
+        "lone-pine",
+        "landmark",
+        "powder-river"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Some of our inconsiderate people had cut it down for fuel, but it was too green to burn.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett",
+        "nesmith",
+        "newby",
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-09-29T17:52:00Z",
+      "title": "Into the Grande Ronde",
+      "body": "A long steep hill dropped the wagons into a round green valley ringed by snow-capped mountains. Cayuse and Nez Perce were camped there with camas to trade. Burnett would have stopped and settled if there had been provisions.",
+      "tags": [
+        "grande-ronde",
+        "landmark",
+        "cayuse"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-09-29T22:52:00Z",
+      "title": "Whitman leaves; Stickus takes over",
+      "body": "In the Grande Ronde Whitman was called away to the other mission stations and rode north. He handed the trains to Stickus (Nesmith’s “Sticcas”, Burnett’s “Stikas”), a Cayuse headman, who piloted the wagons over the Blue Mountains to the Umatilla. Burnett called him “both faithful and competent”.",
+      "tags": [
+        "whitman",
+        "stickus",
+        "cayuse",
+        "grande-ronde"
+      ],
+      "significance": 3,
+      "refs": [
+        "burnett",
+        "mcclane",
+        "newby",
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-01T17:52:00Z",
+      "title": "Mrs. Rubey’s grave",
+      "body": "Mrs. Rubey died in the Grande Ronde and was buried on 1 October as the leading wagons started up the mountain. Nesmith gave no cause.",
+      "tags": [
+        "death",
+        "grande-ronde"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-02T17:53:00Z",
+      "title": "Cutting a road through the pines",
+      "body": "There was a horse trail over the Blue Mountains but no wagon road. About forty men went ahead with axes left dull since Missouri and cut through standing and fallen timber, while women drove the teams. Some days the camp was in sight of the last one.",
+      "tags": [
+        "blue-mountains",
+        "road-cutting"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I went in advance and cut timber all day.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-10-04T17:54:00Z",
+      "title": "Timber too thick to see through",
+      "body": "Newby’s division followed the new track through the heaviest forest any of them had seen. He guessed at pines 200 feet high and no more than two feet through.",
+      "tags": [
+        "blue-mountains",
+        "forest"
+      ],
+      "significance": 1,
+      "quote": {
+        "text": "The timber is so thick in meney places that you coldant see a man 20 steps.",
+        "by": "William T. Newby, diary"
+      },
+      "refs": [
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-10-04T22:54:00Z",
+      "title": "First wagons over; rain and hail",
+      "body": "Nesmith’s wagons came down the west slope in a storm of rain and hail and reached the Umatilla beside Cayuse lodges. Two Cayuse bulls charged Cooper’s team and the fore axle snapped. These were the first emigrant wagons across the Blue Mountains.",
+      "tags": [
+        "blue-mountains",
+        "umatilla",
+        "weather",
+        "cayuse"
+      ],
+      "significance": 3,
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-05T17:54:00Z",
+      "title": "Snow on the mountain",
+      "body": "Burnett’s division, a day or two behind the lead, woke to a snow storm on the summit on the morning of 5 October and reached the foot of the range on the 6th. Ford remembered about two inches that did not lie long.",
+      "tags": [
+        "blue-mountains",
+        "snow",
+        "weather"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-10-06T17:54:00Z",
+      "title": "Cayuse potatoes",
+      "body": "At the foot of the mountains the Cayuse sold corn, peas and potatoes from their own fields for clothing. It was the emigrants’ first fresh vegetable food in months.",
+      "tags": [
+        "umatilla",
+        "cayuse",
+        "trade",
+        "food"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I have never tasted a greater luxury than the potatoes we ate on this occasion.",
+        "by": "Peter H. Burnett, Recollections (1880)"
+      },
+      "refs": [
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-10-06T21:54:00Z",
+      "title": "Waiilatpu without Whitman",
+      "body": "Nesmith reached the mission about two o’clock and could buy only a bushel of potatoes and a peck of corn; there was no flour. Whitman was still away and William Geiger was in charge. The main body camped three miles off from 10 to 14 October and grumbled at the prices.",
+      "tags": [
+        "waiilatpu",
+        "whitman-mission",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "nesmith",
+        "burnett",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-10-08T17:55:00Z",
+      "title": "Is this Oregon?",
+      "body": "Fort Walla Walla stood on bare sand at the mouth of the Walla Walla River. It was Sunday and Archibald McKinlay would sell only a little tobacco. Nesmith, 23, was not impressed.",
+      "tags": [
+        "fort-walla-walla",
+        "columbia-river"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "If this is a fair specimen of Oregon, it falls far below the conceptions which I formed of the country.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-17T17:56:00Z",
+      "title": "Boats or wagons",
+      "body": "At the fort the emigration split. Some families traded their cattle to the Hudson’s Bay Company for cattle to be delivered on the Willamette and took to the river. The larger part kept wagons and stock and broke a road down the south bank to The Dalles.",
+      "tags": [
+        "fort-walla-walla",
+        "decision",
+        "columbia-river"
+      ],
+      "significance": 3,
+      "refs": [
+        "newby",
+        "burnett",
+        "fremont",
+        "elliott"
+      ]
+    },
+    {
+      "t": "1843-10-20T17:56:00Z",
+      "title": "Whip-sawing skiffs",
+      "body": "The three Applegate families and their neighbours stayed about two weeks at the fort. The men sawed driftwood logs into boards with a pit-saw and built skiffs big enough for a family of eight or ten. Wagons and cattle were left behind under the company’s “H. B.” brand.",
+      "tags": [
+        "fort-walla-walla",
+        "boats",
+        "applegate"
+      ],
+      "significance": 2,
+      "refs": [
+        "boyhood",
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-10-24T19:56:00Z",
+      "title": "The barge for the families",
+      "body": "Nesmith, canoeing ahead of everyone, reached the Hudson’s Bay mill above Fort Vancouver at noon and met four men “taking up a barge to bring the families down from the Mission”. He was given dinner by the chief factor.",
+      "tags": [
+        "fort-vancouver",
+        "mcloughlin",
+        "relief"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "We were kindly treated by Dr. McLaughlin, in charge of the fort.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-27T17:56:00Z",
+      "title": "Nesmith reaches Oregon City",
+      "body": "Nesmith’s small pack-and-canoe party landed at the falls of the Willamette on 27 October, among the first of the year’s emigrants to arrive. His diary ended the next day with three words.",
+      "tags": [
+        "oregon-city",
+        "arrival"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Went to work.",
+        "by": "James W. Nesmith, diary"
+      },
+      "refs": [
+        "nesmith"
+      ]
+    },
+    {
+      "t": "1843-10-28T17:56:00Z",
+      "title": "The fleet passes Fremont",
+      "body": "Fremont’s party was dragging through deep sand on the south bank the day it left the fort. The Applegate boats, launched at last, came down the smooth river and passed them.",
+      "tags": [
+        "columbia-river",
+        "boats",
+        "applegate",
+        "fremont"
+      ],
+      "significance": 1,
+      "refs": [
+        "fremont"
+      ]
+    },
+    {
+      "t": "1843-11-02T18:02:00Z",
+      "title": "A boat goes under",
+      "body": "In rapids above The Dalles a skiff carrying three men and three boys was drawn away from the pilot boat’s channel and sucked down by a whirlpool. Edward Applegate, Warren Applegate (both about nine) and Alexander McClellan, about seventy, drowned; no body was found. Elisha Applegate, William Parker and William Doke survived. The day is not recorded: it fell between 29 October and 4 November.",
+      "tags": [
+        "columbia-river",
+        "drowning",
+        "death",
+        "applegate",
+        "the-dalles"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The boat we were watching disappeared and we saw the men and boys struggling in the water.",
+        "by": "Jesse A. Applegate, Recollections of My Boyhood"
+      },
+      "refs": [
+        "boyhood",
+        "fremont",
+        "burnett"
+      ]
+    },
+    {
+      "t": "1843-11-02T23:02:00Z",
+      "title": "On the bank afterwards",
+      "body": "The women and children walked the north-bank footpath, mistaking rocks for heads in the water. Elisha, eleven, saved himself by swimming, which his mother had forbidden. That evening a cold wind and rain came on, and at the mission camp a Black girl from Burnett’s household was lost at the river’s edge.",
+      "tags": [
+        "columbia-river",
+        "drowning",
+        "applegate",
+        "the-dalles"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "I will never object to the boys going swimming any more.",
+        "by": "Melinda Applegate, as her son recalled it"
+      },
+      "refs": [
+        "boyhood"
+      ]
+    },
+    {
+      "t": "1843-11-04T18:05:00Z",
+      "title": "Rafts at The Dalles",
+      "body": "The wagon road ended at the Methodist mission. Men hauled dry pine logs to the river, lashed six or eight together, and loaded wagon beds, running gear and families on top. The stock was driven along the shore.",
+      "tags": [
+        "the-dalles",
+        "rafts",
+        "columbia-river",
+        "wagons"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "making ark-like rafts, on which they had embarked their families and households, with their large wagons and other furniture, while their stock were driven along the shore.",
+        "by": "John C. Frémont, Report (1845)"
+      },
+      "refs": [
+        "fremont",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-11-06T18:05:00Z",
+      "title": "Word from Tualatin Plains",
+      "body": "M. M. McCarver, already settled, wrote to Iowa that more than half the emigrants had reached the valley and the rest were near The Dalles. Wagons would come down by water because it was too late to open a road through the Cascades.",
+      "tags": [
+        "tualatin-plains",
+        "arrival",
+        "letters"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "This expedition establishes the practicability beyond doubt of a waggon road across the continent by the way of the southern pass in the Rocky Mountains.",
+        "by": "M. M. McCarver, letter of 6 November 1843"
+      },
+      "refs": [
+        "letters-1843"
+      ]
+    },
+    {
+      "t": "1843-11-07T18:08:00Z",
+      "title": "Waiting at the Cascades",
+      "body": "The rafts were useless below the Cascades rapids. Families camped in the rain at the lower landing waiting for boats, while goods and wagons were carried or dragged round the portage, six days’ work for John Arthur’s company. A party wind-bound near Cape Horn boiled rawhide before a company boat found it.",
+      "tags": [
+        "cascades",
+        "portage",
+        "hunger",
+        "columbia-river"
+      ],
+      "significance": 3,
+      "refs": [
+        "fremont",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-11-09T18:08:00Z",
+      "title": "McLoughlin’s boats and wheat",
+      "body": "John McLoughlin sent boats with provisions up to the Cascades, lent others free, sheltered arrivals in the fort’s buildings and sold food and seed wheat on credit. Burnett reported it the day after he landed.",
+      "tags": [
+        "fort-vancouver",
+        "mcloughlin",
+        "relief",
+        "credit"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "At the Cascades we met provisions sent us by the Doctor, and all purchased who applied, even without money.",
+        "by": "Peter H. Burnett, letter of 10 November 1843"
+      },
+      "refs": [
+        "letters-1843",
+        "fremont",
+        "newby"
+      ]
+    },
+    {
+      "t": "1843-11-10T18:11:00Z",
+      "title": "Cattle over the mountains",
+      "body": "No wagon crossed the Cascades in 1843, but some of the loose stock did, driven over an Indian trail round Mount Hood; that party was reported to have lost a number of animals. Other herds were swum to the north bank below The Dalles and driven down to Vancouver, where they sold well.",
+      "tags": [
+        "cattle",
+        "cascades",
+        "trail"
+      ],
+      "significance": 2,
+      "refs": [
+        "fremont",
+        "letters-1843",
+        "newby",
+        "burnett-letters"
+      ]
+    },
+    {
+      "t": "1843-11-13T18:11:00Z",
+      "title": "Arrival at the falls",
+      "body": "Overton Johnson and William Winter, who left Fort Hall two weeks behind the main trains, reached Oregon City by skiff on 13 November. They found a village of about a hundred people with mills, shops and food to buy. The last emigrants came in shortly after.",
+      "tags": [
+        "oregon-city",
+        "arrival"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "This was the 13th of November, 1843, and it was five months and nineteen days after we left Independence, in Missouri.",
+        "by": "Overton Johnson and William H. Winter (1846)"
+      },
+      "refs": [
+        "johnson-winter"
+      ]
+    },
+    {
+      "t": "1843-11-20T18:10:00Z",
+      "title": "A camp where Portland would be",
+      "body": "The Applegates waited out a storm for three or four days on Sauvie Island, then passed Linnton, where the Strait family had just buried a daughter. They camped a day or two in the woods on the west bank on the future site of Portland, then poled up through the Clackamas rapids to the falls and on to Champoeg. Dates are approximate.",
+      "tags": [
+        "willamette",
+        "applegate",
+        "arrival",
+        "death"
+      ],
+      "significance": 2,
+      "refs": [
+        "boyhood"
+      ]
+    },
+    {
+      "t": "1843-11-26T18:10:00Z",
+      "title": "Burnett brings his family down",
+      "body": "Burnett returned to The Dalles in a company boat with Fremont, collected his family, and landed them at Fort Vancouver on 26 November. He and McCarver laid out a town they called Linnton on the lower Willamette and then moved to the Tualatin Plains.",
+      "tags": [
+        "fort-vancouver",
+        "linnton",
+        "settlement",
+        "burnett"
+      ],
+      "significance": 2,
+      "refs": [
+        "burnett",
+        "letters-1843"
+      ]
+    },
+    {
+      "t": "1843-11-30T18:10:00Z",
+      "title": "The first winter",
+      "body": "The newcomers scattered to the Tualatin Plains, Oregon City, Linnton, the French Prairie and the old mission country up the Willamette. The Applegates, about twenty-five people, shared three cabins and worked for pork and peas; the men built a ferry boat for their keep. The winter was wet but mild, with one brief snow.",
+      "tags": [
+        "winter",
+        "settlement",
+        "willamette-valley"
+      ],
+      "significance": 2,
+      "refs": [
+        "boyhood",
+        "johnson-winter"
+      ]
     }
   ],
-  "episodes": [],
+  "episodes": [
+    {
+      "id": "the-start-1843-05-22",
+      "start": "1843-05-22T21:19:00Z",
+      "end": "1843-05-23T03:19:00Z",
+      "kind": "event",
+      "title": "The start from the rendezvous",
+      "narrativeBeats": [
+        {
+          "t": "1843-05-22T21:19:00Z",
+          "text": "Burnett’s wagons reach Elm Grove “about 3 P. M.” after the general start from the rendezvous."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-kansas-1843-05-26",
+      "start": "1843-05-26T15:23:00Z",
+      "end": "1843-05-29T21:23:00Z",
+      "kind": "event",
+      "title": "Crossing the Kansas",
+      "narrativeBeats": [
+        {
+          "t": "1843-05-26T15:23:00Z",
+          "text": "Nesmith and Burnett reach the Kansas River; Nesmith crosses on Papin’s two-canoe platform and nearly drowns helping William Vaughn."
+        },
+        {
+          "t": "1843-05-27T15:23:00Z",
+          "text": "A committee of three fails to hire Papin’s platform; the emigrants start building their own from two canoes."
+        },
+        {
+          "t": "1843-05-28T15:23:00Z",
+          "text": "Papin’s platform sinks with emigrant families aboard; all are saved."
+        },
+        {
+          "t": "1843-05-29T15:23:00Z",
+          "text": "The company begins ferrying on its own platform."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-kansas-1843-05-31",
+      "start": "1843-05-31T15:23:00Z",
+      "end": "1843-05-31T21:23:00Z",
+      "kind": "event",
+      "title": "Crossing the Kansas",
+      "narrativeBeats": [
+        {
+          "t": "1843-05-31T15:23:00Z",
+          "text": "The last wagons are over and camp is made on Soldier (“Black Warrior”) Creek."
+        }
+      ]
+    },
+    {
+      "id": "the-election-1843-06-01",
+      "start": "1843-06-01T15:23:00Z",
+      "end": "1843-06-01T21:23:00Z",
+      "kind": "event",
+      "title": "The election",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-01T15:23:00Z",
+          "text": "Candidates march off across the prairie and voters line up behind them; Burnett is elected captain, Nesmith orderly sergeant, with a council of nine."
+        }
+      ]
+    },
+    {
+      "id": "storm-at-the-big-blue-1843-06-07",
+      "start": "1843-06-07T04:27:00Z",
+      "end": "1843-06-07T10:27:00Z",
+      "kind": "event",
+      "title": "Storm at the Big Blue",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-07T04:27:00Z",
+          "text": "After an evening ford of the Big Blue a thunderstorm begins about 10 o’clock (Newby) and lasts till day, flooding the camp."
+        }
+      ]
+    },
+    {
+      "id": "the-split-1843-06-09",
+      "start": "1843-06-09T18:27:00Z",
+      "end": "1843-06-10T00:27:00Z",
+      "kind": "event",
+      "title": "The split",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-09T18:27:00Z",
+          "text": "The weather clears about noon; the company camps at a grove and divides (Nesmith: four divisions; Burnett: Applegate’s and Martin’s companies)."
+        }
+      ]
+    },
+    {
+      "id": "first-buffalo-1843-06-12",
+      "start": "1843-06-12T18:29:00Z",
+      "end": "1843-06-13T00:29:00Z",
+      "kind": "event",
+      "title": "The first buffalo",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-12T18:29:00Z",
+          "text": "About 12:00 Nesmith sights a lone bull two miles north of the trail; Gantt, Nesmith and four others kill it with seven balls."
+        }
+      ]
+    },
+    {
+      "id": "reaching-the-platte-1843-06-18",
+      "start": "1843-06-18T15:36:00Z",
+      "end": "1843-06-18T21:36:00Z",
+      "kind": "event",
+      "title": "Reaching the Platte",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-18T15:36:00Z",
+          "text": "After 20–25 miles across the divide the light column reaches the Platte at the head of Grand Island at sundown."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-south-platte-1843-06-26",
+      "start": "1843-06-26T18:46:00Z",
+      "end": "1843-06-27T00:46:00Z",
+      "kind": "event",
+      "title": "Crossing the South Platte",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-26T18:46:00Z",
+          "text": "The company reaches the usual crossing about noon and finds it too high to ford."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-south-platte-1843-06-29",
+      "start": "1843-06-29T15:49:00Z",
+      "end": "1843-07-02T21:49:00Z",
+      "kind": "event",
+      "title": "Crossing the South Platte",
+      "narrativeBeats": [
+        {
+          "t": "1843-06-29T15:49:00Z",
+          "text": "After a morning hunting a ford the train starts about 9:00, eats at 10:00 by an alkali pond, and reaches the cottonwood grove chosen for the crossing."
+        },
+        {
+          "t": "1843-06-30T15:49:00Z",
+          "text": "The skins of eight buffalo are packed in to cover wagon beds."
+        },
+        {
+          "t": "1843-07-01T15:49:00Z",
+          "text": "In the afternoon the first loads go over in hide-covered wagon bodies; Applegate and Whitman ride in that evening and a girl is born."
+        },
+        {
+          "t": "1843-07-02T15:49:00Z",
+          "text": "Crossing begins “tolerably early” in a cold south-west wind; part of the company gets over."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-south-platte-1843-07-04",
+      "start": "1843-07-04T15:49:00Z",
+      "end": "1843-07-05T21:49:00Z",
+      "kind": "event",
+      "title": "Crossing the South Platte",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-04T15:49:00Z",
+          "text": "Most of the company spends the Fourth swimming cattle and fording wagons."
+        },
+        {
+          "t": "1843-07-05T15:49:00Z",
+          "text": "The last wagons are hauled out by evening; a dance on the sandbar after dark."
+        }
+      ]
+    },
+    {
+      "id": "fort-laramie-1843-07-12",
+      "start": "1843-07-12T18:56:00Z",
+      "end": "1843-07-15T21:58:00Z",
+      "kind": "event",
+      "title": "Fort Laramie",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-12T18:56:00Z",
+          "text": "The cow column (Newby) reaches Fort Laramie “a bout 12 oclock”, two days ahead of the light column."
+        },
+        {
+          "t": "1843-07-13T20:57:00Z",
+          "text": "Nesmith’s company passes an old fort on the river bank about 2:00, then camps short of a Sioux village."
+        },
+        {
+          "t": "1843-07-14T16:58:00Z",
+          "text": "The light column arrives about 10:00 and finds Chiles’s and Applegate’s companies there."
+        },
+        {
+          "t": "1843-07-14T18:58:00Z",
+          "text": "Ferrying of the swollen Laramie Fork goes on all afternoon and all night; the traders at Fort Platte give a ball in the evening."
+        },
+        {
+          "t": "1843-07-15T15:58:00Z",
+          "text": "The crossing is finished in the morning; the company lies by to repair wagons and trade."
+        }
+      ]
+    },
+    {
+      "id": "joel-hembree-1843-07-18",
+      "start": "1843-07-18T16:00:00Z",
+      "end": "1843-07-21T01:02:00Z",
+      "kind": "event",
+      "title": "The death of Joel Hembree",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-18T16:00:00Z",
+          "text": "Joel Hembree falls from the wagon tongue and both wheels pass over him (Newby, cow column)."
+        },
+        {
+          "t": "1843-07-19T16:00:00Z",
+          "text": "The cow column lies by; the boy dies “about 2 oclock” (Newby does not say morning or afternoon)."
+        },
+        {
+          "t": "1843-07-20T19:02:00Z",
+          "text": "The cow column buries him and cuts his name on a headstone; at noon Nesmith’s advance guard reaches the fresh grave."
+        }
+      ]
+    },
+    {
+      "id": "crossing-the-north-platte-1843-07-22",
+      "start": "1843-07-22T16:04:00Z",
+      "end": "1843-07-25T01:05:00Z",
+      "kind": "event",
+      "title": "Crossing the North Platte",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-22T16:04:00Z",
+          "text": "The cow column fords in two channels with ropes and 30–40 men hauling from a sandbar (Newby)."
+        },
+        {
+          "t": "1843-07-23T22:04:00Z",
+          "text": "About 3:00 Nesmith’s company sees Applegate’s column crossing a ridge beyond the river."
+        },
+        {
+          "t": "1843-07-24T19:05:00Z",
+          "text": "The light column reaches the ford about noon and drives across in the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "independence-rock-1843-07-27",
+      "start": "1843-07-27T16:08:00Z",
+      "end": "1843-07-28T23:09:00Z",
+      "kind": "event",
+      "title": "Independence Rock",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-27T16:08:00Z",
+          "text": "The light column reaches the Sweetwater (Burnett) after eight miles (Nesmith)."
+        },
+        {
+          "t": "1843-07-28T17:09:00Z",
+          "text": "The cow column reaches the rock “a bout 10 oclock” and lies by (Newby); Nesmith returns from hunting in cold rain that evening."
+        }
+      ]
+    },
+    {
+      "id": "independence-rock-1843-07-30",
+      "start": "1843-07-30T16:09:00Z",
+      "end": "1843-08-01T00:09:00Z",
+      "kind": "event",
+      "title": "Independence Rock",
+      "narrativeBeats": [
+        {
+          "t": "1843-07-30T16:09:00Z",
+          "text": "After breakfast Nesmith and friends paint names on the south-east point of the rock."
+        },
+        {
+          "t": "1843-07-31T18:09:00Z",
+          "text": "Nesmith’s thirteen wagons leave the rock about 11:00 and reach Martin’s company about 2:00."
+        }
+      ]
+    },
+    {
+      "id": "payne-s-death-1843-08-04",
+      "start": "1843-08-04T10:12:00Z",
+      "end": "1843-08-05T03:12:00Z",
+      "kind": "event",
+      "title": "A death on the Sweetwater",
+      "narrativeBeats": [
+        {
+          "t": "1843-08-04T10:12:00Z",
+          "text": "Clayborne Payne dies at 3:00 in the morning in Martin’s company."
+        },
+        {
+          "t": "1843-08-04T21:12:00Z",
+          "text": "About 2:00 in the afternoon a loud report and rumbling pass overhead in a clear sky (Nesmith); Newby saw a fireball “at noon”."
+        }
+      ]
+    },
+    {
+      "id": "south-pass-1843-08-06",
+      "start": "1843-08-06T16:14:00Z",
+      "end": "1843-08-08T22:16:00Z",
+      "kind": "event",
+      "title": "South Pass",
+      "narrativeBeats": [
+        {
+          "t": "1843-08-06T16:14:00Z",
+          "text": "Nesmith’s company passes Applegate’s camp and makes its last camp on the Sweetwater."
+        },
+        {
+          "t": "1843-08-07T19:16:00Z",
+          "text": "Six miles from the Sweetwater the company noons at the spring, then starts across the twenty-mile barren."
+        },
+        {
+          "t": "1843-08-08T16:16:00Z",
+          "text": "After hunting strayed cattle the company leaves its dry camp about 9:00 and reaches the Sandy."
+        }
+      ]
+    },
+    {
+      "id": "fort-bridger-1843-08-14",
+      "start": "1843-08-14T19:20:00Z",
+      "end": "1843-08-15T01:20:00Z",
+      "kind": "event",
+      "title": "Fort Bridger",
+      "narrativeBeats": [
+        {
+          "t": "1843-08-14T19:20:00Z",
+          "text": "Newby’s party reaches Fort Bridger at 12 o’clock; Burnett and most of Nesmith’s company arrive the same day."
+        }
+      ]
+    },
+    {
+      "id": "soda-springs-1843-08-23",
+      "start": "1843-08-23T19:25:00Z",
+      "end": "1843-08-25T03:27:00Z",
+      "kind": "event",
+      "title": "Soda Springs",
+      "narrativeBeats": [
+        {
+          "t": "1843-08-23T19:25:00Z",
+          "text": "Frémont overtakes Nesmith’s wagons in the morning; at noon Nesmith reaches a Snake village and buys a horse."
+        },
+        {
+          "t": "1843-08-24T21:27:00Z",
+          "text": "Nesmith passes the Soda Springs about 2:00 and camps where the road leaves Bear River."
+        }
+      ]
+    },
+    {
+      "id": "fort-hall-1843-08-27",
+      "start": "1843-08-27T16:29:00Z",
+      "end": "1843-08-28T22:30:00Z",
+      "kind": "event",
+      "title": "Fort Hall",
+      "narrativeBeats": [
+        {
+          "t": "1843-08-27T16:29:00Z",
+          "text": "Burnett arrives at Fort Hall, thirteen days from Fort Bridger."
+        },
+        {
+          "t": "1843-08-28T16:30:00Z",
+          "text": "Nesmith arrives after twelve miles; his party stays until 1 September."
+        }
+      ]
+    },
+    {
+      "id": "three-island-crossing-1843-09-10",
+      "start": "1843-09-10T16:41:00Z",
+      "end": "1843-09-13T01:41:00Z",
+      "kind": "event",
+      "title": "Three Island Crossing",
+      "narrativeBeats": [
+        {
+          "t": "1843-09-10T16:41:00Z",
+          "text": "Nesmith’s wagons travel eight miles and camp on an island in the Snake; Burnett’s division fords the river this day."
+        },
+        {
+          "t": "1843-09-11T16:41:00Z",
+          "text": "In the morning Nesmith’s wagons, fastened together in line, cross to the north bank “without difficulty” and go four miles."
+        },
+        {
+          "t": "1843-09-12T19:41:00Z",
+          "text": "Nesmith’s camp is held until noon by a runaway ox, then moves five miles."
+        }
+      ]
+    },
+    {
+      "id": "over-the-blue-mountains-1843-09-30",
+      "start": "1843-09-30T16:52:00Z",
+      "end": "1843-10-07T03:54:00Z",
+      "kind": "event",
+      "title": "Over the Blue Mountains",
+      "narrativeBeats": [
+        {
+          "t": "1843-09-30T16:52:00Z",
+          "text": "Nesmith’s wagons cross the Grande Ronde six miles and lie by for the afternoon at the foot of the mountains."
+        },
+        {
+          "t": "1843-10-01T16:52:00Z",
+          "text": "The lead wagons climb out of the Grande Ronde and make twelve miles to a dry ravine; Mrs. Rubey is buried in the valley."
+        },
+        {
+          "t": "1843-10-02T16:53:00Z",
+          "text": "Twelve miles with axemen ahead cutting timber all day."
+        },
+        {
+          "t": "1843-10-03T17:54:00Z",
+          "text": "Oxen are lost in the pine thickets; the wagons start about ten o’clock and make only three miles across a bad ravine."
+        },
+        {
+          "t": "1843-10-04T16:54:00Z",
+          "text": "In rain and hail the lead wagons descend twelve miles to the Umatilla and camp three miles down it by Cayuse lodges."
+        },
+        {
+          "t": "1843-10-05T19:54:00Z",
+          "text": "Nesmith’s wagons leave the Umatilla about noon with Sticcas; the same morning Burnett’s division, still on the summit, has a snow storm."
+        },
+        {
+          "t": "1843-10-06T21:54:00Z",
+          "text": "Nesmith reaches Whitman’s mission about two o’clock; Burnett’s division reaches the foot of the mountains."
+        }
+      ]
+    },
+    {
+      "id": "the-drowning-above-the-dalles-1843-10-28",
+      "start": "1843-10-28T16:56:00Z",
+      "end": "1843-10-28T22:56:00Z",
+      "kind": "event",
+      "title": "The drowning above The Dalles",
+      "narrativeBeats": [
+        {
+          "t": "1843-10-28T16:56:00Z",
+          "text": "The Applegate boats, built at Fort Walla Walla, pass Fremont on the river below the fort."
+        }
+      ]
+    },
+    {
+      "id": "the-drowning-above-the-dalles-1843-11-02",
+      "start": "1843-11-02T17:02:00Z",
+      "end": "1843-11-03T08:02:00Z",
+      "kind": "event",
+      "title": "The drowning above The Dalles",
+      "narrativeBeats": [
+        {
+          "t": "1843-11-02T17:02:00Z",
+          "text": "Date uncertain (29 Oct — 4 Nov): entering rapids at a northward bend, the family boat keeps about twenty yards off the right-hand shore behind the Indian pilot while a smaller boat drifts toward the south bank."
+        },
+        {
+          "t": "1843-11-02T20:02:00Z",
+          "text": "The small boat is spun in a whirlpool and goes down, comes up with all but Warren Applegate, and is swallowed by a second whirlpool."
+        },
+        {
+          "t": "1843-11-02T23:02:00Z",
+          "text": "McClellan, carrying Edward on two oars, falls short of a rock island and both go under the cliffs; Elisha Applegate and William Parker reach the rock on a feather bed-tick, and William Doke is picked up at the foot of the rapids."
+        },
+        {
+          "t": "1843-11-03T02:02:00Z",
+          "text": "That afternoon wind and cold rain break on the families waiting on the bank; they camp that night at Perkins’s mission."
+        }
+      ]
+    },
+    {
+      "id": "the-drowning-above-the-dalles-1843-11-04",
+      "start": "1843-11-04T17:05:00Z",
+      "end": "1843-11-04T23:05:00Z",
+      "kind": "event",
+      "title": "The drowning above The Dalles",
+      "narrativeBeats": [
+        {
+          "t": "1843-11-04T17:05:00Z",
+          "text": "Fremont, reaching The Dalles, is told of the loss and blames “want of skill in the steersman”."
+        }
+      ]
+    }
+  ],
   "conditions": [
     {
-      "start": "1843-05-01T00:00:00Z",
-      "end": "1843-05-31T23:59:59Z",
-      "activityKey": "trail",
-      "label": "Forming the wagon train and leaving Independence",
-      "weather": "Mild spring days, cool nights"
+      "start": "1843-05-18T06:18:00Z",
+      "end": "1843-05-22T13:19:00Z",
+      "activityKey": "camp",
+      "label": "Gathering at the rendezvous",
+      "weather": "Fine since 13 May (Burnett); late spring, grass short"
     },
     {
-      "start": "1843-06-01T00:00:00Z",
-      "end": "1843-06-30T23:59:59Z",
-      "activityKey": "trail",
-      "label": "Crossing the plains toward the Platte River",
-      "weather": "Warm days, occasional thunderstorms"
+      "start": "1843-05-22T13:19:00Z",
+      "end": "1843-05-26T06:23:00Z",
+      "activityKey": "travel",
+      "label": "On the prairie road",
+      "weather": "Clear and fine"
     },
     {
-      "start": "1843-07-01T00:00:00Z",
-      "end": "1843-07-31T23:59:59Z",
-      "activityKey": "trail",
-      "label": "Along the Platte and North Platte, steady travel",
-      "weather": "Hot and dusty with summer storms"
-    },
-    {
-      "start": "1843-08-01T00:00:00Z",
-      "end": "1843-08-20T23:59:59Z",
-      "activityKey": "mountains",
-      "label": "Climbing into the Rockies and South Pass",
-      "weather": "Cooler mountain air, sudden showers"
-    },
-    {
-      "start": "1843-08-21T00:00:00Z",
-      "end": "1843-09-10T23:59:59Z",
+      "start": "1843-05-26T06:23:00Z",
+      "end": "1843-06-01T06:23:00Z",
       "activityKey": "ford",
-      "label": "Across the dry stretches and Snake River crossings",
-      "weather": "Dry, windy days and chilly nights"
+      "label": "Ferrying the Kansas River",
+      "weather": "Kansas River high; cold incessant rain on 29 May (Frémont, at the frontier)"
     },
     {
-      "start": "1843-09-11T00:00:00Z",
-      "end": "1843-10-10T23:59:59Z",
-      "activityKey": "trail",
-      "label": "Final push through the Columbia toward Oregon City",
-      "weather": "Autumn storms and early frosts"
+      "start": "1843-06-01T06:23:00Z",
+      "end": "1843-06-06T06:27:00Z",
+      "activityKey": "travel",
+      "label": "Up the Kansas valley to the Big Blue",
+      "weather": "Hard rain night of 3 June; roads muddy"
+    },
+    {
+      "start": "1843-06-06T06:27:00Z",
+      "end": "1843-06-09T06:27:00Z",
+      "activityKey": "camp",
+      "label": "Stormbound at the Big Blue",
+      "weather": "Thunderstorms and torrents of rain three nights running; camp flooded"
+    },
+    {
+      "start": "1843-06-09T06:27:00Z",
+      "end": "1843-06-18T06:36:00Z",
+      "activityKey": "travel",
+      "label": "Across the prairie to the Platte",
+      "weather": "Cleared 9 June; roads wet and soft; showers 11, 15 and 17 June; otherwise fine and cool"
+    },
+    {
+      "start": "1843-06-18T06:36:00Z",
+      "end": "1843-06-30T06:49:00Z",
+      "activityKey": "travel",
+      "label": "Up the Platte",
+      "weather": "Hard cold rain 21 June, then dry and sultry; brief hot wind 27 June; river very high"
+    },
+    {
+      "start": "1843-06-30T06:49:00Z",
+      "end": "1843-07-06T06:49:00Z",
+      "activityKey": "ford",
+      "label": "Crossing the South Platte in hide boats",
+      "weather": "Cool; cold strong south-west wind 2 July; extremely warm and sultry 5 July"
+    },
+    {
+      "start": "1843-07-06T06:49:00Z",
+      "end": "1843-07-14T06:58:00Z",
+      "activityKey": "travel",
+      "label": "Up the North Platte",
+      "weather": "Rain nights of 6 and 7 July; warm; thundercloud 9 July"
+    },
+    {
+      "start": "1843-07-14T06:58:00Z",
+      "end": "1843-07-16T06:59:00Z",
+      "activityKey": "ford",
+      "label": "Fort Laramie; ferrying Laramie Fork",
+      "weather": "Laramie Fork very high; hail storm after one party crossed (Johnson and Winter)"
+    },
+    {
+      "start": "1843-07-16T06:59:00Z",
+      "end": "1843-07-25T07:05:00Z",
+      "activityKey": "travel",
+      "label": "Through the Black Hills"
+    },
+    {
+      "start": "1843-07-25T07:05:00Z",
+      "end": "1843-07-31T07:09:00Z",
+      "activityKey": "travel",
+      "label": "Over to the Sweetwater and Independence Rock",
+      "weather": "Rain 27 July; very cold rain 28 July; calm and serene 30 July"
+    },
+    {
+      "start": "1843-07-31T07:09:00Z",
+      "end": "1843-08-08T07:16:00Z",
+      "activityKey": "travel",
+      "label": "Up the Sweetwater to South Pass",
+      "weather": "Nights very cold, middle of the day very warm; cold enough for frost 4 August (Newby)"
+    },
+    {
+      "start": "1843-08-08T07:16:00Z",
+      "end": "1843-08-17T07:22:00Z",
+      "activityKey": "travel",
+      "label": "Green River country, to Fort Bridger",
+      "weather": "Heavy frost and thin ice 12 August; dusty, smoky and hot days (Frémont)"
+    },
+    {
+      "start": "1843-08-17T07:22:00Z",
+      "end": "1843-08-28T07:30:00Z",
+      "activityKey": "travel",
+      "label": "Down Bear River to Fort Hall",
+      "weather": "Dry and smoky; cool mornings, frost at Soda Springs 26 August (Frémont); no rain for five weeks before 29 August (Newby)"
+    },
+    {
+      "start": "1843-08-28T07:30:00Z",
+      "end": "1843-09-01T07:31:00Z",
+      "activityKey": "camp",
+      "label": "Laid by at Fort Hall",
+      "weather": "Cold rain for three days from 29 Aug, the first in five weeks"
+    },
+    {
+      "start": "1843-09-01T07:31:00Z",
+      "end": "1843-09-10T07:41:00Z",
+      "activityKey": "travel",
+      "label": "Down the Snake, through sage and lava",
+      "weather": "Cold and rainy 1 Sept; rain 5–6 Sept; otherwise dry and dusty"
+    },
+    {
+      "start": "1843-09-10T07:41:00Z",
+      "end": "1843-09-12T07:41:00Z",
+      "activityKey": "ford",
+      "label": "Fording the Snake at the islands"
+    },
+    {
+      "start": "1843-09-12T07:41:00Z",
+      "end": "1843-09-19T07:47:00Z",
+      "activityKey": "travel",
+      "label": "North of the Snake, to the Boise River",
+      "weather": "Fine"
+    },
+    {
+      "start": "1843-09-19T07:47:00Z",
+      "end": "1843-09-21T07:48:00Z",
+      "activityKey": "ford",
+      "label": "Fort Boise and the second ford of the Snake",
+      "weather": "North-west gale on the 19th"
+    },
+    {
+      "start": "1843-09-21T07:48:00Z",
+      "end": "1843-09-27T07:50:00Z",
+      "activityKey": "travel",
+      "label": "The Malheur and the Burnt River canyon",
+      "weather": "Snow on the mountain tops on the night of 25 Sept"
+    },
+    {
+      "start": "1843-09-27T07:50:00Z",
+      "end": "1843-10-01T07:52:00Z",
+      "activityKey": "travel",
+      "label": "Powder River and the Grande Ronde",
+      "weather": "Drizzle and rain 27–28 Sept; snow on the surrounding mountains"
+    },
+    {
+      "start": "1843-10-01T07:52:00Z",
+      "end": "1843-10-06T07:54:00Z",
+      "activityKey": "travel",
+      "label": "Cutting a road over the Blue Mountains",
+      "weather": "Fine, warm days and cool nights 1–3 Oct; rain and hail 4 Oct; snow on the summit the morning of 5 Oct; rain and mist 6 Oct"
+    },
+    {
+      "start": "1843-10-06T07:54:00Z",
+      "end": "1843-10-09T07:56:00Z",
+      "activityKey": "travel",
+      "label": "To Whitman’s mission and Fort Walla Walla",
+      "weather": "Rain and mist on the 6th, then fine; cool nights"
+    },
+    {
+      "start": "1843-10-09T07:56:00Z",
+      "end": "1843-10-18T14:56:00Z",
+      "activityKey": "camp",
+      "label": "At Fort Walla Walla: boats or wagons?",
+      "weather": "Warm days, cool moonlit nights"
+    },
+    {
+      "start": "1843-10-18T14:56:00Z",
+      "end": "1843-11-04T23:05:00Z",
+      "activityKey": "travel",
+      "label": "Wagons down the south bank of the Columbia",
+      "weather": "Fine and dry; frosts (24 F at sunrise on 31 Oct by Fremont)"
+    },
+    {
+      "start": "1843-11-04T23:05:00Z",
+      "end": "1843-11-09T16:08:00Z",
+      "activityKey": "boats",
+      "label": "On rafts from The Dalles to the Cascades",
+      "weather": "Indian-summer weather above the Cascades to 7 Nov; rain at and below the Cascades"
+    },
+    {
+      "start": "1843-11-09T16:08:00Z",
+      "end": "1843-11-14T00:11:00Z",
+      "activityKey": "boats",
+      "label": "By boat to Fort Vancouver and up the Willamette",
+      "weather": "The rainy season: steady rain from the night of 7–8 Nov"
+    },
+    {
+      "start": "1843-11-14T00:11:00Z",
+      "end": "1843-11-30T23:10:00Z",
+      "activityKey": "camp",
+      "label": "Oregon City; the families still coming in",
+      "weather": "The rainy season: steady rain from the night of 7–8 Nov"
     }
   ],
   "attribution": [
-    "Living Historical Journeys — mechanically ported from the proof of concept."
+    "Route line: National Park Service, Oregon National Historic Trail — public domain.",
+    "Quotations are from diaries, letters and memoirs first printed before 1929, except William Newby’s diary (written 1843, printed 1939) — public domain.",
+    "Base geography © OpenStreetMap contributors, tiles by OpenFreeMap."
   ],
   "sources": [],
-  "bibliography": [],
-  "notes": []
+  "bibliography": [
+    {
+      "id": "nesmith",
+      "short": "Nesmith",
+      "citation": "James W. Nesmith, “Diary of the Emigration of 1843,” Oregon Historical Quarterly 7 (1906): 329–359.",
+      "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Diary_of_the_Emigration_of_1843"
+    },
+    {
+      "id": "burnett",
+      "short": "Burnett",
+      "citation": "Peter H. Burnett, Recollections and Opinions of an Old Pioneer (New York, 1880), ch. 3 — written from the journal he kept as far as Walla Walla.",
+      "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_5/Recollections_and_Opinions_of_an_Old_Pioneer"
+    },
+    {
+      "id": "burnett-letters",
+      "short": "Burnett’s letters",
+      "citation": "Peter H. Burnett, letters from Linnton, Oregon, to the New York Herald (1844), with Tallmadge B. Wood’s letter of April 1844; reprinted in Oregon Historical Quarterly 3 (1902).",
+      "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_3/Documents"
+    },
+    {
+      "id": "applegate",
+      "short": "Applegate",
+      "citation": "Jesse Applegate, “A Day with the Cow Column in 1843” (1877); reprinted in Oregon Historical Quarterly 1 (1900).",
+      "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_1/A_Day_with_the_Cow_Column_in_1843"
+    },
+    {
+      "id": "johnson-winter",
+      "short": "Johnson & Winter",
+      "citation": "Overton Johnson and William H. Winter, Route Across the Rocky Mountains, with a Description of Oregon and California (Lafayette, Indiana, 1846).",
+      "url": "https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_7/Route_across_the_Rocky_Mountains_with_a_Description_of_Oregon_and_California/Chapter_1"
+    },
+    {
+      "id": "newby",
+      "short": "Newby",
+      "citation": "William T. Newby, “Diary of the Emigration of 1843,” Oregon Historical Quarterly 40 (1939) — read through the dated excerpts in Stephenie Flora, “Emigration to Oregon in 1843” (oregonpioneers.com), which also excerpts Ninevah Ford, John Arthur and Louise Barry.",
+      "url": "https://www.oregonpioneers.com/1843trip.htm"
+    },
+    {
+      "id": "fremont",
+      "short": "Frémont",
+      "citation": "John C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843–’44 (Washington, 1845).",
+      "url": "https://www.gutenberg.org/ebooks/9294"
+    },
+    {
+      "id": "field",
+      "short": "Field",
+      "citation": "Matthew C. Field, “Prairie and Mountain Life — The Oregon Emigrants,” New Orleans Picayune, 21 November 1843; reprinted in Oregon Historical Quarterly 1 (1900).",
+      "url": "https://www.gutenberg.org/ebooks/78187"
+    },
+    {
+      "id": "letters-1843",
+      "short": "Letters of 1843",
+      "citation": "Letters of M. M. McCarver, P. H. Burnett and S. M. Gilmore written on arrival, November 1843; reprinted in Oregon Historical Quarterly 4 (1903).",
+      "url": "https://www.gutenberg.org/ebooks/41493"
+    },
+    {
+      "id": "boyhood",
+      "short": "J. A. Applegate",
+      "citation": "Jesse A. Applegate, Recollections of My Boyhood (Roseburg, Oregon, 1914) — he was seven in 1843, and in the boat that passed the one that sank.",
+      "url": "https://en.wikisource.org/wiki/Recollections_of_My_Boyhood/Chapter_2"
+    },
+    {
+      "id": "mcclane",
+      "short": "McClane",
+      "citation": "John B. McClane to P. B. Whitman, 15 December 1888, “The Emigration of 1843,” Marion County History 7 (1961).",
+      "url": "https://collver.org/family/doc/Emigration1843_3.htm"
+    },
+    {
+      "id": "elliott",
+      "short": "Elliott",
+      "citation": "T. C. Elliott, “The Dalles–Celilo Portage; Its History and Influence,” Oregon Historical Quarterly 16 (1915), quoting Jesse Applegate’s manuscript."
+    },
+    {
+      "id": "historians",
+      "short": "Trail historians",
+      "citation": "National Park Service and Oregon-California Trails Association pages on trail sites; Randy Brown, “La Prele Creek Crossing” (WyoHistory.org); Lloyd W. Coffman, Blazing a Wagon Trail to Oregon (1993), as cited by family historians."
+    },
+    {
+      "id": "nps-trail",
+      "short": "NPS trail survey",
+      "citation": "National Park Service, Oregon National Historic Trail, designated alignment (GIS line) — the route drawn on the map. Public domain.",
+      "url": "https://www.nps.gov/oreg/"
+    }
+  ],
+  "notes": [
+    "The marker is one wagon party, not the whole emigration. To Fort Walla Walla it is the wagon James Nesmith travelled with, because his is the only diary that gives every day; from there, where he sold his wagon, it is the main body’s wagons. The emigration was whole for only eight days. After 9 June its companies were a day or more apart, and by October two or three weeks.",
+    "Nesmith’s diary has two gaps (26 May – 8 June and 9–13 August), filled from Peter Burnett, who was with the same wagons.",
+    "Forts, river crossings and landmarks are placed at their known sites. Most nightly camps are placed by counting the diarist’s miles along the surveyed trail, and may be several miles out.",
+    "The line on the map is the National Park Service’s survey of the Oregon Trail as it later settled. The wagons of 1843 left it in two places, drawn here as straight lines: at the South Platte, which they crossed about 45 miles above the usual ford (a spot known only from mileages, perhaps 10 to 15 miles out), and beyond the Blue Mountains, where they went by Whitman’s mission and down the Columbia.",
+    "Nobody in the wagons kept a diary below Fort Walla Walla. Dates there come from Frémont, who followed two weeks behind and noted where emigrants were camped, and from letters written on arrival; several are estimates. No wagon road existed past The Dalles until 1846, so the last stretch was made on rafts and in boats.",
+    "The drowning of three of the Applegate party has no recorded date. It fell between 29 October and 4 November and is shown on 2 November.",
+    "Nobody counted the people. The only counts made at the time are of men (254 by Nesmith’s roll, 263 by Burnett’s) and wagons (about 110). Totals from 800 to over 1,000 are later estimates. The death count is of deaths named in the sources, so it is a minimum.",
+    "Clock times are local mean time. Where the diary gives no hour, the wagons leave at seven and camp at five, the routine Jesse Applegate describes.",
+    "William Newby’s diary is quoted from published excerpts, not checked against the printed text."
+  ]
 }
