@@ -5,7 +5,7 @@ import { BeginLiveLink } from "@/components/journey/BeginLiveLink";
 
 const FLAGSHIP = "napoleon-1812";
 /** Journeys rebuilt to the flagship's standard, in the order they are offered. */
-const MORE = ["shackleton-1914", "oregon-trail-1843"];
+const MORE = ["shackleton-1914", "oregon-trail-1843", "rubruck-1253"];
 
 const MS_PER_DAY = 86_400_000;
 
@@ -64,7 +64,7 @@ function JourneyCard({ slug }: { slug: string }) {
   const { width = 460, height = 230 } = sketches[0] ?? {};
 
   return (
-    <div className="card flex flex-col px-6 py-6">
+    <div className="card flex flex-col px-6 py-6 md:[&:last-child:nth-child(odd)]:col-span-2">
       <h2 className="font-display text-[26px] leading-tight">{manifest.title}</h2>
       <p className="caps mt-1 text-[13px] text-ink-soft">
         {longDate(start)} – {longDate(end)} · {days} days

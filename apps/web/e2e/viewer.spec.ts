@@ -1,5 +1,14 @@
 import { expect, test } from "@playwright/test";
 
+// A crash in the page shows up in a test only as "element not found". Print the real
+// error, so a failure that will not reproduce (two so far, both on a slow first run
+// after a build, both after switching tracks in Napoleon) at least names itself.
+test.beforeEach(async ({ page }) => {
+  page.on("pageerror", (e) =>
+    console.log("PAGE ERROR:", e.message, (e.stack ?? "").replace(/\s+/g, " ").slice(0, 900)),
+  );
+});
+
 test("title page presents the flagship journey and links into the viewer", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByRole("heading", { name: /Follow history/ })).toBeVisible();
@@ -70,6 +79,9 @@ test("title page offers the further journeys once they carry sources", async ({ 
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "Shackleton’s Endurance Expedition" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "The Oregon Emigration of 1843" })).toBeVisible();
+  await expect(
+    page.getByRole("heading", { name: "William of Rubruck’s Journey to the Mongol Court" }),
+  ).toBeVisible();
   await page.getByRole("link", { name: "Watch the journey" }).first().click();
   await expect(page).toHaveURL(/\/viewer\/shackleton-1914/);
 });
@@ -99,4 +111,16 @@ test("Oregon viewer finds the wagons at Fort Laramie in mid-July", async ({ page
   await expect(page.getByText("15 July 1843").first()).toBeVisible();
   await expect(page.getByText(/Day 59 · Fort Laramie/)).toBeVisible();
   await expect(page.getByText("Deaths recorded on the road")).toBeVisible();
+});
+
+test("Rubruck viewer opens on the debate at Karakorum", async ({ page }) => {
+  await page.goto("/viewer/rubruck-1253?t=1254-05-30T06:00:00Z");
+  await expect(page.locator("canvas.maplibregl-canvas")).toBeVisible();
+  await expect(page.getByText("30 May 1254").first()).toBeVisible();
+  await expect(page.getByText(/Caracarum/).first()).toBeVisible();
+  await expect(page.getByText("Travelling together")).toBeVisible();
+  await page.getByRole("button", { name: "Sources" }).click();
+  await expect(
+    page.getByRole("dialog", { name: "Sources" }).getByText(/rests on one man/),
+  ).toBeVisible();
 });

@@ -1,8 +1,8 @@
 import type { Coord, Journey } from "@living-journeys/engine";
 import napoleon from "../journeys/napoleon-1812/bundle.json";
 import oregon from "../journeys/oregon-trail-1843/bundle.json";
+import rubruck from "../journeys/rubruck-1253/bundle.json";
 import shackleton from "../journeys/shackleton-1914/bundle.json";
-import silkRoad from "../journeys/silk-road-1300/bundle.json";
 
 /** A period place name drawn over the map (`labels.json` beside the journey). */
 export type MapLabel = {
@@ -28,7 +28,7 @@ export type JourneyBundle = {
   labels: MapLabel[];
 };
 
-const bundles = [napoleon, oregon, shackleton, silkRoad] as unknown as JourneyBundle[];
+const bundles = [napoleon, oregon, rubruck, shackleton] as unknown as JourneyBundle[];
 
 export const journeyBundles: Record<string, JourneyBundle> = Object.fromEntries(
   bundles.map((b) => [b.manifest.id, b]),

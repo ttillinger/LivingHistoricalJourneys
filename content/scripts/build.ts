@@ -6,13 +6,11 @@ import { buildRoute, JourneySchema, type Coord } from "@living-journeys/engine";
 /**
  * Content build: turns authoring sources into validated journey manifests.
  *
- * Two input modes, both producing the same output (`journey.json` + `routes/*.geojson`):
- *   - "authoring": a hand-authored `authoring.json` with per-track `vertices`
- *     ([lon,lat] + optional date/label). Dated vertices become schedule keyframes;
- *     km is computed from the route geometry so schedule and geometry can never drift.
- *     When a `roads.json` (from `scripts/trace-roads.ts`) sits beside it, each leg
- *     between two vertices follows the traced road instead of a straight line.
- *   - "poc": a legacy POC `poc-seed.json`, mechanically ported (HANDOFF.md §13, Phase 1).
+ * Input is a hand-authored `authoring.json` with per-track `vertices` ([lon,lat] +
+ * optional date/label). Dated vertices become schedule keyframes; km is computed from
+ * the route geometry so schedule and geometry can never drift. When a `roads.json`
+ * (from `scripts/trace-roads.ts`) sits beside it, each leg between two vertices
+ * follows the traced line instead of a straight one.
  *
  * Run with `pnpm --filter @living-journeys/content build`. Outputs are committed.
  */
@@ -112,79 +110,11 @@ function toGeoJson(coords: Coord[], name: string): string {
   );
 }
 
-/** Map a legacy POC seed into the authoring shape. */
-function fromPoc(slug: string, poc: PocJourney): AuthoringJourney {
-  const sw = poc.mapBounds?.southWest;
-  const ne = poc.mapBounds?.northEast;
-  return {
-    id: slug,
-    version: 1,
-    title: poc.name,
-    description: poc.description,
-    tier: "premium", // Napoleon is the only free journey; the rest are premium.
-    coordinateSpace: "geo",
-    time: poc.time,
-    mapDefaults: {
-      ...(sw && ne ? { bounds: [sw[1], sw[0], ne[1], ne[0]] } : {}),
-      styles: ["modern", "atlas"],
-    },
-    tracks: poc.tracks.map((t, i) => ({
-      id: t.id.replace(/_/g, "-"),
-      name: t.name,
-      kind: t.type,
-      ...(t.style?.color ? { color: t.style.color } : {}),
-      isPrimary: i === 0,
-      vertices: t.points.map((p) => ({ lon: p.lon, lat: p.lat, t: p.time, label: p.label })),
-    })),
-    moments: (poc.moments ?? []).map((m) => ({
-      t: m.time,
-      title: m.title,
-      body: m.text,
-      tags: [],
-      significance: 2,
-    })),
-    conditions: (poc.paceSegments ?? []).map((s) => ({
-      start: s.start,
-      end: s.end,
-      activityKey: s.key,
-      label: s.activity,
-      ...(s.weather ? { weather: s.weather } : {}),
-    })),
-    episodes: [],
-    attribution: ["Living Historical Journeys — mechanically ported from the proof of concept."],
-    sources: [],
-  };
-}
-
-type PocJourney = {
-  name: string;
-  description?: string;
-  time: { start: string; end: string };
-  mapBounds?: { southWest: [number, number]; northEast: [number, number] };
-  moments?: { time: string; title: string; text: string }[];
-  paceSegments?: { start: string; end: string; activity: string; key: string; weather?: string }[];
-  tracks: {
-    id: string;
-    name: string;
-    type: string;
-    style?: { color?: string };
-    points: { time: string; lat: number; lon: number; label?: string }[];
-  }[];
-};
-
 function buildJourney(slug: string): void {
   const dir = join(journeysDir, slug);
   const authoringPath = join(dir, "authoring.json");
-  const pocPath = join(dir, "poc-seed.json");
-
-  let authoring: AuthoringJourney;
-  if (existsSync(authoringPath)) {
-    authoring = JSON.parse(readFileSync(authoringPath, "utf8")) as AuthoringJourney;
-  } else if (existsSync(pocPath)) {
-    authoring = fromPoc(slug, JSON.parse(readFileSync(pocPath, "utf8")) as PocJourney);
-  } else {
-    throw new Error(`${slug}: no authoring.json or poc-seed.json found`);
-  }
+  if (!existsSync(authoringPath)) throw new Error(`${slug}: no authoring.json found`);
+  const authoring = JSON.parse(readFileSync(authoringPath, "utf8")) as AuthoringJourney;
 
   const space = authoring.coordinateSpace ?? "geo";
   const roadsPath = join(dir, "roads.json");
@@ -233,7 +163,7 @@ function buildJourney(slug: string): void {
   );
 }
 
-const SLUGS = ["napoleon-1812", "oregon-trail-1843", "shackleton-1914", "silk-road-1300"];
+const SLUGS = ["napoleon-1812", "oregon-trail-1843", "rubruck-1253", "shackleton-1914"];
 
 let built = 0;
 for (const slug of SLUGS) {

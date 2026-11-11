@@ -1,0 +1,2696 @@
+{
+ "itinerary": [
+  {
+   "date": "1253-04-13",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Constantinople, church of Saint Sophia",
+   "modernName": "Hagia Sophia, Istanbul, Turkey",
+   "lat": 41.0086,
+   "lon": 28.9802,
+   "event": "at",
+   "note": "Palm Sunday 1253 (Julian; Easter was 20 April). He preached in Saint Sophia that he was no envoy but a friar going to the unbelievers under the rule of his order. Rockhill prints \"April 12th\", a slip: Palm Sunday was 13 April (corrected by Jackson and by Zharkikh).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1253-05-07",
+   "dateBasis": "stated",
+   "localTime": null,
+   "place": "Entrance of the Sea of Pontus (Mare Majus), from Constantinople",
+   "modernName": "Northern mouth of the Bosporus, Turkey",
+   "lat": 41.22,
+   "lon": 29.13,
+   "event": "departs",
+   "note": "Stated as the Nones of May (7 May 1253, Julian): \"I entered the Sea of Pontus\". Rockhill's itinerary: \"Left Constantinople\" 7 May.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1253-05-11",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Open Black Sea, steering for Gazaria",
+   "modernName": "Western Black Sea",
+   "lat": 42.6,
+   "lon": 31,
+   "event": "position",
+   "note": "Interpolated waypoint. He gives no day-by-day account of the fourteen-day crossing (7–21 May); the ship made for the Crimea (\"Gazaria or Cassaria\").",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-05-17",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Off Kersona (Cherson), \"where Saint Clement was martyred\"",
+   "modernName": "Off Chersonesus, Sevastopol, Crimea",
+   "lat": 44.55,
+   "lon": 33.35,
+   "event": "position",
+   "note": "He says they sailed past Kersona and saw an island with a temple \"said to have been built by angelic hands\". The day is interpolated; Rockhill identifies Kersona with Cherson (Sevastopol).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-05-21",
+   "dateBasis": "stated",
+   "localTime": null,
+   "place": "Soldaia (Sudak)",
+   "modernName": "Sudak, Crimea",
+   "lat": 44.851,
+   "lon": 34.975,
+   "event": "arrives",
+   "note": "Stated as the 12th of the Calends of June (21 May). Lodged in the episcopal church; the city's captains were away at Batu's court with the tribute. Rockhill: Soldaia = Sudak.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1253-06-01",
+   "dateBasis": "stated",
+   "localTime": null,
+   "place": "Soldaia (Sudak)",
+   "modernName": "Sudak, Crimea",
+   "lat": 44.851,
+   "lon": 34.975,
+   "event": "departs",
+   "note": "\"About the calends of June\" (1 June). Four covered carts of his own, two lent carts for bedding, five riding horses; five travellers and two cart-men.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1253-06-02",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Mountains and forest north of Soldaia",
+   "modernName": "Crimean Mountains north of Sudak, Crimea",
+   "lat": 44.98,
+   "lon": 34.85,
+   "event": "position",
+   "note": "Interpolated. He describes the coastal mountains, then \"a most beautiful forest, in a plain full of springs and rivulets\", then open plain running five days north to the ditch.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-06-03",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "First Tartar camp",
+   "modernName": "Steppe north of Bilohirsk, Crimea",
+   "lat": 45.12,
+   "lon": 34.7,
+   "event": "at",
+   "note": "\"After having left Soldaia we came on the third day across the Tartars\" (counted from 1 June; Rockhill's itinerary gives 3 June). Position is an estimate at three ox-cart days from Sudak.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-06-05",
+   "dateBasis": "feast",
+   "localTime": "09:00",
+   "place": "Camp of Scatay (Scacatai), kinsman of Batu",
+   "modernName": "Central Crimean steppe, Crimea",
+   "lat": 45.35,
+   "lon": 34.5,
+   "event": "camp",
+   "note": "Octave of the Ascension (Ascension 29 May, octave 5 June 1253). Met Scatay's moving camp in the morning; it was \"already past the third hour\" when the dwellings were set down. Gave him the Greek letter of the emperor of Constantinople, which was sent back to Soldaia for translation. Position estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-06-09",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Scatay's camp",
+   "modernName": "Central Crimean steppe, Crimea",
+   "lat": 45.45,
+   "lon": 34.4,
+   "event": "departs",
+   "note": "Travelled about with Scatay \"until the day after Pentecost\". Pentecost 1253 was 8 June, so the day after is 9 June (Jackson; Rockhill prints 8 June and puts Pentecost on the 7th, one day early). Set out \"due north\" (really north-west, Rockhill) with a guide for Sartach and two men for a camp \"five days off, as oxen travel\".",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-06-11",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Plain of Gazaria, on the way to the ditch",
+   "modernName": "Dzhankoi district, Crimea",
+   "lat": 45.75,
+   "lon": 34.15,
+   "event": "position",
+   "note": "Interpolated waypoint on the five ox-cart days from Scatay to the isthmus. The escort robbed them on this stretch.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-06-13",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "The ditch \"from one sea to the other\" (Isthmus of Perekop)",
+   "modernName": "Perekop, Crimea",
+   "lat": 46.162,
+   "lon": 33.693,
+   "event": "camp",
+   "note": "Five ox-cart days from Scatay (9 June + 5 = about 13–14 June; Rockhill's itinerary has 12 June because he starts the count on the 8th). Camp of the salt-tax collectors beside the salt lakes. Told the next stretch was fifteen days without meeting anyone. Rockhill identifies the ditch with Perekop.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-06-18",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Steppe north of the Sea of Tanais (Sea of Azov)",
+   "modernName": "Near Melitopol, Zaporizhzhia Oblast, Ukraine",
+   "lat": 46.75,
+   "lon": 35.2,
+   "event": "position",
+   "note": "Interpolated. \"We were travelling due east ... having the sea to the south and a vast wilderness to the north\" (Rockhill: actually east-north-east). Water only from holes dug in hollows, and two small streams.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-06-23",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "First camp beyond the isthmus",
+   "modernName": "Steppe north of Berdiansk, Zaporizhzhia Oblast, Ukraine",
+   "lat": 46.95,
+   "lon": 36.6,
+   "event": "camp",
+   "note": "\"In ten days we covered the distance to the next camp\" (the Tartars had said fifteen). Counted from about 13 June. Position estimated at ten ox-cart days E.N.E. of Perekop, with the Sea of Azov sometimes in sight on the right.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-01",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Coman steppe (\"Capchat\"), from camp to camp",
+   "modernName": "Steppe near the Kalmius, Donetsk Oblast, Ukraine",
+   "lat": 47.6,
+   "lon": 38.1,
+   "event": "position",
+   "note": "Interpolated. After the first camp Rockhill has him bearing nearly due north-east as far as the Volga. Only Coman tombs to be seen, \"visible two leagues off\".",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-10",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Coman steppe, from camp to camp",
+   "modernName": "Steppe near Starobilsk, Luhansk Oblast, Ukraine",
+   "lat": 48.9,
+   "lon": 39.6,
+   "event": "position",
+   "note": "Interpolated. He records intense heat, crowds of onlookers at every camp and too little food for eight people.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-20",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "The Tanais (Don), at the Ruthenian ferry village",
+   "modernName": "Middle Don near Vyoshenskaya, Rostov Oblast, Russia",
+   "lat": 49.8,
+   "lon": 41.4,
+   "event": "crossing",
+   "note": "\"A few days before the feast of blessed Mary Magdalen\" (22 July; Rockhill's text misprints \"22nd June\", his itinerary has about 20 July, \"remained till 23rd\"). Carts ferried with one wheel in each of two boats lashed together. Rockhill reckons the crossing \"not over 200 miles from the Volga\" by a north-east road; the exact point is unknown and this position is an estimate.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-23",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "East bank of the Tanais (Don)",
+   "modernName": "Middle Don near Vyoshenskaya, Rostov Oblast, Russia",
+   "lat": 49.85,
+   "lon": 41.5,
+   "event": "departs",
+   "note": "\"So we remained there on the river bank for three days\", fed on fish, rye bread and dried fish. The guide had sent the animals back, so the friars left on foot with borrowed oxen for the carts.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-26",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Steppe east of the Don, first Tartar camp met",
+   "modernName": "Near Mikhaylovka, Volgograd Oblast, Russia",
+   "lat": 50.2,
+   "lon": 42.9,
+   "event": "position",
+   "note": "\"We trudged along for three days without seeing anyone ... on the fourth day we found some people.\" Counted from 23 July. Position estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-07-31",
+   "dateBasis": "stated",
+   "localTime": "19:00",
+   "place": "Ordu of Sartach, \"three days from the Etilia\"",
+   "modernName": "Steppe about 80 km west of Saratov, Saratov Oblast, Russia",
+   "lat": 51.3,
+   "lon": 44.9,
+   "event": "arrives",
+   "note": "Stated: \"the second day of the Calends of August (July 31st)\". Two months from Soldaia. Taken to the Nestorian Coiac in the evening. Position rests on Rockhill's placing of the Volga crossing at Ukek and the three days' distance.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-08-01",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Ordu of Sartach",
+   "modernName": "Steppe about 80 km west of Saratov, Saratov Oblast, Russia",
+   "lat": 51.3,
+   "lon": 44.9,
+   "event": "at",
+   "note": "Feast of Saint Peter in Chains (1 August): received by Sartach in full vestments, singing the Salve Regina. The narrative as it stands puts a day between the arrival and the audience, which would make it 2 August; the feast he names fixes it on the 1st.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-08-03",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Ordu of Sartach",
+   "modernName": "Steppe about 80 km west of Saratov, Saratov Oblast, Russia",
+   "lat": 51.3,
+   "lon": 44.9,
+   "event": "departs",
+   "note": "Morning after Coiac's summons \"toward vespers\" on 2 August. Books and vestments kept back; the remaining two carts and a servant left behind. \"During the four days we were at Sartach's ordu\" = 31 July–3 August.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-08-05",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "The Etilia (Volga), at the new ferry village of Ruthenians and Saracens",
+   "modernName": "Uvek (medieval Ukek), south edge of Saratov, Russia",
+   "lat": 51.44,
+   "lon": 45.98,
+   "event": "crossing",
+   "note": "\"Travelling then due east toward Baatu, we came on the third day\" to the river (Rockhill: 5 August; Zharkikh counts 6 August). Rockhill and Yule identify the village with Ukek (Marco Polo's Ucaca), now Uvek, six miles south of Saratov.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-08-07",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Ordu of Baatu (Batu), east bank of the Etilia",
+   "modernName": "Left bank of the Volga below Engels, Saratov Oblast, Russia",
+   "lat": 51.2,
+   "lon": 46.2,
+   "event": "arrives",
+   "note": "\"We went down the river in a boat from this village to his ordu.\" No date given; the bracket is 5 August (the river) to about 10 August (Gosset, sent back, reached Sartach on 14 August). Lodged the first night with a Saracen who gave no food. He puts the cities of Greater Bulgaria five days north of this camp.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-08-08",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Ordu of Baatu (Batu)",
+   "modernName": "Left bank of the Volga below Engels, Saratov Oblast, Russia",
+   "lat": 51.2,
+   "lon": 46.2,
+   "event": "at",
+   "note": "\"The next day we were taken to the court\": the audience under the great awning. Day estimated (see previous row). Batu ruled that the two friars and the interpreter go on to Mangu and the clerk Gosset return to Sartach.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-08-20",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Moving with Batu's ordu down the Etilia",
+   "modernName": "Left bank of the Volga near Rovnoye, Saratov Oblast, Russia",
+   "lat": 50.85,
+   "lon": 46.1,
+   "event": "position",
+   "note": "Interpolated. \"We drove about with Baatu for five weeks, following the Etilia down its course\" (about 11 August–15 September), on foot for want of horses.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-09-01",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Moving with Batu's ordu down the Etilia",
+   "modernName": "Left bank of the Volga opposite Kamyshin, Volgograd Oblast, Russia",
+   "lat": 50.5,
+   "lon": 46,
+   "event": "position",
+   "note": "Interpolated. Hungarian clerks in the camp brought them kumis and meat; he wrote out the Hours of the Virgin and the Office of the Dead for them.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-09-15",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Batu's ordu on the Etilia",
+   "modernName": "Left bank of the Volga, Volgograd Oblast, Russia",
+   "lat": 50.2,
+   "lon": 46,
+   "event": "departs",
+   "note": "The guide came \"about the feast of the Elevation of the Holy Cross\" (14 September); they started \"the day after\" (15 September, so Rockhill's text and Jackson). Rockhill's own itinerary table says 16 September, following the return-journey passage (\"the second day after the Elevation\"). Three travellers, the guide, two pack horses. Position estimated: five weeks of slow drift downstream from the August camp.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-09-21",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Steppe between the Volga and the Ural",
+   "modernName": "West Kazakhstan Region, Kazakhstan",
+   "lat": 50.3,
+   "lon": 48.6,
+   "event": "position",
+   "note": "Interpolated. \"We rode constantly eastward\" with Greater Bulgaria to the north and the Caspian to the south.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-09-27",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "The Jagac (Iagac; Yaik, the Ural river)",
+   "modernName": "Ural river south of Oral (Uralsk), West Kazakhstan Region, Kazakhstan",
+   "lat": 50.4,
+   "lon": 51.3,
+   "event": "crossing",
+   "note": "\"After travelling twelve days from the Etilia, we found a great river which they call Jagac\", coming from the land of Pascatir (Bashkiria) and falling into the Caspian. 15 September + 12 = 27 September (Rockhill's itinerary; Zharkikh 28 September). Crossing point not given; estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-09-29",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Cangle (Qangli) steppe east of the Jagac",
+   "modernName": "Aktobe Region, Kazakhstan",
+   "lat": 50.2,
+   "lon": 52.6,
+   "event": "position",
+   "note": "Feast of Saint Michael (29 September): \"we had had frost in the desert\" from this date. Position interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-05",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Cangle steppe",
+   "modernName": "Near the Oiyl river, Aktobe Region, Kazakhstan",
+   "lat": 49.8,
+   "lon": 55.3,
+   "event": "position",
+   "note": "Interpolated. Rockhill doubts the Paris-to-Orléans daily stage and allows 25–30 miles a day; these waypoints follow that rate.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-11",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Cangle steppe, hills beyond the Jagac",
+   "modernName": "Mugalzhar hills, Aktobe Region, Kazakhstan",
+   "lat": 49.2,
+   "lon": 58.4,
+   "event": "position",
+   "note": "Interpolated. Rockhill notes that he never mentions the Aral Sea and so \"passed considerably to the north of it\", and that he speaks of having crossed mountains beyond the Volga.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-17",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Cangle steppe",
+   "modernName": "Near Yrgyz, Aktobe Region, Kazakhstan",
+   "lat": 48.6,
+   "lon": 61.3,
+   "event": "position",
+   "note": "Interpolated. Horses changed two or three times on good days; on others two or three days without meeting anyone.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-23",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Cangle steppe",
+   "modernName": "Torgai lowland, Kostanay/Ulytau Regions, Kazakhstan",
+   "lat": 48.1,
+   "lon": 64.6,
+   "event": "position",
+   "note": "Interpolated waypoint north of the Aral Sea and the Syr Darya.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-28",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Cangle steppe",
+   "modernName": "Lower Sarysu country, Ulytau Region, Kazakhstan",
+   "lat": 47.4,
+   "lon": 67.4,
+   "event": "position",
+   "note": "Interpolated waypoint.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-10-31",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Where \"we left the road to the east\"",
+   "modernName": "Lower Sarysu, north-west of the Moiynkum sands, Kazakhstan",
+   "lat": 46.6,
+   "lon": 69.6,
+   "event": "position",
+   "note": "Eve of All Saints (31 October): turned \"due south continually for eight days\" by some \"alps\", because the people had already moved south. Position estimated by counting eight days back from the Talas valley; Yule and Rockhill take the alps to be the Karatau.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-03",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Desert south of the turn",
+   "modernName": "Betpak-Dala / Moiynkum margin, Zhambyl Region, Kazakhstan",
+   "lat": 45.3,
+   "lon": 70,
+   "event": "position",
+   "note": "Interpolated. Wild asses (culam, i.e. kulan) seen and chased by the guide in this desert.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-06",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "The \"alps\" south of the desert",
+   "modernName": "Karatau range, Zhambyl Region, Kazakhstan",
+   "lat": 43.75,
+   "lon": 70.45,
+   "event": "crossing",
+   "note": "\"The seventh day we began to see to the south some very high mountains, and we entered a plain irrigated like a garden.\" Yule (Cathay) and Rockhill: he crossed the Karatau and came down into the Talas valley; Schmidt took him straight across the desert along the Chu.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/page/0229.html.en"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-08",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Kinchat (Kenjek)",
+   "modernName": "Talas valley near Taraz, Zhambyl Region, Kazakhstan",
+   "lat": 42.9,
+   "lon": 71.25,
+   "event": "arrives",
+   "note": "Octave of All Saints (8 November). A very small Saracen town; its captain came out with drink for Batu's envoy. The river that irrigated it and ended in marshes is the Talas (Yule, Bretschneider, Schmidt). Rockhill: Kinchat = Kendjek of the Mesalek al-absar, one of the four towns of the Talas group; never fixed on the ground. Zharkikh instead puts it on the Chu near Birlik.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://m-zharkikh.name/en/History/Articles/Rubruk/Geography/Kazakhstan.html"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-11-09",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Village \"nearer the mountains\"",
+   "modernName": "Foot of the Kyrgyz Ala-Too east of Taraz, Kazakhstan",
+   "lat": 42.82,
+   "lon": 71.75,
+   "event": "at",
+   "note": "\"The next day.\" Here he asked after the town of Talas and Buri's German slaves; told Talas lay six days off toward the mountains. Rockhill: the mountains are the Alexander range (Kyrgyz Ala-Too). From here they entered Mangu's own subjects.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-11",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "East along the foot of the mountains",
+   "modernName": "Merke, Zhambyl Region, Kazakhstan",
+   "lat": 42.87,
+   "lon": 73.18,
+   "event": "position",
+   "note": "Interpolated. \"We went eastward, close to the mountains\" (Rockhill: along the northern base of the Alexander range).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-12",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "The Chu (not named by him)",
+   "modernName": "Chu river near Kordai / Bishkek, Kazakhstan–Kyrgyzstan border",
+   "lat": 43.05,
+   "lon": 74.6,
+   "event": "crossing",
+   "note": "Rockhill: he crossed the Chu, \"at that season of the year probably an insignificant stream — for he does not mention it\", then struck E.N.E. through the hills between the Chu and the Ili, the old summer pastures of the Kara-Khitai.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-14",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "The \"great river which we had to pass in a boat\" (Ili)",
+   "modernName": "Ili river near Konaev (Kapchagay), Almaty Region, Kazakhstan",
+   "lat": 43.9,
+   "lon": 77.1,
+   "event": "crossing",
+   "note": "\"A few days later we entered the alps in which the Caracatai used to live, and there we found a great river.\" Rockhill, Schmidt and Yule's later opinion: the Ili. Yule's earlier opinion (Cathay): the Chu. Day and crossing point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/page/0229.html.en"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-15",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Valley with a ruined mud-walled fort",
+   "modernName": "North of the Ili toward the Koksu, Zhetysu Region, Kazakhstan",
+   "lat": 44.35,
+   "lon": 77.7,
+   "event": "position",
+   "note": "\"After that we entered a valley, where we saw a ruined camp, whose walls were nothing but mud, and the soil was cultivated there.\"",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-16",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Equius (Iki-ögüz)",
+   "modernName": "Koksu–Karatal country near Taldykorgan, Zhetysu Region, Kazakhstan",
+   "lat": 44.95,
+   "lon": 78.35,
+   "event": "at",
+   "note": "\"A goodly town\" of Persian-speaking Saracens. Rockhill provisionally accepts Schmidt's site on the Koksu; Pelliot equated the name with Kashgari's Iki-ögüz (\"two rivers\"); Yule's first view was Aspara on the Chu. Site unlocated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/page/0229.html.en"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-11-18",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Cailac (Qayaliq, Kayalyk)",
+   "modernName": "Koilyk (Antonovka site), Sarkand District, Zhetysu Region, Kazakhstan",
+   "lat": 45.664,
+   "lon": 80.26,
+   "event": "arrives",
+   "note": "\"Here we rested xii days\", waiting for a secretary of Batu; left 30 November, so arrival about 18 November (Rockhill's itinerary \"18 (?)\"). Yule identified Cailac with Qayaliq; older writers put it \"a little to the west of the modern Kopal\"; excavation since 1998 fixes it at the Antonovka site in Koilyk village. Some manuscripts read fifteen days; Yule suspected seven.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://archaeology.kz/en/heritages/qoilyq-kayalyk-qalasy",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/page/0229.html.en"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-11-24",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Cailac (Qayaliq)",
+   "modernName": "Koilyk (Antonovka site), Zhetysu Region, Kazakhstan",
+   "lat": 45.664,
+   "lon": 80.26,
+   "event": "at",
+   "note": "\"The first of the month and the Easter of the Saracens\": Rockhill takes this as Bairam (the end of Ramadan). 1 Shawwal 651 AH falls on about 24 November 1253 by the tabular Islamic calendar (our computation; a sighted month could differ by a day). He visited one idol temple the evening before and another on this day.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-11-30",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Cailac, then the Nestorian village three leagues on",
+   "modernName": "Koilyk, Sarkand District, Zhetysu Region, Kazakhstan",
+   "lat": 45.67,
+   "lon": 80.4,
+   "event": "departs",
+   "note": "Feast of Saint Andrew (30 November, which was also Advent Sunday in 1253). Three leagues out they entered a Nestorian church singing the Salve Regina.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://archaeology.kz/en/heritages/qoilyq-kayalyk-qalasy"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1253-12-03",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Head of the \"sea\" with a big island (Ala-kul)",
+   "modernName": "South-west shore of Lake Alakol, Kazakhstan",
+   "lat": 46.02,
+   "lon": 81.45,
+   "event": "arrives",
+   "note": "\"Proceeding thence three days we came to the head of that province, at the head of the said sea.\" Bartholomew tasted the water: brackish but drinkable. Yule, Bretschneider, Schmidt and Rockhill: Lake Ala-kul and its island Ala-tyube (Rubruck runs it together with Balkhash, which he had on his left earlier).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-12-04",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "The windy valley from the south-east",
+   "modernName": "Mouth of the Dzungarian Gate, south-east of Lake Alakol, Kazakhstan",
+   "lat": 45.95,
+   "lon": 82.05,
+   "event": "crossing",
+   "note": "A valley from the south-east with a second lake in the mountains (Rockhill: Ebi-nor, about 95 versts off) and a wind so strong that travellers risk being blown into the lake. Rockhill: he crossed the mouth of the gorge and went north; Schmidt and Yule's later view took him through the gorge past Ebi-nor.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1253-12-06",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Toward \"great mountains covered with deep snow\"",
+   "modernName": "Emil valley near Dorbiljin (Emin), Xinjiang, China",
+   "lat": 46.5,
+   "lon": 83.3,
+   "event": "position",
+   "note": "Feast of Saint Nicholas (6 December): from here they did two post-stages (iams) a day and \"travelled more by night than by day\". Rockhill: the mountains are the Tarbagatai and the road followed the Emil (Imil) to its source. The plain of Keu Chan's (Güyük's) ordu and the former Naiman country lies here; Rockhill thinks that paragraph of the text was transposed.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-09",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Over the hills east of the Emil",
+   "modernName": "Between the upper Emil and Lake Ulungur, Xinjiang, China",
+   "lat": 46.9,
+   "lon": 85.6,
+   "event": "position",
+   "note": "Interpolated on Rockhill's line: up the Emil, across the Mus-tau, to the south end of Lake Ulungur.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-11",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "South end of the Ulungur lake",
+   "modernName": "Lake Ulungur, Fuhai County, Xinjiang, China",
+   "lat": 47.1,
+   "lon": 87.4,
+   "event": "position",
+   "note": "Interpolated. Rockhill and Schmidt: up the Ulungur river from here. Yule (Cathay): a more northerly line by the Kara Irtysh and over the Altai into the Zavkhan valley.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-13",
+   "dateBasis": "feast",
+   "localTime": "18:00",
+   "place": "The gorge \"amidst most terrible rocks\"",
+   "modernName": "Upper Ulungur / southern Altai, Qinggil County, Xinjiang, China",
+   "lat": 46.5,
+   "lon": 90.4,
+   "event": "position",
+   "note": "Evening of the Saturday in the second week of Advent, 13 December (Rockhill prints \"second Sunday in Advent (13th December)\"; 13 December 1253 was a Saturday, as Jackson has it). The guide asked for prayers against devils; they sang the Credo. Location not identifiable; placed on Rockhill's Ulungur line.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-16",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Crossing \"the extremity of the Altai\"",
+   "modernName": "Bulgan, Khovd Province, Mongolia",
+   "lat": 46.1,
+   "lon": 91.9,
+   "event": "crossing",
+   "note": "Interpolated. Rockhill: after leaving the upper Ulungur he crossed the end of the Altai, the general direction being \"very nearly due east\" despite his \"northerly\".",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-19",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "East of the Altai",
+   "modernName": "Govi-Altai Province, Mongolia",
+   "lat": 46.3,
+   "lon": 95.2,
+   "event": "position",
+   "note": "Interpolated waypoint. Somewhere after the Naiman plain the widow of \"Stican\" (Shiban) kept them a whole day to bless her dwelling.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-22",
+   "dateBasis": "counted",
+   "localTime": "09:00",
+   "place": "Post-station five days short of the court",
+   "modernName": "Bayankhongor Province, Mongolia",
+   "lat": 46.2,
+   "lon": 98.6,
+   "event": "position",
+   "note": "\"When we were five days from it\", the station-keeper tried to send them by a fifteen-day detour past Onankerule (the Onon–Kerulen homeland); they were held \"from dawn to the third hour\" before the direct road was allowed. Position interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-26",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "The plain \"vast as a sea\"",
+   "modernName": "Steppe west of the upper Ongi, Övörkhangai Province, Mongolia",
+   "lat": 46.1,
+   "lon": 101.6,
+   "event": "position",
+   "note": "Day of the Blessed Stephen (26 December): \"we entered a plain vast as a sea, in which there was seen no hillock\".",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-27",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Ordu of Mangu Chan (Möngke)",
+   "modernName": "Winter camp south of Karakorum, upper Ongi river area, Övörkhangai Province, Mongolia",
+   "lat": 46.2,
+   "lon": 102.8,
+   "event": "arrives",
+   "note": "Feast of Saint John the Evangelist (27 December). Not Karakorum: a moving winter camp. Mangu's interpreter told him Karakorum was \"ten days hence\", and he later says the court moved twice more to the south before turning north to the city. Exact site unknown; the coordinates are an estimate south of Karakorum (Zharkikh argues for a site far to the south-east).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://m-zharkikh.name/en/History/Articles/Rubruk/Geography/Mongolia.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-28",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Ordu of Mangu Chan",
+   "modernName": "Winter camp south of Karakorum, Mongolia",
+   "lat": 46.2,
+   "lon": 102.8,
+   "event": "at",
+   "note": "\"The next day we were conducted to court\", barefoot. Examined by the Nestorian chief secretary; found the Armenian monk's chapel east of the ordu.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1253-12-29",
+   "dateBasis": "counted",
+   "localTime": "07:00",
+   "place": "Ordu of Mangu Chan",
+   "modernName": "Winter camp south of Karakorum, Mongolia",
+   "lat": 46.2,
+   "lon": 102.8,
+   "event": "at",
+   "note": "\"At dawn\" men of the court roused them and took them to the envoys of Vastacius (John III Vatatzes) to be identified. \"That morning the tips of my toes were frozen.\"",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-01-04",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Ordu of Mangu Chan: first audience",
+   "modernName": "Winter camp south of Karakorum, Mongolia",
+   "lat": 46.2,
+   "lon": 102.8,
+   "event": "at",
+   "note": "Octave of the Innocents (Holy Innocents 28 December, octave 4 January 1254, a Sunday). Rockhill prints \"3rd January\" in the text but 4 January in his itinerary; Jackson 4 January. Granted leave to stay two months until the cold passed.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+   ],
+   "confidence": "low"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1253-04-13",
+   "localTime": null,
+   "title": "A sermon in Saint Sophia",
+   "body": "On Palm Sunday William preached in the great church of Constantinople. He told the congregation that he was no ambassador of King Louis or of anyone else. He said he was going to the unbelievers as a friar, under the rule of his order.",
+   "tags": [
+    "constantinople",
+    "mission"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-05-07",
+   "localTime": null,
+   "title": "Into the Greater Sea",
+   "body": "William's ship passed out of the Bosporus into the Black Sea, which the merchants called the Greater Sea. He carried fruit, muscadel wine and fine biscuit bought in Constantinople as gifts for the first Mongol captains. The ship steered for the Crimea.",
+   "tags": [
+    "black sea",
+    "voyage"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-05-21",
+   "localTime": null,
+   "title": "Landing at Soldaia",
+   "body": "The friars landed at Soldaia, the Crimean port where furs from the north were traded for cotton, silk and spices. Merchants who had arrived first had announced them as envoys, and warned William not to deny it or he would get no passage. The city gave them lodging in the bishop's church.",
+   "tags": [
+    "soldaia",
+    "crimea"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-06-01",
+   "localTime": null,
+   "title": "Five men leave Soldaia",
+   "body": "William set out with Friar Bartholomew of Cremona, the clerk Gosset, the interpreter Homo Dei and Nicholas, a boy he had bought in Constantinople with the king's alms. They had four covered carts, two more lent for bedding, and five horses. Two men came along to drive the oxen.",
+   "tags": [
+    "party",
+    "carts"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-06-03",
+   "localTime": null,
+   "title": "Stepping into another world",
+   "body": "On the third day out the party met its first Mongols. The riders kept them waiting in the shade of the carts, then surrounded them and asked for wine, biscuit, knives, gloves and purses. When William refused more they called him an impostor, but they took nothing by force.",
+   "tags": [
+    "mongols",
+    "first contact"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "it seemed to me, as I said before, that I had been transported into another world",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-06-04",
+   "localTime": null,
+   "title": "A first cup of kumis",
+   "body": "That evening the guide gave the friars fermented mare's milk. William had never tasted it and was alarmed, then found he liked it. Many Christians living among the Mongols refused the drink altogether.",
+   "tags": [
+    "kumis",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "at the taste of it I broke out in a sweat with horror and surprise, for I had never drunk of it",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-06-05",
+   "localTime": "09:00",
+   "title": "A city on the move",
+   "body": "In the morning the carts of the captain Scatay came toward them, carrying his people's houses. William was told Scatay had no more than five hundred men, yet the herds seemed endless. Scatay received a flagon of wine, a basket of biscuit and a plate of fruit, and sent the emperor's Greek letter back to Soldaia to be translated.",
+   "tags": [
+    "scatay",
+    "camp"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "it seemed to me that a city was coming towards me",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-06-06",
+   "localTime": null,
+   "title": "Houses on wagons",
+   "body": "While he travelled with Scatay, William studied the felt houses. He measured twenty feet between the wheel tracks of one cart and counted twenty-two oxen pulling a single house, eleven abreast in two rows. A man stood in the doorway of the house to drive them.",
+   "tags": [
+    "yurts",
+    "carts"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-06-07",
+   "localTime": null,
+   "title": "Alans bring meat",
+   "body": "On the eve of Pentecost some Alan Christians brought cooked meat and asked the friars to pray for one of their dead. William would not eat meat on a vigil and kept it for the feast. Nothing could be bought with gold coin, the wine was nearly gone and the water was fouled by horses.",
+   "tags": [
+    "alans",
+    "hunger",
+    "pentecost"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-06-09",
+   "localTime": null,
+   "title": "North to the isthmus",
+   "body": "Scatay gave the party a guide for Sartach, a goat, and skins of cow's milk, and they set off for a camp five ox-days away. The escort began stealing from the carts. The friars lost a good deal before they learned to keep watch.",
+   "tags": [
+    "crimea",
+    "escort"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "And so we set out due north, and it seemed to me that we had passed through one of the gates of hell.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-06-13",
+   "localTime": null,
+   "title": "The ditch and the salt lakes",
+   "body": "At the neck of the Crimea a ditch ran from sea to sea. Beyond it camped the men who taxed the salt taken from the nearby lakes, where traders came from all Russia with carts. They gave the party of eight one goat for the road ahead and said it would be fifteen days before they met anyone.",
+   "tags": [
+    "perekop",
+    "salt"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-06-27",
+   "localTime": null,
+   "title": "Tombs on the skyline",
+   "body": "For two months the travellers slept in the open or under the carts and saw no town. The only works of men on the plain were the burial mounds of the Comans, who had grazed there before the Mongols came. The mounds could be seen two leagues away.",
+   "tags": [
+    "steppe",
+    "comans"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-07-04",
+   "localTime": null,
+   "title": "The tall headdress",
+   "body": "William described the headdress of married Mongol women, the bocca. It was a hollow column of bark covered in silk, a cubit and more high, topped with a tuft of quills and peacock feathers. The women rode astride like the men.",
+   "tags": [
+    "women",
+    "dress",
+    "bogtag"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "they look like soldiers, helmets on head and lances erect",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-07-15",
+   "localTime": null,
+   "title": "How kumis was made",
+   "body": "William recorded the method. Foals were tied to a long rope so the mares would stand to be milked, and the milk was churned in a great skin with a hollow-headed stick until it fermented and the butter separated. It stung the tongue and left a taste like almond milk.",
+   "tags": [
+    "kumis",
+    "food"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-07-20",
+   "localTime": null,
+   "title": "The ferry on the Don",
+   "body": "A few days before the feast of Mary Magdalene the party reached the Tanais, which William took as the border of Europe and Asia. Russian villagers settled there by Batu ferried the carts with one wheel in each of two boats tied together. The villagers were cutting rye and fed the friars fish, rye bread and a little meat.",
+   "tags": [
+    "don",
+    "ferry",
+    "river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "That river at this point was as broad as the Seine at Paris",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-07-26",
+   "localTime": null,
+   "title": "Three days on foot",
+   "body": "The guide had sent the animals back before crossing, and the ferrymen owed no horses. The friars got oxen for the carts but walked themselves for three days without meeting anyone. Two stray horses let the guide and interpreter ride ahead to search for a camp.",
+   "tags": [
+    "don",
+    "steppe",
+    "hardship"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "Finally on the fourth day we found some people, and we were as happy as shipwrecked mariners on reaching port.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-07-31",
+   "localTime": "19:00",
+   "title": "Arrival at Sartach's camp",
+   "body": "Two months after leaving Soldaia the party reached the camp of Sartach, three days short of the Volga. Each of his six wives had a great house and some two hundred carts. That evening the Nestorian official Coiac received them with a guitar playing and people dancing, and asked who was the greatest lord among the Franks.",
+   "tags": [
+    "sartaq",
+    "camp",
+    "nestorians"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-08-01",
+   "localTime": null,
+   "title": "Before Sartach in vestments",
+   "body": "The friars put on their richest vestments and walked into Sartach's house singing the Salve Regina, taking care not to touch the threshold. Sartach handled the censer, the queen's illuminated psalter, the Bible and the cross. William handed over King Louis's letter with Arabic and Syriac copies made at Acre.",
+   "tags": [
+    "sartaq",
+    "audience",
+    "letter"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-08-03",
+   "localTime": null,
+   "title": "Not a Christian but a Mongol",
+   "body": "Coiac said the letter raised matters Sartach could not settle without his father, so the friars must go on to Batu. His brother, a priest, kept the vestments and most of the books; William saved his Bible. Before they left, the court scribes warned them not to call Sartach a Christian.",
+   "tags": [
+    "sartaq",
+    "religion",
+    "books"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "He is not a Christian, but a Moal.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-08-05",
+   "localTime": null,
+   "title": "Reaching the river Volga",
+   "body": "On the third day from Sartach the party reached the Etilia at a new village of Russians and Muslims who ran the ferry. William judged the river four times the size of the Seine. The road had frightened the guide, because escaped slaves roamed it in armed bands at night.",
+   "tags": [
+    "volga",
+    "river"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-08-06",
+   "localTime": null,
+   "title": "The Caspian is a lake",
+   "body": "At the Volga William set down what he had learned of the sea it feeds. Friar Andrew had gone round its south and east sides and he himself would travel the north and west. He concluded that the old authority Isidore was wrong to call it a gulf of the ocean.",
+   "tags": [
+    "caspian",
+    "geography"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "It nowhere reaches the Ocean, but is everywhere surrounded by land",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-08-07",
+   "localTime": null,
+   "title": "Batu's camp like a city",
+   "body": "A boat took the friars downriver to Batu's camp on the east bank. The houses spread three or four leagues around the prince's own, and everyone knew on which side to pitch. No one camped due south, where the doors of the court opened.",
+   "tags": [
+    "batu",
+    "camp",
+    "volga"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "it seemed like a great city stretched out about his dwelling",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-08-08",
+   "localTime": null,
+   "title": "The audience with Batu",
+   "body": "The friars stood barefoot and bareheaded under a great awning while the court kept silent for the length of a psalm. Batu sat on a gilded couch with one of his wives; his face was covered with reddish spots. Made to kneel on both knees, William told him he would not gain heaven unless he became a Christian, and the Mongols clapped and laughed.",
+   "tags": [
+    "batu",
+    "audience"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "He looked at us intently, and we at him",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-08-08",
+   "localTime": null,
+   "title": "The party is divided",
+   "body": "Batu ruled that only Mangu Chan could let the friars stay, so William, Bartholomew and the interpreter must go to him. The clerk Gosset was sent back to Sartach with the boy Nicholas. Gosset kept ten of their twenty-six gold coins and gave sixteen to the interpreter for the road.",
+   "tags": [
+    "party",
+    "batu",
+    "gosset"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-08-20",
+   "localTime": null,
+   "title": "Hungry behind the camp",
+   "body": "For five weeks the friars followed Batu's camp down the Volga on foot. The market that travelled with the camp was too far away to reach without horses, and their host gave little. Bartholomew was at times so hungry that he was near tears.",
+   "tags": [
+    "batu",
+    "hunger",
+    "bartholomew"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-09-01",
+   "localTime": null,
+   "title": "Hungarian clerks bring food",
+   "body": "Some Hungarians who had once been clerks found the friars and brought them kumis and sometimes meat. They asked for books, and William had only his Bible and breviary. He wrote out the Hours of the Virgin and the Office of the Dead for them on tablets, and a Coman greeted him one day in Latin.",
+   "tags": [
+    "batu",
+    "hungarians",
+    "books"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-09-14",
+   "localTime": null,
+   "title": "The guide's warning",
+   "body": "About the feast of the Holy Cross a rich Mongol, the son of a commander of a thousand, came to say he would take them to Mangu Chan. He threatened to abandon them if they could not stand the journey, then looked through their clothes and made them leave behind what he thought useless. The next day each was given a sheepskin coat and breeches, felt stockings, boots and a hood.",
+   "tags": [
+    "guide",
+    "cold",
+    "clothing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "The journey is a four months one, and it is so cold on it that stones and trees are split by the cold.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-09-15",
+   "localTime": null,
+   "title": "Riding east from Batu",
+   "body": "The three travellers and their guide left Batu's camp on horseback with two pack horses between them. They rode steadily east across the old country of the Cangle, with the Caspian to the south. William answered the guide that he hoped to bear what other men could bear.",
+   "tags": [
+    "departure",
+    "horses"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-09-27",
+   "localTime": null,
+   "title": "The river Jagac",
+   "body": "Twelve days from the Volga the riders came to a great river flowing south to the Caspian from the country of Pascatir. William noted that the people of Pascatir spoke the language of the Hungarians. Beyond it to the north and east there were no more towns.",
+   "tags": [
+    "ural",
+    "river"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-10-08",
+   "localTime": null,
+   "title": "From Paris to Orléans",
+   "body": "William reckoned each day's ride at about the distance from Paris to Orléans. Some days they changed horses two or three times, and on others they went two or three days without meeting anyone. As foreigners they were given the worst animals, though William, a heavy man, always got a strong one.",
+   "tags": [
+    "pace",
+    "horses"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "nearly every day we went, as well as I could estimate, about the distance from Paris to Orleans",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-10-16",
+   "localTime": null,
+   "title": "One meal a day",
+   "body": "The travellers were fed only in the evening: a shoulder and ribs of mutton and the broth it was boiled in. In the morning they got a drink or a little millet gruel. On Fridays William fasted until night and then, against his rule, had to eat meat.",
+   "tags": [
+    "food",
+    "hunger"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-10-31",
+   "localTime": null,
+   "title": "The turn south",
+   "body": "On the eve of All Saints the party left the eastward road, because the herders had already moved south for the winter. For eight days they rode due south along a line of hills. By then there had been frost for a month.",
+   "tags": [
+    "route",
+    "steppe"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-04",
+   "localTime": null,
+   "title": "Wild asses outrun the guide",
+   "body": "In the desert William saw many wild asses, which the Mongols called culam and which looked to him like mules. The guide and his companion chased them hard. They caught none, because the animals were too fast.",
+   "tags": [
+    "wildlife",
+    "kulan"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-08",
+   "localTime": null,
+   "title": "Wine at Kinchat",
+   "body": "After seven days the riders saw high mountains to the south and came down into a plain watered like a garden. At the small Muslim town of Kinchat the governor came out with drink and cups to meet Batu's envoy. A river from the mountains watered the fields and then died away in marshes.",
+   "tags": [
+    "kinchat",
+    "talas",
+    "town"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "There (at Kinchat) I saw vines, and twice did I drink wine",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-11-09",
+   "localTime": null,
+   "title": "The German miners of Talas",
+   "body": "At the next village William asked about the town of Talas and the German slaves of the prince Buri, of whom Friar Andrew had told him. He learned only that Talas lay six days off toward the mountains and that Batu had beheaded Buri for a drunken insult. At Mangu's court he later heard the Germans had been moved a month's journey east to Bolat, to dig gold and make weapons.",
+   "tags": [
+    "talas",
+    "germans",
+    "buri"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-14",
+   "localTime": null,
+   "title": "A river crossed by boat",
+   "body": "Riding east along the mountains, the party entered the lands of Mangu Chan's own subjects, who sang and clapped before Batu's envoy. In the hills where the Kara-Khitai once lived they crossed a great river by boat. Beyond it they found the town of Equius, whose Muslim people spoke Persian far from Persia.",
+   "tags": [
+    "ili",
+    "equius",
+    "river"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-18",
+   "localTime": null,
+   "title": "The market town of Cailac",
+   "body": "The riders came into a plain with high mountains on the right and a great lake on the left. Many of its towns had been destroyed to make pasture, but Cailac was large, with a market that drew many traders. They stopped there to wait for a secretary of Batu who was to travel on with the guide.",
+   "tags": [
+    "cailac",
+    "qayaliq",
+    "town"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-23",
+   "localTime": null,
+   "title": "A cross inked on a hand",
+   "body": "Cailac had three temples of the people William called idolaters, and he went into two. In the first he met a man with a small cross drawn in ink on his hand, who said he was a Christian. Behind a chest set with lamps and offerings William saw a winged figure and others with fingers raised as if in blessing.",
+   "tags": [
+    "cailac",
+    "temple",
+    "uighurs"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-24",
+   "localTime": null,
+   "title": "Priests in saffron",
+   "body": "On the first day of the month the temples stood open and the priests sat in the gate in tight saffron tunics, heads and faces shaved. They carried strings of beads and repeated the words William heard as \"on mani baccam\". When he asked why they made images if God was a spirit, they said the statues were memorials of the dead, and then his interpreter tired and stopped translating.",
+   "tags": [
+    "cailac",
+    "buddhism",
+    "temple"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "when I saw them with their shaved faces they seemed to me to be Franks",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-11-27",
+   "localTime": null,
+   "title": "The Nestorians of the east",
+   "body": "William wrote down what he saw of the eastern Christians living among the Uighurs. They chanted services in Syriac without understanding it, and a bishop came perhaps once in fifty years and ordained every boy, even infants. He accused them of usury, drunkenness and charging for the sacraments.",
+   "tags": [
+    "nestorians",
+    "religion"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-11-30",
+   "localTime": null,
+   "title": "A church after many months",
+   "body": "The party left Cailac on Saint Andrew's day. Three leagues on they came to a village inhabited entirely by Nestorians. The friars went into its church and sang the Salve Regina at the tops of their voices.",
+   "tags": [
+    "nestorians",
+    "cailac",
+    "church"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-03",
+   "localTime": null,
+   "title": "The lake and the wind",
+   "body": "Three days from Cailac the riders reached the head of a great lake with a large island in it. Bartholomew wetted a cloth and tasted the water, which was brackish but drinkable. A valley opened from the south-east, and through it blew a wind so strong that travellers feared being carried into the lake.",
+   "tags": [
+    "alakol",
+    "wind",
+    "lake"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-06",
+   "localTime": null,
+   "title": "Two stages a day",
+   "body": "From Saint Nicholas's day the party met no one but the keepers of the post stations, set a day apart. The road was narrow and the grazing poor, so they covered two stages between dawn and night and rode more by night than by day. Snow lay deep on the mountains ahead.",
+   "tags": [
+    "cold",
+    "post stations",
+    "pace"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-13",
+   "localTime": "18:00",
+   "title": "The gorge of the devils",
+   "body": "In the evening, among sheer rocks, the guide sent word asking William for words that would drive off devils. In that gorge, he said, they carried men away, or took the horse and left the rider. The friars sang the Creed aloud and the whole party passed through.",
+   "tags": [
+    "gorge",
+    "guide",
+    "prayer"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-22",
+   "localTime": "09:00",
+   "title": "The long road refused",
+   "body": "Five days from the court a station-keeper tried to send the party round by a road of more than fifteen days, past the homeland of Chingis Chan. The guide argued from dawn until mid-morning before the direct road was allowed. On this stretch Batu's secretary told William that the letter to Mangu said King Louis was asking for troops against the Saracens.",
+   "tags": [
+    "post stations",
+    "letter"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-26",
+   "localTime": null,
+   "title": "A plain vast as a sea",
+   "body": "On Saint Stephen's day the riders came out of the mountains onto open level country. It was the last day of the ride. They had been in the saddle since the middle of September.",
+   "tags": [
+    "mongolia",
+    "steppe"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "we entered a plain vast as a sea, in which there was seen no hillock",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1253-12-27",
+   "localTime": null,
+   "title": "The court of Mangu Chan",
+   "body": "On Saint John's day the party reached the Great Khan's camp. The guide was given a large house, and the three travellers a hut barely big enough for their baggage, beds and a small fire. Visitors brought the guide rice wine in long-necked flagons, and officials asked the friars again and again why they had come if not to make peace.",
+   "tags": [
+    "mongke",
+    "arrival",
+    "court"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-28",
+   "localTime": null,
+   "title": "Barefoot at the court",
+   "body": "William went to court without shoes, as friars did at home. People crowded round and asked whether the friars had no use for their feet, until a Hungarian servant explained their rule. On the way back William saw a tent with a cross on it and found inside an altar hung with gold cloth and an Armenian monk in a hair shirt.",
+   "tags": [
+    "mongke",
+    "court",
+    "cold",
+    "armenian monk"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1253-12-29",
+   "localTime": "07:00",
+   "title": "Frozen toes at dawn",
+   "body": "At dawn men from the court hurried the friars out to be identified by the envoys of the Greek emperor Vatatzes, and William again went barefoot. A Greek knight recognized Bartholomew. The first wife's household then sent sheepskin coats, breeches and shoes.",
+   "tags": [
+    "cold",
+    "court"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "That morning the tips of my toes were frozen, so that I could not thereafter go bare-footed",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-01-04",
+   "localTime": null,
+   "title": "The first audience with Mangu",
+   "body": "The friars sang a Christmas hymn at the door, were searched for knives and were seated near the ladies in a house lined with cloth of gold. Mangu, a man of middling height aged about forty-five, sat on a couch in a spotted fur and looked over his falcons before letting them speak. William asked leave to stay, but the butlers had given his interpreter so much rice wine that he could not follow the Khan's answer.",
+   "tags": [
+    "mongke",
+    "audience",
+    "interpreter"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ],
+   "quote": {
+    "text": "Mangu himself appeared to me tipsy",
+    "by": "William of Rubruck"
+   }
+  }
+ ],
+ "stats": [
+  {
+   "date": "1253-06-01",
+   "series": "party",
+   "value": 7,
+   "note": "Leaving Soldaia: five travellers (William, Bartholomew of Cremona, Gosset, Homo Dei, the boy Nicholas) plus two men to drive the carts.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-01",
+   "series": "other",
+   "value": 6,
+   "note": "Carts: four covered carts of his own and two lent for bedding. Five riding horses.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-09",
+   "series": "party",
+   "value": 8,
+   "note": "From Scatay's camp: \"the eight of us\" — the five travellers, two cart drivers and one guide to Sartach.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-13",
+   "series": "other",
+   "value": 15,
+   "note": "Days the Tartars at the ditch said the party would travel without meeting anyone; it took ten. Rations given for the eight: one goat and skins of cow's milk.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-13",
+   "series": "other",
+   "value": 10,
+   "note": "Days actually taken from the isthmus to the next camp.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-05",
+   "series": "other",
+   "value": 500,
+   "note": "Men under Scatay, as William was told (\"not over five hundred\").",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-06-06",
+   "series": "other",
+   "value": 22,
+   "note": "Oxen he counted drawing one house-cart, eleven abreast in two ranks; the houses up to 30 feet wide, wheel track 20 feet.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-07-20",
+   "series": "other",
+   "value": 3,
+   "note": "Days spent on the bank of the Don waiting for animals.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-07-31",
+   "series": "other",
+   "value": 61,
+   "note": "Days from Soldaia (1 June) to Sartach's camp (31 July): \"two months\", which he says horses would have done in one.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-07-31",
+   "series": "other",
+   "value": 10,
+   "note": "Days' journey he gives between the Don and the Volga where he crossed them.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-08-03",
+   "series": "party",
+   "value": 6,
+   "note": "Sartach to Batu: the five travellers and a new guide; the two remaining carts and a servant were left at Sartach's camp.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-08-08",
+   "series": "other",
+   "value": 26,
+   "note": "Gold yperpera left of the king's alms: Gosset kept 10 for himself and the boy, 16 went with Homo Dei for the journey east.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-08-08",
+   "series": "party",
+   "value": 3,
+   "note": "After Batu's ruling: William, Bartholomew and the interpreter Homo Dei. Gosset and Nicholas returned to Sartach.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-08-08",
+   "series": "other",
+   "value": 26,
+   "note": "Wives of Batu, each with a large house and about 200 carts (from his description of the ordu).",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-08-10",
+   "series": "other",
+   "value": 3000,
+   "note": "Mares whose milk reached Batu daily: thirty men a day's ride around the camp each sent the milk of a hundred mares.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-09-10",
+   "series": "other",
+   "value": 500,
+   "note": "Heads of families he estimated riding with Batu (\"not over five hundred men\").",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-09-14",
+   "series": "other",
+   "value": 4,
+   "note": "Months the guide said the journey to Mangu Chan would take. It took three and a half (15 September–27 December).",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-09-15",
+   "series": "party",
+   "value": 5,
+   "note": "Riding east: the three travellers, the guide and the guide's companion (mentioned at the wild-ass hunt); two pack horses for the three.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-09-15",
+   "series": "other",
+   "value": 35,
+   "note": "Days (\"five weeks\") spent moving with Batu's camp down the Volga.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-09-27",
+   "series": "other",
+   "value": 12,
+   "note": "Days from the Volga to the Jagac (Ural).",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-10-08",
+   "series": "other",
+   "value": 60,
+   "note": "His estimate of a day's ride in miles: \"about the distance from Paris to Orleans\" (about 60 miles / 110 km by Rockhill's note). Rockhill thinks 25–30 miles a day nearer the truth.",
+   "source": "https://archive.org/details/journeyofwilliam00ruys"
+  },
+  {
+   "date": "1253-11-08",
+   "series": "other",
+   "value": 8,
+   "note": "Days ridden due south from the turn on 31 October to Kinchat.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-11-18",
+   "series": "other",
+   "value": 12,
+   "note": "Days rested at Cailac (some manuscripts 15; Yule suggested 7).",
+   "source": "https://archive.org/details/journeyofwilliam00ruys"
+  },
+  {
+   "date": "1253-11-30",
+   "series": "party",
+   "value": 6,
+   "note": "From Cailac: the three travellers, the guide and his companion, joined by Batu's secretary.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-11-30",
+   "series": "other",
+   "value": 3,
+   "note": "Leagues from Cailac to the Nestorian village; then three days to the head of the lake.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-12-06",
+   "series": "other",
+   "value": 2,
+   "note": "Post-stages (iams) covered per day from 6 December, \"thus making of two days one\".",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1253-12-27",
+   "series": "other",
+   "value": 104,
+   "note": "Days from Batu's camp (15 September) to Mangu's camp (27 December), including about twelve at Cailac.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-01-04",
+   "series": "other",
+   "value": 45,
+   "note": "Mangu Chan's age as William gives it.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-01-04",
+   "series": "other",
+   "value": 10,
+   "note": "Days from the winter camp to Karakorum, as Mangu's interpreter told him.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-01-04",
+   "series": "other",
+   "value": 2,
+   "note": "Months' leave to remain granted by Mangu Chan.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "Landing at Soldaia",
+   "date": "1253-05-21",
+   "localTime": null,
+   "text": "The ship comes in to Soldaia, where merchants from Constantinople have already announced the friars as envoys.",
+   "timeBasis": "no time of day in the text",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Landing at Soldaia",
+   "date": "1253-05-21",
+   "localTime": null,
+   "text": "William tells the deputies of the city's captains that he is carrying King Louis's letter to Sartach, and the friars are lodged in the bishop's church.",
+   "timeBasis": "no time of day in the text",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The first Mongol encounter",
+   "date": "1253-06-03",
+   "localTime": null,
+   "text": "The Mongols keep the party waiting a long while, seated in the shade under the carts.",
+   "timeBasis": "daytime; no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The first Mongol encounter",
+   "date": "1253-06-03",
+   "localTime": null,
+   "text": "Riders surround the carts, drink a flagon of the friars' wine and ask for a second, saying a man does not enter a house on one foot.",
+   "timeBasis": "daytime; no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The first Mongol encounter",
+   "date": "1253-06-03",
+   "localTime": null,
+   "text": "After long begging for bread, knives, gloves and purses, the Mongols hand over fresh horses, oxen and two guides, and the party moves on.",
+   "timeBasis": "daytime; no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The first Mongol encounter",
+   "date": "1253-06-04",
+   "localTime": "20:00",
+   "text": "In the evening the guide gives the friars kumis for the first time.",
+   "timeBasis": "\"that evening\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The camp of Scatay",
+   "date": "1253-06-05",
+   "localTime": "07:00",
+   "text": "In the morning Scatay's house-carts come toward the party across the plain.",
+   "timeBasis": "\"in the morning\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The camp of Scatay",
+   "date": "1253-06-05",
+   "localTime": "09:00",
+   "text": "It is past the third hour when the dwellings are set down beside water and Scatay's interpreter comes to ask what gifts the friars have brought.",
+   "timeBasis": "\"already past the third hour\"",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-07-31",
+   "localTime": "19:00",
+   "text": "In the evening Coiac sends for the friars and receives them seated in state, with a guitar playing and people dancing.",
+   "timeBasis": "\"in the evening\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-08-01",
+   "localTime": null,
+   "text": "Coiac has the friars lay out their books and vestments before a crowd watching from horseback, then tells them to put the vestments on.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-08-01",
+   "localTime": null,
+   "text": "The felt door is lifted and the friars enter Sartach's house singing the Salve Regina, careful not to touch the threshold.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-08-01",
+   "localTime": null,
+   "text": "Sartach examines the censer, the psalter, the Bible and the cross, and takes the king's letter with its Arabic and Syriac copies.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-08-02",
+   "localTime": "17:00",
+   "text": "Toward vespers Coiac tells the friars they must go on to Batu and leave two carts with the vestments and books behind.",
+   "timeBasis": "\"toward vespers\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Sartach",
+   "date": "1253-08-03",
+   "localTime": "07:00",
+   "text": "In the morning a Nestorian priest fetches all four carts, and Coiac's brother keeps the books and vestments.",
+   "timeBasis": "\"the next morning\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "The friars are led before the pavilion and warned not to touch the tent ropes, which count as the threshold.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "They stand barefoot and bareheaded in the middle of the tent for the length of a Miserere while the whole court keeps silent.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "William bends one knee, Batu signs for both, and William kneels and begins with a prayer.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "Batu smiles and the Mongols clap and laugh when William says he cannot be saved without baptism.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "Batu has the friars sit and drink kumis with him, and tells William to lift his face.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience with Batu",
+   "date": "1253-08-08",
+   "localTime": null,
+   "text": "Outside, the guide brings Batu's decision: the two friars and the interpreter go to Mangu Chan, and the clerk goes back to Sartach.",
+   "timeBasis": "no hour given; day estimated",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The departure of 15 September",
+   "date": "1253-09-14",
+   "localTime": null,
+   "text": "A rich Mongol arrives to say he will take the friars to Mangu Chan, a four months' journey through cold that splits stones and trees.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The departure of 15 September",
+   "date": "1253-09-14",
+   "localTime": null,
+   "text": "The guide goes through the friars' clothing and makes them leave what he judges useless with their host.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The departure of 15 September",
+   "date": "1253-09-15",
+   "localTime": null,
+   "text": "Each traveller is handed a sheepskin coat and breeches, felt stockings, boots and a hood.",
+   "timeBasis": "the text puts the issue of clothing on \"the next day\" and the start on \"the day after the Elevation\"",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The departure of 15 September",
+   "date": "1253-09-15",
+   "localTime": null,
+   "text": "The three travellers ride out eastward with the guide and two pack horses.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The gorge of the devils",
+   "date": "1253-12-13",
+   "localTime": "18:00",
+   "text": "In the evening, among sheer rocks, the friars sing the Creed aloud and the whole party passes the gorge.",
+   "timeBasis": "\"in the evening\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Arrival at Mangu's camp",
+   "date": "1253-12-22",
+   "localTime": "09:00",
+   "text": "Five days out, the guide wins the argument for the direct road after the party has been held at a post station from dawn to the third hour.",
+   "timeBasis": "\"from dawn to the third hour\"",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Arrival at Mangu's camp",
+   "date": "1253-12-26",
+   "localTime": null,
+   "text": "The riders enter a plain as level and wide as a sea.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Arrival at Mangu's camp",
+   "date": "1253-12-27",
+   "localTime": null,
+   "text": "The party rides into the Great Khan's camp; the guide is given a large house and the friars a small hut.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Arrival at Mangu's camp",
+   "date": "1253-12-27",
+   "localTime": null,
+   "text": "Officials question the friars about their business and keep asking why they have come if not to make peace.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "Arrival at Mangu's camp",
+   "date": "1253-12-29",
+   "localTime": "07:00",
+   "text": "At dawn men from the court rouse the friars and walk them, William barefoot, to the Greek envoys to be identified.",
+   "timeBasis": "\"at dawn\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "Nestorian priests ask the clean-shaven friars which way they pray, and how they mean to salute the Khan.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "The felt door is held up and the friars sing the hymn A solis ortus cardine before the house.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "Guards search the friars' legs, chests and arms for knives and take the interpreter's belt and knife.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "Mangu offers wine, rice wine, clear mare's milk or mead; the butlers keep filling the interpreter's cup.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "The Khan handles his falcons for a long while, then bids the friars speak, and they kneel.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "William asks leave to stay at least until the cold has passed, because Bartholomew is too weak to ride.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": null,
+   "text": "Mangu answers that his power and Batu's reach everywhere like the sun's rays, and after that William can follow nothing his drunken interpreter says.",
+   "timeBasis": "no hour given",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "episode": "The audience of 4 January",
+   "date": "1254-01-04",
+   "localTime": "20:00",
+   "text": "It is night when the friars reach a large cold house without fuel or food, and their new keeper brings a little of both.",
+   "timeBasis": "\"and it was night\"; clock time approximate",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1253-04-13",
+   "end": "1253-05-06",
+   "activity": "in Constantinople",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-05-07",
+   "end": "1253-05-20",
+   "activity": "at sea",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-05-21",
+   "end": "1253-05-31",
+   "activity": "in port",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-06-01",
+   "end": "1253-06-04",
+   "activity": "with carts across the steppe",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-06-05",
+   "end": "1253-06-08",
+   "activity": "moving with Scatay's camp",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-06-09",
+   "end": "1253-07-19",
+   "activity": "with carts across the steppe",
+   "weather": "the heat was intense at that season",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-07-20",
+   "end": "1253-07-22",
+   "activity": "laid by at the Don ferry",
+   "weather": "the season when they were cutting the rye",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-07-23",
+   "end": "1253-07-30",
+   "activity": "with carts across the steppe, the friars on foot",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-07-31",
+   "end": "1253-08-03",
+   "activity": "at Sartach's camp",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-08-04",
+   "end": "1253-08-07",
+   "activity": "riding to the Volga and by boat to Batu",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-08-08",
+   "end": "1253-09-14",
+   "activity": "moving with Batu's camp",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-09-15",
+   "end": "1253-09-28",
+   "activity": "riding east",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-09-29",
+   "end": "1253-10-30",
+   "activity": "riding east",
+   "weather": "frost in the desert",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-10-31",
+   "end": "1253-11-07",
+   "activity": "riding south",
+   "weather": "frost in the desert",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-11-08",
+   "end": "1253-11-17",
+   "activity": "riding east along the mountains",
+   "weather": "ice on the roads",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-11-18",
+   "end": "1253-11-29",
+   "activity": "laid by at Cailac",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-11-30",
+   "end": "1253-12-05",
+   "activity": "riding north-east",
+   "weather": "deep snow on the mountains; a wind strong enough to blow travellers into the lake",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-12-06",
+   "end": "1253-12-26",
+   "activity": "riding east by double stages, mostly at night",
+   "weather": "extremely cold",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  },
+  {
+   "start": "1253-12-27",
+   "end": "1254-01-04",
+   "activity": "at Mangu Chan's camp",
+   "weather": "most intense cold; calm air, no thaw, little snow",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html"
+   ]
+  }
+ ],
+ "bibliography": [
+  {
+   "short": "Rockhill",
+   "citation": "William Woodville Rockhill (trans. and ed.), The Journey of William of Rubruck to the Eastern Parts of the World, 1253–55, as Narrated by Himself, with Two Accounts of the Earlier Journey of John of Pian de Carpine. London: Hakluyt Society, 2nd series no. 4, 1900. Scan with Rockhill's notes and itinerary table (pp. xlv–xlvi).",
+   "url": "https://archive.org/details/journeyofwilliam00ruys"
+  },
+  {
+   "short": "Rockhill (UW text)",
+   "citation": "William of Rubruck's Account of the Mongols. Rockhill's 1900 translation digitized by Janeen Richards, checked against Jackson 1990 and annotated by Lance Jenott, ed. Daniel C. Waugh. Silk Road Seattle, University of Washington, 2002. Spelling is Americanized and \"[J: ...]\" variants report Jackson's readings and date corrections.",
+   "url": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "short": "Jackson & Morgan",
+   "citation": "Peter Jackson (trans.), with introduction, notes and appendices by Peter Jackson and David Morgan, The Mission of Friar William of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253–1255. London: Hakluyt Society, 2nd series no. 173, 1990. Seen only through the date and wording variants reported in the UW text; not quoted.",
+   "url": "https://archive.org/details/missionoffriarwi0000ruys"
+  },
+  {
+   "short": "Yule, Cathay",
+   "citation": "Henry Yule, Cathay and the Way Thither, vol. 1. London: Hakluyt Society, 1866 (preliminary essay, pp. ccxi–ccxiv, on Rubruck's route; Cailac = Kayalik near Kopal; Equius = Aspara). Views as reported and answered in Rockhill's notes; digitized page at the Toyo Bunko / NII Digital Silk Road archive.",
+   "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/page/0229.html.en"
+  },
+  {
+   "short": "Zharkikh",
+   "citation": "Mykola Zharkikh, \"Journey of William of Rubruk\" (chronology and geography chapters), author's site, English version. A modern independent reconstruction; its chronology table is useful, its southern route (Cailac = Ghulja, Möngke's camp in Dundgovi) is a minority view.",
+   "url": "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Chronology.html"
+  },
+  {
+   "short": "Kazakhstan archaeology portal",
+   "citation": "\"Koilyk/Kayalyk, the city\", Margulan Institute of Archaeology heritage register (Antonovka site, Sarkand District; identification with Rubruck's Cailac).",
+   "url": "https://archaeology.kz/en/heritages/qoilyq-kayalyk-qalasy"
+  },
+  {
+   "short": "Wikipedia",
+   "citation": "\"William of Rubruck\", English Wikipedia (cross-check only; several statements about the outbound journey are wrong, see corrections).",
+   "url": "https://en.wikipedia.org/wiki/William_of_Rubruck"
+  }
+ ],
+ "corrections": [
+  "He did not reach Karakorum in December 1253. On 27 December he reached Möngke's moving winter camp; Möngke's interpreter told him on 4 January that Karakorum was \"ten days hence\". He first came near the city on Palm Sunday, 5 April 1254.",
+  "He did not find Batu \"at Sarai\". In August 1253 Batu was with his moving camp on the east bank of the Volga far upstream (Rockhill and Yule put the ferry at Ukek, by modern Saratov), at the northern limit of his summer range. Rubruck saw Sarai, \"the new town that Baatu is making on the Etilia\", only on the way home in autumn 1254.",
+  "The \"five weeks\" are not the time from Sudak to Batu. Soldaia to Sartach took two months (1 June–31 July); the five weeks are the time he spent trailing Batu's camp down the Volga (about 11 August–15 September).",
+  "Rockhill's printed dates for the movable feasts of 1253 are one day early: he gives Palm Sunday as 12 April, Pentecost eve as 6 June, Pentecost as 7 June and the Octave of the Innocents as 3 January 1254. With Easter on 20 April 1253 the right dates are 13 April, 7 June, 8 June and 4 January (Jackson; Rockhill's own itinerary table has 4 January).",
+  "Rockhill's text gives the feast of Mary Magdalene as \"22nd June\" where Rubruck reaches the Don. The feast is 22 July, and Rockhill's own itinerary puts the Don in late July.",
+  "Rockhill's \"second Sunday in Advent (13th December)\" for the gorge of the devils cannot be right: 13 December 1253 was a Saturday. The Latin means the Saturday of the second week of Advent, as Jackson translates.",
+  "Rubruck was not an ambassador and said so repeatedly, beginning with his Palm Sunday sermon. He carried a letter from Louis IX to Sartach but travelled as a missionary; the Mongols' own letter of 1254 still called the friars envoys until he objected.",
+  "Sartach was not, on Rubruck's evidence, a Christian. Sartach's own officials told him: \"He is not a Christian, but a Moal\", and Rubruck wrote that he did not know whether Sartach believed in Christ and that he seemed to mock Christians.",
+  "His companion Bartholomew of Cremona did not come home with him; and of the five who left Soldaia only three went east of the Volga. Gosset and the boy Nicholas were sent back to Sartach's camp in August 1253 and waited a year among the Volga Mongols; Rubruck found them at Batu's camp in September 1254.",
+  "The famous line is often quoted as \"another world\". Rockhill translates the first occurrence \"transported into another century\" and the second \"another world\"; \"entering some other world\" is Jackson's wording.",
+  "The daily stage \"from Paris to Orléans\" (about 60 miles) is Rubruck's own impression, not a measurement. Rockhill doubts the average was \"much over twenty-five to thirty miles a day\".",
+  "The prayer formula he heard at Cailac is printed \"on mani baccam\" in Rockhill; it is his rendering of Om mani padme hum, and his gloss \"God, thou knowest\" is what an informant told him, not a translation.",
+  "The lake with the island and the wind is Ala-kul, not Balkhash, though Rubruck treats them as one \"sea\": Balkhash was the lake on his left as he approached Cailac, Ala-kul the one whose head he reached three days after leaving."
+ ],
+ "openQuestions": [
+  "Departure from Batu: 15 or 16 September 1253. The outbound text says \"the day after the Elevation of the Holy Cross\" (15 September; so Rockhill's translation and Jackson). The return passage says he got back \"the same day we had left it a year previously, the second day after the Elevation\", which Rockhill reads as 16 September and uses in his itinerary table (as do Zharkikh and Wikipedia); Jackson reads that passage as 15 September too.",
+  "The audience with Sartach: 1 or 2 August. Rubruck arrives on 31 July, says \"the next day\" he sent wine to Coiac, and \"the next day\" was called to court, yet dates the audience to the feast of Saint Peter in Chains (1 August). Either the arrival was on the 30th or one \"next day\" is loose; the feast date is usually followed.",
+  "Arrival at and audience with Batu have no stated date. The limits are 5 August (reached the Volga; Zharkikh counts 6 August) and about 10–11 August (Gosset, sent back after the audience, reached Sartach on 14 August; five weeks before 15 September is 11 August). The dates 7 and 8 August used here are estimates.",
+  "Where Batu was. Rockhill and Yule place the Volga ferry village at Ukek (Uvek, just south of Saratov), counting ten days north of Sarai. Rubruck's own figures pull north of that: he puts \"the cities of Greater Bulgaria\" only five days above Batu's camp, and in October 1254 Batu's camp was still fifteen days above Sarai. We could not see Jackson and Morgan's note on this point.",
+  "Where he crossed the Don. Rubruck gives no name. Rockhill argues from the nine days to Sartach (three or four of them on foot) that the ferry was \"not over 200 miles from the Volga\" on a north-east line, i.e. on the middle Don; Rubruck says the Mongols went no farther north than this and that a second ferry lower down served in winter. The coordinates given are an estimate.",
+  "The route from the Ural river to the Talas. Yule and Rockhill take him well north of the Aral Sea, then south over the Karatau into the Talas valley; F. M. Schmidt took him straight through the desert along the Chu to near Aulie-ata (Taraz) before turning east. Zharkikh proposes a line near 48–49°N and puts Kinchat on the Chu near Birlik rather than in the Talas valley.",
+  "Kinchat. Rockhill equates it with Kendjek, one of the four towns of the Talas group in the Mesalek al-absar, but notes that Talas itself would then have been much nearer than the six days Rubruck was told. The town has not been located.",
+  "The \"great river\" crossed by boat. Yule first identified it with the Chu (and Equius with Aspara on the Chu); Schmidt, Rockhill and Yule's later Encyclopaedia Britannica article make it the Ili, with the Chu crossed unremarked earlier.",
+  "Equius. Schmidt placed it one day short of Cailac on the Koksu, which Rockhill accepts only \"provisionally\"; Howorth compared Ch'ang-te's Yi-tu; Pelliot linked the name to Kashgari's Iki-ögüz. No site is agreed.",
+  "Cailac and the timetable. Yule's identification with Qayaliq is general, and excavation puts Qayaliq at Antonovka (Koilyk), east of the older \"west of Kopal\" placing. But Kinchat (8 November) to Cailac in about ten days is some 800 km, and Kinchat to Ala-kul in fourteen travelling days is about 35 miles a day, more than anywhere else on the journey; Yule therefore suggested the twelve days' rest (fifteen in some manuscripts) is a copyist's error for seven. Zharkikh instead moves Cailac to Ghulja on the Ili.",
+  "The \"Easter of the Saracens\" at Cailac. Rockhill takes it as Bairam. By the tabular Islamic calendar 1 Shawwal 651 falls on about 24 November 1253, which fits a stay of 18–30 November; Zharkikh's table puts it on 18 November without giving a basis.",
+  "The windy valley. Schmidt and Yule's later article take Rubruck through the Dzungarian Gate past Ebi-nor; Rockhill and Yule's earlier Cathay have him cross only its mouth and turn north toward the Tarbagatai and the Emil.",
+  "Ala-kul to Mongolia. Rockhill and Schmidt: up the Emil, over to Lake Ulungur, up the Ulungur river and across the end of the Altai, then nearly due east. Yule (Cathay): farther north, by the Kara Irtysh, over the Altai and into the Zavkhan (Jabkan) valley. Rockhill also thinks the paragraph on Güyük's ordu and the Naiman plain has been displaced by a copyist and belongs before the mountain gorges. The gorge of 13 December cannot be located.",
+  "Where Möngke's camp stood on 27 December 1253. Rubruck gives only relations: Karakorum ten days away, and the court afterwards moving twice more to the south before turning north to the city in late March. Rockhill names no site. A winter ground on the upper Ongi south of Karakorum is the usual assumption and is used here, but we could not confirm it in Jackson and Morgan; Zharkikh places the camp far to the south-east in Dundgovi.",
+  "Where the first Mongols and Scatay's camp were. Rubruck gives only \"the third day\" from Soldaia and \"five days, as oxen travel\" from Scatay to the ditch; the positions in the central Crimean steppe are estimates. Rockhill dates the departure from Scatay 8 June, Jackson 9 June."
+ ]
+}

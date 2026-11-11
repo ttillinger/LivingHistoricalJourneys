@@ -1,0 +1,3317 @@
+{
+  "id": "rubruck-1253",
+  "version": 1,
+  "title": "William of Rubruck’s Journey to the Mongol Court",
+  "description": "A Flemish friar rides from Constantinople across the steppe to the court of the Great Khan at Karakorum, and home by the Caucasus and Turkey, 1253–55. Followed from his own report to the King of France, one of the fullest accounts of the Mongol world by a European of his century.",
+  "tier": "premium",
+  "coordinateSpace": "geo",
+  "time": {
+    "start": "1253-05-07T04:04:00Z",
+    "end": "1255-08-15T17:37:00Z"
+  },
+  "mapDefaults": {
+    "bounds": [
+      27,
+      33.5,
+      105,
+      53
+    ],
+    "styles": [
+      "period",
+      "modern"
+    ],
+    "followZoom": 6
+  },
+  "tracks": [
+    {
+      "id": "friar-william",
+      "name": "Friar William",
+      "kind": "embassy",
+      "color": "#7a4a2a",
+      "isPrimary": true,
+      "vertices": [
+        {
+          "lon": 28.9802,
+          "lat": 41.0086,
+          "t": "1253-05-07T04:04:00Z",
+          "label": "Constantinople"
+        },
+        {
+          "lon": 29.13,
+          "lat": 41.22,
+          "t": "1253-05-07T05:03:00Z",
+          "label": "Entrance of the Sea of Pontus (Mare Majus), from Constantinople"
+        },
+        {
+          "lon": 31,
+          "lat": 42.6
+        },
+        {
+          "lon": 33.45,
+          "lat": 44.33
+        },
+        {
+          "lon": 34.2,
+          "lat": 44.36
+        },
+        {
+          "lon": 34.75,
+          "lat": 44.68
+        },
+        {
+          "lon": 34.975,
+          "lat": 44.851,
+          "t": "1253-05-21T14:40:00Z",
+          "label": "Soldaia (Sudak)"
+        },
+        {
+          "lon": 34.975,
+          "lat": 44.851,
+          "t": "1253-06-01T04:40:00Z",
+          "label": "Soldaia (Sudak)"
+        },
+        {
+          "lon": 34.85,
+          "lat": 44.98
+        },
+        {
+          "lon": 34.7,
+          "lat": 45.12,
+          "t": "1253-06-03T09:41:00Z",
+          "label": "First Tartar camp"
+        },
+        {
+          "lon": 34.5,
+          "lat": 45.35,
+          "t": "1253-06-05T06:42:00Z",
+          "label": "Camp of Scatay (Scacatai), kinsman of Batu"
+        },
+        {
+          "lon": 34.4,
+          "lat": 45.45,
+          "t": "1253-06-09T04:42:00Z",
+          "label": "Scatay’s camp"
+        },
+        {
+          "lon": 34.15,
+          "lat": 45.75
+        },
+        {
+          "lon": 33.693,
+          "lat": 46.162,
+          "t": "1253-06-13T15:45:00Z",
+          "label": "The ditch “from one sea to the other” (Isthmus of Perekop)"
+        },
+        {
+          "lon": 35.2,
+          "lat": 46.75
+        },
+        {
+          "lon": 36.6,
+          "lat": 46.95,
+          "t": "1253-06-23T15:34:00Z",
+          "label": "First camp beyond the isthmus"
+        },
+        {
+          "lon": 38.1,
+          "lat": 47.6
+        },
+        {
+          "lon": 39.6,
+          "lat": 48.9
+        },
+        {
+          "lon": 41.4,
+          "lat": 49.8,
+          "t": "1253-07-20T09:14:00Z",
+          "label": "The Tanais (Don), at the Ruthenian ferry village"
+        },
+        {
+          "lon": 41.5,
+          "lat": 49.85,
+          "t": "1253-07-23T04:14:00Z",
+          "label": "East bank of the Tanais (Don)"
+        },
+        {
+          "lon": 42.9,
+          "lat": 50.2,
+          "t": "1253-07-26T09:08:00Z",
+          "label": "Steppe east of the Don, first Tartar camp met"
+        },
+        {
+          "lon": 44.9,
+          "lat": 51.3,
+          "t": "1253-07-31T16:00:00Z",
+          "label": "The camp of Sartach"
+        },
+        {
+          "lon": 44.9,
+          "lat": 51.3,
+          "t": "1253-08-01T09:00:00Z",
+          "label": "The camp of Sartach"
+        },
+        {
+          "lon": 44.9,
+          "lat": 51.3,
+          "t": "1253-08-03T04:00:00Z",
+          "label": "The camp of Sartach"
+        },
+        {
+          "lon": 45.98,
+          "lat": 51.44,
+          "t": "1253-08-05T08:56:00Z",
+          "label": "The Etilia (Volga), at the new ferry village of Ruthenians and Saracens"
+        },
+        {
+          "lon": 46.2,
+          "lat": 51.2,
+          "t": "1253-08-07T13:55:00Z",
+          "label": "The camp of Baatu (Batu), east bank of the Etilia"
+        },
+        {
+          "lon": 46.2,
+          "lat": 51.2,
+          "t": "1253-08-08T08:55:00Z",
+          "label": "The camp of Baatu (Batu)"
+        },
+        {
+          "lon": 46.1,
+          "lat": 50.85
+        },
+        {
+          "lon": 46,
+          "lat": 50.5
+        },
+        {
+          "lon": 46,
+          "lat": 50.2,
+          "t": "1253-09-15T03:56:00Z",
+          "label": "Batu’s ordu on the Etilia"
+        },
+        {
+          "lon": 48.6,
+          "lat": 50.3
+        },
+        {
+          "lon": 51.3,
+          "lat": 50.4,
+          "t": "1253-09-27T08:35:00Z",
+          "label": "The Jagac (Iagac; Yaik, the Ural river)"
+        },
+        {
+          "lon": 52.6,
+          "lat": 50.2,
+          "t": "1253-09-29T08:30:00Z",
+          "label": "Cangle (Qangli) steppe east of the Jagac"
+        },
+        {
+          "lon": 55.3,
+          "lat": 49.8
+        },
+        {
+          "lon": 58.4,
+          "lat": 49.2
+        },
+        {
+          "lon": 61.3,
+          "lat": 48.6
+        },
+        {
+          "lon": 64.6,
+          "lat": 48.1
+        },
+        {
+          "lon": 67.4,
+          "lat": 47.4
+        },
+        {
+          "lon": 69.6,
+          "lat": 46.6,
+          "t": "1253-10-31T07:22:00Z",
+          "label": "Where “we left the road to the east”"
+        },
+        {
+          "lon": 70,
+          "lat": 45.3
+        },
+        {
+          "lon": 70.45,
+          "lat": 43.75,
+          "t": "1253-11-06T07:18:00Z",
+          "label": "The “alps” south of the desert"
+        },
+        {
+          "lon": 71.25,
+          "lat": 42.9,
+          "t": "1253-11-08T12:15:00Z",
+          "label": "Kinchat (Kenjek)"
+        },
+        {
+          "lon": 71.75,
+          "lat": 42.82,
+          "t": "1253-11-09T07:13:00Z",
+          "label": "Village “nearer the mountains”"
+        },
+        {
+          "lon": 73.18,
+          "lat": 42.87
+        },
+        {
+          "lon": 74.6,
+          "lat": 43.05
+        },
+        {
+          "lon": 77.1,
+          "lat": 43.9
+        },
+        {
+          "lon": 77.7,
+          "lat": 44.35
+        },
+        {
+          "lon": 78.35,
+          "lat": 44.95,
+          "t": "1253-11-16T06:47:00Z",
+          "label": "Equius (Iki-ögüz)"
+        },
+        {
+          "lon": 80.26,
+          "lat": 45.664,
+          "t": "1253-11-18T11:39:00Z",
+          "label": "Cailac (Qayaliq, Kayalyk)"
+        },
+        {
+          "lon": 80.26,
+          "lat": 45.664,
+          "t": "1253-11-24T06:39:00Z",
+          "label": "Cailac (Qayaliq)"
+        },
+        {
+          "lon": 80.4,
+          "lat": 45.67,
+          "t": "1253-11-30T01:38:00Z",
+          "label": "Cailac, then the Nestorian village three leagues on"
+        },
+        {
+          "lon": 81.45,
+          "lat": 46.02,
+          "t": "1253-12-03T11:34:00Z",
+          "label": "Head of the “sea” with a big island (Ala-kul)"
+        },
+        {
+          "lon": 82.05,
+          "lat": 45.95
+        },
+        {
+          "lon": 83.3,
+          "lat": 46.5,
+          "t": "1253-12-06T06:27:00Z",
+          "label": "Toward “great mountains covered with deep snow”"
+        },
+        {
+          "lon": 85.6,
+          "lat": 46.9
+        },
+        {
+          "lon": 87.4,
+          "lat": 47.1
+        },
+        {
+          "lon": 90.4,
+          "lat": 46.5,
+          "t": "1253-12-13T11:58:00Z",
+          "label": "The gorge “amidst most terrible rocks”"
+        },
+        {
+          "lon": 91.9,
+          "lat": 46.1
+        },
+        {
+          "lon": 95.2,
+          "lat": 46.3
+        },
+        {
+          "lon": 98.6,
+          "lat": 46.2,
+          "t": "1253-12-22T02:26:00Z",
+          "label": "Post-station five days short of the court"
+        },
+        {
+          "lon": 101.6,
+          "lat": 46.1,
+          "t": "1253-12-26T05:14:00Z",
+          "label": "The plain “vast as a sea”"
+        },
+        {
+          "lon": 102.8,
+          "lat": 46.2,
+          "t": "1253-12-27T10:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.8,
+          "lat": 46.2,
+          "t": "1253-12-28T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.8,
+          "lat": 46.2,
+          "t": "1253-12-29T00:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.8,
+          "lat": 46.2,
+          "t": "1254-01-04T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.78,
+          "lat": 46.27,
+          "t": "1254-01-05T11:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.78,
+          "lat": 46.27,
+          "t": "1254-01-06T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.78,
+          "lat": 46.27,
+          "t": "1254-01-12T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.78,
+          "lat": 46.27,
+          "t": "1254-01-12T23:39:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.95,
+          "lat": 46.05,
+          "t": "1254-01-28T11:08:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 103.05,
+          "lat": 45.9,
+          "t": "1254-02-08T11:08:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 103.05,
+          "lat": 45.9,
+          "t": "1254-02-22T11:08:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.95,
+          "lat": 46,
+          "t": "1254-03-01T11:08:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.85,
+          "lat": 46.2,
+          "t": "1254-03-22T11:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.78,
+          "lat": 46.27,
+          "t": "1254-03-29T00:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.75,
+          "lat": 46.75
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-04-05T08:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-04-06T05:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-04-07T05:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-04-12T05:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.7,
+          "lat": 47.3,
+          "t": "1254-05-01T11:09:00Z",
+          "label": "With the court near Caracarum"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-05-17T10:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.95,
+          "lat": 47.28,
+          "t": "1254-05-22T11:08:00Z",
+          "label": "The camp of Mangu’s mother (held by Arabuccha / Arigh Böke)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-05-23T10:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-05-30T05:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-05-31T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-06-07T05:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 102.75,
+          "lat": 47.25,
+          "t": "1254-06-24T11:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.75,
+          "lat": 47.25,
+          "t": "1254-07-08T05:09:00Z",
+          "label": "The court of Mangu Chan"
+        },
+        {
+          "lon": 102.82,
+          "lat": 47.2,
+          "t": "1254-07-09T00:09:00Z",
+          "label": "Caracarum (Karakorum)"
+        },
+        {
+          "lon": 96.8,
+          "lat": 47.3
+        },
+        {
+          "lon": 91.3,
+          "lat": 46.6,
+          "t": "1254-07-29T05:55:00Z",
+          "label": "Twenty days out from Caracarum"
+        },
+        {
+          "lon": 87.25,
+          "lat": 47.25
+        },
+        {
+          "lon": 83.62,
+          "lat": 46.55
+        },
+        {
+          "lon": 75,
+          "lat": 47.8
+        },
+        {
+          "lon": 66.5,
+          "lat": 48.6
+        },
+        {
+          "lon": 51.6,
+          "lat": 51
+        },
+        {
+          "lon": 46.6,
+          "lat": 50.3,
+          "t": "1254-09-16T13:54:00Z",
+          "label": "The camp of Baatu (Batu) on the Etilia (Volga)"
+        },
+        {
+          "lon": 46.4,
+          "lat": 49.6,
+          "t": "1254-10-01T14:54:00Z",
+          "label": "Moving with Baatu’s ordu"
+        },
+        {
+          "lon": 46.3,
+          "lat": 49.3,
+          "t": "1254-10-17T03:55:00Z",
+          "label": "The camp of Baatu (Batu)"
+        },
+        {
+          "lon": 46.3,
+          "lat": 48.2
+        },
+        {
+          "lon": 47.43,
+          "lat": 47.17,
+          "t": "1254-10-31T13:50:00Z",
+          "label": "Sarai, ‘the new town that Baatu is making on the Etilia’"
+        },
+        {
+          "lon": 47.2,
+          "lat": 47.05,
+          "t": "1254-11-01T08:51:00Z",
+          "label": "Etilia crossing; Summerkeur on the middle branch"
+        },
+        {
+          "lon": 46.6,
+          "lat": 45
+        },
+        {
+          "lon": 46.9,
+          "lat": 43.3,
+          "t": "1254-11-11T13:52:00Z",
+          "label": "Foot of the mountains of the Alans"
+        },
+        {
+          "lon": 47.5,
+          "lat": 42.98
+        },
+        {
+          "lon": 47.95,
+          "lat": 42.45,
+          "t": "1254-11-16T08:48:00Z",
+          "label": "Walled hamlet (castellum) of the Alans"
+        },
+        {
+          "lon": 48.29,
+          "lat": 42.06,
+          "t": "1254-11-17T13:47:00Z",
+          "label": "The Iron Gate (Derbent)"
+        },
+        {
+          "lon": 48.99,
+          "lat": 41.21,
+          "t": "1254-11-19T08:44:00Z",
+          "label": "Samaron"
+        },
+        {
+          "lon": 48.85,
+          "lat": 40.95,
+          "t": "1254-11-20T08:45:00Z",
+          "label": "Valley with wall foundations (‘barriers of Alexander’)"
+        },
+        {
+          "lon": 48.64,
+          "lat": 40.63,
+          "t": "1254-11-21T13:45:00Z",
+          "label": "Samag (Shamakhi)"
+        },
+        {
+          "lon": 48.5,
+          "lat": 40.25,
+          "t": "1254-11-22T08:46:00Z",
+          "label": "Plain of Moan (Mughan)"
+        },
+        {
+          "lon": 48.47,
+          "lat": 40.01,
+          "t": "1254-11-23T08:46:00Z",
+          "label": "Bridge of boats at the meeting of the Cur and the Araxes"
+        },
+        {
+          "lon": 47.6,
+          "lat": 39.6,
+          "t": "1254-11-28T14:50:00Z",
+          "label": "Camp of Baachu (Baiju noyan) on the Araxes"
+        },
+        {
+          "lon": 45.41,
+          "lat": 39.21,
+          "t": "1254-12-15T13:58:00Z",
+          "label": "Naxua (Nakhichevan)"
+        },
+        {
+          "lon": 45.41,
+          "lat": 39.21,
+          "t": "1254-12-25T08:58:00Z",
+          "label": "Naxua (Nakhichevan)"
+        },
+        {
+          "lon": 45.41,
+          "lat": 39.21,
+          "t": "1255-01-13T03:58:00Z",
+          "label": "Naxua (Nakhichevan)"
+        },
+        {
+          "lon": 43.9,
+          "lat": 40,
+          "t": "1255-01-17T14:04:00Z",
+          "label": "Country of Sahensa (Shahanshah Zakarian)"
+        },
+        {
+          "lon": 43.57,
+          "lat": 40.51,
+          "t": "1255-02-02T09:06:00Z",
+          "label": "Aini (Ani)"
+        },
+        {
+          "lon": 42.37,
+          "lat": 40.18,
+          "t": "1255-02-14T14:11:00Z",
+          "label": "Marsengen"
+        },
+        {
+          "lon": 41.28,
+          "lat": 39.91,
+          "t": "1255-02-21T14:15:00Z",
+          "label": "Head of the Araxes; Aarserum (Erzurum)"
+        },
+        {
+          "lon": 39.49,
+          "lat": 39.75
+        },
+        {
+          "lon": 39.03,
+          "lat": 39.6,
+          "t": "1255-03-01T09:24:00Z",
+          "label": "Camath (Kemah)"
+        },
+        {
+          "lon": 38.3,
+          "lat": 39.9
+        },
+        {
+          "lon": 37.02,
+          "lat": 39.75,
+          "t": "1255-03-21T14:32:00Z",
+          "label": "Sebaste (Sivas)"
+        },
+        {
+          "lon": 35.49,
+          "lat": 38.72,
+          "t": "1255-04-04T14:38:00Z",
+          "label": "Cesarea of Capadocia (Kayseri)"
+        },
+        {
+          "lon": 32.49,
+          "lat": 37.87,
+          "t": "1255-04-19T14:50:00Z",
+          "label": "Yconium (Konya)"
+        },
+        {
+          "lon": 34.15,
+          "lat": 36.46,
+          "t": "1255-05-05T14:43:00Z",
+          "label": "Curta (Korykos / Gorighos)"
+        },
+        {
+          "lon": 34.15,
+          "lat": 36.46,
+          "t": "1255-05-17T04:43:00Z",
+          "label": "Curta (Korykos)"
+        },
+        {
+          "lon": 35.8,
+          "lat": 37.45,
+          "t": "1255-05-22T14:37:00Z",
+          "label": "Assis (Sis)"
+        },
+        {
+          "lon": 35.79,
+          "lat": 36.77,
+          "t": "1255-06-10T04:37:00Z",
+          "label": "Auax (Ayas / Laiazzo)"
+        },
+        {
+          "lon": 34.9,
+          "lat": 36
+        },
+        {
+          "lon": 34.35,
+          "lat": 35.35
+        },
+        {
+          "lon": 33.94,
+          "lat": 35.12,
+          "t": "1255-06-16T14:44:00Z",
+          "label": "Cyprus"
+        },
+        {
+          "lon": 33.36,
+          "lat": 35.17,
+          "t": "1255-06-17T09:47:00Z",
+          "label": "Nicosia"
+        },
+        {
+          "lon": 35.98,
+          "lat": 36.08
+        },
+        {
+          "lon": 36.16,
+          "lat": 36.2,
+          "t": "1255-06-29T09:35:00Z",
+          "label": "Antioch"
+        },
+        {
+          "lon": 35.83,
+          "lat": 34.44,
+          "t": "1255-08-15T14:37:00Z",
+          "label": "Tripoli"
+        }
+      ],
+      "statSeries": {
+        "party": {
+          "label": "Travelling together",
+          "format": "count",
+          "keyframes": [
+            {
+              "t": "1253-05-07T04:03:00Z",
+              "v": 5
+            },
+            {
+              "t": "1253-06-01T04:39:00Z",
+              "v": 5
+            },
+            {
+              "t": "1253-06-01T04:40:00Z",
+              "v": 7
+            },
+            {
+              "t": "1253-06-09T04:41:00Z",
+              "v": 7
+            },
+            {
+              "t": "1253-06-09T04:42:00Z",
+              "v": 8
+            },
+            {
+              "t": "1253-08-03T03:59:00Z",
+              "v": 8
+            },
+            {
+              "t": "1253-08-03T04:00:00Z",
+              "v": 6
+            },
+            {
+              "t": "1253-08-08T14:54:00Z",
+              "v": 6
+            },
+            {
+              "t": "1253-08-08T14:55:00Z",
+              "v": 3
+            },
+            {
+              "t": "1253-09-15T03:55:00Z",
+              "v": 3
+            },
+            {
+              "t": "1253-09-15T03:56:00Z",
+              "v": 5
+            },
+            {
+              "t": "1253-11-30T01:37:00Z",
+              "v": 5
+            },
+            {
+              "t": "1253-11-30T01:38:00Z",
+              "v": 6
+            },
+            {
+              "t": "1253-12-27T10:08:00Z",
+              "v": 6
+            },
+            {
+              "t": "1253-12-27T10:09:00Z",
+              "v": 3
+            },
+            {
+              "t": "1254-07-09T00:08:00Z",
+              "v": 3
+            },
+            {
+              "t": "1254-07-09T00:09:00Z",
+              "v": 4
+            },
+            {
+              "t": "1254-09-16T13:53:00Z",
+              "v": 4
+            },
+            {
+              "t": "1254-09-16T13:54:00Z",
+              "v": 5
+            },
+            {
+              "t": "1254-10-17T03:54:00Z",
+              "v": 5
+            },
+            {
+              "t": "1254-10-17T03:55:00Z",
+              "v": 6
+            },
+            {
+              "t": "1254-11-11T13:51:00Z",
+              "v": 6
+            },
+            {
+              "t": "1254-11-11T13:52:00Z",
+              "v": 26
+            },
+            {
+              "t": "1254-11-19T08:43:00Z",
+              "v": 26
+            },
+            {
+              "t": "1254-11-19T08:44:00Z",
+              "v": 6
+            },
+            {
+              "t": "1254-11-28T14:49:00Z",
+              "v": 6
+            },
+            {
+              "t": "1254-11-28T14:50:00Z",
+              "v": 4
+            },
+            {
+              "t": "1255-01-13T03:57:00Z",
+              "v": 4
+            },
+            {
+              "t": "1255-01-13T03:58:00Z",
+              "v": 6
+            },
+            {
+              "t": "1255-08-15T17:36:00Z",
+              "v": 6
+            },
+            {
+              "t": "1255-08-15T17:37:00Z",
+              "v": 6
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "t": "1253-05-07T08:03:00Z",
+      "title": "Into the Greater Sea",
+      "body": "William’s ship passed out of the Bosporus into the Black Sea, which the merchants called the Greater Sea. He carried fruit, muscadel wine and fine biscuit bought in Constantinople as gifts for the first Mongol captains. The ship steered for the Crimea.",
+      "tags": [
+        "black sea",
+        "voyage"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-05-21T07:40:00Z",
+      "title": "Landing at Soldaia",
+      "body": "The friars landed at Soldaia, the Crimean port where furs from the north were traded for cotton, silk and spices. Merchants who had arrived first had announced them as envoys, and warned William not to deny it or he would get no passage. The city gave them lodging in the bishop’s church.",
+      "tags": [
+        "soldaia",
+        "crimea"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-01T07:40:00Z",
+      "title": "Five men leave Soldaia",
+      "body": "William set out with Friar Bartholomew of Cremona, the clerk Gosset, the interpreter Homo Dei and Nicholas, a boy he had bought in Constantinople with the king’s alms. They had four covered carts, two more lent for bedding, and five horses. Two men came along to drive the oxen.",
+      "tags": [
+        "party",
+        "carts"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-03T07:41:00Z",
+      "title": "Stepping into another world",
+      "body": "On the third day out the party met its first Mongols. The riders kept them waiting in the shade of the carts, then surrounded them and asked for wine, biscuit, knives, gloves and purses. When William refused more they called him an impostor, but they took nothing by force.",
+      "tags": [
+        "mongols",
+        "first contact"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "it seemed to me, as I said before, that I had been transported into another world",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-04T07:41:00Z",
+      "title": "A first cup of kumis",
+      "body": "That evening the guide gave the friars fermented mare’s milk. William had never tasted it and was alarmed, then found he liked it. Many Christians living among the Mongols refused the drink altogether.",
+      "tags": [
+        "kumis",
+        "food"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "at the taste of it I broke out in a sweat with horror and surprise, for I had never drunk of it",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-05T06:42:00Z",
+      "title": "A city on the move",
+      "body": "In the morning the carts of the captain Scatay came toward them, carrying his people’s houses. William was told Scatay had no more than five hundred men, yet the herds seemed endless. Scatay received a flagon of wine, a basket of biscuit and a plate of fruit, and sent the emperor’s Greek letter back to Soldaia to be translated.",
+      "tags": [
+        "scatay",
+        "camp"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "it seemed to me that a city was coming towards me",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-06T07:42:00Z",
+      "title": "Houses on wagons",
+      "body": "While he travelled with Scatay, William studied the felt houses. He measured twenty feet between the wheel tracks of one cart and counted twenty-two oxen pulling a single house, eleven abreast in two rows. A man stood in the doorway of the house to drive them.",
+      "tags": [
+        "yurts",
+        "carts"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-07T07:42:00Z",
+      "title": "Alans bring meat",
+      "body": "On the eve of Pentecost some Alan Christians brought cooked meat and asked the friars to pray for one of their dead. William would not eat meat on a vigil and kept it for the feast. Nothing could be bought with gold coin, the wine was nearly gone and the water was fouled by horses.",
+      "tags": [
+        "alans",
+        "hunger",
+        "pentecost"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-09T07:42:00Z",
+      "title": "North to the isthmus",
+      "body": "Scatay gave the party a guide for Sartach, a goat, and skins of cow’s milk, and they set off for a camp five ox-days away. The escort began stealing from the carts. The friars lost a good deal before they learned to keep watch.",
+      "tags": [
+        "crimea",
+        "escort"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "And so we set out due north, and it seemed to me that we had passed through one of the gates of hell.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-13T07:45:00Z",
+      "title": "The ditch and the salt lakes",
+      "body": "At the neck of the Crimea a ditch ran from sea to sea. Beyond it camped the men who taxed the salt taken from the nearby lakes, where traders came from all Russia with carts. They gave the party of eight one goat for the road ahead and said it would be fifteen days before they met anyone.",
+      "tags": [
+        "perekop",
+        "salt"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-06-27T07:34:00Z",
+      "title": "Tombs on the skyline",
+      "body": "For two months the travellers slept in the open or under the carts and saw no town. The only works of men on the plain were the burial mounds of the Comans, who had grazed there before the Mongols came. The mounds could be seen two leagues away.",
+      "tags": [
+        "steppe",
+        "comans"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-07-04T07:28:00Z",
+      "title": "The tall headdress",
+      "body": "William described the headdress of married Mongol women, the bocca. It was a hollow column of bark covered in silk, a cubit and more high, topped with a tuft of quills and peacock feathers. The women rode astride like the men.",
+      "tags": [
+        "women",
+        "dress",
+        "bogtag"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "they look like soldiers, helmets on head and lances erect",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-07-15T07:22:00Z",
+      "title": "How kumis was made",
+      "body": "William recorded the method. Foals were tied to a long rope so the mares would stand to be milked, and the milk was churned in a great skin with a hollow-headed stick until it fermented and the butter separated. It stung the tongue and left a taste like almond milk.",
+      "tags": [
+        "kumis",
+        "food"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-07-20T07:14:00Z",
+      "title": "The ferry on the Don",
+      "body": "A few days before the feast of Mary Magdalene the party reached the Tanais, which William took as the border of Europe and Asia. Russian villagers settled there by Batu ferried the carts with one wheel in each of two boats tied together. The villagers were cutting rye and fed the friars fish, rye bread and a little meat.",
+      "tags": [
+        "don",
+        "ferry",
+        "river"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "That river at this point was as broad as the Seine at Paris",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-07-26T07:08:00Z",
+      "title": "Three days on foot",
+      "body": "The guide had sent the animals back before crossing, and the ferrymen owed no horses. The friars got oxen for the carts but walked themselves for three days without meeting anyone. Two stray horses let the guide and interpreter ride ahead to search for a camp.",
+      "tags": [
+        "don",
+        "steppe",
+        "hardship"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Finally on the fourth day we found some people, and we were as happy as shipwrecked mariners on reaching port.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-07-31T16:00:00Z",
+      "title": "Arrival at Sartach’s camp",
+      "body": "Two months after leaving Soldaia the party reached the camp of Sartach, three days short of the Volga. Each of his six wives had a great house and some two hundred carts. That evening the Nestorian official Coiac received them with a guitar playing and people dancing, and asked who was the greatest lord among the Franks.",
+      "tags": [
+        "sartaq",
+        "camp",
+        "nestorians"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-01T07:00:00Z",
+      "title": "Before Sartach in vestments",
+      "body": "The friars put on their richest vestments and walked into Sartach’s house singing the Salve Regina, taking care not to touch the threshold. Sartach handled the censer, the queen’s illuminated psalter, the Bible and the cross. William handed over King Louis’s letter with Arabic and Syriac copies made at Acre.",
+      "tags": [
+        "sartaq",
+        "audience",
+        "letter"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-03T07:00:00Z",
+      "title": "Not a Christian but a Mongol",
+      "body": "Coiac said the letter raised matters Sartach could not settle without his father, so the friars must go on to Batu. His brother, a priest, kept the vestments and most of the books; William saved his Bible. Before they left, the court scribes warned them not to call Sartach a Christian.",
+      "tags": [
+        "sartaq",
+        "religion",
+        "books"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "He is not a Christian, but a Moal.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-05T06:56:00Z",
+      "title": "Reaching the river Volga",
+      "body": "On the third day from Sartach the party reached the Etilia at a new village of Russians and Muslims who ran the ferry. William judged the river four times the size of the Seine. The road had frightened the guide, because escaped slaves roamed it in armed bands at night.",
+      "tags": [
+        "volga",
+        "river"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-06T06:56:00Z",
+      "title": "The Caspian is a lake",
+      "body": "At the Volga William set down what he had learned of the sea it feeds. Friar Andrew had gone round its south and east sides and he himself would travel the north and west. He concluded that the old authority Isidore was wrong to call it a gulf of the ocean.",
+      "tags": [
+        "caspian",
+        "geography"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "It nowhere reaches the Ocean, but is everywhere surrounded by land",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-07T06:55:00Z",
+      "title": "Batu’s camp like a city",
+      "body": "A boat took the friars downriver to Batu’s camp on the east bank. The houses spread three or four leagues around the prince’s own, and everyone knew on which side to pitch. No one camped due south, where the doors of the court opened.",
+      "tags": [
+        "batu",
+        "camp",
+        "volga"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "it seemed like a great city stretched out about his dwelling",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-08T06:55:00Z",
+      "title": "The audience with Batu",
+      "body": "The friars stood barefoot and bareheaded under a great awning while the court kept silent for the length of a psalm. Batu sat on a gilded couch with one of his wives; his face was covered with reddish spots. Made to kneel on both knees, William told him he would not gain heaven unless he became a Christian, and the Mongols clapped and laughed.",
+      "tags": [
+        "batu",
+        "audience"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "He looked at us intently, and we at him",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-08T11:55:00Z",
+      "title": "The party is divided",
+      "body": "Batu ruled that only Mangu Chan could let the friars stay, so William, Bartholomew and the interpreter must go to him. The clerk Gosset was sent back to Sartach with the boy Nicholas. Gosset kept ten of their twenty-six gold coins and gave sixteen to the interpreter for the road.",
+      "tags": [
+        "party",
+        "batu",
+        "gosset"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-08-20T06:56:00Z",
+      "title": "Hungry behind the camp",
+      "body": "For five weeks the friars followed Batu’s camp down the Volga on foot. The market that travelled with the camp was too far away to reach without horses, and their host gave little. Bartholomew was at times so hungry that he was near tears.",
+      "tags": [
+        "batu",
+        "hunger",
+        "bartholomew"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-09-01T06:56:00Z",
+      "title": "Hungarian clerks bring food",
+      "body": "Some Hungarians who had once been clerks found the friars and brought them kumis and sometimes meat. They asked for books, and William had only his Bible and breviary. He wrote out the Hours of the Virgin and the Office of the Dead for them on tablets, and a Coman greeted him one day in Latin.",
+      "tags": [
+        "batu",
+        "hungarians",
+        "books"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-09-14T06:56:00Z",
+      "title": "The guide’s warning",
+      "body": "About the feast of the Holy Cross a rich Mongol, the son of a commander of a thousand, came to say he would take them to Mangu Chan. He threatened to abandon them if they could not stand the journey, then looked through their clothes and made them leave behind what he thought useless. The next day each was given a sheepskin coat and breeches, felt stockings, boots and a hood.",
+      "tags": [
+        "guide",
+        "cold",
+        "clothing"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "The journey is a four months one, and it is so cold on it that stones and trees are split by the cold.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-09-15T06:56:00Z",
+      "title": "Riding east from Batu",
+      "body": "The three travellers and their guide left Batu’s camp on horseback with two pack horses between them. They rode steadily east across the old country of the Cangle, with the Caspian to the south. William answered the guide that he hoped to bear what other men could bear.",
+      "tags": [
+        "departure",
+        "horses"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-09-27T06:35:00Z",
+      "title": "The river Jagac",
+      "body": "Twelve days from the Volga the riders came to a great river flowing south to the Caspian from the country of Pascatir. William noted that the people of Pascatir spoke the language of the Hungarians. Beyond it to the north and east there were no more towns.",
+      "tags": [
+        "ural",
+        "river"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-10-08T06:19:00Z",
+      "title": "From Paris to Orléans",
+      "body": "William reckoned each day’s ride at about the distance from Paris to Orléans. Some days they changed horses two or three times, and on others they went two or three days without meeting anyone. As foreigners they were given the worst animals, though William, a heavy man, always got a strong one.",
+      "tags": [
+        "pace",
+        "horses"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "nearly every day we went, as well as I could estimate, about the distance from Paris to Orleans",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-10-16T06:06:00Z",
+      "title": "One meal a day",
+      "body": "The travellers were fed only in the evening: a shoulder and ribs of mutton and the broth it was boiled in. In the morning they got a drink or a little millet gruel. On Fridays William fasted until night and then, against his rule, had to eat meat.",
+      "tags": [
+        "food",
+        "hunger"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-10-31T05:22:00Z",
+      "title": "The turn south",
+      "body": "On the eve of All Saints the party left the eastward road, because the herders had already moved south for the winter. For eight days they rode due south along a line of hills. By then there had been frost for a month.",
+      "tags": [
+        "route",
+        "steppe"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-04T05:20:00Z",
+      "title": "Wild asses outrun the guide",
+      "body": "In the desert William saw many wild asses, which the Mongols called culam and which looked to him like mules. The guide and his companion chased them hard. They caught none, because the animals were too fast.",
+      "tags": [
+        "wildlife",
+        "kulan"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-08T05:15:00Z",
+      "title": "Wine at Kinchat",
+      "body": "After seven days the riders saw high mountains to the south and came down into a plain watered like a garden. At the small Muslim town of Kinchat the governor came out with drink and cups to meet Batu’s envoy. A river from the mountains watered the fields and then died away in marshes.",
+      "tags": [
+        "kinchat",
+        "talas",
+        "town"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "There (at Kinchat) I saw vines, and twice did I drink wine",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-09T05:13:00Z",
+      "title": "The German miners of Talas",
+      "body": "At the next village William asked about the town of Talas and the German slaves of the prince Buri, of whom Friar Andrew had told him. He learned only that Talas lay six days off toward the mountains and that Batu had beheaded Buri for a drunken insult. At Mangu’s court he later heard the Germans had been moved a month’s journey east to Bolat, to dig gold and make weapons.",
+      "tags": [
+        "talas",
+        "germans",
+        "buri"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-14T04:52:00Z",
+      "title": "A river crossed by boat",
+      "body": "Riding east along the mountains, the party entered the lands of Mangu Chan’s own subjects, who sang and clapped before Batu’s envoy. In the hills where the Kara-Khitai once lived they crossed a great river by boat. Beyond it they found the town of Equius, whose Muslim people spoke Persian far from Persia.",
+      "tags": [
+        "ili",
+        "equius",
+        "river"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-18T04:39:00Z",
+      "title": "The market town of Cailac",
+      "body": "The riders came into a plain with high mountains on the right and a great lake on the left. Many of its towns had been destroyed to make pasture, but Cailac was large, with a market that drew many traders. They stopped there to wait for a secretary of Batu who was to travel on with the guide.",
+      "tags": [
+        "cailac",
+        "qayaliq",
+        "town"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-23T04:39:00Z",
+      "title": "A cross inked on a hand",
+      "body": "Cailac had three temples of the people William called idolaters, and he went into two. In the first he met a man with a small cross drawn in ink on his hand, who said he was a Christian. Behind a chest set with lamps and offerings William saw a winged figure and others with fingers raised as if in blessing.",
+      "tags": [
+        "cailac",
+        "temple",
+        "uighurs"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-24T04:39:00Z",
+      "title": "Priests in saffron",
+      "body": "On the first day of the month the temples stood open and the priests sat in the gate in tight saffron tunics, heads and faces shaved. They carried strings of beads and repeated the words William heard as “on mani baccam”. When he asked why they made images if God was a spirit, they said the statues were memorials of the dead, and then his interpreter tired and stopped translating.",
+      "tags": [
+        "cailac",
+        "buddhism",
+        "temple"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "when I saw them with their shaved faces they seemed to me to be Franks",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-27T04:39:00Z",
+      "title": "The Nestorians of the east",
+      "body": "William wrote down what he saw of the eastern Christians living among the Uighurs. They chanted services in Syriac without understanding it, and a bishop came perhaps once in fifty years and ordained every boy, even infants. He accused them of usury, drunkenness and charging for the sacraments.",
+      "tags": [
+        "nestorians",
+        "religion"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-11-30T04:38:00Z",
+      "title": "A church after many months",
+      "body": "The party left Cailac on Saint Andrew’s day. Three leagues on they came to a village inhabited entirely by Nestorians. The friars went into its church and sang the Salve Regina at the tops of their voices.",
+      "tags": [
+        "nestorians",
+        "cailac",
+        "church"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-03T04:34:00Z",
+      "title": "The lake and the wind",
+      "body": "Three days from Cailac the riders reached the head of a great lake with a large island in it. Bartholomew wetted a cloth and tasted the water, which was brackish but drinkable. A valley opened from the south-east, and through it blew a wind so strong that travellers feared being carried into the lake.",
+      "tags": [
+        "alakol",
+        "wind",
+        "lake"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-06T04:27:00Z",
+      "title": "Two stages a day",
+      "body": "From Saint Nicholas’s day the party met no one but the keepers of the post stations, set a day apart. The road was narrow and the grazing poor, so they covered two stages between dawn and night and rode more by night than by day. Snow lay deep on the mountains ahead.",
+      "tags": [
+        "cold",
+        "post stations",
+        "pace"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-13T11:58:00Z",
+      "title": "The gorge of the devils",
+      "body": "In the evening, among sheer rocks, the guide sent word asking William for words that would drive off devils. In that gorge, he said, they carried men away, or took the horse and left the rider. The friars sang the Creed aloud and the whole party passed through.",
+      "tags": [
+        "gorge",
+        "guide",
+        "prayer"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-22T02:26:00Z",
+      "title": "The long road refused",
+      "body": "Five days from the court a station-keeper tried to send the party round by a road of more than fifteen days, past the homeland of Chingis Chan. The guide argued from dawn until mid-morning before the direct road was allowed. On this stretch Batu’s secretary told William that the letter to Mangu said King Louis was asking for troops against the Saracens.",
+      "tags": [
+        "post stations",
+        "letter"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-26T03:14:00Z",
+      "title": "A plain vast as a sea",
+      "body": "On Saint Stephen’s day the riders came out of the mountains onto open level country. It was the last day of the ride. They had been in the saddle since the middle of September.",
+      "tags": [
+        "mongolia",
+        "steppe"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "we entered a plain vast as a sea, in which there was seen no hillock",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-27T03:09:00Z",
+      "title": "The court of Mangu Chan",
+      "body": "On Saint John’s day the party reached the Great Khan’s camp. The guide was given a large house, and the three travellers a hut barely big enough for their baggage, beds and a small fire. Visitors brought the guide rice wine in long-necked flagons, and officials asked the friars again and again why they had come if not to make peace.",
+      "tags": [
+        "mongke",
+        "arrival",
+        "court"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-28T03:09:00Z",
+      "title": "Barefoot at the court",
+      "body": "William went to court without shoes, as friars did at home. People crowded round and asked whether the friars had no use for their feet, until a Hungarian servant explained their rule. On the way back William saw a tent with a cross on it and found inside an altar hung with gold cloth and an Armenian monk in a hair shirt.",
+      "tags": [
+        "mongke",
+        "court",
+        "cold",
+        "armenian monk"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1253-12-29T00:09:00Z",
+      "title": "Frozen toes at dawn",
+      "body": "At dawn men from the court hurried the friars out to be identified by the envoys of the Greek emperor Vatatzes, and William again went barefoot. A Greek knight recognized Bartholomew. The first wife’s household then sent sheepskin coats, breeches and shoes.",
+      "tags": [
+        "cold",
+        "court"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "That morning the tips of my toes were frozen, so that I could not thereafter go bare-footed",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-01-04T03:09:00Z",
+      "title": "The first audience with Mangu",
+      "body": "The friars sang a Christmas hymn at the door, were searched for knives and were seated near the ladies in a house lined with cloth of gold. Mangu, a man of middling height aged about forty-five, sat on a couch in a spotted fur and looked over his falcons before letting them speak. William asked leave to stay, but the butlers had given his interpreter so much rice wine that he could not follow the Khan’s answer.",
+      "tags": [
+        "mongke",
+        "audience",
+        "interpreter"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Mangu himself appeared to me tipsy",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-01-06T05:09:00Z",
+      "title": "No baptism at Epiphany",
+      "body": "The Armenian monk Sergius had promised that he would baptise Möngke on the feast. Rubruck was called to court only at midday, in time to see the monk and the Nestorian priests coming away with their cross and censer. He learned that Christians, Muslims and Buddhists each blessed the khan’s cup in turn on such days.",
+      "tags": [
+        "court",
+        "sergius",
+        "religion"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "they all follow his court as flies do honey",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-01-12T23:39:00Z",
+      "title": "The chief wife at chapel",
+      "body": "Before dawn the Nestorian priests beat their board and sang Matins. The khan’s chief wife, Cotota, came with her children, bowed to the ground and touched the images. Möngke arrived afterwards, sat beside her on a gilded couch and had Rubruck’s Bible and breviary brought to him to look at the pictures.",
+      "tags": [
+        "court",
+        "wives",
+        "nestorians"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-01-28T03:08:00Z",
+      "title": "The camp shifts south",
+      "body": "Möngke’s camp moved only twice that winter, both times toward the south, before it turned north again. Priests from Cathay told Rubruck that Cathay lay twenty days to the south-east and the Mongol homeland on the Onon and Kerulen ten days due east. All the envoys at this court shared one lodging and could visit each other.",
+      "tags": [
+        "court",
+        "camp",
+        "geography"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-02-08T03:08:00Z",
+      "title": "The burnt shoulder-blades",
+      "body": "The priests, the monk and the two friars went in procession to Möngke’s dwelling. As they entered, a servant carried out sheep’s shoulder-blades burnt black. Rubruck learned that the khan had three bones charred before any decision and acted only if one had split cleanly along its length.",
+      "tags": [
+        "court",
+        "divination",
+        "möngke"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "he does nothing in the world without first consulting these bones",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-02-09T03:08:00Z",
+      "title": "Bartholomew and the threshold",
+      "body": "Leaving the khan’s tent backwards, Bartholomew of Cremona struck the threshold and was seized by the guards. The next day the judge Bulgai asked whether the friars had been warned. Rubruck answered that they had no interpreter, and Bartholomew was pardoned but never again allowed into any dwelling of the khan.",
+      "tags": [
+        "court",
+        "bartholomew",
+        "law"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-02-17T03:08:00Z",
+      "title": "Rhubarb and holy water",
+      "body": "The khan’s second wife, Cota, fell gravely ill, and Sergius staked his head on curing her. He steeped chopped rhubarb and a small crucifix in holy water overnight, and Rubruck read the Passion over her. She recovered and gave out four ingots of silver; Rubruck refused his.",
+      "tags": [
+        "court",
+        "sergius",
+        "wives",
+        "medicine"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "he had taken no orders, and did not know a single letter, but was a cloth weaver",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-03-01T03:08:00Z",
+      "title": "The khan rebukes Sergius",
+      "body": "Möngke, holding a charred shoulder-blade, asked the monk why a man who ought to pray to God talked so much to men. He pointed at Rubruck, who stood bareheaded, and made Sergius take off his hat. The monk was so shaken that he handed Rubruck the cross to carry home.",
+      "tags": [
+        "court",
+        "sergius",
+        "möngke"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-03-22T03:09:00Z",
+      "title": "The goldsmith’s son arrives",
+      "body": "The son of Guillaume Boucher, a Parisian goldsmith captured in Hungary, came from Karakorum with a crucifix made in the French style. He told Möngke that the great work his father had been ordered to make was finished. The khan ordered it set up in the palace.",
+      "tags": [
+        "boucher",
+        "court",
+        "karakorum"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-03-31T17:09:00Z",
+      "title": "A midnight request for prayer",
+      "body": "Möngke had set out for Karakorum on 29 March with his light tents. In the mountains a storm of wind and snow went on for two days, and about midnight he sent to ask the monk and the friars to pray, because the animals were heavy with young. Sergius sent him incense to burn, and the storm slackened on the third day.",
+      "tags": [
+        "march",
+        "weather",
+        "möngke"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-04-05T08:09:00Z",
+      "title": "Palm Sunday at Karakorum",
+      "body": "At dawn the friars blessed bare branches outside the city. In the afternoon they entered with cross and banner raised, through the Muslim quarter with its square and market, and the Nestorians came out in procession to meet them at the church. Guillaume Boucher took them home to dine with his wife, who was born in Hungary and spoke French.",
+      "tags": [
+        "karakorum",
+        "arrival",
+        "boucher"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "At early dawn we blessed some boughs, on which no signs of budding had yet appeared.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-04-06T03:09:00Z",
+      "title": "The silver tree",
+      "body": "Rubruck stood before the khan in a palace built like a church, with a nave and two aisles. Inside the middle door stood Boucher’s silver tree: four silver lions spouting mare’s milk, and four gilded serpents pouring wine, clarified mare’s milk, mead and rice wine. A man hidden in a vault beneath blew through a pipe to make the angel on top sound its trumpet.",
+      "tags": [
+        "karakorum",
+        "palace",
+        "boucher"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "the angel places the trumpet to his mouth, and blows the trumpet right loudly",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-04-12T03:09:00Z",
+      "title": "Easter at Karakorum",
+      "body": "On Easter eve the Nestorians baptised more than sixty people. Rubruck heard the confessions of captive Hungarians, Alans, Russians, Georgians and Armenians, and said mass on Holy Thursday and Easter Day in the Nestorian baptistery. Guillaume Boucher made the wafer iron and lent the vestments.",
+      "tags": [
+        "karakorum",
+        "easter",
+        "baptism"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-04-27T03:09:00Z",
+      "title": "Boucher nearly poisoned",
+      "body": "Guillaume Boucher fell gravely ill. As he was recovering, Sergius gave him two bowls of rhubarb water, which he drank thinking it was holy water, and it almost killed him. Rubruck told the monk to work either as an apostle or as a physician, and Sergius began to fear him.",
+      "tags": [
+        "karakorum",
+        "boucher",
+        "sergius"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-17T03:09:00Z",
+      "title": "A city smaller than Saint-Denis",
+      "body": "Rubruck came back to Karakorum with the court. He counted two quarters, one of Muslim merchants and one of Chinese craftsmen, with twelve temples, two mosques and one church. A mud wall with four gates enclosed it: grain was sold at the east gate, sheep at the west, oxen and carts at the south, horses at the north.",
+      "tags": [
+        "karakorum",
+        "city"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "it is not as big as the village of Saint Denis, and the monastery of Saint Denis is ten times larger than the palace",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-22T03:08:00Z",
+      "title": "Arigh Böke and the storm",
+      "body": "The court moved to the nearby camp of the khan’s late mother. Möngke’s youngest brother, Arigh Böke, made the sign of the cross toward the friars and silenced two Muslim courtiers who answered the monk’s insults. Within the hour a violent wind rose, and word came that the khan’s second wife had died.",
+      "tags": [
+        "court",
+        "arigh böke",
+        "wives"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-30T03:09:00Z",
+      "title": "The debate opens",
+      "body": "Three secretaries sat as umpires, a Christian, a Muslim and a Buddhist, and insults were forbidden on pain of death. Rubruck spoke first for the Christians against a Buddhist from Cathay, with Boucher’s son interpreting. He pressed one question, whether any god was all-powerful, until his opponent answered that none was.",
+      "tags": [
+        "karakorum",
+        "debate",
+        "religion"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "This is the order of Mangu, and let no one dare say that the commandment of God differs from it.",
+        "by": "The proclamation at the debate, as Rubruck reports it"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-30T11:09:00Z",
+      "title": "Nobody is converted",
+      "body": "The Muslims declined to argue and said the Gospel was true. The Nestorians then spoke at length to an old Uighur priest. At the end the Nestorians and Muslims sang loudly, the Buddhists kept silent, and everyone drank.",
+      "tags": [
+        "karakorum",
+        "debate",
+        "drinking"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "They all listened without making any contradiction, but no one said: ‘I believe; I want to become a Christian.’",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-31T03:09:00Z",
+      "title": "The fingers of the hand",
+      "body": "Möngke called Rubruck and his Buddhist opponent before him. He held out his staff and told the friar not to fear, then gave his own creed: the Mongols believed in one God, who had given men different ways. He drank four times while he spoke.",
+      "tags": [
+        "court",
+        "möngke",
+        "audience"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "But as God gives us the different fingers of the hand, so he gives to men divers ways.",
+        "by": "Möngke Khan, as Rubruck reports it"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-05-31T08:09:00Z",
+      "title": "Sent home with a letter",
+      "body": "The khan told Rubruck that he had stayed long enough and must go back by way of Batu, carrying a letter. Rubruck asked leave to return one day to the German slaves at Bolat. Möngke sat silent for a long time, then gave him drink and dismissed him.",
+      "tags": [
+        "court",
+        "möngke",
+        "audience"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "If I had been afraid, I should not have come here.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-06-07T03:09:00Z",
+      "title": "The khan’s four-day feast",
+      "body": "Möngke held a four-day feast at Karakorum, with Boucher as chief butler beside his drink-pouring tree. Envoys of the Caliph of Baghdad, of an Indian sultan who had sent eight leopards, and of the Seljuk sultan were at court. Rubruck missed the summons on the last day because he was at the church baptising the three children of a poor German.",
+      "tags": [
+        "karakorum",
+        "feast",
+        "baptism"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-06-24T03:09:00Z",
+      "title": "A hundred carts of mare’s milk",
+      "body": "On the feast of St John the khan held a great drinking bout. Rubruck counted a hundred and five carts and ninety horses loaded with mare’s milk. The same happened five days later on the feast of Peter and Paul.",
+      "tags": [
+        "court",
+        "drinking"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-07-02T03:09:00Z",
+      "title": "The khan’s letter",
+      "body": "The secretaries read Rubruck the letter for King Louis and he wrote down its sense. It demanded that the French king send envoys and submit, or learn what the Mongols could do. Rubruck made them strike out the word that called the friars ambassadors.",
+      "tags": [
+        "court",
+        "letter",
+        "louis ix"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "in Heaven there is only one eternal God, and on Earth there is only one lord, Chingis Chan",
+        "by": "Möngke Khan’s letter to Louis IX, as Rubruck reports it"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-07-08T03:09:00Z",
+      "title": "Bartholomew stays behind",
+      "body": "Bartholomew of Cremona had told Bulgai by signs that the desert road would kill him. At the leave-taking the secretaries offered to keep him until other envoys could take him by a road with towns, and he accepted. Each friar was given a plain gown, and Rubruck learned that he had baptised six people in all.",
+      "tags": [
+        "court",
+        "bartholomew",
+        "parting"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-07-09T03:09:00Z",
+      "title": "Parting at the goldsmith’s house",
+      "body": "The guide brought ten silver ingots, five for Bartholomew’s keep and five for the road. Boucher sent King Louis a jewelled girdle worn against thunder. Rubruck rode out with his interpreter, a guide and one servant, with an order for one sheep every four days.",
+      "tags": [
+        "karakorum",
+        "departure",
+        "boucher"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "So we separated with tears, my companion remaining with master William",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-07-29T03:55:00Z",
+      "title": "Twenty days west",
+      "body": "For nearly three weeks the Indian sultan’s envoys rode the same road, always westward. The summer route ran north of the one Rubruck had taken in winter. Some stretches lasted two or three days with nothing to eat but fermented mare’s milk.",
+      "tags": [
+        "return",
+        "steppe"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-08-12T04:26:00Z",
+      "title": "One village in seventy days",
+      "body": "Between Karakorum and the Volga Rubruck saw no town and no building except tombs, apart from a single small village where he ate no bread. The party rested on one day only, when no horses could be found. For fifteen days the road followed a river between mountains, with grass only at the water’s edge.",
+      "tags": [
+        "return",
+        "steppe"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-09-01T05:34:00Z",
+      "title": "Sartach on the road",
+      "body": "Rubruck met Batu’s son Sartach travelling east to Möngke with his flocks, wives and children. Sartach’s secretary Coiac said the friars’ books and vestments were with his father near Sarai. That evening a man brought two silk tunics, one for Rubruck and one for King Louis.",
+      "tags": [
+        "return",
+        "sartach"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-09-16T06:54:00Z",
+      "title": "Back at Batu’s camp",
+      "body": "Rubruck reached Batu’s camp on the Volga on the same day of the year he had left it. The clerk Gosset and the servants were alive but poor, and had been helped by the king of Armenia when he passed. The Mongols had already asked them whether they could herd cattle or milk mares.",
+      "tags": [
+        "batu",
+        "volga",
+        "reunion"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "For had I not come back, they would have been made their slaves.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-09-28T06:54:00Z",
+      "title": "Batu reads the letter",
+      "body": "Batu had Möngke’s letter interpreted to Rubruck and told him to carry it. He asked whether the friar would go home by sea or by land. Rubruck, who still believed King Louis was in Syria, chose the land road through Persia because winter had closed the sea.",
+      "tags": [
+        "batu",
+        "letter"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-10-17T06:55:00Z",
+      "title": "South with a Uighur guide",
+      "body": "After a month of moving about with Batu’s camp, Rubruck was given a Uighur guide with letters to the Sultan of Turkey. They rode due south down the Volga for fifteen days and met no one except one of Batu’s sons with his falconers.",
+      "tags": [
+        "batu",
+        "volga",
+        "departure"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-10-31T06:50:00Z",
+      "title": "Sarai, the new town",
+      "body": "At Sarai, which Batu was building on the east bank, Coiac’s father gave back most of the vestments and books. He kept the queen’s psalter, and asked Rubruck to bring a parchment-maker if he ever returned. The party crossed the Volga’s branches by boat in seven places.",
+      "tags": [
+        "sarai",
+        "volga"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-11-11T06:52:00Z",
+      "title": "Twenty men for the mountains",
+      "body": "At the foot of the Caucasus the Alans and the Muslim Lesgi still held out against the Mongols. The local garrison gave Rubruck twenty men as escort past the Iron Gate. He had hoped to see Mongol armour, but only two of the twenty wore mail shirts, which they had got from the Alans.",
+      "tags": [
+        "caucasus",
+        "alans",
+        "escort"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-11-17T06:47:00Z",
+      "title": "The Iron Gate",
+      "body": "A day after tasting wine again at a walled Alan village, Rubruck came to Derbent. The town stretched from the sea up to a fort on the mountain, more than a mile long and a stone’s throw wide, so that the only road ran through its gate. The Mongols had knocked down the tops of its towers and the parapets of its walls.",
+      "tags": [
+        "derbent",
+        "caspian",
+        "walls"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Below this town the country used to be a real paradise.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-11-23T06:46:00Z",
+      "title": "A bridge of boats",
+      "body": "From Derbent the road passed Samaron with its many Jews, old walls running from the mountains to the sea, and the city of Shamakhi. On the Mughan plain the party crossed the river on boats held by iron chains, where the Kur and the Araxes joined. From there Rubruck followed the Araxes upstream.",
+      "tags": [
+        "mughan",
+        "araxes",
+        "crossing"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-11-28T06:50:00Z",
+      "title": "Wine in Baiju’s tent",
+      "body": "Baiju, commander of the Mongol army on the Araxes, received Rubruck and gave him wine. From his camp the guide and the interpreter went off to Tabriz, and Baiju sent the friar on to Nakhichevan.",
+      "tags": [
+        "baiju",
+        "araxes"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "cosmos satisfies better a famished man",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-12-14T06:50:00Z",
+      "title": "A ruined capital",
+      "body": "Baiju had Rubruck taken up the Araxes to Nakhichevan, once the capital of a great kingdom. The Mongols had left the city nearly a desert. A Dominican, Bernard of Catalonia, found him there after being refused passage at Tabriz.",
+      "tags": [
+        "nakhichevan",
+        "armenia",
+        "dominicans"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1254-12-25T06:58:00Z",
+      "title": "Christmas at Nakhichevan",
+      "body": "Nakhichevan had once had eighty Armenian churches; two small ones were left. Rubruck kept Christmas in one of them with his clerk. The priest of the church died the next day, and a bishop and twelve monks came down from the mountains to bury him.",
+      "tags": [
+        "nakhichevan",
+        "christmas",
+        "armenia"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-01-06T06:58:00Z",
+      "title": "Under Mount Ararat",
+      "body": "Snow closed the roads for weeks. Rubruck was shown the two mountains where the ark was said to rest, with the Araxes at their foot. An old man told him that nobody ought to climb Massis, because it was the mother of the world.",
+      "tags": [
+        "nakhichevan",
+        "ararat",
+        "snow"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "This mountain did not seem to me so very high, that men could not ascend it.",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-01-17T07:04:00Z",
+      "title": "Dinner with Shahanshah",
+      "body": "Rubruck left Nakhichevan on 13 January and in four days reached the lands of Shahanshah, a Georgian prince now tributary to the Mongols. He dined with the prince, his wife and his son Zacharias. The young man asked whether King Louis would keep him if he came to France.",
+      "tags": [
+        "armenia",
+        "shahanshah"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-02-02T07:06:00Z",
+      "title": "Ani and its thousand churches",
+      "body": "On the feast of the Purification Rubruck was at Ani, a strongly placed town with a Mongol governor. Five Dominican friars found him there, carrying papal letters to Sartach and Möngke and with no proper interpreter. He told them what to expect, and they turned toward Tiflis to consult their brethren.",
+      "tags": [
+        "ani",
+        "armenia",
+        "dominicans"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-02-14T07:11:00Z",
+      "title": "Into the Sultan’s country",
+      "body": "The first Seljuk town was Marsengen, where the people were Armenians, Georgians and Greeks under a Muslim governor. The castellan had orders to give no provisions to Franks. From there to Cyprus the friar had to buy his food, while the guide pocketed the supply money and stole sheep from the fields.",
+      "tags": [
+        "turkey",
+        "marsengen",
+        "guide"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-02-21T07:15:00Z",
+      "title": "The head of the Araxes",
+      "body": "Rubruck reached the source of the Araxes and crossed a mountain to Erzurum and the Euphrates. Deep snow kept him from riding to the river’s spring. At Erzurum he met the returning servants of a Mongol envoy who had died in Nicaea.",
+      "tags": [
+        "erzurum",
+        "euphrates",
+        "snow"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-02-27T07:22:00Z",
+      "title": "The earthquake country",
+      "body": "For eight days the road followed the Euphrates west from Erzurum to the fort of Kemah. An earthquake that year had killed ten thousand named people in Erzincan, not counting the poor. For three days Rubruck rode beside a split in the ground and hillsides that had slid into the valleys.",
+      "tags": [
+        "erzincan",
+        "earthquake",
+        "euphrates"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-03-12T07:27:00Z",
+      "title": "The field of Köse Dağ",
+      "body": "West of the Euphrates the road crossed the valley where Baiju’s Mongols had beaten the Seljuk sultan in 1243. A servant who had fought there said the Mongols numbered no more than ten thousand; a Georgian slave put the sultan’s army at two hundred thousand. A lake had burst out on the battlefield in the earthquake.",
+      "tags": [
+        "köse dağ",
+        "battlefield",
+        "turkey"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "that whole country had opened its mouth to drink in the blood of the Saracens",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-03-24T07:32:00Z",
+      "title": "Holy Week at Sivas",
+      "body": "Rubruck spent Holy Week at Sivas and visited the tomb of the Forty Martyrs. He could not reach the church of St Blaise, because it stood up in the citadel. Easter fell on 28 March.",
+      "tags": [
+        "sivas",
+        "holy week"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-04-04T07:38:00Z",
+      "title": "Caesarea of Cappadocia",
+      "body": "A week after Easter the party reached Kayseri, with its church of St Basil the Great. From there the guide travelled by short stages and sold his three-day requisition in every town. Rubruck did not dare complain.",
+      "tags": [
+        "kayseri",
+        "guide"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-04-19T07:50:00Z",
+      "title": "Konya and the alum traders",
+      "body": "At Konya Rubruck found several Franks, among them a Genoese from Acre named Nicholas. With a Venetian partner he held a monopoly on Turkish alum and had raised its price from fifteen bezants to fifty. The guide presented the friar to the Sultan, and Nicholas arranged his passage to the Armenian coast.",
+      "tags": [
+        "konya",
+        "sultan",
+        "merchants"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-05-05T07:43:00Z",
+      "title": "The sea at Korykos",
+      "body": "Rubruck reached Korykos, a port of the king of Armenia, on the eve of the Ascension. He stayed twelve days, until the day after Pentecost. Then he put his baggage on a ship for Acre and went inland to find the king’s father.",
+      "tags": [
+        "korykos",
+        "cilicia",
+        "sea"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-05-22T07:37:00Z",
+      "title": "The king’s father at Sis",
+      "body": "At Sis old Constantine and his sons were feasting. Messengers had come from King Hethum: he was on his way home, and Möngke had cut his tribute and barred Mongol envoys from his land. Constantine had Rubruck escorted to the port of Ayas.",
+      "tags": [
+        "sis",
+        "cilicia",
+        "hethum"
+      ],
+      "significance": 2,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-06-08T07:37:00Z",
+      "title": "The port of Ayas",
+      "body": "Constantine’s men brought Rubruck down to Ayas, the chief port of Cilician Armenia. His baggage had already gone by ship from Korykos toward Acre. He took passage across to Cyprus.",
+      "tags": [
+        "ayas",
+        "cilicia",
+        "sea"
+      ],
+      "significance": 1,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-06-16T07:44:00Z",
+      "title": "Cyprus and the Provincial",
+      "body": "Rubruck crossed from Ayas and landed in Cyprus eight days before the feast of St John. At Nicosia he found the Franciscan Provincial, who took him along at once toward Antioch.",
+      "tags": [
+        "cyprus",
+        "nicosia",
+        "provincial"
+      ],
+      "significance": 3,
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-06-29T07:35:00Z",
+      "title": "Antioch in decay",
+      "body": "Rubruck and the Provincial were at Antioch for the feast of Peter and Paul. He noted only that the city was badly run down.",
+      "tags": [
+        "antioch"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "which is in a most dilapidated condition",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    },
+    {
+      "t": "1255-08-15T07:37:00Z",
+      "title": "Ordered to write",
+      "body": "The Franciscans held their chapter at Tripoli on the feast of the Assumption. The Provincial would not let Rubruck go on to the King and assigned him to Acre. He was told to send what he had to say in writing, and he asked the King to write for leave to visit him.",
+      "tags": [
+        "tripoli",
+        "chapter",
+        "report"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Not daring to disregard my vow of obedience, I did as best I could and have written",
+        "by": "William of Rubruck"
+      },
+      "refs": [
+        "rockhill"
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "landing-at-soldaia-1253-05-21",
+      "start": "1253-05-21T06:40:00Z",
+      "end": "1253-05-21T14:10:00Z",
+      "kind": "event",
+      "title": "Landing at Soldaia",
+      "narrativeBeats": [
+        {
+          "t": "1253-05-21T06:40:00Z",
+          "text": "The ship comes in to Soldaia, where merchants from Constantinople have already announced the friars as envoys."
+        },
+        {
+          "t": "1253-05-21T08:10:00Z",
+          "text": "William tells the deputies of the city’s captains that he is carrying King Louis’s letter to Sartach, and the friars are lodged in the bishop’s church."
+        }
+      ]
+    },
+    {
+      "id": "the-first-mongol-encounter-1253-06-03",
+      "start": "1253-06-03T06:41:00Z",
+      "end": "1253-06-04T23:41:00Z",
+      "kind": "event",
+      "title": "The first Mongol encounter",
+      "narrativeBeats": [
+        {
+          "t": "1253-06-03T06:41:00Z",
+          "text": "The Mongols keep the party waiting a long while, seated in the shade under the carts."
+        },
+        {
+          "t": "1253-06-03T08:11:00Z",
+          "text": "Riders surround the carts, drink a flagon of the friars’ wine and ask for a second, saying a man does not enter a house on one foot."
+        },
+        {
+          "t": "1253-06-03T09:41:00Z",
+          "text": "After long begging for bread, knives, gloves and purses, the Mongols hand over fresh horses, oxen and two guides, and the party moves on."
+        },
+        {
+          "t": "1253-06-04T17:41:00Z",
+          "text": "In the evening the guide gives the friars kumis for the first time."
+        }
+      ]
+    },
+    {
+      "id": "the-camp-of-scatay-1253-06-05",
+      "start": "1253-06-05T04:42:00Z",
+      "end": "1253-06-05T12:42:00Z",
+      "kind": "event",
+      "title": "The camp of Scatay",
+      "narrativeBeats": [
+        {
+          "t": "1253-06-05T04:42:00Z",
+          "text": "In the morning Scatay’s house-carts come toward the party across the plain."
+        },
+        {
+          "t": "1253-06-05T06:42:00Z",
+          "text": "It is past the third hour when the dwellings are set down beside water and Scatay’s interpreter comes to ask what gifts the friars have brought."
+        }
+      ]
+    },
+    {
+      "id": "the-audience-with-sartach-1253-07-31",
+      "start": "1253-07-31T16:00:00Z",
+      "end": "1253-08-03T10:00:00Z",
+      "kind": "event",
+      "title": "The audience with Sartach",
+      "narrativeBeats": [
+        {
+          "t": "1253-07-31T16:00:00Z",
+          "text": "In the evening Coiac sends for the friars and receives them seated in state, with a guitar playing and people dancing."
+        },
+        {
+          "t": "1253-08-01T06:00:00Z",
+          "text": "Coiac has the friars lay out their books and vestments before a crowd watching from horseback, then tells them to put the vestments on."
+        },
+        {
+          "t": "1253-08-01T07:30:00Z",
+          "text": "The felt door is lifted and the friars enter Sartach’s house singing the Salve Regina, careful not to touch the threshold."
+        },
+        {
+          "t": "1253-08-01T09:00:00Z",
+          "text": "Sartach examines the censer, the psalter, the Bible and the cross, and takes the king’s letter with its Arabic and Syriac copies."
+        },
+        {
+          "t": "1253-08-02T14:00:00Z",
+          "text": "Toward vespers Coiac tells the friars they must go on to Batu and leave two carts with the vestments and books behind."
+        },
+        {
+          "t": "1253-08-03T04:00:00Z",
+          "text": "In the morning a Nestorian priest fetches all four carts, and Coiac’s brother keeps the books and vestments."
+        }
+      ]
+    },
+    {
+      "id": "the-audience-with-batu-1253-08-08",
+      "start": "1253-08-08T05:55:00Z",
+      "end": "1253-08-08T19:25:00Z",
+      "kind": "event",
+      "title": "The audience with Batu",
+      "narrativeBeats": [
+        {
+          "t": "1253-08-08T05:55:00Z",
+          "text": "The friars are led before the pavilion and warned not to touch the tent ropes, which count as the threshold."
+        },
+        {
+          "t": "1253-08-08T07:25:00Z",
+          "text": "They stand barefoot and bareheaded in the middle of the tent for the length of a Miserere while the whole court keeps silent."
+        },
+        {
+          "t": "1253-08-08T08:55:00Z",
+          "text": "William bends one knee, Batu signs for both, and William kneels and begins with a prayer."
+        },
+        {
+          "t": "1253-08-08T10:25:00Z",
+          "text": "Batu smiles and the Mongols clap and laugh when William says he cannot be saved without baptism."
+        },
+        {
+          "t": "1253-08-08T11:55:00Z",
+          "text": "Batu has the friars sit and drink kumis with him, and tells William to lift his face."
+        },
+        {
+          "t": "1253-08-08T13:25:00Z",
+          "text": "Outside, the guide brings Batu’s decision: the two friars and the interpreter go to Mangu Chan, and the clerk goes back to Sartach."
+        }
+      ]
+    },
+    {
+      "id": "the-departure-of-15-september-1253-09-14",
+      "start": "1253-09-14T05:56:00Z",
+      "end": "1253-09-15T13:26:00Z",
+      "kind": "event",
+      "title": "Riding east from Batu’s camp",
+      "narrativeBeats": [
+        {
+          "t": "1253-09-14T05:56:00Z",
+          "text": "A rich Mongol arrives to say he will take the friars to Mangu Chan, a four months’ journey through cold that splits stones and trees."
+        },
+        {
+          "t": "1253-09-14T07:26:00Z",
+          "text": "The guide goes through the friars’ clothing and makes them leave what he judges useless with their host."
+        },
+        {
+          "t": "1253-09-15T05:56:00Z",
+          "text": "Each traveller is handed a sheepskin coat and breeches, felt stockings, boots and a hood."
+        },
+        {
+          "t": "1253-09-15T07:26:00Z",
+          "text": "The three travellers ride out eastward with the guide and two pack horses."
+        }
+      ]
+    },
+    {
+      "id": "the-gorge-of-the-devils-1253-12-13",
+      "start": "1253-12-13T11:58:00Z",
+      "end": "1253-12-13T17:58:00Z",
+      "kind": "event",
+      "title": "The gorge of the devils",
+      "narrativeBeats": [
+        {
+          "t": "1253-12-13T11:58:00Z",
+          "text": "In the evening, among sheer rocks, the friars sing the Creed aloud and the whole party passes the gorge."
+        }
+      ]
+    },
+    {
+      "id": "arrival-at-mangu-s-camp-1253-12-22",
+      "start": "1253-12-22T02:26:00Z",
+      "end": "1253-12-22T08:26:00Z",
+      "kind": "event",
+      "title": "Arrival at the court of Mangu Chan",
+      "narrativeBeats": [
+        {
+          "t": "1253-12-22T02:26:00Z",
+          "text": "Five days out, the guide wins the argument for the direct road after the party has been held at a post station from dawn to the third hour."
+        }
+      ]
+    },
+    {
+      "id": "arrival-at-mangu-s-camp-1253-12-26",
+      "start": "1253-12-26T02:14:00Z",
+      "end": "1253-12-27T09:39:00Z",
+      "kind": "event",
+      "title": "Arrival at the court of Mangu Chan",
+      "narrativeBeats": [
+        {
+          "t": "1253-12-26T02:14:00Z",
+          "text": "The riders enter a plain as level and wide as a sea."
+        },
+        {
+          "t": "1253-12-27T02:09:00Z",
+          "text": "The party rides into the Great Khan’s camp; the guide is given a large house and the friars a small hut."
+        },
+        {
+          "t": "1253-12-27T03:39:00Z",
+          "text": "Officials question the friars about their business and keep asking why they have come if not to make peace."
+        }
+      ]
+    },
+    {
+      "id": "arrival-at-mangu-s-camp-1253-12-29",
+      "start": "1253-12-29T00:09:00Z",
+      "end": "1253-12-29T06:09:00Z",
+      "kind": "event",
+      "title": "Arrival at the court of Mangu Chan",
+      "narrativeBeats": [
+        {
+          "t": "1253-12-29T00:09:00Z",
+          "text": "At dawn men from the court rouse the friars and walk them, William barefoot, to the Greek envoys to be identified."
+        }
+      ]
+    },
+    {
+      "id": "the-audience-of-4-january-1254-01-04",
+      "start": "1254-01-04T02:09:00Z",
+      "end": "1254-01-04T19:09:00Z",
+      "kind": "event",
+      "title": "The first audience with Mangu Chan",
+      "narrativeBeats": [
+        {
+          "t": "1254-01-04T02:09:00Z",
+          "text": "Nestorian priests ask the clean-shaven friars which way they pray, and how they mean to salute the Khan."
+        },
+        {
+          "t": "1254-01-04T03:39:00Z",
+          "text": "The felt door is held up and the friars sing the hymn A solis ortus cardine before the house."
+        },
+        {
+          "t": "1254-01-04T05:09:00Z",
+          "text": "Guards search the friars’ legs, chests and arms for knives and take the interpreter’s belt and knife."
+        },
+        {
+          "t": "1254-01-04T06:39:00Z",
+          "text": "Mangu offers wine, rice wine, clear mare’s milk or mead; the butlers keep filling the interpreter’s cup."
+        },
+        {
+          "t": "1254-01-04T08:09:00Z",
+          "text": "The Khan handles his falcons for a long while, then bids the friars speak, and they kneel."
+        },
+        {
+          "t": "1254-01-04T09:39:00Z",
+          "text": "William asks leave to stay at least until the cold has passed, because Bartholomew is too weak to ride."
+        },
+        {
+          "t": "1254-01-04T11:09:00Z",
+          "text": "Mangu answers that his power and Batu’s reach everywhere like the sun’s rays, and after that William can follow nothing his drunken interpreter says."
+        },
+        {
+          "t": "1254-01-04T13:09:00Z",
+          "text": "It is night when the friars reach a large cold house without fuel or food, and their new keeper brings a little of both."
+        }
+      ]
+    },
+    {
+      "id": "epiphany-at-court-1254-01-06",
+      "start": "1254-01-06T05:09:00Z",
+      "end": "1254-01-06T11:09:00Z",
+      "kind": "event",
+      "title": "Epiphany at court",
+      "narrativeBeats": [
+        {
+          "t": "1254-01-06T05:09:00Z",
+          "text": "At the sixth hour Rubruck is called to court and meets Sergius and the priests already coming away with cross and censer."
+        }
+      ]
+    },
+    {
+      "id": "the-chief-wife-at-chapel-1254-01-12",
+      "start": "1254-01-12T23:09:00Z",
+      "end": "1254-01-13T16:39:00Z",
+      "kind": "event",
+      "title": "The chief wife at chapel",
+      "narrativeBeats": [
+        {
+          "t": "1254-01-12T23:09:00Z",
+          "text": "Before dawn the Nestorian priests beat their board and sing Matins in the chapel."
+        },
+        {
+          "t": "1254-01-13T01:39:00Z",
+          "text": "In full daylight Cotota takes off her headdress and the friars are told to leave as a silver bowl is carried in."
+        },
+        {
+          "t": "1254-01-13T10:39:00Z",
+          "text": "Toward evening the chief wife, now tipsy, climbs into her cart and leaves with the priests singing."
+        }
+      ]
+    },
+    {
+      "id": "storm-on-the-road-to-karakorum-1254-03-31",
+      "start": "1254-03-31T17:09:00Z",
+      "end": "1254-03-31T23:09:00Z",
+      "kind": "event",
+      "title": "Storm on the road to Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-03-31T17:09:00Z",
+          "text": "Toward the middle of the night Möngke sends to the monk and the friars to pray that the wind and cold ease."
+        }
+      ]
+    },
+    {
+      "id": "palm-sunday-entry-into-karakorum-1254-04-04",
+      "start": "1254-04-04T22:39:00Z",
+      "end": "1254-04-05T16:09:00Z",
+      "kind": "event",
+      "title": "Palm Sunday at Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-04-04T22:39:00Z",
+          "text": "At early dawn the friars bless boughs that show no sign of budding."
+        },
+        {
+          "t": "1254-04-05T08:09:00Z",
+          "text": "Toward the ninth hour they enter the city with cross and banner raised and pass through the Saracen quarter."
+        },
+        {
+          "t": "1254-04-05T08:39:00Z",
+          "text": "The Nestorians come out in procession and lead them into the church, where mass is about to begin."
+        },
+        {
+          "t": "1254-04-05T10:09:00Z",
+          "text": "After mass Guillaume Boucher takes the friars to his house to dine with his wife and Basil, the son of an Englishman."
+        }
+      ]
+    },
+    {
+      "id": "easter-at-karakorum-1254-04-09",
+      "start": "1254-04-09T02:09:00Z",
+      "end": "1254-04-09T08:09:00Z",
+      "kind": "event",
+      "title": "Easter at Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-04-09T02:09:00Z",
+          "text": "On Holy Thursday Rubruck says mass in the Nestorian baptistery with a silver chalice and paten."
+        }
+      ]
+    },
+    {
+      "id": "easter-at-karakorum-1254-04-11",
+      "start": "1254-04-11T02:09:00Z",
+      "end": "1254-04-12T08:09:00Z",
+      "kind": "event",
+      "title": "Easter at Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-04-11T02:09:00Z",
+          "text": "On Easter eve the Nestorians baptise more than sixty people while the friars watch beside the font."
+        },
+        {
+          "t": "1254-04-12T02:09:00Z",
+          "text": "On Easter Day Rubruck says mass again and gives communion to the captive Christians."
+        }
+      ]
+    },
+    {
+      "id": "the-death-of-the-archdeacon-1254-05-01",
+      "start": "1254-05-01T17:09:00Z",
+      "end": "1254-05-02T05:09:00Z",
+      "kind": "event",
+      "title": "The death of the archdeacon",
+      "narrativeBeats": [
+        {
+          "t": "1254-05-01T17:09:00Z",
+          "text": "Toward the middle of the night the sick priest’s wife, sister and son come begging the monk for his blessing."
+        },
+        {
+          "t": "1254-05-01T23:09:00Z",
+          "text": "At daylight Rubruck goes to the priest and finds him spitting blood."
+        }
+      ]
+    },
+    {
+      "id": "the-death-of-the-second-wife-1254-05-21",
+      "start": "1254-05-21T12:09:00Z",
+      "end": "1254-05-21T18:09:00Z",
+      "kind": "event",
+      "title": "The death of the second wife",
+      "narrativeBeats": [
+        {
+          "t": "1254-05-21T12:09:00Z",
+          "text": "On the evening of Ascension Day the lady Cota grows much worse and the chief diviner orders the monk not to beat his board."
+        }
+      ]
+    },
+    {
+      "id": "the-debate-at-karakorum-1254-05-30",
+      "start": "1254-05-30T02:09:00Z",
+      "end": "1254-05-30T14:09:00Z",
+      "kind": "event",
+      "title": "The debate at Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-05-30T02:09:00Z",
+          "text": "The Christians gather at the oratory and Rubruck rehearses the Nestorians by taking the Buddhist side himself."
+        },
+        {
+          "t": "1254-05-30T03:39:00Z",
+          "text": "Three secretaries arrive as umpires and proclaim silence on pain of death."
+        },
+        {
+          "t": "1254-05-30T05:09:00Z",
+          "text": "A Buddhist from Cathay asks whether to begin with the making of the world or the fate of the soul, and Rubruck insists on beginning with God."
+        },
+        {
+          "t": "1254-05-30T06:39:00Z",
+          "text": "After a long silence the Buddhist answers that no god is all-powerful, and the Muslims burst out laughing."
+        },
+        {
+          "t": "1254-05-30T08:09:00Z",
+          "text": "The Muslims concede the Gospel, the Nestorians lecture an old Uighur priest, and everyone drinks deeply."
+        }
+      ]
+    },
+    {
+      "id": "the-last-audience-1254-05-31",
+      "start": "1254-05-31T02:09:00Z",
+      "end": "1254-05-31T12:39:00Z",
+      "kind": "event",
+      "title": "The last audience",
+      "narrativeBeats": [
+        {
+          "t": "1254-05-31T02:09:00Z",
+          "text": "Before Rubruck goes in, Boucher’s son warns him that his return home is already settled."
+        },
+        {
+          "t": "1254-05-31T03:39:00Z",
+          "text": "Möngke holds out his staff toward the kneeling friar and says, ‘Fear not.’"
+        },
+        {
+          "t": "1254-05-31T05:09:00Z",
+          "text": "The khan compares the faiths to the fingers of one hand and drinks four times before he finishes."
+        },
+        {
+          "t": "1254-05-31T06:39:00Z",
+          "text": "After a long silence Möngke tells Rubruck to fortify himself with food for the road, gives him drink and dismisses him."
+        }
+      ]
+    },
+    {
+      "id": "departure-from-karakorum-1254-07-08",
+      "start": "1254-07-08T02:09:00Z",
+      "end": "1254-07-09T08:09:00Z",
+      "kind": "event",
+      "title": "Departure from Karakorum",
+      "narrativeBeats": [
+        {
+          "t": "1254-07-08T02:09:00Z",
+          "text": "At court the secretaries offer Bartholomew the choice to stay, and he answers that he will."
+        },
+        {
+          "t": "1254-07-08T03:39:00Z",
+          "text": "The friars accept a plain gown each, say a prayer for the khan and ride back to Karakorum."
+        },
+        {
+          "t": "1254-07-09T02:09:00Z",
+          "text": "At Boucher’s house the guide hands over ten silver ingots and the two friars part in tears."
+        }
+      ]
+    },
+    {
+      "id": "meeting-sartach-1254-09-01",
+      "start": "1254-09-01T14:34:00Z",
+      "end": "1254-09-01T20:34:00Z",
+      "kind": "event",
+      "title": "Meeting Sartach",
+      "narrativeBeats": [
+        {
+          "t": "1254-09-01T14:34:00Z",
+          "text": "In the evening Sartach’s man brings two silk tunics and a letter ordering Coiac’s father to return the friars’ goods."
+        }
+      ]
+    },
+    {
+      "id": "reunion-at-batu-s-camp-1254-09-16",
+      "start": "1254-09-16T05:54:00Z",
+      "end": "1254-09-16T11:54:00Z",
+      "kind": "event",
+      "title": "Reunion at Batu’s camp",
+      "narrativeBeats": [
+        {
+          "t": "1254-09-16T05:54:00Z",
+          "text": "Rubruck rides into Batu’s camp a year to the day after leaving it and finds Gosset and the servants alive."
+        }
+      ]
+    },
+    {
+      "id": "thirst-south-of-the-volga-1254-11-05",
+      "start": "1254-11-05T05:54:00Z",
+      "end": "1254-11-05T11:54:00Z",
+      "kind": "event",
+      "title": "Thirst south of the Volga",
+      "narrativeBeats": [
+        {
+          "t": "1254-11-05T05:54:00Z",
+          "text": "At the third hour, after a day, a night and a morning without water, the party finds some at last."
+        }
+      ]
+    },
+    {
+      "id": "the-iron-gate-1254-11-16",
+      "start": "1254-11-16T05:48:00Z",
+      "end": "1254-11-17T11:47:00Z",
+      "kind": "event",
+      "title": "The Iron Gate",
+      "narrativeBeats": [
+        {
+          "t": "1254-11-16T05:48:00Z",
+          "text": "At a walled Alan village the party finds vines and drinks wine for the first time since the steppe."
+        },
+        {
+          "t": "1254-11-17T05:47:00Z",
+          "text": "The party and its twenty-man escort pass through Derbent, between the sea and the mountain fort."
+        }
+      ]
+    },
+    {
+      "id": "christmas-at-nakhichevan-1254-12-25",
+      "start": "1254-12-25T05:58:00Z",
+      "end": "1254-12-26T11:58:00Z",
+      "kind": "event",
+      "title": "Christmas at Nakhichevan",
+      "narrativeBeats": [
+        {
+          "t": "1254-12-25T05:58:00Z",
+          "text": "Rubruck keeps the Christmas feast with his clerk in one of the two small churches left in the city."
+        },
+        {
+          "t": "1254-12-26T05:58:00Z",
+          "text": "The priest of the church dies, and a bishop and twelve monks come down from the mountains for the funeral."
+        }
+      ]
+    },
+    {
+      "id": "arrival-at-tripoli-1255-08-15",
+      "start": "1255-08-15T06:37:00Z",
+      "end": "1255-08-15T12:37:00Z",
+      "kind": "event",
+      "title": "Arrival at Tripoli",
+      "narrativeBeats": [
+        {
+          "t": "1255-08-15T06:37:00Z",
+          "text": "The Franciscan chapter meets at Tripoli on the feast of the Assumption and the Provincial orders Rubruck to Acre."
+        }
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "start": "1253-05-06T22:03:00Z",
+      "end": "1253-05-20T21:40:00Z",
+      "activityKey": "sail",
+      "label": "At sea",
+      "zoom": 5.6
+    },
+    {
+      "start": "1253-05-20T21:40:00Z",
+      "end": "1253-05-31T21:40:00Z",
+      "activityKey": "camp",
+      "label": "At Soldaia, fitting out",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-05-31T21:40:00Z",
+      "end": "1253-06-04T21:42:00Z",
+      "activityKey": "travel",
+      "label": "With carts across the steppe",
+      "zoom": 6.3
+    },
+    {
+      "start": "1253-06-04T21:42:00Z",
+      "end": "1253-06-08T21:42:00Z",
+      "activityKey": "camp",
+      "label": "Moving with Scatay’s camp",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-06-08T21:42:00Z",
+      "end": "1253-07-19T21:14:00Z",
+      "activityKey": "travel",
+      "label": "With carts across the steppe",
+      "weather": "The heat was intense at that season",
+      "zoom": 6.3
+    },
+    {
+      "start": "1253-07-19T21:14:00Z",
+      "end": "1253-07-22T21:14:00Z",
+      "activityKey": "camp",
+      "label": "Laid by at the Don ferry",
+      "weather": "The season when they were cutting the rye",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-07-22T21:14:00Z",
+      "end": "1253-07-30T21:00:00Z",
+      "activityKey": "travel",
+      "label": "With carts across the steppe, the friars on foot",
+      "zoom": 6.3
+    },
+    {
+      "start": "1253-07-30T21:00:00Z",
+      "end": "1253-08-03T21:00:00Z",
+      "activityKey": "camp",
+      "label": "At Sartach’s camp",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-08-03T21:00:00Z",
+      "end": "1253-08-07T20:55:00Z",
+      "activityKey": "ride",
+      "label": "Riding to the Volga and by boat to Batu",
+      "zoom": 6.3
+    },
+    {
+      "start": "1253-08-07T20:55:00Z",
+      "end": "1253-09-14T20:56:00Z",
+      "activityKey": "camp",
+      "label": "Moving with Batu’s camp",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-09-14T20:56:00Z",
+      "end": "1253-09-28T20:30:00Z",
+      "activityKey": "ride",
+      "label": "Riding east with the guide",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-09-28T20:30:00Z",
+      "end": "1253-10-30T19:22:00Z",
+      "activityKey": "ride",
+      "label": "Riding east with the guide",
+      "weather": "Frost in the desert",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-10-30T19:22:00Z",
+      "end": "1253-11-07T19:15:00Z",
+      "activityKey": "ride",
+      "label": "Riding south",
+      "weather": "Frost in the desert",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-11-07T19:15:00Z",
+      "end": "1253-11-17T18:39:00Z",
+      "activityKey": "ride",
+      "label": "Riding east along the mountains",
+      "weather": "Ice on the roads",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-11-17T18:39:00Z",
+      "end": "1253-11-29T18:38:00Z",
+      "activityKey": "camp",
+      "label": "Resting at Cailac",
+      "zoom": 7.2
+    },
+    {
+      "start": "1253-11-29T18:38:00Z",
+      "end": "1253-12-05T18:27:00Z",
+      "activityKey": "ride",
+      "label": "Riding north-east",
+      "weather": "Deep snow on the mountains; a wind strong enough to blow travellers into the lake",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-12-05T18:27:00Z",
+      "end": "1253-12-26T17:09:00Z",
+      "activityKey": "ride",
+      "label": "Riding east by double stages, mostly at night",
+      "weather": "Extremely cold",
+      "zoom": 5.2
+    },
+    {
+      "start": "1253-12-26T17:09:00Z",
+      "end": "1254-01-04T17:09:00Z",
+      "activityKey": "camp",
+      "label": "At Mangu Chan’s camp",
+      "weather": "Most intense cold; calm air, no thaw, little snow",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-01-04T17:09:00Z",
+      "end": "1254-03-28T17:09:00Z",
+      "activityKey": "camp",
+      "label": "With the khan’s moving camp",
+      "weather": "The cold began to grow intense; the only water was melted snow or ice",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-03-28T17:09:00Z",
+      "end": "1254-04-04T17:09:00Z",
+      "activityKey": "ride",
+      "label": "On the road to Karakorum with the light tents",
+      "weather": "Excessive wind and cold and much snow fell; a two-day storm",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-04-04T17:09:00Z",
+      "end": "1254-04-19T17:09:00Z",
+      "activityKey": "camp",
+      "label": "At Karakorum",
+      "weather": "Boughs on which no signs of budding had yet appeared",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-04-19T17:09:00Z",
+      "end": "1254-05-16T17:09:00Z",
+      "activityKey": "camp",
+      "label": "Following the khan’s court near Karakorum",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-05-16T17:09:00Z",
+      "end": "1254-07-08T17:09:00Z",
+      "activityKey": "camp",
+      "label": "At Karakorum and the court beside it",
+      "weather": "Such a violent wind throughout the whole country on 22 May",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-07-08T17:09:00Z",
+      "end": "1254-09-15T20:54:00Z",
+      "activityKey": "ride",
+      "label": "Riding west by the summer road",
+      "weather": "Summer",
+      "zoom": 5.2
+    },
+    {
+      "start": "1254-09-15T20:54:00Z",
+      "end": "1254-10-16T20:55:00Z",
+      "activityKey": "camp",
+      "label": "Moving with Batu’s camp",
+      "zoom": 7.2
+    },
+    {
+      "start": "1254-10-16T20:55:00Z",
+      "end": "1254-10-31T20:51:00Z",
+      "activityKey": "travel",
+      "label": "Down the Volga to Sarai",
+      "zoom": 6.3
+    },
+    {
+      "start": "1254-10-31T20:51:00Z",
+      "end": "1254-11-22T20:46:00Z",
+      "activityKey": "travel",
+      "label": "Down the Caspian shore",
+      "weather": "Waterless steppe; we nearly died of thirst",
+      "zoom": 6.3
+    },
+    {
+      "start": "1254-11-22T20:46:00Z",
+      "end": "1254-12-14T20:58:00Z",
+      "activityKey": "travel",
+      "label": "Up the Araxes",
+      "zoom": 6.3
+    },
+    {
+      "start": "1254-12-14T20:58:00Z",
+      "end": "1255-01-12T20:58:00Z",
+      "activityKey": "camp",
+      "label": "Snowbound at Naxua (Nakhichevan)",
+      "weather": "The road was impassable on account of the snow",
+      "zoom": 7.2
+    },
+    {
+      "start": "1255-01-12T20:58:00Z",
+      "end": "1255-03-20T21:32:00Z",
+      "activityKey": "travel",
+      "label": "Through Armenia and Turkey",
+      "weather": "There was so much snow that no one could go outside the beaten path; very high mountains and deep snow",
+      "zoom": 6.3
+    },
+    {
+      "start": "1255-03-20T21:32:00Z",
+      "end": "1255-05-04T21:43:00Z",
+      "activityKey": "travel",
+      "label": "Through Armenia and Turkey",
+      "weather": "Travelling by short stages and resting in many places",
+      "zoom": 6.3
+    },
+    {
+      "start": "1255-05-04T21:43:00Z",
+      "end": "1255-06-09T21:37:00Z",
+      "activityKey": "travel",
+      "label": "In Lesser Armenia",
+      "zoom": 7.2
+    },
+    {
+      "start": "1255-06-09T21:37:00Z",
+      "end": "1255-06-16T21:47:00Z",
+      "activityKey": "sail",
+      "label": "At sea",
+      "zoom": 5.6
+    },
+    {
+      "start": "1255-06-16T21:47:00Z",
+      "end": "1255-06-28T21:35:00Z",
+      "activityKey": "sail",
+      "label": "From Cyprus to Antioch",
+      "zoom": 5.6
+    },
+    {
+      "start": "1255-06-28T21:35:00Z",
+      "end": "1255-08-15T17:37:00Z",
+      "activityKey": "travel",
+      "label": "Down the Syrian coast with the Provincial",
+      "zoom": 6.3
+    }
+  ],
+  "attribution": [
+    "Quotations are from W. W. Rockhill’s translation of 1900 — public domain.",
+    "Base geography © OpenStreetMap contributors, tiles by OpenFreeMap."
+  ],
+  "sources": [],
+  "notes": [
+    "Everything here rests on one man’s account: the report William wrote for Louis IX in 1255. There is no second witness to check him against.",
+    "Dates are in the Julian calendar, the only one he had. He dated by church feasts and by counting days, so a date here is firm where he names a feast, and worked out or estimated where he says only ‘we rode twelve days’.",
+    "He names few places, and on the steppe there were few to name. The towns, the great rivers, Cailac, Karakorum and the cities of the way home are placed at their identified sites. Everything between them is a reconstruction laid along the line scholars propose, and the marker moves at an even pace between such points.",
+    "Scholars disagree about parts of the line: whether the ‘great river’ crossed by boat was the Ili or the Chu, where the town of Equius stood, and whether he crossed from Lake Ala-kul to Mongolia by the Emil and Ulungur or further north. Rockhill’s reconstruction is followed.",
+    "The Great Khan’s winter camp is never named. It is drawn about 100 km south of Karakorum, on the upper Ongi, where the Chinese annals say the khan halted that winter. Batu’s camp moved along the Volga and its position is likewise an estimate.",
+    "He left Batu’s camp on 15 September 1253 by his own text; one modern table says the 16th. He left Karakorum on 8 or 10 July 1254; the 9th is used.",
+    "The size of his party is known at each change on the way out. On the way home he never counts the servants, so those figures are approximate.",
+    "Nothing is recorded between Antioch (29 June 1255) and the chapter at Tripoli (15 August), so the marker simply travels between them.",
+    "Clock times are local mean time, and almost all are nominal: he gives an hour of the day only a handful of times."
+  ],
+  "bibliography": [
+    {
+      "id": "rockhill",
+      "short": "Rubruck",
+      "citation": "William of Rubruck, Itinerarium (1255), in W. W. Rockhill, trans. and ed., The Journey of William of Rubruck to the Eastern Parts of the World, 1253–55, as Narrated by Himself (London: Hakluyt Society, 1900). Rockhill’s notes identify most of the places.",
+      "url": "https://archive.org/details/journeyofwilliam00ruys"
+    },
+    {
+      "id": "waugh",
+      "short": "Silk Road Seattle",
+      "citation": "The same translation as edited online by Daniel C. Waugh and Lance Jenott (University of Washington), with the dates and readings of Peter Jackson’s 1990 translation noted beside Rockhill’s.",
+      "url": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+    },
+    {
+      "id": "jackson",
+      "short": "Jackson & Morgan",
+      "citation": "Peter Jackson and David Morgan, The Mission of Friar William of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253–1255 (London: Hakluyt Society, 1990) — the standard modern edition; seen here only through the readings reported in the online text."
+    },
+    {
+      "id": "yule",
+      "short": "Yule",
+      "citation": "Henry Yule, Cathay and the Way Thither, vol. 1 (London: Hakluyt Society, 1866), on the route between the Talas and Mongolia."
+    },
+    {
+      "id": "yuanshi",
+      "short": "Yuan shi",
+      "citation": "Song Lian and others, Yuan shi (History of the Yuan), chapter 3, annals of Möngke for 1253–54: where the khan’s camp stood each season.",
+      "url": "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7003"
+    },
+    {
+      "id": "kayalyk",
+      "short": "Margulan Institute",
+      "citation": "Margulan Institute of Archaeology, heritage register: Koilyk (Kayalyk), the excavated town identified with Rubruck’s Cailac.",
+      "url": "https://archaeology.kz/en/heritages/qoilyq-kayalyk-qalasy"
+    }
+  ]
+}

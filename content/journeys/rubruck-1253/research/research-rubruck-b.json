@@ -1,0 +1,2993 @@
+{
+ "itinerary": [
+  {
+   "date": "1254-01-05",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Court (ordu) of Mangu Chan (Möngke's winter camp)",
+   "modernName": "upper Ongi (Ongiin Gol) valley near Arvaikheer, Övörkhangai, Mongolia",
+   "lat": 46.27,
+   "lon": 102.78,
+   "event": "camp",
+   "note": "Day after the first audience (4 Jan). Rubruck never names the site. The Yuan shi annals of Xianzong say the emperor 'halted at Wangji' (the Ongi river) in the 12th month of 1253, which is the basis for placing the winter camp on the Ongi, a few days south of Karakorum. Rubruck says Cathay was 20 days south-east and Onan-Kerule 10 days due east of the place. Dates are Julian, as Rubruck used. Point is an estimate on the upper Ongi.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7003",
+    "https://en.wikipedia.org/wiki/Arvaikheer"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-01-06",
+   "dateBasis": "feast",
+   "localTime": "12:00",
+   "place": "Court of Mangu Chan",
+   "modernName": "upper Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.27,
+   "lon": 102.78,
+   "event": "at",
+   "note": "Epiphany (6 Jan). Called to court 'at the sixth hour'; saw the monk Sergius and the Nestorian priests coming back with cross, censer and gospel. No baptism of the khan took place.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-01-12",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan: lodging with the monk Sergius, east end of the camp",
+   "modernName": "upper Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.27,
+   "lon": 102.78,
+   "event": "at",
+   "note": "'The day before the octave of the Epiphany' (12 Jan): moved from the cramped hut to share Sergius's dwelling in front of the ordu of the last lady.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-01-13",
+   "dateBasis": "feast",
+   "localTime": "06:30",
+   "place": "Court of Mangu Chan: the Nestorian chapel",
+   "modernName": "upper Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.27,
+   "lon": 102.78,
+   "event": "at",
+   "note": "Octave of the Epiphany (13 Jan). Priests assembled 'before dawn'; the chief wife Cotota Cater (Qutuqtai) came to the chapel; Möngke came later and examined Rubruck's Bible and breviary.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-01-28",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Court of Mangu Chan (moved south)",
+   "modernName": "Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.05,
+   "lon": 102.95,
+   "event": "camp",
+   "note": "'From the time when we reached the court of Mangu, he never moved his carts but twice toward the south; and then he began going back northward, which was toward Caracarum.' Date and point of the first shift are estimates.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-02-08",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan",
+   "modernName": "Ongi valley, Övörkhangai, Mongolia",
+   "lat": 45.9,
+   "lon": 103.05,
+   "event": "camp",
+   "note": "Septuagesima (Sunday 8 Feb; the Silk Road text reports Jackson reading 'Septuagesima Saturday'). Procession to Möngke's dwelling; burnt sheep's shoulder-blades; Bartholomew touched the threshold and was seized. Position is the estimated southernmost point of the winter.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-02-22",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan",
+   "modernName": "Ongi valley, Övörkhangai, Mongolia",
+   "lat": 45.9,
+   "lon": 103.05,
+   "event": "camp",
+   "note": "Quinquagesima (22 Feb; Rockhill prints 23 Feb, which was a Monday). The chief wife fasted the week and came daily to the oratory.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-03-01",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan",
+   "modernName": "Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46,
+   "lon": 102.95,
+   "event": "camp",
+   "note": "Quadragesima Sunday (1 March): called to court; Möngke rebuked Sergius. The camp had begun 'going back northward'; point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-03-22",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan",
+   "modernName": "upper Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.2,
+   "lon": 102.85,
+   "event": "camp",
+   "note": "'Toward the middle of Lent' (Laetare Sunday, 22 March): Guillaume Boucher's son arrived from Karakorum to report the silver tree finished.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-03-29",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan",
+   "modernName": "upper Ongi valley, Övörkhangai, Mongolia",
+   "lat": 46.27,
+   "lon": 102.78,
+   "event": "departs",
+   "note": "'Toward Passion Sunday' (29 March) Möngke 'started out with his light tents, leaving the big ones behind him'; Rubruck and the monk followed.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-04-01",
+   "dateBasis": "estimated",
+   "localTime": "00:00",
+   "place": "Mountains between the winter camp and Caracarum",
+   "modernName": "eastern Khangai foothills south of Kharkhorin, Mongolia",
+   "lat": 46.75,
+   "lon": 102.75,
+   "event": "position",
+   "note": "'We passed between mountains where there was excessive wind and cold and much snow fell.' The storm lasted two days and abated on the third; 'toward the middle of the night' the khan asked the monks to pray. Day within 30 March - 3 April is an estimate.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-04-05",
+   "dateBasis": "feast",
+   "localTime": "15:00",
+   "place": "Caracarum (Karakorum)",
+   "modernName": "Kharkhorin, Övörkhangai, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "arrives",
+   "note": "Palm Sunday (5 April). 'At early dawn we blessed some boughs... toward the ninth hour we entered the city, with raised Cross and banner', through the Saracen quarter to the Nestorian church. Seven days from the winter camp. Site fixed by Yadrintsev (1889) and the Mongolian-German excavations.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Karakorum"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-04-06",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Caracarum: the khan's palace",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "'The next day the Chan entered his palace': Rubruck stood before Möngke with Boucher's silver tree behind him.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-04-07",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Caracarum",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "'The next day, however, he went his way': Möngke left; Rubruck stayed in the city with the monk and priests to keep Easter.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-04-12",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Caracarum: Nestorian church and baptistery",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "Easter Sunday (12 April). Rubruck said mass on Holy Thursday (9 April) and Easter Day; the Nestorians baptised more than sixty on Easter eve (11 April).",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-05-01",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "With the court near Caracarum",
+   "modernName": "Orkhon valley near Kharkhorin, Mongolia",
+   "lat": 47.3,
+   "lon": 102.7,
+   "event": "camp",
+   "note": "After Easter Rubruck rejoined the moving court ('We arrived there following the court'); the court was 'always near' the city. Date and point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-05-17",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Caracarum",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "arrives",
+   "note": "'Sunday before Ascension' = 17 May 1254 (Ascension was 21 May). Rockhill prints '7th May', a slip; the Silk Road text reports Jackson's 17 May.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-05-22",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Ordu of Mangu's mother (held by Arabuccha / Arigh Böke)",
+   "modernName": "near Kharkhorin, Mongolia",
+   "lat": 47.28,
+   "lon": 102.95,
+   "event": "camp",
+   "note": "Friday after Ascension: 'we left with all the court' for the nearby ordu of Sorqaqtani; Arigh Böke met his brother; the second wife Cota died. Point is notional ('it was quite near').",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-05-23",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Caracarum (the court beside it)",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "arrives",
+   "note": "'The next day the Chan went back to his court by another way.' Rockhill prints 22 May; the following day is called the Sunday before Pentecost (24 May), so the return was Saturday 23 May.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-05-30",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Caracarum: the oratory",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "Pentecost eve (30 May): the debate of Christians, Saracens and 'Tuins' (Buddhists) before three umpires sent by Möngke.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-05-31",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan at Caracarum",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "Pentecost (31 May): last audience with Möngke. 'After that I went not back again.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-06-07",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Caracarum: the palace",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "at",
+   "note": "Octave of Pentecost (7 June): last day of the khan's four-day feast; Rubruck was at the church baptising three children of a German.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1254-06-24",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Court of Mangu Chan near Caracarum",
+   "modernName": "near Kharkhorin, Mongolia",
+   "lat": 47.25,
+   "lon": 102.75,
+   "event": "camp",
+   "note": "Feast of St John the Baptist (24 June): 'a great drinking bout'; 105 carts and 90 horses loaded with mare's milk; the same on SS Peter and Paul (29 June). The Yuan shi puts the 1254 summer residence at 'Yue'er-mieqietu'. Point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7003"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-07-08",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Court of Mangu Chan near Caracarum",
+   "modernName": "near Kharkhorin, Mongolia",
+   "lat": 47.25,
+   "lon": 102.75,
+   "event": "at",
+   "note": "'A fortnight after the feast of saint John' (24 June + 14 = 8 July): leave-taking at court; Bartholomew of Cremona chose to stay; each was given a gown. 'We went back to Caracarum.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-07-09",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Caracarum (Karakorum)",
+   "modernName": "Kharkhorin, Mongolia",
+   "lat": 47.2,
+   "lon": 102.82,
+   "event": "departs",
+   "note": "Parting 'with tears' at Boucher's house. Departure is 8-10 July: 70 days ('two months and ten days') before 16 Sept gives 8 July; Rockhill's table has him leave in mid-July 'about the 10th', Wikipedia says 10 July. Four in the party; envoys of an Indian sultan rode with them 'for nearly three weeks, always going westward'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/William_of_Rubruck"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-07-19",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Summer road west across Mongolia",
+   "modernName": "Zavkhan basin, western Mongolia",
+   "lat": 47.3,
+   "lon": 96.8,
+   "event": "position",
+   "note": "Interpolated. 'We went in winter and came back in summer by parts farther to the north.' No town seen, 'nor the trace of any building save tombs'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography/BackWay.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-07-29",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Twenty days out from Caracarum",
+   "modernName": "Mongol Altai / upper Ulungur (Bulgan) country, Mongolia-Xinjiang border",
+   "lat": 46.6,
+   "lon": 91.3,
+   "event": "position",
+   "note": "'When I had ridden twenty days I got news of the King of Hermenia.' About here the Indian envoys turned off. Rockhill estimates about 400 miles covered; point interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-08-05",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "River between mountains (Rockhill: the Ulungur)",
+   "modernName": "Ulungur river and lake, Altay prefecture, Xinjiang, China",
+   "lat": 47.25,
+   "lon": 87.25,
+   "event": "position",
+   "note": "'Fifteen days excepted, when both in going and in coming back we had to keep along a river between mountains, where there is no grass except close to the river.' Rockhill takes the river to be the Ulungur (about 259 miles). Date interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Ulungur_Lake"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-08-10",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "'One little village' (Rockhill: Imil, by Keu Chan's ordu)",
+   "modernName": "Emin (Dorbiljin), Tacheng, Xinjiang, China",
+   "lat": 46.55,
+   "lon": 83.62,
+   "event": "position",
+   "note": "The only settlement seen in 70 days; 'in which we did not eat bread'. Rockhill (after F. M. Schmidt) identifies it with Imil on the Emil river, site of Güyük's ordu, and has him pass north of Lake Balkhash. Date interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Emin_County"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-08-20",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Steppe north of Lake Balkhash",
+   "modernName": "north of Lake Balkhash, Kazakhstan",
+   "lat": 47.8,
+   "lon": 75,
+   "event": "position",
+   "note": "Interpolated on Rockhill's reconstruction ('in going west he travelled by the north side of Lake Balkash').",
+   "sources": [
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography/BackWay.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-09-01",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Meeting with Sartach on the road east",
+   "modernName": "central Kazakh steppe (Ulytau region), Kazakhstan",
+   "lat": 48.6,
+   "lon": 66.5,
+   "event": "position",
+   "note": "Rubruck met Sartach, who was travelling to Möngke, and his secretary Coiac; received two silk tunics and a letter for Coiac's father. Place and day unknown; the text ties it to 'the end of August'. Point interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-09-09",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Iaic (Ural river) crossing",
+   "modernName": "Ural river near Oral (Uralsk), Kazakhstan",
+   "lat": 51,
+   "lon": 51.6,
+   "event": "crossing",
+   "note": "Not mentioned on the return; interpolated from the outward road (twelve days between Volga and Ural) shifted north.",
+   "sources": [
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography/BackWay.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-09-16",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Ordu of Baatu (Batu) on the Etilia (Volga)",
+   "modernName": "left bank of the Volga near the Yeruslan, Saratov/Volgograd oblast, Russia",
+   "lat": 50.3,
+   "lon": 46.6,
+   "event": "arrives",
+   "note": "'The same day we had left it a year previously, the second day after the Elevation of the holy Cross' (14 Sept): 16 Sept in Rockhill, 15 Sept in Jackson. 'In two months and ten days we came to Baatu'. Found Gosset and the servants. The camp lay 15 days' travel north of Sarai; point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography/BackWay.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-10-01",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Moving with Baatu's ordu",
+   "modernName": "left bank of the Volga, Volgograd oblast, Russia",
+   "lat": 49.6,
+   "lon": 46.4,
+   "event": "camp",
+   "note": "'We drove about for a month with him before we could get a guide.' Point notional.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-10-17",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Baatu's ordu",
+   "modernName": "left bank of the Volga, Volgograd oblast, Russia",
+   "lat": 49.3,
+   "lon": 46.3,
+   "event": "departs",
+   "note": "'We started fifteen days before the feast of All Saints in the direction of Sarai, going due south' (Rockhill: 16 Oct; Jackson: 18 Oct). New guide, a Uighur. 'Between Baatu and Sarai, for fifteen days we found no one' but one of Batu's sons with his hawkers.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-10-25",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Down the left bank of the Etilia",
+   "modernName": "Volga-Akhtuba floodplain, Astrakhan oblast, Russia",
+   "lat": 48.2,
+   "lon": 46.3,
+   "event": "position",
+   "note": "Interpolated midpoint of the fifteen days to Sarai.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-10-31",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Sarai, 'the new town that Baatu is making on the Etilia'",
+   "modernName": "Selitrennoye, Astrakhan oblast, Russia",
+   "lat": 47.17,
+   "lon": 47.43,
+   "event": "arrives",
+   "note": "Fifteen days from Batu's camp. 'Sarai and the palace of Baatu are on the eastern shore.' Coiac's father returned most of the books and vestments. Rockhill: 'usually identified with Selitrennoye Gorodok, about 70 miles above Astrakan'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Sarai_(city)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-01",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Etilia crossing; Summerkeur on the middle branch",
+   "modernName": "Volga-Akhtuba channels below Selitrennoye, Astrakhan oblast, Russia",
+   "lat": 47.05,
+   "lon": 47.2,
+   "event": "crossing",
+   "note": "Left Sarai on All Saints (1 Nov). 'We crossed that river in seven places by boat'; the valley 'more than seven leagues wide'. Summerkeur (Summerkent), an unwalled island town of Alans and Saracens, is unlocated: Yule made it old Astrakhan, Rockhill thought of Itil near Sarai, others point to Samosdelka (Saqsin) in the delta.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography/BackWay.html"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-05",
+   "dateBasis": "estimated",
+   "localTime": "09:00",
+   "place": "Waterless steppe west of the Caspian",
+   "modernName": "Nogai steppe, Kalmykia / northern Dagestan, Russia",
+   "lat": 45,
+   "lon": 46.6,
+   "event": "position",
+   "note": "'There were two days on which we nearly died of thirst: for a whole day and a night, and a day following to the third hour, we did not find any water.' Day and point estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-11",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Foot of the mountains of the Alans",
+   "modernName": "Sulak-Terek plain, northern Dagestan, Russia",
+   "lat": 43.3,
+   "lon": 46.9,
+   "event": "arrives",
+   "note": "'We reached by the feast of saint Martin the mountains of the Alans.' St Martin is 11 Nov; Rockhill's text prints '15th December' by a slip and his table gives 15 Nov. A Mongol guard post here gave him twenty men as escort.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-15",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Coast road under the Lesgi mountains",
+   "modernName": "near Makhachkala (Tarki), Dagestan, Russia",
+   "lat": 42.98,
+   "lon": 47.5,
+   "event": "position",
+   "note": "The Iron Gate 'is two days thence'. 'Between the sea and the mountains are Saracens called Lesgi.' Interpolated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Makhachkala"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-16",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Walled hamlet (castellum) of the Alans",
+   "modernName": "coast near Izberbash-Kayakent, Dagestan, Russia",
+   "lat": 42.45,
+   "lon": 47.95,
+   "event": "at",
+   "note": "One day before the Iron Gate: 'Here we found grape-vines for the first time and drank wine.' Unidentified; point is one stage north of Derbent.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-17",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "The Iron Gate (Derbent)",
+   "modernName": "Derbent, Dagestan, Russia",
+   "lat": 42.06,
+   "lon": 48.29,
+   "event": "arrives",
+   "note": "Rockhill's itinerary dates the arrival 17 Nov, counting back from the Kur crossing on St Clement (23 Nov). Town 'more than a mile long', 'its width, however, is but a stone's throw'; fort on the mountain; tower tops razed by the Mongols.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Derbent"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-19",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Samaron",
+   "modernName": "Şabran (Shabran) district, Azerbaijan",
+   "lat": 41.21,
+   "lon": 48.99,
+   "event": "at",
+   "note": "'Two days thence'. Many Jews; walls 'coming down from the mountains to the sea'. Rockhill: Edrisi's Semmur, '60 to 70 miles' south of Derbent, a little north of Beshbarmak. Here the party left the coast road and climbed south.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Shabran_(city)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-20",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Valley with wall foundations ('barriers of Alexander')",
+   "modernName": "south-eastern Caucasus foothills between Şabran and Shamakhi, Azerbaijan",
+   "lat": 40.95,
+   "lon": 48.85,
+   "event": "position",
+   "note": "'The next day we crossed a valley, where we saw the foundations of walls running from one mountain to another.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-11-21",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Samag (Shamakhi)",
+   "modernName": "Şamaxı, Azerbaijan",
+   "lat": 40.63,
+   "lon": 48.64,
+   "event": "arrives",
+   "note": "'The next day we came to a big city called Samag.' Rockhill: Shamakhi, once capital of Shirvan.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Shamakhi"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-22",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Plain of Moan (Mughan)",
+   "modernName": "Shirvan-Mughan lowland north of the Kura, Azerbaijan",
+   "lat": 40.25,
+   "lon": 48.5,
+   "event": "position",
+   "note": "'The day after that we entered a vast plain called Moan, through which flows the Cur.' (The Silk Road text misprints 'Mo'al'.) Here he again found Mongols.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-23",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Bridge of boats at the meeting of the Cur and the Araxes",
+   "modernName": "Kura-Aras confluence near Sabirabad, Azerbaijan",
+   "lat": 40.01,
+   "lon": 48.47,
+   "event": "crossing",
+   "note": "'A bridge of boats held by great iron chains.' 'We ascended along the Araxes from the feast of saint Clement (23rd November)'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1254-11-28",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Camp of Baachu (Baiju noyan) on the Araxes",
+   "modernName": "lower Aras valley, Mughan/Karabakh steppe, Azerbaijan",
+   "lat": 39.6,
+   "lon": 47.6,
+   "event": "camp",
+   "note": "'I was in the house of Baachu, and he gave me wine to drink.' From here the guide and the interpreter went to Tabriz to see Arghun; Baiju sent Rubruck on to Naxua. Site and day estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-12-15",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Naxua (Nakhichevan)",
+   "modernName": "Nakhchivan city, Azerbaijan",
+   "lat": 39.21,
+   "lon": 45.41,
+   "event": "arrives",
+   "note": "Arrival undated, before Christmas (Rockhill's itinerary has a December date, apparently the 23rd). 'There used to be in it eighty Hermenian churches; but there are only two small ones now.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Nakhchivan_(city)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1254-12-25",
+   "dateBasis": "stated",
+   "localTime": null,
+   "place": "Naxua (Nakhichevan)",
+   "modernName": "Nakhchivan city, Azerbaijan",
+   "lat": 39.21,
+   "lon": 45.41,
+   "event": "at",
+   "note": "'In one of these I kept the Christmas feast as well as I could, with our clerk.' The priest died next day; a bishop and twelve monks came down for the funeral.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-01-13",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Naxua (Nakhichevan)",
+   "modernName": "Nakhchivan city, Azerbaijan",
+   "lat": 39.21,
+   "lon": 45.41,
+   "event": "departs",
+   "note": "'We only left this city on the Octave of the Epiphany (13th January), for we were kept there a long while on account of the snow.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-01-17",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Country of Sahensa (Shahanshah Zakarian)",
+   "modernName": "Aras valley near Iğdır-Sürmeli, Turkey/Armenia border",
+   "lat": 40,
+   "lon": 43.9,
+   "event": "arrives",
+   "note": "'In four days we came to the country of Sahensa'; he dined with the prince, his wife and son Zacharias. Rockhill reads this as arrival at Ani itself; the point given is four winter stages up the Araxes.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-02-02",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Aini (Ani)",
+   "modernName": "Ani ruins, Ocaklı, Kars province, Turkey",
+   "lat": 40.51,
+   "lon": 43.57,
+   "event": "at",
+   "note": "The Purification (2 Feb). 'A thousand churches of Hermenians and two synagogues of Saracens'; five Dominicans bound for the Mongols met him.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Ani"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-02-14",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Marsengen",
+   "modernName": "Micingirt (İnkaya), Sarıkamış, Kars province, Turkey",
+   "lat": 40.18,
+   "lon": 42.37,
+   "event": "arrives",
+   "note": "First town of the Sultan of Turkey, entered 'on the Sunday of Quadragesima': 14 Feb 1255 (Jackson, as reported in the Silk Road text); Rockhill prints 15 Feb, a Monday. Rockhill: 'the modern Medshingert, between Kars and Erzerum'. From here to Cyprus he had to buy his food.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://m-zharkikh.name/en/History/Articles/Rubruk/Geography/AsiaMinor.html"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-02-21",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Head of the Araxes; Aarserum (Erzurum)",
+   "modernName": "Erzurum, Turkey",
+   "lat": 39.91,
+   "lon": 41.28,
+   "event": "arrives",
+   "note": "'On the second Sunday of Quadragesima we came to the head of the Araxes': 21 Feb 1255 (Jackson); Rockhill prints 15 Feb. Beyond the mountain lay Erzurum, where he met the returning escort of the envoy Theodolus.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Erzurum"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-02-27",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Arsengen (Erzincan)",
+   "modernName": "Erzincan, Turkey",
+   "lat": 39.75,
+   "lon": 39.49,
+   "event": "position",
+   "note": "On the eight-day descent of the Euphrates (Karasu). 'In one city called Arsengen ten thousand persons known by name were lost' in the earthquake of 'that same year'; 'during three days' ride we saw a rent in the ground'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Erzincan"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-03-01",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Camath (Kemah)",
+   "modernName": "Kemah, Erzincan province, Turkey",
+   "lat": 39.6,
+   "lon": 39.03,
+   "event": "crossing",
+   "note": "'We came to the Eufrates, along which we descended for eight days, going always westward till we came to a certain fort called Camath. Here the Eufrates turns southward.' Crossed the river and went on west 'through very high mountains and deep snow'.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-03-12",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Valley where the Soldan of Turkie was defeated (Köse Dağ, 1243)",
+   "modernName": "upper Kızılırmak / Kelkit country between Refahiye and Zara, Turkey",
+   "lat": 39.9,
+   "lon": 38.3,
+   "event": "position",
+   "note": "'In that plain in which that fight and that rout occurred, a large lake burst out in the earthquake.' The battlefield's site is disputed (north-east of Erzincan in Wikipedia; between Erzincan and Sivas in others); the point follows Rubruck's order of march, west of Kemah.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://m-zharkikh.name/en/History/Articles/Rubruk/Geography/AsiaMinor.html",
+    "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-03-21",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Sebaste (Sivas)",
+   "modernName": "Sivas, Turkey",
+   "lat": 39.75,
+   "lon": 37.02,
+   "event": "arrives",
+   "note": "'We were in Sebaste in Lesser Hermenia in the Greater Week' (Holy Week, 21-27 March; Easter 28 March 1255). Visited the tomb of the Forty Martyrs.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Sivas"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-04-04",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Cesarea of Capadocia (Kayseri)",
+   "modernName": "Kayseri, Turkey",
+   "lat": 38.72,
+   "lon": 35.49,
+   "event": "arrives",
+   "note": "'On the Octave of Easter (4th April) we came to Cesarea of Capadocia, where there is a church of saint Basil the Great.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Kayseri"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-04-19",
+   "dateBasis": "counted",
+   "localTime": null,
+   "place": "Yconium (Konya)",
+   "modernName": "Konya, Turkey",
+   "lat": 37.87,
+   "lon": 32.49,
+   "event": "arrives",
+   "note": "'After that in fifteen days we came to Yconium, travelling by short stages and resting in many places.' Presented to the Seljuk sultan.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Konya"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-05-05",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Curta (Korykos / Gorighos)",
+   "modernName": "Kızkalesi, Mersin province, Turkey",
+   "lat": 36.46,
+   "lon": 34.15,
+   "event": "arrives",
+   "note": "'Here I arrived the day before the Ascension (5th May), and remained to the day after Pentecost (17th May).' A port of the king of Armenia. Rockhill: the classical Corycus.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/K%C4%B1zkalesi"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-05-17",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Curta (Korykos)",
+   "modernName": "Kızkalesi, Mersin province, Turkey",
+   "lat": 36.46,
+   "lon": 34.15,
+   "event": "departs",
+   "note": "Day after Pentecost. He shipped his baggage for Acre and went overland to the king's father.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-05-22",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Assis (Sis)",
+   "modernName": "Kozan, Adana province, Turkey",
+   "lat": 37.45,
+   "lon": 35.8,
+   "event": "arrives",
+   "note": "Found Constantine, father of King Hethum, 'with all his sons' feasting at news that the king was returning. About 190 km from Korykos; day estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Kozan,_Adana"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-06-10",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Auax (Ayas / Laiazzo)",
+   "modernName": "Yumurtalık, Adana province, Turkey",
+   "lat": 36.77,
+   "lon": 35.79,
+   "event": "departs",
+   "note": "'He had me taken to the sea, to a port called Auax; and from there I passed over into Cyprus.' Sailing day estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Yumurtal%C4%B1k"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-06-13",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Sea passage from Ayas to Cyprus",
+   "modernName": "eastern Mediterranean between Cilicia and Cyprus",
+   "lat": 36,
+   "lon": 34.9,
+   "event": "position",
+   "note": "Interpolated. The landing place in Cyprus is not named.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-06-16",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Cyprus",
+   "modernName": "Famagusta (assumed landing), Cyprus",
+   "lat": 35.12,
+   "lon": 33.94,
+   "event": "arrives",
+   "note": "'Cyprus, which I entered eight days before the feast of saint John the Baptist (16th June)'. Landing port not given; Famagusta is an assumption.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-06-17",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Nicosia",
+   "modernName": "Nicosia, Cyprus",
+   "lat": 35.17,
+   "lon": 33.36,
+   "event": "at",
+   "note": "'At Nicosia I found your Provincial, who the same day took me with him to Antioch.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Nicosia"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1255-06-25",
+   "dateBasis": "estimated",
+   "localTime": null,
+   "place": "Sea passage from Cyprus to the port of Antioch",
+   "modernName": "St Symeon (Samandağ), Hatay, Turkey",
+   "lat": 36.08,
+   "lon": 35.98,
+   "event": "crossing",
+   "note": "Not described. Antioch's port was St Symeon at the mouth of the Orontes; day estimated.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1255-06-29",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Antioch",
+   "modernName": "Antakya, Hatay, Turkey",
+   "lat": 36.2,
+   "lon": 36.16,
+   "event": "at",
+   "note": "'Antioch, which is in a most dilapidated condition. We were there for the feast of the Apostles Peter and Paul (29th June).'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Antakya"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1255-08-15",
+   "dateBasis": "feast",
+   "localTime": null,
+   "place": "Tripoli",
+   "modernName": "Tripoli, Lebanon",
+   "lat": 34.44,
+   "lon": 35.83,
+   "event": "arrives",
+   "note": "'Thence we came to Tripoli, where we held our chapter on the Assumption of the Blessed Virgin (15th August).' The Provincial ordered him to stay at Acre and to write to the King instead of going to him.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys",
+    "https://en.wikipedia.org/wiki/Tripoli,_Lebanon"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1254-01-06",
+   "localTime": "12:00",
+   "title": "No baptism at Epiphany",
+   "body": "The Armenian monk Sergius had promised that he would baptise Möngke on the feast. Rubruck was called to court only at midday, in time to see the monk and the Nestorian priests coming away with their cross and censer. He learned that Christians, Muslims and Buddhists each blessed the khan's cup in turn on such days.",
+   "tags": [
+    "court",
+    "Sergius",
+    "religion"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "they all follow his court as flies do honey",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-01-13",
+   "localTime": "06:30",
+   "title": "The chief wife at chapel",
+   "body": "Before dawn the Nestorian priests beat their board and sang Matins. The khan's chief wife, Cotota, came with her children, bowed to the ground and touched the images. Möngke arrived afterwards, sat beside her on a gilded couch and had Rubruck's Bible and breviary brought to him to look at the pictures.",
+   "tags": [
+    "court",
+    "wives",
+    "Nestorians"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-01-28",
+   "localTime": null,
+   "title": "The camp shifts south",
+   "body": "Möngke's camp moved only twice that winter, both times toward the south, before it turned north again. Priests from Cathay told Rubruck that Cathay lay twenty days to the south-east and the Mongol homeland on the Onon and Kerulen ten days due east. All the envoys at this court shared one lodging and could visit each other.",
+   "tags": [
+    "court",
+    "camp",
+    "geography"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-02-08",
+   "localTime": null,
+   "title": "The burnt shoulder-blades",
+   "body": "The priests, the monk and the two friars went in procession to Möngke's dwelling. As they entered, a servant carried out sheep's shoulder-blades burnt black. Rubruck learned that the khan had three bones charred before any decision and acted only if one had split cleanly along its length.",
+   "tags": [
+    "court",
+    "divination",
+    "Möngke"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "he does nothing in the world without first consulting these bones",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-02-09",
+   "localTime": null,
+   "title": "Bartholomew and the threshold",
+   "body": "Leaving the khan's tent backwards, Bartholomew of Cremona struck the threshold and was seized by the guards. The next day the judge Bulgai asked whether the friars had been warned. Rubruck answered that they had no interpreter, and Bartholomew was pardoned but never again allowed into any dwelling of the khan.",
+   "tags": [
+    "court",
+    "Bartholomew",
+    "law"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-02-17",
+   "localTime": null,
+   "title": "Rhubarb and holy water",
+   "body": "The khan's second wife, Cota, fell gravely ill, and Sergius staked his head on curing her. He steeped chopped rhubarb and a small crucifix in holy water overnight, and Rubruck read the Passion over her. She recovered and gave out four ingots of silver; Rubruck refused his.",
+   "tags": [
+    "court",
+    "Sergius",
+    "wives",
+    "medicine"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "he had taken no orders, and did not know a single letter, but was a cloth weaver",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-03-01",
+   "localTime": null,
+   "title": "The khan rebukes Sergius",
+   "body": "Möngke, holding a charred shoulder-blade, asked the monk why a man who ought to pray to God talked so much to men. He pointed at Rubruck, who stood bareheaded, and made Sergius take off his hat. The monk was so shaken that he handed Rubruck the cross to carry home.",
+   "tags": [
+    "court",
+    "Sergius",
+    "Möngke"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-03-22",
+   "localTime": null,
+   "title": "The goldsmith's son arrives",
+   "body": "The son of Guillaume Boucher, a Parisian goldsmith captured in Hungary, came from Karakorum with a crucifix made in the French style. He told Möngke that the great work his father had been ordered to make was finished. The khan ordered it set up in the palace.",
+   "tags": [
+    "Boucher",
+    "court",
+    "Karakorum"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-04-01",
+   "localTime": "00:00",
+   "title": "A midnight request for prayer",
+   "body": "Möngke had set out for Karakorum on 29 March with his light tents. In the mountains a storm of wind and snow went on for two days, and about midnight he sent to ask the monk and the friars to pray, because the animals were heavy with young. Sergius sent him incense to burn, and the storm slackened on the third day.",
+   "tags": [
+    "march",
+    "weather",
+    "Möngke"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-04-05",
+   "localTime": "15:00",
+   "title": "Palm Sunday at Karakorum",
+   "body": "At dawn the friars blessed bare branches outside the city. In the afternoon they entered with cross and banner raised, through the Muslim quarter with its square and market, and the Nestorians came out in procession to meet them at the church. Guillaume Boucher took them home to dine with his wife, who was born in Hungary and spoke French.",
+   "tags": [
+    "Karakorum",
+    "arrival",
+    "Boucher"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "At early dawn we blessed some boughs, on which no signs of budding had yet appeared.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-04-06",
+   "localTime": null,
+   "title": "The silver tree",
+   "body": "Rubruck stood before the khan in a palace built like a church, with a nave and two aisles. Inside the middle door stood Boucher's silver tree: four silver lions spouting mare's milk, and four gilded serpents pouring wine, clarified mare's milk, mead and rice wine. A man hidden in a vault beneath blew through a pipe to make the angel on top sound its trumpet.",
+   "tags": [
+    "Karakorum",
+    "palace",
+    "Boucher"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "the angel places the trumpet to his mouth, and blows the trumpet right loudly",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-04-12",
+   "localTime": null,
+   "title": "Easter at Karakorum",
+   "body": "On Easter eve the Nestorians baptised more than sixty people. Rubruck heard the confessions of captive Hungarians, Alans, Russians, Georgians and Armenians, and said mass on Holy Thursday and Easter Day in the Nestorian baptistery. Guillaume Boucher made the wafer iron and lent the vestments.",
+   "tags": [
+    "Karakorum",
+    "Easter",
+    "baptism"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-04-27",
+   "localTime": null,
+   "title": "Boucher nearly poisoned",
+   "body": "Guillaume Boucher fell gravely ill. As he was recovering, Sergius gave him two bowls of rhubarb water, which he drank thinking it was holy water, and it almost killed him. Rubruck told the monk to work either as an apostle or as a physician, and Sergius began to fear him.",
+   "tags": [
+    "Karakorum",
+    "Boucher",
+    "Sergius"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-05-17",
+   "localTime": null,
+   "title": "A city smaller than Saint-Denis",
+   "body": "Rubruck came back to Karakorum with the court. He counted two quarters, one of Muslim merchants and one of Chinese craftsmen, with twelve temples, two mosques and one church. A mud wall with four gates enclosed it: grain was sold at the east gate, sheep at the west, oxen and carts at the south, horses at the north.",
+   "tags": [
+    "Karakorum",
+    "city"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "it is not as big as the village of Saint Denis, and the monastery of Saint Denis is ten times larger than the palace",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-05-22",
+   "localTime": null,
+   "title": "Arigh Böke and the storm",
+   "body": "The court moved to the nearby camp of the khan's late mother. Möngke's youngest brother, Arigh Böke, made the sign of the cross toward the friars and silenced two Muslim courtiers who answered the monk's insults. Within the hour a violent wind rose, and word came that the khan's second wife had died.",
+   "tags": [
+    "court",
+    "Arigh Böke",
+    "wives"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-05-30",
+   "localTime": null,
+   "title": "The debate opens",
+   "body": "Three secretaries sat as umpires, a Christian, a Muslim and a Buddhist, and insults were forbidden on pain of death. Rubruck spoke first for the Christians against a Buddhist from Cathay, with Boucher's son interpreting. He pressed one question, whether any god was all-powerful, until his opponent answered that none was.",
+   "tags": [
+    "Karakorum",
+    "debate",
+    "religion"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "This is the order of Mangu, and let no one dare say that the commandment of God differs from it.",
+    "by": "The proclamation at the debate, as Rubruck reports it"
+   }
+  },
+  {
+   "date": "1254-05-30",
+   "localTime": "18:00",
+   "title": "Nobody is converted",
+   "body": "The Muslims declined to argue and said the Gospel was true. The Nestorians then spoke at length to an old Uighur priest. At the end the Nestorians and Muslims sang loudly, the Buddhists kept silent, and everyone drank.",
+   "tags": [
+    "Karakorum",
+    "debate",
+    "drinking"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "They all listened without making any contradiction, but no one said: \"I believe; I want to become a Christian.\"",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-05-31",
+   "localTime": null,
+   "title": "The fingers of the hand",
+   "body": "Möngke called Rubruck and his Buddhist opponent before him. He held out his staff and told the friar not to fear, then gave his own creed: the Mongols believed in one God, who had given men different ways. He drank four times while he spoke.",
+   "tags": [
+    "court",
+    "Möngke",
+    "audience"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "But as God gives us the different fingers of the hand, so he gives to men divers ways.",
+    "by": "Möngke Khan, as Rubruck reports it"
+   }
+  },
+  {
+   "date": "1254-05-31",
+   "localTime": null,
+   "title": "Sent home with a letter",
+   "body": "The khan told Rubruck that he had stayed long enough and must go back by way of Batu, carrying a letter. Rubruck asked leave to return one day to the German slaves at Bolat. Möngke sat silent for a long time, then gave him drink and dismissed him.",
+   "tags": [
+    "court",
+    "Möngke",
+    "audience"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "If I had been afraid, I should not have come here.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-06-07",
+   "localTime": null,
+   "title": "The khan's four-day feast",
+   "body": "Möngke held a four-day feast at Karakorum, with Boucher as chief butler beside his drink-pouring tree. Envoys of the Caliph of Baghdad, of an Indian sultan who had sent eight leopards, and of the Seljuk sultan were at court. Rubruck missed the summons on the last day because he was at the church baptising the three children of a poor German.",
+   "tags": [
+    "Karakorum",
+    "feast",
+    "baptism"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-06-24",
+   "localTime": null,
+   "title": "A hundred carts of mare's milk",
+   "body": "On the feast of St John the khan held a great drinking bout. Rubruck counted a hundred and five carts and ninety horses loaded with mare's milk. The same happened five days later on the feast of Peter and Paul.",
+   "tags": [
+    "court",
+    "drinking"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-07-02",
+   "localTime": null,
+   "title": "The khan's letter",
+   "body": "The secretaries read Rubruck the letter for King Louis and he wrote down its sense. It demanded that the French king send envoys and submit, or learn what the Mongols could do. Rubruck made them strike out the word that called the friars ambassadors.",
+   "tags": [
+    "court",
+    "letter",
+    "Louis IX"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "in Heaven there is only one eternal God, and on Earth there is only one lord, Chingis Chan",
+    "by": "Möngke Khan's letter to Louis IX, as Rubruck reports it"
+   }
+  },
+  {
+   "date": "1254-07-08",
+   "localTime": null,
+   "title": "Bartholomew stays behind",
+   "body": "Bartholomew of Cremona had told Bulgai by signs that the desert road would kill him. At the leave-taking the secretaries offered to keep him until other envoys could take him by a road with towns, and he accepted. Each friar was given a plain gown, and Rubruck learned that he had baptised six people in all.",
+   "tags": [
+    "court",
+    "Bartholomew",
+    "parting"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-07-09",
+   "localTime": null,
+   "title": "Parting at the goldsmith's house",
+   "body": "The guide brought ten silver ingots, five for Bartholomew's keep and five for the road. Boucher sent King Louis a jewelled girdle worn against thunder. Rubruck rode out with his interpreter, a guide and one servant, with an order for one sheep every four days.",
+   "tags": [
+    "Karakorum",
+    "departure",
+    "Boucher"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "So we separated with tears, my companion remaining with master William",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-07-29",
+   "localTime": null,
+   "title": "Twenty days west",
+   "body": "For nearly three weeks the Indian sultan's envoys rode the same road, always westward. The summer route ran north of the one Rubruck had taken in winter. Some stretches lasted two or three days with nothing to eat but fermented mare's milk.",
+   "tags": [
+    "return",
+    "steppe"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-08-12",
+   "localTime": null,
+   "title": "One village in seventy days",
+   "body": "Between Karakorum and the Volga Rubruck saw no town and no building except tombs, apart from a single small village where he ate no bread. The party rested on one day only, when no horses could be found. For fifteen days the road followed a river between mountains, with grass only at the water's edge.",
+   "tags": [
+    "return",
+    "steppe"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-09-01",
+   "localTime": null,
+   "title": "Sartach on the road",
+   "body": "Rubruck met Batu's son Sartach travelling east to Möngke with his flocks, wives and children. Sartach's secretary Coiac said the friars' books and vestments were with his father near Sarai. That evening a man brought two silk tunics, one for Rubruck and one for King Louis.",
+   "tags": [
+    "return",
+    "Sartach"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-09-16",
+   "localTime": null,
+   "title": "Back at Batu's camp",
+   "body": "Rubruck reached Batu's camp on the Volga on the same day of the year he had left it. The clerk Gosset and the servants were alive but poor, and had been helped by the king of Armenia when he passed. The Mongols had already asked them whether they could herd cattle or milk mares.",
+   "tags": [
+    "Batu",
+    "Volga",
+    "reunion"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "For had I not come back, they would have been made their slaves.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-09-28",
+   "localTime": null,
+   "title": "Batu reads the letter",
+   "body": "Batu had Möngke's letter interpreted to Rubruck and told him to carry it. He asked whether the friar would go home by sea or by land. Rubruck, who still believed King Louis was in Syria, chose the land road through Persia because winter had closed the sea.",
+   "tags": [
+    "Batu",
+    "letter"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-10-17",
+   "localTime": null,
+   "title": "South with a Uighur guide",
+   "body": "After a month of moving about with Batu's camp, Rubruck was given a Uighur guide with letters to the Sultan of Turkey. They rode due south down the Volga for fifteen days and met no one except one of Batu's sons with his falconers.",
+   "tags": [
+    "Batu",
+    "Volga",
+    "departure"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-10-31",
+   "localTime": null,
+   "title": "Sarai, the new town",
+   "body": "At Sarai, which Batu was building on the east bank, Coiac's father gave back most of the vestments and books. He kept the queen's psalter, and asked Rubruck to bring a parchment-maker if he ever returned. The party crossed the Volga's branches by boat in seven places.",
+   "tags": [
+    "Sarai",
+    "Volga"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-11-11",
+   "localTime": null,
+   "title": "Twenty men for the mountains",
+   "body": "At the foot of the Caucasus the Alans and the Muslim Lesgi still held out against the Mongols. The local garrison gave Rubruck twenty men as escort past the Iron Gate. He had hoped to see Mongol armour, but only two of the twenty wore mail shirts, which they had got from the Alans.",
+   "tags": [
+    "Caucasus",
+    "Alans",
+    "escort"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-11-17",
+   "localTime": null,
+   "title": "The Iron Gate",
+   "body": "A day after tasting wine again at a walled Alan village, Rubruck came to Derbent. The town stretched from the sea up to a fort on the mountain, more than a mile long and a stone's throw wide, so that the only road ran through its gate. The Mongols had knocked down the tops of its towers and the parapets of its walls.",
+   "tags": [
+    "Derbent",
+    "Caspian",
+    "walls"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "Below this town the country used to be a real paradise.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-11-23",
+   "localTime": null,
+   "title": "A bridge of boats",
+   "body": "From Derbent the road passed Samaron with its many Jews, old walls running from the mountains to the sea, and the city of Shamakhi. On the Mughan plain the party crossed the river on boats held by iron chains, where the Kur and the Araxes joined. From there Rubruck followed the Araxes upstream.",
+   "tags": [
+    "Mughan",
+    "Araxes",
+    "crossing"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-11-28",
+   "localTime": null,
+   "title": "Wine in Baiju's tent",
+   "body": "Baiju, commander of the Mongol army on the Araxes, received Rubruck and gave him wine. From his camp the guide and the interpreter went off to Tabriz, and Baiju sent the friar on to Nakhichevan.",
+   "tags": [
+    "Baiju",
+    "Araxes"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "cosmos satisfies better a famished man",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1254-12-14",
+   "localTime": null,
+   "title": "A ruined capital",
+   "body": "Baiju had Rubruck taken up the Araxes to Nakhichevan, once the capital of a great kingdom. The Mongols had left the city nearly a desert. A Dominican, Bernard of Catalonia, found him there after being refused passage at Tabriz.",
+   "tags": [
+    "Nakhichevan",
+    "Armenia",
+    "Dominicans"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1254-12-25",
+   "localTime": null,
+   "title": "Christmas at Nakhichevan",
+   "body": "Nakhichevan had once had eighty Armenian churches; two small ones were left. Rubruck kept Christmas in one of them with his clerk. The priest of the church died the next day, and a bishop and twelve monks came down from the mountains to bury him.",
+   "tags": [
+    "Nakhichevan",
+    "Christmas",
+    "Armenia"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-01-06",
+   "localTime": null,
+   "title": "Under Mount Ararat",
+   "body": "Snow closed the roads for weeks. Rubruck was shown the two mountains where the ark was said to rest, with the Araxes at their foot. An old man told him that nobody ought to climb Massis, because it was the mother of the world.",
+   "tags": [
+    "Nakhichevan",
+    "Ararat",
+    "snow"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "This mountain did not seem to me so very high, that men could not ascend it.",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1255-01-17",
+   "localTime": null,
+   "title": "Dinner with Shahanshah",
+   "body": "Rubruck left Nakhichevan on 13 January and in four days reached the lands of Shahanshah, a Georgian prince now tributary to the Mongols. He dined with the prince, his wife and his son Zacharias. The young man asked whether King Louis would keep him if he came to France.",
+   "tags": [
+    "Armenia",
+    "Shahanshah"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-02-02",
+   "localTime": null,
+   "title": "Ani and its thousand churches",
+   "body": "On the feast of the Purification Rubruck was at Ani, a strongly placed town with a Mongol governor. Five Dominican friars found him there, carrying papal letters to Sartach and Möngke and with no proper interpreter. He told them what to expect, and they turned toward Tiflis to consult their brethren.",
+   "tags": [
+    "Ani",
+    "Armenia",
+    "Dominicans"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-02-14",
+   "localTime": null,
+   "title": "Into the Sultan's country",
+   "body": "The first Seljuk town was Marsengen, where the people were Armenians, Georgians and Greeks under a Muslim governor. The castellan had orders to give no provisions to Franks. From there to Cyprus the friar had to buy his food, while the guide pocketed the supply money and stole sheep from the fields.",
+   "tags": [
+    "Turkey",
+    "Marsengen",
+    "guide"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-02-21",
+   "localTime": null,
+   "title": "The head of the Araxes",
+   "body": "Rubruck reached the source of the Araxes and crossed a mountain to Erzurum and the Euphrates. Deep snow kept him from riding to the river's spring. At Erzurum he met the returning servants of a Mongol envoy who had died in Nicaea.",
+   "tags": [
+    "Erzurum",
+    "Euphrates",
+    "snow"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-02-27",
+   "localTime": null,
+   "title": "The earthquake country",
+   "body": "For eight days the road followed the Euphrates west from Erzurum to the fort of Kemah. An earthquake that year had killed ten thousand named people in Erzincan, not counting the poor. For three days Rubruck rode beside a split in the ground and hillsides that had slid into the valleys.",
+   "tags": [
+    "Erzincan",
+    "earthquake",
+    "Euphrates"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-03-12",
+   "localTime": null,
+   "title": "The field of Köse Dağ",
+   "body": "West of the Euphrates the road crossed the valley where Baiju's Mongols had beaten the Seljuk sultan in 1243. A servant who had fought there said the Mongols numbered no more than ten thousand; a Georgian slave put the sultan's army at two hundred thousand. A lake had burst out on the battlefield in the earthquake.",
+   "tags": [
+    "Köse Dağ",
+    "battlefield",
+    "Turkey"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "that whole country had opened its mouth to drink in the blood of the Saracens",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1255-03-24",
+   "localTime": null,
+   "title": "Holy Week at Sivas",
+   "body": "Rubruck spent Holy Week at Sivas and visited the tomb of the Forty Martyrs. He could not reach the church of St Blaise, because it stood up in the citadel. Easter fell on 28 March.",
+   "tags": [
+    "Sivas",
+    "Holy Week"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-04-04",
+   "localTime": null,
+   "title": "Caesarea of Cappadocia",
+   "body": "A week after Easter the party reached Kayseri, with its church of St Basil the Great. From there the guide travelled by short stages and sold his three-day requisition in every town. Rubruck did not dare complain.",
+   "tags": [
+    "Kayseri",
+    "guide"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-04-19",
+   "localTime": null,
+   "title": "Konya and the alum traders",
+   "body": "At Konya Rubruck found several Franks, among them a Genoese from Acre named Nicholas. With a Venetian partner he held a monopoly on Turkish alum and had raised its price from fifteen bezants to fifty. The guide presented the friar to the Sultan, and Nicholas arranged his passage to the Armenian coast.",
+   "tags": [
+    "Konya",
+    "Sultan",
+    "merchants"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-05-05",
+   "localTime": null,
+   "title": "The sea at Korykos",
+   "body": "Rubruck reached Korykos, a port of the king of Armenia, on the eve of the Ascension. He stayed twelve days, until the day after Pentecost. Then he put his baggage on a ship for Acre and went inland to find the king's father.",
+   "tags": [
+    "Korykos",
+    "Cilicia",
+    "sea"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-05-22",
+   "localTime": null,
+   "title": "The king's father at Sis",
+   "body": "At Sis old Constantine and his sons were feasting. Messengers had come from King Hethum: he was on his way home, and Möngke had cut his tribute and barred Mongol envoys from his land. Constantine had Rubruck escorted to the port of Ayas.",
+   "tags": [
+    "Sis",
+    "Cilicia",
+    "Hethum"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-06-08",
+   "localTime": null,
+   "title": "The port of Ayas",
+   "body": "Constantine's men brought Rubruck down to Ayas, the chief port of Cilician Armenia. His baggage had already gone by ship from Korykos toward Acre. He took passage across to Cyprus.",
+   "tags": [
+    "Ayas",
+    "Cilicia",
+    "sea"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-06-16",
+   "localTime": null,
+   "title": "Cyprus and the Provincial",
+   "body": "Rubruck crossed from Ayas and landed in Cyprus eight days before the feast of St John. At Nicosia he found the Franciscan Provincial, who took him along at once toward Antioch.",
+   "tags": [
+    "Cyprus",
+    "Nicosia",
+    "Provincial"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-06-29",
+   "localTime": null,
+   "title": "Antioch in decay",
+   "body": "Rubruck and the Provincial were at Antioch for the feast of Peter and Paul. He noted only that the city was badly run down.",
+   "tags": [
+    "Antioch"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "which is in a most dilapidated condition",
+    "by": "William of Rubruck"
+   }
+  },
+  {
+   "date": "1255-07-18",
+   "localTime": null,
+   "title": "Gifts still to deliver",
+   "body": "Rubruck was carrying Möngke's letter, two silk tunics from Sartach and a jewelled girdle from Guillaume Boucher. All were meant for King Louis, who had sailed from Acre for France in the spring of 1254. Rubruck stayed with the Provincial's party as it went south for the chapter.",
+   "tags": [
+    "Syria",
+    "Louis IX",
+    "gifts"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-08-06",
+   "localTime": null,
+   "title": "Advice for the next envoy",
+   "body": "Rubruck judged that no friar should go to the Mongols again as he had gone. A bishop sent in state by the Pope, with good interpreters and ample money, would be heard and answered in writing. He thought the land road through Hungary and Asia Minor lay open to a crusading army.",
+   "tags": [
+    "Syria",
+    "advice",
+    "report"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1255-08-15",
+   "localTime": null,
+   "title": "Ordered to write",
+   "body": "The Franciscans held their chapter at Tripoli on the feast of the Assumption. The Provincial would not let Rubruck go on to the King and assigned him to Acre. He was told to send what he had to say in writing, and he asked the King to write for leave to visit him.",
+   "tags": [
+    "Tripoli",
+    "chapter",
+    "report"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ],
+   "quote": {
+    "text": "Not daring to disregard my vow of obedience, I did as best I could and have written",
+    "by": "William of Rubruck"
+   }
+  }
+ ],
+ "stats": [
+  {
+   "date": "1254-01-06",
+   "series": "party",
+   "value": 3,
+   "note": "At Möngke's camp: 'the three of us' (Rubruck, Bartholomew of Cremona, the interpreter Homo Dei) shared one thin sheep for six days; a servant is also mentioned. The clerk Gosset and the boy Nicholas had been left in the west.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-02-08",
+   "series": "other",
+   "value": 3,
+   "note": "Shoulder-blades burnt for each of the khan's decisions; one clean lengthwise split out of three allowed him to act.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-04-05",
+   "series": "other",
+   "value": 7,
+   "note": "Days on the road from the winter camp to Karakorum (Passion Sunday 29 March to Palm Sunday 5 April), including a two-day storm.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-04-11",
+   "series": "other",
+   "value": 60,
+   "note": "'More than sixty persons' baptised by the Nestorians at Karakorum on Easter eve.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-05-17",
+   "series": "other",
+   "value": 12,
+   "note": "Karakorum: twelve temples, two mosques, one church, two quarters, four gates.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-05-31",
+   "series": "other",
+   "value": 5,
+   "note": "Months at court by the end of May ('we had been there during the whole of January, February, March, April, and May'), against two months' leave first granted.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-06-07",
+   "series": "other",
+   "value": 100,
+   "note": "Silver ingots (iascot), 'that is a thousand marks', given by Möngke to Guillaume Boucher for the silver tree.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-06-24",
+   "series": "other",
+   "value": 105,
+   "note": "Carts loaded with mare's milk at the St John's Day drinking bout, plus 90 horse-loads.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-07-08",
+   "series": "other",
+   "value": 6,
+   "note": "People Rubruck baptised at Möngke's court in all, three of them a German's children on 7 June.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-07-09",
+   "series": "party",
+   "value": 4,
+   "note": "Leaving Karakorum: Rubruck, the interpreter Homo Dei, a Mongol guide and one servant ('one sheep for the four of us' every four days). Bartholomew stayed with Boucher. An Indian sultan's envoys rode alongside for nearly three weeks.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-07-09",
+   "series": "other",
+   "value": 10,
+   "note": "Silver ingots issued by the khan: five for Bartholomew's keep, five for Rubruck's road.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-07-29",
+   "series": "other",
+   "value": 20,
+   "note": "Days ridden when Rubruck 'got news of the King of Hermenia'.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-09-16",
+   "series": "other",
+   "value": 70,
+   "note": "Days from Karakorum to Batu's camp ('two months and ten days'), with one rest day. Rockhill reckons about 2,600 miles, an average of 37 miles a day.",
+   "source": "https://archive.org/details/journeyofwilliam00ruys"
+  },
+  {
+   "date": "1254-09-16",
+   "series": "other",
+   "value": 15,
+   "note": "Days of the return on which the road followed a river between mountains, the same stretch as on the way out.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-09-16",
+   "series": "party",
+   "value": 5,
+   "note": "At Batu's camp Rubruck and Homo Dei rejoined the clerk Gosset and the servants left behind in 1253 (the boy Nicholas among them; the exact number is not given). The Mongol guide from Karakorum ended his charge here.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-10-17",
+   "series": "party",
+   "value": 6,
+   "note": "Leaving Batu: Rubruck, Homo Dei, Gosset, the servants and a new Uighur guide, who had his own followers. Head-count approximate.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-10-17",
+   "series": "other",
+   "value": 30,
+   "note": "Days spent moving about with Batu's camp ('for a month') before a guide was assigned.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-10-31",
+   "series": "other",
+   "value": 15,
+   "note": "Days from Batu's camp to Sarai, 'going due south'.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-11-01",
+   "series": "other",
+   "value": 7,
+   "note": "Boat crossings of the Volga's branches below Sarai; the valley was 'more than seven leagues wide'.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-11-11",
+   "series": "party",
+   "value": 26,
+   "note": "Twenty Mongol soldiers joined as escort from the foot of the Alan mountains to beyond the Iron Gate; only two had mail shirts. Head-count approximate.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-11-19",
+   "series": "party",
+   "value": 6,
+   "note": "Escort of twenty dismissed beyond Derbent. Head-count approximate.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-11-28",
+   "series": "party",
+   "value": 4,
+   "note": "After Baiju's camp the guide and the interpreter went to Tabriz; Rubruck went on to Nakhichevan with 'our clerk' Gosset and the servants. Head-count approximate.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1254-12-25",
+   "series": "other",
+   "value": 2,
+   "note": "Armenian churches left standing at Nakhichevan out of eighty.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-01-13",
+   "series": "other",
+   "value": 19,
+   "note": "Days at Nakhichevan from Christmas to the octave of Epiphany, held 'a long while on account of the snow'; the arrival date is not given.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-01-13",
+   "series": "party",
+   "value": 6,
+   "note": "Leaving Nakhichevan with the guide and interpreter back from Tabriz (their return is implied, not stated). Head-count approximate.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-01-17",
+   "series": "other",
+   "value": 4,
+   "note": "Days from Nakhichevan to the country of Shahanshah.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-02-02",
+   "series": "other",
+   "value": 1000,
+   "note": "Armenian churches Rubruck credits to Ani, with two mosques.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-02-14",
+   "series": "other",
+   "value": 15,
+   "note": "'In fifteen days from that city we entered the country of the Soldan of Turkie'; which city he counts from is unclear.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-02-27",
+   "series": "other",
+   "value": 10000,
+   "note": "Named dead at Erzincan in the earthquake, 'exclusive of the poor'; he rode three days beside the rupture.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-03-01",
+   "series": "other",
+   "value": 8,
+   "note": "Days down the Euphrates from its head to Kemah, 'going always westward'.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-03-12",
+   "series": "other",
+   "value": 10000,
+   "note": "Mongols at Köse Dağ as told to Rubruck by a participant; the sultan's army was put at 200,000 horse.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-04-19",
+   "series": "other",
+   "value": 15,
+   "note": "Days from Kayseri to Konya, 'by short stages'.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-05-17",
+   "series": "other",
+   "value": 12,
+   "note": "Days spent at Korykos, from the eve of Ascension to the day after Pentecost.",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "date": "1255-06-16",
+   "series": "other",
+   "value": 122,
+   "note": "Days during which Rubruck had to buy his own provisions, from Marsengen (14 Feb) to Cyprus (16 June).",
+   "source": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  }
+ ],
+ "timedBeats": [
+  {
+   "episode": "Epiphany at court",
+   "date": "1254-01-06",
+   "localTime": "12:00",
+   "text": "At the sixth hour Rubruck is called to court and meets Sergius and the priests already coming away with cross and censer.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The chief wife at chapel",
+   "date": "1254-01-13",
+   "localTime": "06:00",
+   "text": "Before dawn the Nestorian priests beat their board and sing Matins in the chapel.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The chief wife at chapel",
+   "date": "1254-01-13",
+   "localTime": "08:30",
+   "text": "In full daylight Cotota takes off her headdress and the friars are told to leave as a silver bowl is carried in.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The chief wife at chapel",
+   "date": "1254-01-13",
+   "localTime": "17:30",
+   "text": "Toward evening the chief wife, now tipsy, climbs into her cart and leaves with the priests singing.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Storm on the road to Karakorum",
+   "date": "1254-04-01",
+   "localTime": "00:00",
+   "text": "Toward the middle of the night Möngke sends to the monk and the friars to pray that the wind and cold ease.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Palm Sunday entry into Karakorum",
+   "date": "1254-04-05",
+   "localTime": "05:30",
+   "text": "At early dawn the friars bless boughs that show no sign of budding.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Palm Sunday entry into Karakorum",
+   "date": "1254-04-05",
+   "localTime": "15:00",
+   "text": "Toward the ninth hour they enter the city with cross and banner raised and pass through the Saracen quarter.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Palm Sunday entry into Karakorum",
+   "date": "1254-04-05",
+   "localTime": "15:30",
+   "text": "The Nestorians come out in procession and lead them into the church, where mass is about to begin.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Palm Sunday entry into Karakorum",
+   "date": "1254-04-05",
+   "localTime": "17:00",
+   "text": "After mass Guillaume Boucher takes the friars to his house to dine with his wife and Basil, the son of an Englishman.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Easter at Karakorum",
+   "date": "1254-04-09",
+   "localTime": null,
+   "text": "On Holy Thursday Rubruck says mass in the Nestorian baptistery with a silver chalice and paten.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Easter at Karakorum",
+   "date": "1254-04-11",
+   "localTime": null,
+   "text": "On Easter eve the Nestorians baptise more than sixty people while the friars watch beside the font.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Easter at Karakorum",
+   "date": "1254-04-12",
+   "localTime": null,
+   "text": "On Easter Day Rubruck says mass again and gives communion to the captive Christians.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The death of the archdeacon",
+   "date": "1254-05-02",
+   "localTime": "00:00",
+   "text": "Toward the middle of the night the sick priest's wife, sister and son come begging the monk for his blessing.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The death of the archdeacon",
+   "date": "1254-05-02",
+   "localTime": "06:00",
+   "text": "At daylight Rubruck goes to the priest and finds him spitting blood.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The death of the second wife",
+   "date": "1254-05-21",
+   "localTime": "19:00",
+   "text": "On the evening of Ascension Day the lady Cota grows much worse and the chief diviner orders the monk not to beat his board.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The debate at Karakorum",
+   "date": "1254-05-30",
+   "localTime": null,
+   "text": "The Christians gather at the oratory and Rubruck rehearses the Nestorians by taking the Buddhist side himself.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The debate at Karakorum",
+   "date": "1254-05-30",
+   "localTime": null,
+   "text": "Three secretaries arrive as umpires and proclaim silence on pain of death.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The debate at Karakorum",
+   "date": "1254-05-30",
+   "localTime": null,
+   "text": "A Buddhist from Cathay asks whether to begin with the making of the world or the fate of the soul, and Rubruck insists on beginning with God.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The debate at Karakorum",
+   "date": "1254-05-30",
+   "localTime": null,
+   "text": "After a long silence the Buddhist answers that no god is all-powerful, and the Muslims burst out laughing.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The debate at Karakorum",
+   "date": "1254-05-30",
+   "localTime": null,
+   "text": "The Muslims concede the Gospel, the Nestorians lecture an old Uighur priest, and everyone drinks deeply.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The last audience",
+   "date": "1254-05-31",
+   "localTime": null,
+   "text": "Before Rubruck goes in, Boucher's son warns him that his return home is already settled.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The last audience",
+   "date": "1254-05-31",
+   "localTime": null,
+   "text": "Möngke holds out his staff toward the kneeling friar and says, 'Fear not.'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The last audience",
+   "date": "1254-05-31",
+   "localTime": null,
+   "text": "The khan compares the faiths to the fingers of one hand and drinks four times before he finishes.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The last audience",
+   "date": "1254-05-31",
+   "localTime": null,
+   "text": "After a long silence Möngke tells Rubruck to fortify himself with food for the road, gives him drink and dismisses him.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Departure from Karakorum",
+   "date": "1254-07-08",
+   "localTime": null,
+   "text": "At court the secretaries offer Bartholomew the choice to stay, and he answers that he will.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Departure from Karakorum",
+   "date": "1254-07-08",
+   "localTime": null,
+   "text": "The friars accept a plain gown each, say a prayer for the khan and ride back to Karakorum.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Departure from Karakorum",
+   "date": "1254-07-09",
+   "localTime": null,
+   "text": "At Boucher's house the guide hands over ten silver ingots and the two friars part in tears.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Meeting Sartach",
+   "date": "1254-09-01",
+   "localTime": "19:00",
+   "text": "In the evening Sartach's man brings two silk tunics and a letter ordering Coiac's father to return the friars' goods.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Reunion at Batu's camp",
+   "date": "1254-09-16",
+   "localTime": null,
+   "text": "Rubruck rides into Batu's camp a year to the day after leaving it and finds Gosset and the servants alive.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Thirst south of the Volga",
+   "date": "1254-11-05",
+   "localTime": "09:00",
+   "text": "At the third hour, after a day, a night and a morning without water, the party finds some at last.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The Iron Gate",
+   "date": "1254-11-16",
+   "localTime": null,
+   "text": "At a walled Alan village the party finds vines and drinks wine for the first time since the steppe.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "The Iron Gate",
+   "date": "1254-11-17",
+   "localTime": null,
+   "text": "The party and its twenty-man escort pass through Derbent, between the sea and the mountain fort.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Christmas at Nakhichevan",
+   "date": "1254-12-25",
+   "localTime": null,
+   "text": "Rubruck keeps the Christmas feast with his clerk in one of the two small churches left in the city.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Christmas at Nakhichevan",
+   "date": "1254-12-26",
+   "localTime": null,
+   "text": "The priest of the church dies, and a bishop and twelve monks come down from the mountains for the funeral.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "episode": "Arrival at Tripoli",
+   "date": "1255-08-15",
+   "localTime": null,
+   "text": "The Franciscan chapter meets at Tripoli on the feast of the Assumption and the Provincial orders Rubruck to Acre.",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  }
+ ],
+ "conditions": [
+  {
+   "start": "1254-01-05",
+   "end": "1254-03-28",
+   "activity": "with the khan's moving camp",
+   "weather": "'the cold began to grow intense'; the only water was 'melted snow or ice'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-03-29",
+   "end": "1254-04-04",
+   "activity": "on the road to Karakorum with the light tents",
+   "weather": "'excessive wind and cold and much snow fell'; a two-day storm",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-04-05",
+   "end": "1254-04-19",
+   "activity": "at Karakorum",
+   "weather": "boughs 'on which no signs of budding had yet appeared'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-04-20",
+   "end": "1254-05-16",
+   "activity": "following the khan's court near Karakorum",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-05-17",
+   "end": "1254-07-08",
+   "activity": "at Karakorum and the court beside it",
+   "weather": "'such a violent wind throughout the whole country' on 22 May",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-07-09",
+   "end": "1254-09-15",
+   "activity": "riding west",
+   "weather": "summer; 'two days-sometimes for three days-without taking any other nourishment than cosmos'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-09-16",
+   "end": "1254-10-16",
+   "activity": "moving with Batu's camp",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-10-17",
+   "end": "1254-10-31",
+   "activity": "down the Volga to Sarai",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-11-01",
+   "end": "1254-11-22",
+   "activity": "down the Caspian shore",
+   "weather": "waterless steppe; 'we nearly died of thirst'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-11-23",
+   "end": "1254-12-14",
+   "activity": "up the Araxes",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1254-12-15",
+   "end": "1255-01-12",
+   "activity": "snowbound",
+   "weather": "'the road was impassable on account of the snow'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-01-13",
+   "end": "1255-03-20",
+   "activity": "through Armenia and Turkey",
+   "weather": "'there was so much snow that no one could go outside the beaten path'; 'very high mountains and deep snow'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-03-21",
+   "end": "1255-05-04",
+   "activity": "through Armenia and Turkey",
+   "weather": "'travelling by short stages and resting in many places'",
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-05-05",
+   "end": "1255-06-09",
+   "activity": "in Lesser Armenia",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-06-10",
+   "end": "1255-06-16",
+   "activity": "at sea",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-06-17",
+   "end": "1255-06-28",
+   "activity": "from Cyprus to Antioch",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  },
+  {
+   "start": "1255-06-29",
+   "end": "1255-08-15",
+   "activity": "down the Syrian coast with the Provincial",
+   "weather": null,
+   "sources": [
+    "https://depts.washington.edu/silkroad/texts/rubruck.html",
+    "https://archive.org/details/journeyofwilliam00ruys"
+   ]
+  }
+ ],
+ "bibliography": [
+  {
+   "short": "Rockhill",
+   "citation": "William Woodville Rockhill (trans. and ed.), The Journey of William of Rubruck to the Eastern Parts of the World, 1253-55, as Narrated by Himself, with Two Accounts of the Earlier Journey of John of Pian de Carpine. London: Hakluyt Society, 2nd series no. 4, 1900. Public domain. Scan and OCR text.",
+   "url": "https://archive.org/details/journeyofwilliam00ruys"
+  },
+  {
+   "short": "Silk Road Seattle",
+   "citation": "William of Rubruck's Account of the Mongols. Rockhill's 1900 translation, lightly adapted, with bracketed '[J: ...]' notes reporting the dates and readings of Jackson's 1990 translation. Silk Road Seattle, University of Washington, 2004.",
+   "url": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  },
+  {
+   "short": "Jackson & Morgan",
+   "citation": "Peter Jackson (trans.), with David Morgan (intro. and notes), The Mission of Friar William of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253-1255. London: Hakluyt Society, 2nd series no. 173, 1990. In copyright; consulted only through the readings and dates reported in the Silk Road Seattle text.",
+   "url": "https://www.hakluyt.com/"
+  },
+  {
+   "short": "Yuan shi",
+   "citation": "Song Lian et al., Yuan shi (History of the Yuan), juan 3, Annals of Xianzong (Möngke), entries for 1253 and 1254: winter halt at Wangji (Ongi), spring hunt at Qiejian-chahan, summer at Yue'er-mieqietu.",
+   "url": "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7003"
+  },
+  {
+   "short": "Zharkikh",
+   "citation": "Mykola Zharkikh, 'Geography of Rubruk's travel' (sections 'Back way', 'Transcaucasia and Asia Minor', 'Mongolia and eastern Asia'). Web essay, not peer-reviewed; used for distance arguments and for the survey of proposed sites.",
+   "url": "https://www.m-zharkikh.name/en/History/Articles/Rubruk/Geography.html"
+  },
+  {
+   "short": "Wikipedia",
+   "citation": "English Wikipedia, 'William of Rubruck', 'Karakorum', 'Battle of Köse Dağ' and place articles: cross-check of dates and source of modern coordinates only.",
+   "url": "https://en.wikipedia.org/wiki/William_of_Rubruck"
+  }
+ ],
+ "corrections": [
+  "Rockhill's printed dates contain slips that later retellings copy. 'Sunday before Ascension' 1254 was 17 May, not '7th May'; Quinquagesima 1254 was 22 February, not 23; the feast of St Martin is 11 November, not '15th December' (his own itinerary table gives 15 November); the first and second Sundays of Lent 1255 were 14 and 21 February, not 15 February for both; the khan's return to Karakorum after his wife's death was Saturday 23 May, not 22.",
+  "Marsengen is not Erzincan. Rubruck entered Seljuk territory at 'Marsengen' on the first Sunday of Lent (14 Feb 1255), before reaching the head of the Araxes and Erzurum; Rockhill identifies it with Micingirt (Medshingert) between Kars and Erzurum. Erzincan appears separately as 'Arsengen', only as the city wrecked by the earthquake, and he passed it about a week later on the way down the Euphrates to Kemah.",
+  "He did not reach Konya 'about the octave of the Ascension'. He reached Kayseri on the octave of Easter (4 April 1255), Konya fifteen days later (about 19 April), and was already on the coast at Korykos on 5 May, the eve of the Ascension.",
+  "Rubruck spent a month, not two weeks, with Batu's camp in autumn 1254 ('We drove about for a month with him'), from 15/16 September to about 17 October.",
+  "The debate of 30 May 1254 had no declared winner and converted no one. Rubruck himself records that 'no one said: I believe; I want to become a Christian', and that it ended with singing and heavy drinking. The Muslims declined to debate the Christians at all.",
+  "Möngke was not baptised at Epiphany 1254, and Rubruck says so plainly: the Armenian monk's promise was a lie and the khan 'believes in none' of the faiths that blessed his cup. Rubruck later found that Sergius was an unordained, illiterate cloth weaver.",
+  "The 'fingers of the hand' speech was given at the private audience on Pentecost, 31 May, the day after the debate, not during it.",
+  "Rubruck did not carry his report to Louis IX in person from Tripoli. The Provincial ordered him to stay at Acre and to send it in writing by a bearer; the report itself ends with a request that the King obtain leave for him to come.",
+  "Karakorum was a small town by Rubruck's own measure, 'not as big as the village of Saint Denis', with the khan's court usually camped outside it. He was in the city itself only for 5-19 April or so and again from 17 May; the winter months were spent at a moving camp some days to the south.",
+  "The Silk Road Seattle text prints the plain entered after Shamakhi as 'Mo'al' (the word it uses for Mongol). Rockhill's book has 'Moan', that is the Mughan plain.",
+  "Rubruck left Karakorum with three companions (interpreter, guide, one servant), not with Bartholomew of Cremona, who stayed with Guillaume Boucher. He rejoined his clerk Gosset and the servants only at Batu's camp."
+ ],
+ "openQuestions": [
+  "Where Möngke's camp stood in January-March 1254. Rubruck gives only bearings (Cathay 20 days south-east, Onon-Kerulen 10 days east) and a seven-day march to Karakorum. The Yuan shi places the emperor at Wangji (the Ongi river) in the 12th month of 1253, which suits a site 100-150 km south of Karakorum; Zharkikh's web essay argues instead for a site much farther south-east near Khuld in Dundgovi. The coordinates given here follow the Ongi reading and are estimates.",
+  "Departure from Karakorum: 8, 9 or 10 July 1254. 'A fortnight after the feast of saint John' gives 8 July for the leave-taking at court; seventy days back from 16 September also gives 8 July; Wikipedia and several retellings give 10 July.",
+  "Arrival at Batu's camp: 16 September (Rockhill) or 15 September (Jackson), depending on how 'the second day after the Elevation of the holy Cross' is counted. Departure from Batu: 16 October (Rockhill) or 18 October (Jackson).",
+  "The return route across Central Asia. Rubruck says only that it lay farther north than the outward road, with fifteen days along the same mountain river. Rockhill has him pass Imil (Emin) and go north of Lake Balkhash, taking the river to be the Ulungur; Yule put the outward route farther north by the Black Irtysh; Zharkikh proposes a line near the 50th parallel. All waypoints between Karakorum and the Volga are interpolations.",
+  "The 'twenty days' and the king of Armenia. Rubruck says that after twenty days' riding he had news that King Hethum had passed 'at the end of August', which is later than twenty days from early July. Rockhill counts the twenty days from Karakorum and treats the passage as confused; F. M. Schmidt proposed reading LX (sixty) for XX. Where and when Rubruck met Sartach is equally uncertain.",
+  "Where Batu's camp was in September 1254. Rubruck says only that he then travelled fifteen days due south to Sarai; estimates put it on the left bank of the Volga around 50 degrees north.",
+  "Summerkeur (Summerkent). Yule and Purchas took it for old Astrakhan; Rockhill rejected that and thought of the Khazar town of Itil close to Sarai; recent Russian work points to the Samosdelka site (Saqsin) in the delta, about 120 km south of Selitrennoye; Zharkikh argues Rubruck crossed above the delta.",
+  "Samaron. Rockhill equates it with Edrisi's Semmur and puts it 60-70 miles south of Derbent, north of Beshbarmak; the medieval town of Shabran lies in the same district and is the usual modern candidate. The Samur river mouth, 15 miles from Derbent, is too close for 'two days'.",
+  "The fifteen days to Marsengen. Rockhill counts them from Nakhichevan (four to Ani plus eleven more); Zharkikh emends to five days from Ani and places Marsengen near Kağızman; an Armenian scholar (Gazaryan) took Marsengen for Erzincan. Rockhill's Micingirt is used here.",
+  "Whether 'the country of Sahensa' reached after four days was Ani itself (Rockhill) or a residence of Shahanshah elsewhere on the Araxes, with Ani visited on 2 February.",
+  "The site of the Köse Dağ battlefield (26 June 1243). Rockhill, following Armenian sources, puts it in the plain between Erzurum and Erzincan; Wikipedia's coordinates lie north-east of Erzincan; others place it between Erzincan and Sivas near Zara or Suşehri. Rubruck mentions it after crossing the Euphrates at Kemah, which favours a site to the west.",
+  "The date of the Erzincan earthquake. Rubruck says only 'that same year'; seismological catalogues list a magnitude 7.2-7.5 event in 1254 on the North Anatolian Fault without an agreed day.",
+  "Dates after Korykos. Only 17 May (leaving Korykos), 16 June (entering Cyprus), 29 June (Antioch) and 15 August (Tripoli) are fixed; the days at Sis and Ayas, the landing place in Cyprus and the route from Antioch to Tripoli are not recorded. Rockhill's 'the same day took me with him to Antioch' cannot mean that Antioch was reached the same day.",
+  "Time of the Palm Sunday entry. Rockhill has 'toward the ninth hour' (mid-afternoon by canonical reckoning) for the entry and 'already after noon' when mass ended; the two phrases sit awkwardly together and the clock times given here are approximate."
+ ]
+}

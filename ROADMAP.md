@@ -31,13 +31,12 @@ its hosting assumptions (§3, §15)**, for two reasons found in November 2026:
   tied to named sources, timed beats for every battle, and a Sources panel in the
   viewer with the caveats in plain words. The engine honours `dailyRhythm`. What is
   still soft is listed in `content/journeys/napoleon-1812/README.md`.
-- [ ] **R3 — The other journeys** (started 2026-11-10; moved ahead of frame mode at the
-  owner's request). Each of the three proof-of-concept ports rebuilt to Napoleon's
-  standard: a sourced route, dated stops, cited moments, a Sources panel.
-  - [x] Shackleton's Endurance expedition, 1914–16 (2026-11-11).
-  - [x] The Oregon emigration of 1843 (2026-11-11).
-  - [ ] Silk Road, c. 1300 — needs an owner decision first: the port is an invented
-    "typical caravan", so there is nothing to source. See *Open decisions*.
+- [x] **R3 — The other journeys** (2026-11-11; moved ahead of frame mode at the
+  owner's request). Each rebuilt to Napoleon's standard: a sourced route, dated
+  stops, cited moments, a Sources panel. Shackleton's Endurance expedition, 1914–16;
+  the Oregon emigration of 1843; and William of Rubruck's journey to the Mongol
+  court, 1253–55, which replaced the invented "Silk Road caravan" of the proof of
+  concept (owner's choice). What is soft in each is listed in its README.
 - [ ] **R4 — Frame mode proper** (HANDOFF §8). `/frame` route, layout presets
   (map-dominant, scene-dominant, moment, chapter), director camera, burn-in drift,
   portrait, a 24-hour unattended soak. Candidate signature: draw the travelled route
@@ -79,10 +78,6 @@ when working in that journey anyway. Detail is in
 
 ## Open decisions
 
-- **Silk Road.** The port is a generic caravan from Xi'an to Constantinople in an
-  arbitrary year. Options: replace it with a real, dated journey along the same roads
-  (William of Rubruck 1253–55 has a day-level itinerary; Marco Polo 1271–75 is the
-  famous one but his dates are vague), or keep a composite and label it as one.
 - **The engine was kept, not rewritten** (R1). The owner asked for a rebuild from
   scratch and has not yet confirmed this call.
 
@@ -117,6 +112,22 @@ pnpm test:e2e      # Playwright; needs `pnpm start` or will launch it
 `pnpm typecheck` does not cover `apps/web`; `pnpm build` does.
 
 ## Log
+
+- **2026-11-11 — R3, Rubruck.** The Silk Road port was an invented caravan with
+  nothing to source; the owner chose William of Rubruck in its place. Found: he did
+  not reach Karakorum in December 1253 but the khan's moving winter camp, ten days
+  short of it; Batu was not at Sarai but with a moving camp far up the Volga;
+  Rockhill's printed feast dates are often a day out and once a month out; the
+  earthquake city is Erzincan but the place he entered Turkey is not. DECISION: the
+  whole journey rests on his own report, and the Sources panel says so first.
+  DECISION: where he names no place the line follows Rockhill's reconstruction and
+  the stops are labelled as steppe, not given invented names. DECISION: two moments
+  the research dated by guesswork between Antioch and Tripoli were dropped. The
+  proof-of-concept port path in the content build, and its test, went with the
+  last port. The unexplained browser-test failure of the previous entry happened a
+  second time, again on a slow first run after a build and at the same step; it did
+  not reproduce under parallel load or a throttled CPU. The browser tests now print
+  any page error, so the third time will say what it is.
 
 - **2026-11-11 — R3, first two journeys.** Four research passes, as for Napoleon.
   Found for Shackleton: he was not aboard when the ship left Plymouth; farthest south
