@@ -136,6 +136,9 @@ body {
     0 0 0 1.2px var(--marker, var(--color-carmine)),
     0 2px 6px rgb(42 32 24 / 0.45);
 }
+.track-marker[data-hidden="true"] {
+  opacity: 0 !important;
+}
 .track-marker[data-primary="false"] {
   width: 13px;
   height: 13px;

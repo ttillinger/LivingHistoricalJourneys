@@ -29,6 +29,7 @@ type StatSeries = {
   label: string;
   format: string;
   initial?: number;
+  lapses?: boolean;
   keyframes: { t: string; v: number }[];
 };
 
@@ -39,6 +40,8 @@ type AuthoringTrack = {
   color?: string;
   isPrimary?: boolean;
   dailyRhythm?: { marchStartLocal: string; marchEndLocal: string };
+  appears?: string;
+  leaves?: string;
   vertices: Vertex[];
   statSeries?: Record<string, StatSeries>;
 };
@@ -51,7 +54,7 @@ type AuthoringJourney = {
   tier: "free" | "premium";
   coordinateSpace?: "geo" | "image";
   time: { start: string; end: string };
-  mapDefaults?: { bounds?: number[]; styles?: string[] };
+  mapDefaults?: { bounds?: number[]; styles?: string[]; followZoom?: number };
   tracks: AuthoringTrack[];
   moments?: unknown[];
   episodes?: unknown[];

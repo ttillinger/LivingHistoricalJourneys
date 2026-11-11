@@ -65,3 +65,38 @@ test("a live link anchors the march to the day it began", async ({ page }) => {
   await expect(page.getByText(/Day 11/)).toBeVisible();
   await expect(page.getByText(/Live/)).toBeVisible();
 });
+
+test("title page offers the further journeys once they carry sources", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.getByRole("heading", { name: "Shackleton’s Endurance Expedition" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "The Oregon Emigration of 1843" })).toBeVisible();
+  await page.getByRole("link", { name: "Watch the journey" }).first().click();
+  await expect(page).toHaveURL(/\/viewer\/shackleton-1914/);
+});
+
+test("Shackleton viewer opens on the night the ship was abandoned", async ({ page }) => {
+  await page.goto("/viewer/shackleton-1914?t=1915-10-27T23:30:00Z");
+  const map = page.locator("canvas.maplibregl-canvas");
+  await expect(map).toBeVisible();
+  expect((await map.boundingBox())!.height).toBeGreaterThan(300);
+
+  await expect(page.getByText("27 October 1915").first()).toBeVisible();
+  await expect(page.getByText("Men with Shackleton")).toBeVisible();
+  await expect(page.getByText("Sledge dogs")).toBeVisible();
+  await expect(page.getByText("Abandon ship").first()).toBeVisible();
+  // The Elephant Island party does not exist yet, so it cannot be followed.
+  await expect(page.getByRole("button", { name: "Follow The men on Elephant Island" })).toHaveCount(0);
+
+  await page.getByRole("button", { name: "Sources" }).click();
+  await expect(
+    page.getByRole("dialog", { name: "Sources" }).getByText(/Ernest Shackleton, South/),
+  ).toBeVisible();
+});
+
+test("Oregon viewer finds the wagons at Fort Laramie in mid-July", async ({ page }) => {
+  await page.goto("/viewer/oregon-trail-1843?t=1843-07-15T18:00:00Z");
+  await expect(page.locator("canvas.maplibregl-canvas")).toBeVisible();
+  await expect(page.getByText("15 July 1843").first()).toBeVisible();
+  await expect(page.getByText(/Day 59 · Fort Laramie/)).toBeVisible();
+  await expect(page.getByText("Deaths recorded on the road")).toBeVisible();
+});

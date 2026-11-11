@@ -5,7 +5,14 @@ import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { evaluate, loadJourney } from "@living-journeys/engine";
 import type { JourneyBundle } from "@living-journeys/content";
-import { dayNumber, formatDate, formatLocalTime, formatStat, statUnit } from "@/lib/format";
+import {
+  PACES,
+  dayNumber,
+  formatDate,
+  formatLocalTime,
+  formatStat,
+  statUnit,
+} from "@/lib/format";
 import type { StyleId } from "@/lib/mapStyles";
 import { Timeline } from "./Timeline";
 import { useJourneyClock, type ClockInit } from "./useJourneyClock";
@@ -13,8 +20,15 @@ import { useJourneyClock, type ClockInit } from "./useJourneyClock";
 const JourneyMap = dynamic(() => import("./JourneyMap"), { ssr: false });
 
 const MS_PER_DAY = 86_400_000;
-const DEFAULT_RATE = 21_600; // six hours a second: the campaign in about twelve minutes
 const IDLE_MS = 3_500;
+const DEFAULT_FOLLOW_ZOOM = 6.4;
+const WATCH_MS = 12 * 60_000;
+
+/** The listed pace that plays the whole journey in closest to twelve minutes. */
+function watchingRate(spanMs: number): number {
+  const off = (rate: number) => Math.abs(Math.log(spanMs / rate / WATCH_MS));
+  return PACES.reduce((best, p) => (off(p.rate) < off(best.rate) ? p : best)).rate;
+}
 
 /**
  * Link parameters:
@@ -22,7 +36,7 @@ const IDLE_MS = 3_500;
  *   ?t=<ISO>      open paused at a moment in the journey
  *   ?frame=1      no controls at all — for a wall display
  */
-function readLink(): { init: ClockInit; frame: boolean } {
+function readLink(spanMs: number): { init: ClockInit; frame: boolean } {
   const q = new URLSearchParams(window.location.search);
   const began = Date.parse(q.get("began") ?? "");
   const at = Date.parse(q.get("t") ?? "");
@@ -32,7 +46,7 @@ function readLink(): { init: ClockInit; frame: boolean } {
     init: {
       beganMs: live ? began : undefined,
       atMs: Number.isFinite(at) ? at : undefined,
-      rate: pace > 0 ? pace : live ? 1 : DEFAULT_RATE,
+      rate: pace > 0 ? pace : live ? 1 : watchingRate(spanMs),
     },
     frame: q.get("frame") === "1",
   };
@@ -40,7 +54,7 @@ function readLink(): { init: ClockInit; frame: boolean } {
 
 export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
   const loaded = useMemo(() => loadJourney(bundle.manifest, bundle.routeCoords), [bundle]);
-  const [link] = useState(readLink);
+  const [link] = useState(() => readLink(loaded.endMs - loaded.startMs));
   const clock = useJourneyClock(loaded.startMs, loaded.endMs, link.init);
   const snapshot = useMemo(() => evaluate(loaded, clock.virtualMs), [loaded, clock.virtualMs]);
 
@@ -67,7 +81,10 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
   }, [wake]);
   const showControls = !link.frame && (active || clock.paused);
 
-  const track = loaded.tracks[followId] ?? loaded.tracks[loaded.primaryTrackId]!;
+  // A party that is not on the scene (not yet split off, or picked up) cannot be followed.
+  const track =
+    (snapshot.tracks[followId]?.isPresent ? loaded.tracks[followId] : undefined) ??
+    loaded.tracks[loaded.primaryTrackId]!;
   const trackSnap = snapshot.tracks[track.def.id]!;
 
   // Where the followed track last was, in the words of its own schedule.
@@ -83,11 +100,12 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
   // Stats, each with its change over the last day of the journey.
   const stats = useMemo(() => {
     const before = evaluate(loaded, Math.max(loaded.startMs, clock.virtualMs - MS_PER_DAY));
-    return Object.entries(track.statSeries).map(([key, series]) => {
-      const now = trackSnap.stats[key] ?? 0;
+    return Object.entries(track.statSeries).flatMap(([key, series]) => {
+      const now = trackSnap.stats[key];
+      if (now === undefined) return [];
       const delta = now - (before.tracks[track.def.id]?.stats[key] ?? now);
       const initial = series.keyframes[0]?.v ?? now;
-      return { key, label: series.label, format: series.format, now, delta, initial };
+      return [{ key, label: series.label, format: series.format, now, delta, initial }];
     });
   }, [loaded, track, trackSnap, clock.virtualMs]);
 
@@ -114,6 +132,11 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
         styleId={styleId}
         follow={follow}
         followTrackId={track.def.id}
+        followZoom={
+          snapshot.activity.zoom ??
+          loaded.manifest.mapDefaults?.followZoom ??
+          DEFAULT_FOLLOW_ZOOM
+        }
         overviewNonce={overviewNonce}
         onBreakFollow={breakFollow}
       />
@@ -136,6 +159,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
         <div className="card pointer-events-auto w-[190px] px-4 py-3 sm:w-[250px]">
           <div className="flex flex-col gap-1">
             {loaded.manifest.tracks.map((t) => {
+              if (!snapshot.tracks[t.id]?.isPresent) return null;
               const selected = t.id === track.def.id;
               return (
                 <button
@@ -261,7 +285,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
                   onClick={() => setFollow(true)}
                   className="card px-4 py-1.5 text-[15px] italic hover:text-carmine"
                 >
-                  Return to the {track.def.name}
+                  Resume following
                 </button>
               ) : null}
               {clock.goLive ? (
@@ -270,7 +294,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
                   onClick={clock.goLive}
                   className="card px-4 py-1.5 text-[15px] italic hover:text-carmine"
                 >
-                  Return to the live march
+                  Return to the live journey
                 </button>
               ) : null}
             </div>
@@ -355,7 +379,8 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
 
       {clock.live ? (
         <div className="caps pointer-events-none absolute left-1/2 top-5 -translate-x-1/2 text-[13px] text-carmine">
-          ● Live · as it happened, {new Date().getFullYear() - 1812} years on
+          ● Live · as it happened,{" "}
+          {new Date().getFullYear() - new Date(loaded.startMs).getUTCFullYear()} years on
         </div>
       ) : null}
     </div>

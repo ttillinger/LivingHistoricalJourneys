@@ -2,8 +2,8 @@ import type { StyleSpecification } from "maplibre-gl";
 
 /**
  * Map styles (HANDOFF.md §7.2). The period style restyles OpenFreeMap's vector tiles
- * (OpenMapTiles schema) as an engraved campaign map: paper, water, woods and rivers
- * only. Modern roads, railways, borders and place names are simply not drawn — the
+ * (OpenMapTiles schema) as an engraved campaign map: paper, water, woods, ice and
+ * rivers only. Modern roads, railways, borders and place names are simply not drawn — the
  * journey's own period labels are laid over it as DOM (see JourneyMap).
  */
 
@@ -42,6 +42,15 @@ const periodStyle: StyleSpecification = {
       "source-layer": "landcover",
       filter: ["==", ["get", "class"], "wetland"],
       paint: { "fill-color": "#a9bcae", "fill-opacity": 0.3 },
+    },
+    {
+      // Glaciers and ice shelves: the land of the far south, left almost white.
+      id: "ice",
+      type: "fill",
+      source: "omt",
+      "source-layer": "landcover",
+      filter: ["==", ["get", "class"], "ice"],
+      paint: { "fill-color": "#f7f3e8", "fill-opacity": 0.85 },
     },
     {
       id: "water",

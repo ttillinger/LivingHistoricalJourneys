@@ -16,12 +16,13 @@ type Props = {
   styleId: StyleId;
   follow: boolean;
   followTrackId: string;
+  /** Zoom to follow at; the map glides to it whenever the content changes it. */
+  followZoom: number;
   /** Bump to frame the whole journey. */
   overviewNonce: number;
   onBreakFollow: () => void;
 };
 
-const FOLLOW_ZOOM = 6.4;
 /** Zoom at which each label rank appears; regions fade out once you are close. */
 const RANK_MIN_ZOOM: Record<number, number> = { 1: 0, 2: 5.2, 3: 6.2 };
 const REGION_MAX_ZOOM = 7.2;
@@ -39,6 +40,7 @@ export default function JourneyMap({
   styleId,
   follow,
   followTrackId,
+  followZoom,
   overviewNonce,
   onBreakFollow,
 }: Props) {
@@ -48,6 +50,7 @@ export default function JourneyMap({
   const labelEls = useRef<{ el: HTMLElement; label: MapLabel }[]>([]);
   const overlaysReady = useRef(false);
   const easingUntil = useRef(0);
+  const zoomRef = useRef(followZoom);
 
   const snapshotRef = useRef(snapshot);
   snapshotRef.current = snapshot;
@@ -67,8 +70,8 @@ export default function JourneyMap({
       container,
       style: MAP_STYLES[styleRef.current].style,
       center: start,
-      zoom: FOLLOW_ZOOM,
-      minZoom: 3.5,
+      zoom: zoomRef.current,
+      minZoom: 1.5,
       maxZoom: 11,
       dragRotate: false,
       pitchWithRotate: false,
@@ -214,6 +217,7 @@ export default function JourneyMap({
       if (!marker) continue;
       marker.setLngLat(track.position);
       marker.getElement().dataset.moving = String(!track.isHalted);
+      marker.getElement().dataset.hidden = String(!track.isPresent);
     }
 
     if (overlaysReady.current) {
@@ -226,6 +230,13 @@ export default function JourneyMap({
     if (follow) {
       const target = snapshot.tracks[followTrackId] ?? snapshot.tracks[snapshot.primaryTrackId]!;
       const now = performance.now();
+      if (followZoom !== zoomRef.current) {
+        // The journey changed scale (open sea to pack ice, say): reframe slowly.
+        zoomRef.current = followZoom;
+        easingUntil.current = now + 2400;
+        map.easeTo({ center: target.position, zoom: followZoom, duration: 2400 });
+        return;
+      }
       if (now < easingUntil.current) return;
       const from = map.project(map.getCenter());
       const to = map.project(target.position);
@@ -237,7 +248,7 @@ export default function JourneyMap({
         map.jumpTo({ center: target.position });
       }
     }
-  }, [snapshot, follow, followTrackId, journey]);
+  }, [snapshot, follow, followTrackId, followZoom, journey]);
 
   // Frame the whole journey on request.
   useEffect(() => {

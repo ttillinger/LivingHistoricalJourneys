@@ -12,6 +12,7 @@ content/
 │       ├── journey.json        # GENERATED manifest + timeline (schema-validated)  ─┐ build
 │       ├── routes/*.geojson    # GENERATED route geometry per track                ─┘ outputs
 │       ├── roads.json          # traced road geometry per leg (`pnpm trace <slug>`) ─┤
+│       ├── trail.geojson       # optional surveyed line to cut legs from, not OSRM  ─┤
 │       ├── labels.json         # period place names drawn over the map            ─┘
 │       ├── research/           # sourced research notes behind the content
 │       ├── bundle.json         # GENERATED app bundle (manifest + routes + labels)
@@ -54,5 +55,9 @@ build on any schema violation.
 - Timestamps are UTC written from **local mean time** (UTC + 4 minutes per degree of
   longitude east); see `journeys/napoleon-1812/README.md`.
 - A track with a `dailyRhythm` marches only between those local hours.
+- A party that exists for part of the journey gets `appears` / `leaves` on its track.
+- A stat whose record stops gets `"lapses": true`; it is then hidden, not held flat.
+- A condition may carry a camera `zoom`, for journeys that change scale (open sea,
+  then a walk across an island). `mapDefaults.followZoom` is the default.
 - Routes are dense LineStrings (200+ vertices for the flagship); the schedule
   (time → km) is authored separately from the geometry.

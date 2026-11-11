@@ -26,6 +26,11 @@ export const StatSeries = z.object({
   /** Display format hint, e.g. "men" | "celsius". Renderers stay generic. */
   format: z.string(),
   initial: z.number().optional(),
+  /**
+   * The record stops at the last keyframe (the thermometer was lost, the dogs were
+   * gone). After it the stat is left out of the snapshot instead of held flat.
+   */
+  lapses: z.boolean().optional(),
   keyframes: z.array(StatKeyframe).min(1),
 });
 
@@ -46,6 +51,12 @@ export const Track = z.object({
   /** time -> km-along-route keyframes; the schedule is separate from the geometry. */
   schedule: z.array(ScheduleKeyframe).min(2),
   dailyRhythm: DailyRhythm.optional(),
+  /**
+   * A party that splits off, or is picked up, exists for only part of the journey.
+   * Outside these instants the track is not `isPresent`; renderers hide it.
+   */
+  appears: IsoDateTime.optional(),
+  leaves: IsoDateTime.optional(),
   /** Generic per-track stats (strength, temperature, oxen, drift, ...). */
   statSeries: z.record(z.string(), StatSeries).optional(),
 });
@@ -91,6 +102,8 @@ export const Condition = z.object({
   activityKey: z.string().min(1),
   label: z.string().optional(),
   weather: z.string().optional(),
+  /** Camera hint: the map zoom to follow at while this holds. The engine passes it on. */
+  zoom: z.number().optional(),
 });
 
 /**
@@ -108,6 +121,8 @@ export const SceneManifest = z.object({
 export const MapDefaults = z.object({
   bounds: z.array(z.number()).optional(),
   styles: z.array(z.string()).optional(),
+  /** Map zoom to follow a track at when no condition says otherwise. */
+  followZoom: z.number().optional(),
 });
 
 export const JourneySchema = z

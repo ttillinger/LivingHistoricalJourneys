@@ -4,17 +4,25 @@ import { MAP_STYLES, type StyleId } from "@/lib/mapStyles";
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-/** First-of-month marks between two instants, for the timeline's scale. */
+/**
+ * First-of-month marks between two instants, for the timeline's scale. A journey of
+ * more than a year names only the quarters, and each January by its year.
+ */
 function monthMarks(startMs: number, endMs: number): { ms: number; label: string }[] {
   const marks: { ms: number; label: string }[] = [];
   const d = new Date(startMs);
   let cursor = Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1);
   while (cursor < endMs) {
-    marks.push({ ms: cursor, label: MONTHS[new Date(cursor).getUTCMonth()]! });
     const c = new Date(cursor);
+    marks.push({ ms: cursor, label: MONTHS[c.getUTCMonth()]! });
     cursor = Date.UTC(c.getUTCFullYear(), c.getUTCMonth() + 1, 1);
   }
-  return marks;
+  if (marks.length <= 12) return marks;
+  return marks.map((m) => {
+    const c = new Date(m.ms);
+    const month = c.getUTCMonth();
+    return { ms: m.ms, label: month === 0 ? String(c.getUTCFullYear()) : month % 3 === 0 ? m.label : "" };
+  });
 }
 
 export function Timeline({
@@ -120,7 +128,7 @@ export function Timeline({
 
       <div className="flex items-center gap-4 text-[15px] italic">
         <button type="button" onClick={onOverview} className="text-ink-soft hover:text-ink">
-          Whole campaign
+          Whole journey
         </button>
         <button
           type="button"

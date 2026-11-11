@@ -17,6 +17,10 @@ import { haversineKm, type Coord } from "@living-journeys/engine";
  * Modern roads stand in for period ones. A leg falls back to a straight line when the
  * vertex is marked `"straight": true` (a ford or pontoon bridge with no modern
  * crossing) or when the road path is an implausible detour.
+ *
+ * A journey that has a surveyed line of its own puts it beside `authoring.json` as
+ * `trail.geojson` (LineString or MultiLineString). Legs are then cut from that line
+ * instead of asked of OSRM, and a leg whose ends are not both near it is straight.
  */
 
 const scriptDir = fileURLToPath(new URL(".", import.meta.url));
@@ -25,6 +29,10 @@ const journeysDir = resolve(scriptDir, "..", "journeys");
 const OSRM = "https://router.project-osrm.org/route/v1/driving";
 const SIMPLIFY_KM = 0.12;
 const MAX_DETOUR = 1.7;
+/** A vertex further than this from the surveyed trail is not on it. */
+const TRAIL_SNAP_KM = 12;
+/** Ends of two trail pieces closer than this are the same place. */
+const TRAIL_JOIN_KM = 0.6;
 
 type Vertex = { lon: number; lat: number; straight?: boolean };
 type Authoring = { tracks: { id: string; vertices: Vertex[] }[] };
@@ -93,6 +101,91 @@ async function roadLeg(a: Vertex, b: Vertex): Promise<Coord[] | null> {
   return null;
 }
 
+type Trail = { points: Coord[]; edges: [number, number][][] };
+
+/** Load a surveyed trail as a graph: every point a node, joined along and between pieces. */
+function loadTrail(path: string): Trail {
+  const geo = JSON.parse(readFileSync(path, "utf8")) as {
+    features: { geometry: { type: string; coordinates: Coord[] | Coord[][] } }[];
+  };
+  const pieces = geo.features.flatMap((f) =>
+    f.geometry.type === "MultiLineString"
+      ? (f.geometry.coordinates as Coord[][])
+      : [f.geometry.coordinates as Coord[]],
+  );
+  const points: Coord[] = [];
+  const edges: [number, number][][] = [];
+  const link = (a: number, b: number) => {
+    const km = haversineKm(points[a]!, points[b]!);
+    edges[a]!.push([b, km]);
+    edges[b]!.push([a, km]);
+  };
+  const ends: number[] = [];
+  for (const piece of pieces) {
+    piece.forEach((c, i) => {
+      points.push(c);
+      edges.push([]);
+      if (i > 0) link(points.length - 2, points.length - 1);
+    });
+    ends.push(points.length - piece.length, points.length - 1);
+  }
+  // A piece's end joins the nearest point of any other piece that passes close by.
+  for (const end of ends) {
+    for (let i = 0; i < points.length; i++) {
+      if (i !== end && haversineKm(points[end]!, points[i]!) < TRAIL_JOIN_KM) link(end, i);
+    }
+  }
+  return { points, edges };
+}
+
+function nearest(trail: Trail, v: Vertex): { index: number; km: number } {
+  let index = 0;
+  let km = Infinity;
+  trail.points.forEach((p, i) => {
+    const d = haversineKm(p, [v.lon, v.lat]);
+    if (d < km) {
+      km = d;
+      index = i;
+    }
+  });
+  return { index, km };
+}
+
+/** Shortest way along the trail between two of its points (Dijkstra), or null. */
+function alongTrail(trail: Trail, from: number, to: number): Coord[] | null {
+  const dist = new Float64Array(trail.points.length).fill(Infinity);
+  const prev = new Int32Array(trail.points.length).fill(-1);
+  const done = new Uint8Array(trail.points.length);
+  dist[from] = 0;
+  const queue: number[] = [from];
+  while (queue.length > 0) {
+    let best = 0;
+    for (let i = 1; i < queue.length; i++) if (dist[queue[i]!]! < dist[queue[best]!]!) best = i;
+    const node = queue.splice(best, 1)[0]!;
+    if (done[node]) continue;
+    done[node] = 1;
+    if (node === to) break;
+    for (const [next, km] of trail.edges[node]!) {
+      if (dist[node]! + km < dist[next]!) {
+        dist[next] = dist[node]! + km;
+        prev[next] = node;
+        queue.push(next);
+      }
+    }
+  }
+  if (!done[to]) return null;
+  const path: Coord[] = [];
+  for (let n = to; n !== -1; n = prev[n]!) path.push(trail.points[n]!);
+  return path.reverse();
+}
+
+function trailLeg(trail: Trail, a: Vertex, b: Vertex): Coord[] | null {
+  const from = nearest(trail, a);
+  const to = nearest(trail, b);
+  if (from.km > TRAIL_SNAP_KM || to.km > TRAIL_SNAP_KM) return null;
+  return alongTrail(trail, from.index, to.index);
+}
+
 async function trace(slug: string): Promise<void> {
   const dir = join(journeysDir, slug);
   const authoring = JSON.parse(readFileSync(join(dir, "authoring.json"), "utf8")) as Authoring;
@@ -101,6 +194,8 @@ async function trace(slug: string): Promise<void> {
     ? (JSON.parse(readFileSync(roadsPath, "utf8")) as RoadsFile)
     : {};
   const out: RoadsFile = {};
+  const trailPath = join(dir, "trail.geojson");
+  const trail = existsSync(trailPath) ? loadTrail(trailPath) : null;
 
   for (const track of authoring.tracks) {
     const legs: Record<string, Coord[]> = {};
@@ -120,10 +215,10 @@ async function trace(slug: string): Promise<void> {
       }
 
       const straightKm = haversineKm([a.lon, a.lat], [b.lon, b.lat]);
-      const road = await roadLeg(a, b);
-      await new Promise((r) => setTimeout(r, 400));
+      const road = trail ? trailLeg(trail, a, b) : await roadLeg(a, b);
+      if (!trail) await new Promise((r) => setTimeout(r, 400));
       if (!road) {
-        console.warn(`  ! ${track.id} leg ${i}: no road path, using a straight line`);
+        console.warn(`  ! ${track.id} leg ${i}: no ${trail ? "trail" : "road"} path, using a straight line`);
         continue;
       }
       const detour = lengthKm(road) / straightKm;

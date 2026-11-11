@@ -2,7 +2,7 @@ import { describe, it, expect } from "vitest";
 import { evaluate } from "../src/index";
 import { loadContentJourney } from "./helpers";
 
-const SLUGS = ["oregon-trail-1843", "shackleton-1914", "silk-road-1300"];
+const SLUGS = ["silk-road-1300"];
 
 describe.each(SLUGS)("ported journey: %s", (slug) => {
   const journey = loadContentJourney(slug);

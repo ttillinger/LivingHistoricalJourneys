@@ -24,6 +24,7 @@ type MarchWindow = { startMs: number; endMs: number };
 type StatSeriesMs = {
   label: string;
   format: string;
+  lapses: boolean;
   keyframes: { t: number; v: number }[];
 };
 
@@ -63,6 +64,8 @@ export type ActivityState = {
   label: string;
   isHalted: boolean;
   weather?: string;
+  /** The active condition's camera hint, if it gave one. */
+  zoom?: number;
   episodeId?: string;
 };
 
@@ -74,6 +77,8 @@ export type TrackSnapshot = {
   distanceKm: number;
   routeFraction: number;
   isHalted: boolean;
+  /** False before the track `appears` or after it `leaves`. */
+  isPresent: boolean;
   stats: Record<string, number>;
 };
 
@@ -253,6 +258,7 @@ export function loadJourney(
         statSeries[key] = {
           label: series.label,
           format: series.format,
+          lapses: series.lapses ?? false,
           keyframes: series.keyframes
             .map((k) => ({ t: ms(k.t), v: k.v }))
             .sort((a, b) => a.t - b.t),
@@ -296,6 +302,8 @@ export function evaluate(journey: LoadedJourney, virtualMs: number): JourneySnap
 
     const stats: Record<string, number> = {};
     for (const [key, series] of Object.entries(track.statSeries)) {
+      const last = series.keyframes[series.keyframes.length - 1];
+      if (series.lapses && last && virtualMs > last.t) continue;
       stats[key] = interpValue(series.keyframes, virtualMs);
     }
 
@@ -307,6 +315,9 @@ export function evaluate(journey: LoadedJourney, virtualMs: number): JourneySnap
       distanceKm,
       routeFraction: track.route.totalKm > 0 ? distanceKm / track.route.totalKm : 0,
       isHalted: halted,
+      isPresent:
+        (!track.def.appears || virtualMs >= ms(track.def.appears)) &&
+        (!track.def.leaves || virtualMs <= ms(track.def.leaves)),
       stats,
     };
   }
@@ -321,6 +332,7 @@ export function evaluate(journey: LoadedJourney, virtualMs: number): JourneySnap
     label: cond?.label ?? cond?.activityKey ?? (primary.isHalted ? "Halted" : "Traveling"),
     isHalted: primary.isHalted,
     weather: cond?.weather,
+    zoom: cond?.zoom,
     episodeId: episode?.id,
   };
 
