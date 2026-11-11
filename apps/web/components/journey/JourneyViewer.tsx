@@ -49,6 +49,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
   const [follow, setFollow] = useState(true);
   const [overviewNonce, setOverviewNonce] = useState(0);
   const breakFollow = useCallback(() => setFollow(false), []);
+  const [showSources, setShowSources] = useState(false);
 
   // Controls step back when nobody is touching anything.
   const [active, setActive] = useState(true);
@@ -209,6 +210,9 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
                 ? `${formatLocalTime(clock.virtualMs, trackSnap.position[0])} · `
                 : ""}
               {snapshot.activity.label}
+              {clock.rate <= 3_600 && trackSnap.isHalted && snapshot.activity.key !== "camp"
+                ? " · halted"
+                : ""}
               {snapshot.activity.weather ? ` · ${snapshot.activity.weather}` : ""}
             </div>
             {episode?.currentBeat ? (
@@ -226,6 +230,21 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
               <div className="font-display text-[22px] italic leading-tight">{moment.title}</div>
               {moment.body ? (
                 <p className="mt-1.5 text-[16px] leading-snug">{moment.body}</p>
+              ) : null}
+              {moment.quote ? (
+                <blockquote className="mt-2 border-l-2 border-carmine/60 pl-3 text-[15px] italic leading-snug text-ink-soft">
+                  “{moment.quote.text}”
+                  <footer className="caps mt-0.5 text-[11px] not-italic">{moment.quote.by}</footer>
+                </blockquote>
+              ) : null}
+              {moment.refs?.length ? (
+                <div className="caps mt-2 text-[11px] text-ink-soft">
+                  After{" "}
+                  {moment.refs
+                    .map((id) => loaded.manifest.bibliography.find((b) => b.id === id)?.short)
+                    .filter(Boolean)
+                    .join(" · ")}
+                </div>
               ) : null}
             </div>
           ) : null}
@@ -269,10 +288,70 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
                 setFollow(false);
                 setOverviewNonce((n) => n + 1);
               }}
+              onSources={() => setShowSources(true)}
             />
           </div>
         )}
       </div>
+
+      {showSources ? (
+        <div
+          className="absolute inset-0 z-20 flex items-center justify-center bg-ink/30 p-4"
+          onClick={() => setShowSources(false)}
+        >
+          <div
+            role="dialog"
+            aria-label="Sources"
+            className="card max-h-[85dvh] w-full max-w-[640px] overflow-y-auto px-6 py-5"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-baseline justify-between gap-4">
+              <h2 className="font-display text-[26px] leading-tight">Sources</h2>
+              <button
+                type="button"
+                onClick={() => setShowSources(false)}
+                className="text-[15px] italic text-ink-soft hover:text-ink"
+              >
+                Close
+              </button>
+            </div>
+            {loaded.manifest.notes.length > 0 ? (
+              <>
+                <h3 className="caps mt-3 text-[12px] text-carmine">How far to trust this</h3>
+                <ul className="mt-1 list-disc space-y-1 pl-5 text-[15px] leading-snug">
+                  {loaded.manifest.notes.map((n) => (
+                    <li key={n}>{n}</li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
+            {loaded.manifest.bibliography.length > 0 ? (
+              <>
+                <h3 className="caps mt-4 text-[12px] text-carmine">Works consulted</h3>
+                <ul className="mt-1 space-y-1 text-[15px] leading-snug">
+                  {loaded.manifest.bibliography.map((b) => (
+                    <li key={b.id}>
+                      {b.url ? (
+                        <a href={b.url} target="_blank" rel="noreferrer" className="underline decoration-ink/30 hover:text-carmine">
+                          {b.citation}
+                        </a>
+                      ) : (
+                        b.citation
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
+            <h3 className="caps mt-4 text-[12px] text-carmine">Credits</h3>
+            <ul className="mt-1 space-y-1 text-[15px] leading-snug">
+              {[...loaded.manifest.sources, ...loaded.manifest.attribution].map((line) => (
+                <li key={line}>{line}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      ) : null}
 
       {clock.live ? (
         <div className="caps pointer-events-none absolute left-1/2 top-5 -translate-x-1/2 text-[13px] text-carmine">

@@ -13,7 +13,7 @@ test("title page presents the flagship journey and links into the viewer", async
 test("Napoleon viewer opens at Borodino, seeks, and keeps its overlays on a style switch", async ({
   page,
 }) => {
-  await page.goto("/viewer/napoleon-1812?t=1812-09-07T10:00:00Z");
+  await page.goto("/viewer/napoleon-1812?t=1812-09-07T08:00:00Z");
 
   // The map must actually occupy the page (it once collapsed to zero height).
   const map = page.locator("canvas.maplibregl-canvas");
@@ -23,7 +23,7 @@ test("Napoleon viewer opens at Borodino, seeks, and keeps its overlays on a styl
   // The engine snapshot flows through to every overlay.
   await expect(page.getByText("7 September 1812").first()).toBeVisible();
   await expect(page.getByText("Army strength")).toBeVisible();
-  await expect(page.getByText("The Battle of Borodino begins")).toBeVisible();
+  await expect(page.getByText("Bagration falls")).toBeVisible();
   await expect(page.getByText("Borodino", { exact: true }).first()).toBeVisible();
 
   // Follow the other side.
@@ -43,6 +43,13 @@ test("Napoleon viewer opens at Borodino, seeks, and keeps its overlays on a styl
   }, october);
   await expect(page.getByText("1 October 1812").first()).toBeVisible();
   await expect(page.getByText("The Occupation of Moscow")).toBeVisible();
+
+  // Every claim can be traced: the sources panel lists what the content rests on.
+  await page.getByRole("button", { name: "Sources" }).click();
+  const sources = page.getByRole("dialog", { name: "Sources" });
+  await expect(sources.getByText("How far to trust this")).toBeVisible();
+  await expect(sources.getByText(/Ségur, History of the Expedition to Russia/)).toBeVisible();
+  await sources.getByRole("button", { name: "Close" }).click();
 
   // Switching the base style must not drop the overlays.
   await page.getByRole("button", { name: "Modern map" }).click();

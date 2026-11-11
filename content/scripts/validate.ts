@@ -43,7 +43,26 @@ for (const manifest of manifests) {
 
   const result = JourneySchema.safeParse(raw);
   if (result.success) {
-    console.log(`✓ ${manifest}`);
+    // Beyond shape: every citation resolves, and every moment falls inside the journey.
+    const journey = result.data;
+    const known = new Set(journey.bibliography.map((b) => b.id));
+    const start = Date.parse(journey.time.start);
+    const end = Date.parse(journey.time.end);
+    const problems: string[] = [];
+    for (const m of journey.moments) {
+      for (const ref of m.refs ?? []) {
+        if (!known.has(ref)) problems.push(`moment "${m.title}" cites unknown source "${ref}"`);
+      }
+      const t = Date.parse(m.t);
+      if (t < start || t > end) problems.push(`moment "${m.title}" is outside the journey's dates`);
+    }
+    if (problems.length === 0) {
+      console.log(`✓ ${manifest}`);
+    } else {
+      failures++;
+      console.error(`✗ ${manifest}`);
+      for (const problem of problems) console.error(`  - ${problem}`);
+    }
   } else {
     failures++;
     console.error(`✗ ${manifest}`);

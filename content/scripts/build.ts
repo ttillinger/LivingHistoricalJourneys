@@ -38,6 +38,7 @@ type AuthoringTrack = {
   kind: string;
   color?: string;
   isPrimary?: boolean;
+  dailyRhythm?: { marchStartLocal: string; marchEndLocal: string };
   vertices: Vertex[];
   statSeries?: Record<string, StatSeries>;
 };
@@ -59,6 +60,8 @@ type AuthoringJourney = {
   labelsOverlay?: string;
   attribution?: string[];
   sources?: string[];
+  bibliography?: unknown[];
+  notes?: string[];
 };
 
 const round = (n: number, dp = 2): number => Number(n.toFixed(dp));
@@ -200,10 +203,13 @@ function buildJourney(slug: string): void {
   }
 
   const { tracks: _authoringTracks, ...journeyRest } = authoring;
-  const manifest = { ...journeyRest, coordinateSpace: space, tracks: manifestTracks };
-
   // Fail the build on any schema violation, so committed manifests are always valid.
-  JourneySchema.parse(manifest);
+  // The parsed form is what gets written, so schema defaults are always present.
+  const manifest = JourneySchema.parse({
+    ...journeyRest,
+    coordinateSpace: space,
+    tracks: manifestTracks,
+  });
 
   writeFileSync(join(dir, "journey.json"), JSON.stringify(manifest, null, 2) + "\n");
   const routesDir = join(dir, "routes");
@@ -220,7 +226,7 @@ function buildJourney(slug: string): void {
     `✓ ${slug}: ${manifestTracks.length} track(s), ` +
       `${primary?.schedule.length ?? 0} schedule keyframes (primary), ` +
       `${Object.values(routeCoords).reduce((n, c) => n + c.length, 0)} route vertices, ` +
-      `${(manifest.moments as unknown[] | undefined)?.length ?? 0} moments`,
+      `${manifest.moments.length} moments`,
   );
 }
 

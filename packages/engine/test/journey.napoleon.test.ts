@@ -5,17 +5,40 @@ import { at, loadContentJourney } from "./helpers";
 const napoleon = loadContentJourney("napoleon-1812");
 const BORODINO: [number, number] = [35.82, 55.52];
 const MOSCOW: [number, number] = [37.62, 55.75];
+const VILNA: [number, number] = [25.28, 54.69];
+const VYAZMA: [number, number] = [34.3, 55.21];
 
 describe("Napoleon 1812 — position & movement", () => {
   it("stands at Borodino on the morning of 7 September 1812", () => {
-    const snap = evaluate(napoleon, at("1812-09-07T10:00:00Z"));
+    const snap = evaluate(napoleon, at("1812-09-07T08:00:00Z"));
     const armee = snap.tracks["grande-armee"]!;
-    expect(haversineKm(armee.position, BORODINO)).toBeLessThan(15);
-    expect(armee.isHalted).toBe(false);
+    expect(haversineKm(armee.position, BORODINO)).toBeLessThan(5);
+    expect(armee.isHalted).toBe(true);
+  });
+
+  it("keeps headquarters in Vilna for eighteen days", () => {
+    for (const day of ["1812-06-29", "1812-07-08", "1812-07-16"]) {
+      const armee = evaluate(napoleon, at(`${day}T12:00:00Z`)).tracks["grande-armee"]!;
+      expect(haversineKm(armee.position, VILNA)).toBeLessThan(2);
+      expect(armee.isHalted).toBe(true);
+    }
+  });
+
+  it("is a march past Vyazma on the day of the battle there", () => {
+    const armee = evaluate(napoleon, at("1812-11-03T14:00:00Z")).tracks["grande-armee"]!;
+    expect(haversineKm(armee.position, VYAZMA)).toBeGreaterThan(30);
+  });
+
+  it("marches by day and halts overnight on the road to Moscow", () => {
+    // Between Dorogobuzh and Gzhatsk: local mean time is about 2h15 ahead of UTC.
+    const noon = evaluate(napoleon, at("1812-08-31T10:00:00Z")).tracks["grande-armee"]!;
+    const night = evaluate(napoleon, at("1812-08-31T22:00:00Z")).tracks["grande-armee"]!;
+    expect(noon.isHalted).toBe(false);
+    expect(night.isHalted).toBe(true);
   });
 
   it("advances measurably along the route through the summer", () => {
-    const june = evaluate(napoleon, at("1812-06-25T12:00:00Z")).tracks["grande-armee"]!;
+    const june = evaluate(napoleon, at("1812-06-28T06:00:00Z")).tracks["grande-armee"]!;
     const september = evaluate(napoleon, at("1812-09-10T12:00:00Z")).tracks["grande-armee"]!;
     expect(june.distanceKm).toBeGreaterThan(0);
     expect(september.distanceKm).toBeGreaterThan(june.distanceKm);
@@ -32,7 +55,7 @@ describe("Napoleon 1812 — position & movement", () => {
 
 describe("Napoleon 1812 — activity & episodes", () => {
   it("reports the battle activity and the active Borodino episode", () => {
-    const snap = evaluate(napoleon, at("1812-09-07T10:00:00Z"));
+    const snap = evaluate(napoleon, at("1812-09-07T08:00:00Z"));
     expect(snap.activity.key).toBe("battle");
     expect(snap.activeEpisode?.id).toBe("borodino");
     expect(snap.activeEpisode?.currentBeat).toContain("Bagration");
@@ -52,15 +75,28 @@ describe("Napoleon 1812 — activity & episodes", () => {
 });
 
 describe("Napoleon 1812 — stats (after Minard)", () => {
-  it("interpolates army strength to about 130,000 at Borodino", () => {
-    const armee = evaluate(napoleon, at("1812-09-07T10:00:00Z")).tracks["grande-armee"]!;
-    expect(armee.stats.strength).toBeGreaterThan(120_000);
-    expect(armee.stats.strength).toBeLessThan(131_000);
+  it("puts about 130,000 men in line on the morning of Borodino", () => {
+    const armee = evaluate(napoleon, at("1812-09-07T03:00:00Z")).tracks["grande-armee"]!;
+    expect(armee.stats.strength).toBeGreaterThan(129_000);
+    expect(armee.stats.strength).toBeLessThan(134_000);
   });
 
-  it("collapses to roughly 10,000 by the recrossing of the Niemen", () => {
+  it("grows again at the Berezina when Oudinot and Victor rejoin", () => {
+    const before = evaluate(napoleon, at("1812-11-25T12:00:00Z")).tracks["grande-armee"]!;
+    const joined = evaluate(napoleon, at("1812-11-26T12:00:00Z")).tracks["grande-armee"]!;
+    expect(joined.stats.strength).toBeGreaterThan(before.stats.strength! * 2);
+  });
+
+  it("collapses to a few thousand by the recrossing of the Niemen", () => {
     const armee = evaluate(napoleon, at("1812-12-14T08:00:00Z")).tracks["grande-armee"]!;
     expect(armee.stats.strength).toBeLessThanOrEqual(10_000);
+  });
+
+  it("wears the Russian main army down too", () => {
+    const tarutino = evaluate(napoleon, at("1812-10-23T12:00:00Z")).tracks["russian-army"]!;
+    const vilna = evaluate(napoleon, at("1812-12-13T12:00:00Z")).tracks["russian-army"]!;
+    expect(tarutino.stats.strength).toBeGreaterThan(95_000);
+    expect(vilna.stats.strength).toBeLessThan(30_000);
   });
 
   it("is warm in July and brutally cold in December", () => {

@@ -28,6 +28,7 @@ export function Timeline({
   onSetRate,
   onSetStyle,
   onOverview,
+  onSources,
 }: {
   journey: LoadedJourney;
   virtualMs: number;
@@ -39,6 +40,7 @@ export function Timeline({
   onSetRate: (rate: number) => void;
   onSetStyle: (id: StyleId) => void;
   onOverview: () => void;
+  onSources: () => void;
 }) {
   const { startMs, endMs } = journey;
   const span = endMs - startMs;
@@ -126,6 +128,9 @@ export function Timeline({
           className="text-ink-soft hover:text-ink"
         >
           {MAP_STYLES[nextStyle].label}
+        </button>
+        <button type="button" onClick={onSources} className="text-ink-soft hover:text-ink">
+          Sources
         </button>
       </div>
     </div>

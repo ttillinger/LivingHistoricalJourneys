@@ -18,7 +18,9 @@ import type {
 
 // --- Loaded (pre-parsed) shapes: ISO strings resolved to epoch ms once. -----------
 
-type ScheduleMs = { t: number; km: number; label?: string };
+/** `offsetMs` turns UTC into local mean time at the keyframe's position (geo only). */
+type ScheduleMs = { t: number; km: number; label?: string; offsetMs: number };
+type MarchWindow = { startMs: number; endMs: number };
 type StatSeriesMs = {
   label: string;
   format: string;
@@ -29,6 +31,8 @@ export type LoadedTrack = {
   def: JourneyTrack;
   route: RouteGeometry;
   schedule: ScheduleMs[];
+  /** The daily marching window, when the track declares a usable one. */
+  march?: MarchWindow;
   statSeries: Record<string, StatSeriesMs>;
 };
 
@@ -125,26 +129,60 @@ function interpValue(points: { t: number; v: number }[], atMs: number): number {
   return last.v;
 }
 
-/** Distance travelled along the route at a given time. */
-function kmAt(schedule: ScheduleMs[], atMs: number): number {
-  return interpValue(
-    schedule.map((s) => ({ t: s.t, v: s.km })),
-    atMs,
-  );
+const MS_PER_DAY = 86_400_000;
+
+/** "HH:MM" -> milliseconds after local midnight. */
+function clockMs(hhmm: string): number {
+  const [h, m] = hhmm.split(":").map(Number);
+  return ((h ?? 0) * 60 + (m ?? 0)) * 60_000;
 }
 
-/** A track is halted before it starts, after it arrives, or across a km plateau. */
-function isHalted(schedule: ScheduleMs[], atMs: number): boolean {
+/** Marching time accumulated between local midnight of day 0 and local instant `x`. */
+function marchedBy(x: number, win: MarchWindow): number {
+  const day = Math.floor(x / MS_PER_DAY);
+  const intoDay = x - day * MS_PER_DAY;
+  const span = win.endMs - win.startMs;
+  return day * span + Math.max(0, Math.min(span, intoDay - win.startMs));
+}
+
+/**
+ * Distance along the route and whether the track is standing still.
+ *
+ * A track is halted before it starts, after it arrives, and across a km plateau. With
+ * a daily rhythm it also halts outside the marching window: the distance between two
+ * keyframes is covered during marching hours only, so a column bivouacs at night
+ * instead of creeping through it. A leg with no marching hours at all (a night march)
+ * is covered at a steady pace.
+ */
+function motionAt(track: LoadedTrack, atMs: number): { km: number; halted: boolean } {
+  const { schedule, march } = track;
   const n = schedule.length;
   const first = schedule[0]!;
   const last = schedule[n - 1]!;
-  if (atMs <= first.t || atMs >= last.t) return true;
+  if (atMs <= first.t) return { km: first.km, halted: true };
+  if (atMs >= last.t) return { km: last.km, halted: true };
   for (let i = 0; i < n - 1; i++) {
     const a = schedule[i]!;
     const b = schedule[i + 1]!;
-    if (atMs >= a.t && atMs <= b.t) return b.km - a.km < HALT_EPS_KM;
+    if (atMs < a.t || atMs > b.t) continue;
+    const dKm = b.km - a.km;
+    const span = b.t - a.t;
+    if (dKm < HALT_EPS_KM || span <= 0) return { km: a.km, halted: true };
+    if (march) {
+      const from = marchedBy(a.t + a.offsetMs, march);
+      const total = marchedBy(b.t + a.offsetMs, march) - from;
+      if (total > 0) {
+        const local = atMs + a.offsetMs;
+        const intoDay = local - Math.floor(local / MS_PER_DAY) * MS_PER_DAY;
+        return {
+          km: a.km + dKm * ((marchedBy(local, march) - from) / total),
+          halted: intoDay < march.startMs || intoDay >= march.endMs,
+        };
+      }
+    }
+    return { km: a.km + dKm * ((atMs - a.t) / span), halted: false };
   }
-  return true;
+  return { km: last.km, halted: true };
 }
 
 const ms = (iso: string): number => Date.parse(iso);
@@ -191,9 +229,23 @@ export function loadJourney(
     const coords = routeCoords[def.id];
     if (!coords) throw new Error(`loadJourney: missing route coords for track "${def.id}"`);
 
+    const route = buildRoute(coords, space);
     const schedule = def.schedule
-      .map((s) => ({ t: ms(s.t), km: s.km, label: s.label }))
+      .map((s) => ({
+        t: ms(s.t),
+        km: s.km,
+        label: s.label,
+        // Four minutes of clock per degree of longitude.
+        offsetMs: space === "geo" ? positionAtKm(route, s.km, space).coord[0] * 240_000 : 0,
+      }))
       .sort((a, b) => a.t - b.t);
+
+    let march: MarchWindow | undefined;
+    if (def.dailyRhythm) {
+      const startMs = clockMs(def.dailyRhythm.marchStartLocal);
+      const endMs = clockMs(def.dailyRhythm.marchEndLocal);
+      if (endMs > startMs) march = { startMs, endMs };
+    }
 
     const statSeries: Record<string, StatSeriesMs> = {};
     if (def.statSeries) {
@@ -208,7 +260,7 @@ export function loadJourney(
       }
     }
 
-    tracks[def.id] = { def, route: buildRoute(coords, space), schedule, statSeries };
+    tracks[def.id] = { def, route, schedule, march, statSeries };
   }
 
   const moments: MsMoment[] = manifest.moments
@@ -239,8 +291,7 @@ export function evaluate(journey: LoadedJourney, virtualMs: number): JourneySnap
 
   const tracks: Record<string, TrackSnapshot> = {};
   for (const [id, track] of Object.entries(journey.tracks)) {
-    const distanceKm = kmAt(track.schedule, virtualMs);
-    const halted = isHalted(track.schedule, virtualMs);
+    const { km: distanceKm, halted } = motionAt(track, virtualMs);
     const { coord, headingDeg } = positionAtKm(track.route, distanceKm, space);
 
     const stats: Record<string, number> = {};

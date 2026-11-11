@@ -57,6 +57,19 @@ export const Moment = z.object({
   tags: z.array(z.string()).default([]),
   significance: z.number().int().min(1).max(3).optional(),
   image: z.string().optional(),
+  /** A short verbatim line from someone who was there. */
+  quote: z.object({ text: z.string().min(1), by: z.string().min(1) }).optional(),
+  /** Where the facts come from: keys into the journey's `bibliography`. */
+  refs: z.array(z.string()).optional(),
+});
+
+/** A work the journey's content rests on, cited from moments by `id`. */
+export const Reference = z.object({
+  id: z.string().min(1),
+  /** A few words to credit it by, e.g. "Ségur". */
+  short: z.string().min(1),
+  citation: z.string().min(1),
+  url: z.string().url().optional(),
 });
 
 export const NarrativeBeat = z.object({ t: IsoDateTime, text: z.string().min(1) });
@@ -116,6 +129,9 @@ export const JourneySchema = z
     labelsOverlay: z.string().optional(),
     attribution: z.array(z.string()).default([]),
     sources: z.array(z.string()).default([]),
+    bibliography: z.array(Reference).default([]),
+    /** Plain-language caveats shown with the sources: what is estimated or disputed. */
+    notes: z.array(z.string()).default([]),
   })
   .strict();
 
