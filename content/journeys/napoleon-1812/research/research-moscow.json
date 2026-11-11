@@ -1,0 +1,1528 @@
+{
+  "itinerary": [
+    {
+      "date": "1812-09-14",
+      "localTime": "14:00",
+      "place": "Poklonnaya Gora",
+      "modernName": "Poklonnaya Hill, Moscow",
+      "country": "RU",
+      "lat": 55.73,
+      "lon": 37.51,
+      "event": "arrives",
+      "note": "Napoleon reaches the hill overlooking Moscow at 14:00 and waits for a deputation that never comes; Murat's advance guard rides through the city to the Kremlin in the afternoon.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-09-14",
+      "localTime": null,
+      "place": "Dorogomilovo suburb",
+      "modernName": "Dorogomilovo District, Moscow",
+      "country": "RU",
+      "lat": 55.74,
+      "lon": 37.54,
+      "event": "at",
+      "note": "Sleeps in a wooden house in the Dorogomilovo suburb, NOT in the Kremlin.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-09-15",
+      "localTime": "12:00",
+      "place": "Kremlin",
+      "modernName": "Moscow Kremlin",
+      "country": "RU",
+      "lat": 55.75,
+      "lon": 37.62,
+      "event": "arrives",
+      "note": "Enters the city early in the morning (napoleon-empire: 06:00) and is installed in the Kremlin by midday.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-09-16",
+      "localTime": "17:30",
+      "place": "Kremlin",
+      "modernName": "Moscow Kremlin",
+      "country": "RU",
+      "lat": 55.75,
+      "lon": 37.62,
+      "event": "departs",
+      "note": "Driven out by the fire. Time disputed: napoleon.org says he refused at midday and left at 17:30; EN Wikipedia (Fire) says afternoon; EN Wikipedia (Occupation) says early morning.",
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-09-16",
+      "localTime": null,
+      "place": "Petrovsky Palace",
+      "modernName": "Petrovsky Travel Palace, Moscow",
+      "country": "RU",
+      "lat": 55.79,
+      "lon": 37.55,
+      "event": "arrives",
+      "note": "Takes refuge in the empty Petrovsky Palace north-west of the city, in Eugène's IV Corps area.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-09-17",
+      "localTime": null,
+      "place": "Petrovsky Palace",
+      "modernName": "Petrovsky Travel Palace, Moscow",
+      "country": "RU",
+      "lat": 55.79,
+      "lon": 37.55,
+      "event": "at",
+      "note": "Remains at Petrovsky while Moscow burns.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-09-18",
+      "localTime": null,
+      "place": "Kremlin",
+      "modernName": "Moscow Kremlin",
+      "country": "RU",
+      "lat": 55.75,
+      "lon": 37.62,
+      "event": "arrives",
+      "note": "Returns to the Kremlin as rain begins and the fire settles. napoleon.org dates the return to 20 Sep; napoleon-empire, EN and RU Wikipedia all say 18 Sep.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-18",
+      "localTime": null,
+      "place": "Kremlin",
+      "modernName": "Moscow Kremlin",
+      "country": "RU",
+      "lat": 55.75,
+      "lon": 37.62,
+      "event": "at",
+      "note": "In Moscow continuously 18 Sep - 19 Oct. News of Murat's defeat at Vinkovo/Tarutino triggers the departure next day.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Tarutino",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-19",
+      "localTime": null,
+      "place": "Moscow",
+      "modernName": "Moscow",
+      "country": "RU",
+      "lat": 55.75,
+      "lon": 37.62,
+      "event": "departs",
+      "note": "Leaves by the Old Kaluga road. No sourced clock time found (the app's 08:00 is unsupported; older accounts say \"before daybreak\"/morning). Army evacuation began night 18-19 Oct (Foord).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-19",
+      "localTime": null,
+      "place": "Troitskoye",
+      "modernName": "Troitsk, Moscow",
+      "country": "RU",
+      "lat": 55.49,
+      "lon": 37.31,
+      "event": "arrives",
+      "note": "Sleeps at the Levshina-Evreinova manor at Troitskoye; stays two nights (19 and 20 Oct). The order to Mortier to blow up the Kremlin goes out from here.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-20",
+      "localTime": null,
+      "place": "Troitskoye",
+      "modernName": "Troitsk, Moscow",
+      "country": "RU",
+      "lat": 55.49,
+      "lon": 37.31,
+      "event": "at",
+      "note": "Second day at Troitskoye.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-21",
+      "localTime": null,
+      "place": "Ignatovo",
+      "modernName": "Ignatovo, Moscow",
+      "country": "RU",
+      "lat": 55.44,
+      "lon": 37.04,
+      "event": "arrives",
+      "note": "Sleeps at the Ignatovo manor (\"Igniatiewo castle\"), about 20 km WSW of Troitskoye.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-22",
+      "localTime": null,
+      "place": "Fominskoye",
+      "modernName": "Naro-Fominsk",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "At Fominskoye on the New Kaluga road (the village is today part of Naro-Fominsk; coordinates not confirmed for the 1812 village).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-23",
+      "localTime": null,
+      "place": "Borovsk",
+      "modernName": "Borovsk",
+      "country": "RU",
+      "lat": 55.2,
+      "lon": 36.5,
+      "event": "arrives",
+      "note": "Sleeps at Borovsk (Bolshakov-Pisarev house).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-24",
+      "localTime": null,
+      "place": "Gorodnya",
+      "modernName": "Gorodnya, Kaluga Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Moves 13 km south to Gorodnya, about 8-10 km north of Maloyaroslavets; lodges in a weaver's hut. Takes tactical control of the battle \"since midday\" (EN Wikipedia).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-25",
+      "localTime": null,
+      "place": "Gorodnya",
+      "modernName": "Gorodnya, Kaluga Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "at",
+      "note": "Riding out at daybreak he is nearly taken by Platov's Cossacks (the \"hourra\"); returns to Gorodnya; council of war; decision deferred.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-26",
+      "localTime": null,
+      "place": "Borovsk",
+      "modernName": "Borovsk",
+      "country": "RU",
+      "lat": 55.2,
+      "lon": 36.5,
+      "event": "arrives",
+      "note": "Orders the retreat via Borovsk-Vereya-Mozhaisk and moves back to Borovsk.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-27",
+      "localTime": null,
+      "place": "Vereya",
+      "modernName": "Vereya",
+      "country": "RU",
+      "lat": 55.33,
+      "lon": 36.18,
+      "event": "arrives",
+      "note": "At Vereya, where Mortier's detachment from Moscow rejoins. napoleon.org timeline dates Vereya to 28 Oct.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-28",
+      "localTime": null,
+      "place": "Mozhaisk",
+      "modernName": "Mozhaysk",
+      "country": "RU",
+      "lat": 55.52,
+      "lon": 36.03,
+      "event": "passes",
+      "note": "Rejoins the Smolensk high road at Mozhaisk.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-28",
+      "localTime": null,
+      "place": "Uspenskoye",
+      "modernName": "Uspenskoye (west of Mozhaysk)",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Sleeps at Uspenskoye, between Mozhaisk and Borodino.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-29",
+      "localTime": null,
+      "place": "Borodino",
+      "modernName": "Borodino",
+      "country": "RU",
+      "lat": 55.53,
+      "lon": 35.82,
+      "event": "passes",
+      "note": "Crosses the battlefield of 7 Sep, still covered with unburied dead; the Guard crossed at daybreak (Foord).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-10-29",
+      "localTime": null,
+      "place": "Gzhatsk",
+      "modernName": "Gagarin",
+      "country": "RU",
+      "lat": 55.55,
+      "lon": 35.02,
+      "event": "arrives",
+      "note": "Sleeps at Gzhatsk. napoleon.org timeline says he reached Gzhatsk on 30 Oct.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-30",
+      "localTime": null,
+      "place": "Velichevo",
+      "modernName": "Velichevo, Smolensk Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Night at Velichevo (\"Weliczewo\"), about 22 km SW of Gzhatsk.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-10-31",
+      "localTime": null,
+      "place": "Vyazma",
+      "modernName": "Vyazma",
+      "country": "RU",
+      "lat": 55.21,
+      "lon": 34.29,
+      "event": "arrives",
+      "note": "Arrives at Vyazma and stays about 36 hours (Foord), to 2 Nov. napoleon.org timeline says he arrived 1 Nov.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-01",
+      "localTime": null,
+      "place": "Vyazma",
+      "modernName": "Vyazma",
+      "country": "RU",
+      "lat": 55.21,
+      "lon": 34.29,
+      "event": "at",
+      "note": "Halt at Vyazma.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-02",
+      "localTime": null,
+      "place": "Semlevo",
+      "modernName": "Semlyovo, Smolensk Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Leaves Vyazma for Semlevo.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-03",
+      "localTime": null,
+      "place": "Slavkovo",
+      "modernName": "Slavkovo, Smolensk Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Passes Semlevo and reaches Slavkovo (\"Jaskowo castle\" in napoleon-empire). He is here, a day's march west, while the battle of Vyazma is fought behind him.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-04",
+      "localTime": null,
+      "place": "Slavkovo",
+      "modernName": "Slavkovo, Smolensk Oblast",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "at",
+      "note": "Remains at Slavkovo; receives Ney's reports on Vyazma.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/",
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-05",
+      "localTime": null,
+      "place": "Dorogobuzh",
+      "modernName": "Dorogobuzh",
+      "country": "RU",
+      "lat": 54.92,
+      "lon": 33.3,
+      "event": "arrives",
+      "note": "At Dorogobuzh; dictates orders here on 5 Nov and early on 6 Nov.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-06",
+      "localTime": null,
+      "place": "Mikhailovka",
+      "modernName": "Mikhaylovka, Dorogobuzhsky District",
+      "country": "RU",
+      "lat": 54.9,
+      "lon": 32.97,
+      "event": "arrives",
+      "note": "Reaches Mikhailovka in the afternoon, in the first blizzard; an estafette from Paris brings news of the Malet conspiracy (23 Oct).",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+      ],
+      "confidence": "high"
+    },
+    {
+      "date": "1812-11-07",
+      "localTime": null,
+      "place": "Mikhailovka",
+      "modernName": "Mikhaylovka, Dorogobuzhsky District",
+      "country": "RU",
+      "lat": 54.9,
+      "lon": 32.97,
+      "event": "at",
+      "note": "Still at Mikhailovka per napoleon-empire (6-7 Nov); writes to Victor on the 7th.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "date": "1812-11-08",
+      "localTime": null,
+      "place": "Beredikino post-house",
+      "modernName": "Beredikino (not located)",
+      "country": "RU",
+      "lat": null,
+      "lon": null,
+      "event": "arrives",
+      "note": "Sleeps at the Beredikino post-house, stopped short of Smolensk by bad weather. Single source.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "confidence": "low"
+    },
+    {
+      "date": "1812-11-09",
+      "localTime": "12:00",
+      "place": "Smolensk",
+      "modernName": "Smolensk",
+      "country": "RU",
+      "lat": 54.78,
+      "lon": 32.05,
+      "event": "arrives",
+      "note": "Sights and enters Smolensk about noon under thick snow; stays until 13/14 Nov.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "moments": [
+    {
+      "date": "1812-09-14",
+      "localTime": "14:00",
+      "title": "Moscow from Poklonnaya Hill",
+      "body": "Napoleon reaches Poklonnaya Hill at 14:00 and waits for the city's keys. No deputation comes: of roughly 270,000 inhabitants only some 6,000-10,000 remain. Murat's cavalry rides in behind the Russian rearguard; the Emperor sleeps in a suburb inn at Dorogomilovo.",
+      "tags": [
+        "occupation",
+        "maneuver"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-15",
+      "localTime": "12:00",
+      "title": "Napoleon enters the Kremlin",
+      "body": "Napoleon rides into an almost deserted Moscow in the early morning and has his headquarters in the Kremlin by midday.",
+      "tags": [
+        "occupation"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-15",
+      "localTime": "22:30",
+      "title": "Moscow begins to burn",
+      "body": "Scattered fires had broken out on the evening of the 14th; on the night of 15-16 September a rising wind drives them together. Between 22:30 and midnight the flames spread through the packed wooden quarters and warehouses.",
+      "tags": [
+        "occupation",
+        "attrition"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-16",
+      "localTime": "17:30",
+      "title": "Napoleon flees the Kremlin",
+      "body": "By 04:00 the firestorm threatens the Kremlin. Urged to leave at midday, Napoleon refuses, then is forced out in the late afternoon and takes refuge in the Petrovsky Palace outside the city, where he stays through the 17th.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-16",
+      "localTime": null,
+      "title": "Incendiaries shot on sight",
+      "body": "Orders go out to shoot anyone caught setting fires; Sergeant Bourgogne records men shot and others hanged at a spot the soldiers call the \"Place des Pendus\". Up to 400 Muscovites are said to have been shot by French courts-martial on suspicion of arson.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-18",
+      "localTime": null,
+      "title": "Rain; back to the Kremlin",
+      "body": "Rain begins and the fire settles. Napoleon returns to the Kremlin, which the flames had spared. About 6,500 of Moscow's 9,150 houses and 122 of its 329 churches are destroyed; the last fires die out around 20-21 September.",
+      "tags": [
+        "occupation",
+        "weather"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-18",
+      "localTime": null,
+      "title": "Looting of the ruins",
+      "body": "With the fire dying, the army pours back into the city from its bivouacs and plunders the cellars and ruins; many remaining Russians join in. Discipline never fully recovers.",
+      "tags": [
+        "occupation",
+        "attrition"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-09-20",
+      "localTime": null,
+      "title": "Letter to the Tsar",
+      "body": "Napoleon writes to Alexander blaming Rostopchin for the fire and hinting at peace; a first feeler had gone through General Tutolmin of the Foundling Home on 18-19 September. A second message goes by the landowner Yakovlev on the 22nd. None is answered.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами"
+      ],
+      "quote": {
+        "text": "The beautiful and fine city of Moscow is no more.",
+        "author": "Napoleon",
+        "work": "Letter to Alexander I, 20 September 1812"
+      }
+    },
+    {
+      "date": "1812-09-24",
+      "localTime": null,
+      "title": "Bagration dies",
+      "body": "Prince Bagration, wounded at Borodino on 7 September, dies of his infected wound. In Moscow, the French settle in: dinners, promotions and decorations at the Kremlin.",
+      "tags": [
+        "politics",
+        "occupation"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-01",
+      "localTime": null,
+      "title": "Kremlin to be fortified",
+      "body": "Napoleon orders Berthier to strengthen the Kremlin's armament and defences - a sign he is still thinking of holding Moscow.",
+      "tags": [
+        "occupation"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-03",
+      "localTime": null,
+      "title": "Kutuzov camps at Tarutino",
+      "body": "After a flank march that Murat lost track of on 19 September, Kutuzov settles into the Tarutino camp south-west of Moscow, astride the roads to Kaluga, and rebuilds his army for two weeks.",
+      "tags": [
+        "maneuver"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-05",
+      "localTime": null,
+      "title": "Lauriston sent to Kutuzov",
+      "body": "Napoleon sends General Lauriston to Kutuzov's headquarters at Tarutino to open talks (he set out on 4 October; the interview was on the 5th). Kutuzov receives him, despite the Tsar's orders, but says he has no power to treat.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-10",
+      "localTime": null,
+      "title": "Murat's outposts starve",
+      "body": "Facing Tarutino, Murat complains of the want of food and forage; he is losing about 200 men a day to Russian raiders, and his cavalry horses are dying.",
+      "tags": [
+        "attrition"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-13",
+      "localTime": null,
+      "title": "First snow in Moscow",
+      "body": "A light first snow falls on Moscow, then melts. The weather otherwise stays fine and mild deep into October, which helps Napoleon put off the decision to leave.",
+      "tags": [
+        "weather"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://fr.vikidia.org/wiki/Incendie_de_Moscou_en_1812",
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-15",
+      "localTime": null,
+      "title": "Theatre amid the ruins",
+      "body": "A stranded French troupe has been playing for the garrison in a private house, and from the Kremlin Napoleon dates the \"Moscow decree\" reorganising the Comédie-Française. The day before, he ordered 1,500 wounded sent back toward Smolensk.",
+      "tags": [
+        "occupation",
+        "politics"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/histoire-des-2-empires/articles/le-decret-de-moscou-de-la-comedie-francaise-15-octobre-1812-legende-et-realite"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-18",
+      "localTime": "07:00",
+      "title": "Murat surprised at Vinkovo",
+      "body": "At dawn Bennigsen falls on Murat's camp near Tarutino. The French lose about 2,800 men and some three dozen guns before Murat cuts his way clear. The news decides Napoleon: the army will march next day.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Tarutino",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-19",
+      "localTime": null,
+      "title": "The army leaves Moscow",
+      "body": "After 35 days the army marches out by the Old Kaluga road, about 100,000-110,000 combatants and some 600 guns, trailed by an immense column of carts loaded with loot, sick and camp followers. Mortier stays behind with about 10,000 men.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://www.britannica.com/event/Napoleonic-Wars/The-retreat-from-Moscow"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-20",
+      "localTime": null,
+      "title": "Order to destroy the Kremlin",
+      "body": "From Troitskoye Napoleon orders Mortier to evacuate Moscow and blow up the Kremlin. Meanwhile the army sidesteps west from the Old to the New Kaluga road, trying to slip round Kutuzov's left.",
+      "tags": [
+        "politics",
+        "maneuver"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-23",
+      "localTime": "01:00",
+      "title": "The Kremlin mines explode",
+      "body": "Around 1 a.m. Mortier's rearguard leaves Moscow and fires the mines - 183,000 pounds of powder. Rain and Muscovites spoil part of the fuses: towers, wall and arsenal are wrecked, but the Ivan the Great bell tower stands.",
+      "tags": [
+        "occupation",
+        "retreat"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/",
+        "https://ru.wikipedia.org/wiki/Оккупация_Москвы_французами"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-24",
+      "localTime": "05:00",
+      "title": "Maloyaroslavets",
+      "body": "Dokhturov attacks Delzons in the town at dawn. It changes hands eight times in house-to-house fighting, Delzons is killed, and by nightfall Eugène's Italians hold the burning ruins. Each side loses 6,000-7,000 men, and Kutuzov still bars the road to Kaluga.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-25",
+      "localTime": "06:00",
+      "title": "The Cossack \"hourra\"",
+      "body": "Riding out from Gorodnya at daybreak, Napoleon and his staff are charged by Platov's Cossacks, who had crossed the Luzha in the night to raid an artillery park. His escort beats them off; the Cossacks get away with 11 guns.",
+      "tags": [
+        "battle",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-26",
+      "localTime": null,
+      "title": "The turn back north",
+      "body": "After a council in the weaver's hut at Gorodnya, Napoleon gives up Kaluga and orders the retreat by Borovsk, Vereya and Mozhaisk - back onto the devastated road of the advance. Unknown to him, Kutuzov had also pulled back. Evening frosts begin.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-27",
+      "localTime": null,
+      "title": "Mortier rejoins at Vereya",
+      "body": "At Vereya Mortier's Young Guard, the last troops out of Moscow, rejoins headquarters.",
+      "tags": [
+        "retreat"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-29",
+      "localTime": null,
+      "title": "Across the field of Borodino",
+      "body": "The column passes the battlefield of 7 September, still strewn with unburied, decaying corpses, broken guns and helmets. The Guard crosses at daybreak; Napoleon pushes on to Gzhatsk.",
+      "tags": [
+        "retreat",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-10-30",
+      "localTime": null,
+      "title": "The last singing",
+      "body": "Spirits are still fair, the men believing they are marching home. Artillery colonel Griois hears soldiers singing round the fires for the last time.",
+      "tags": [
+        "retreat",
+        "eyewitness"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii"
+      ],
+      "quote": {
+        "text": "there had been no singing at our bivouacs for a long time, and this was the last I was going to hear.",
+        "author": "Lubin Griois",
+        "work": "Mémoires du général Griois (as quoted by A. Zamoyski)"
+      }
+    },
+    {
+      "date": "1812-10-31",
+      "localTime": null,
+      "title": "Napoleon at Vyazma",
+      "body": "Headquarters reaches Vyazma and halts about 36 hours. The day is the coldest yet. Behind it the army is strung out over some 100 km of road, with Davout bringing up the rear under Cossack harassment.",
+      "tags": [
+        "retreat",
+        "weather"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-11-03",
+      "localTime": "08:00",
+      "title": "Battle of Vyazma",
+      "body": "On a bright, mild morning Miloradovich cuts the road east of Vyazma and severs Davout from the army. Eugène and Poniatowski turn back and reopen the way, but by 20:00 the French have been driven through the burning town with 6,000-8,000 lost. Napoleon is already a march ahead at Slavkovo.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-11-04",
+      "localTime": null,
+      "title": "The cold arrives",
+      "body": "With the new moon on the night of 4-5 November the temperature drops sharply. Rain turns to snow. Napoleon, at Slavkovo, musters what he can and finds the corps badly disorganised; he resolves to make for Smolensk.",
+      "tags": [
+        "weather",
+        "winter"
+      ],
+      "significance": 2,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-11-06",
+      "localTime": null,
+      "title": "The first blizzard",
+      "body": "Near Dorogobuzh winter breaks on the column in a blizzard: thick fog, then driving snow, soon lying deep. Men still in summer uniform lose the road, fall and are buried.",
+      "tags": [
+        "winter",
+        "weather",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii",
+        "https://1812now.blogspot.com/2012/11/november-6-1812-winter-attacks.html"
+      ],
+      "quote": {
+        "text": "But on the 6th of November, the heavens declared against us. Their azure disappeared. The army marched enveloped in cold fogs.",
+        "author": "Philippe-Paul de Ségur",
+        "work": "History of the Expedition to Russia (1825 English translation)"
+      }
+    },
+    {
+      "date": "1812-11-06",
+      "localTime": "15:00",
+      "title": "News of the Malet plot",
+      "body": "At Mikhailovka that afternoon a courier from Paris tells Napoleon that on 23 October General Malet, announcing the Emperor's death, had almost seized the capital. Nobody had thought to proclaim his son. He begins to think of returning to Paris.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "quote": {
+        "text": "With the French, as with women, one should never stay away too long.",
+        "author": "Napoleon, reported by Caulaincourt",
+        "work": "Mémoires du général de Caulaincourt (as quoted by A. Zamoyski)"
+      }
+    },
+    {
+      "date": "1812-11-07",
+      "localTime": null,
+      "title": "Horses and wagons abandoned",
+      "body": "Unshod for ice and unfed, the horses die in thousands: Eugène's corps alone loses 1,200 in two days. Hundreds of carts, caissons and guns are left on the road; a Württemberg colonel finds his men frozen dead in their bivouac.",
+      "tags": [
+        "attrition",
+        "winter",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii"
+      ],
+      "quote": {
+        "text": "It is from that point that our misery began",
+        "author": "Jean-François Boulart",
+        "work": "Mémoires militaires (as quoted by A. Zamoyski)"
+      }
+    },
+    {
+      "date": "1812-11-08",
+      "localTime": null,
+      "title": "Thaw, then ice",
+      "body": "A brief thaw on the 8th turns the road to bog; a hard frost on the 9th turns it to sheet ice. Napoleon is held up short of Smolensk at a post-house.",
+      "tags": [
+        "weather",
+        "winter"
+      ],
+      "significance": 1,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ],
+      "quote": null
+    },
+    {
+      "date": "1812-11-09",
+      "localTime": "12:00",
+      "title": "Smolensk in sight",
+      "body": "About noon, in roughly -15 °C with a north wind, Napoleon sights Smolensk under thick snow. Of the army that left Moscow three weeks earlier, no more than about 40,000 remain with their colours, followed by a mass of stragglers. The promised magazines will not feed them.",
+      "tags": [
+        "retreat",
+        "winter",
+        "attrition"
+      ],
+      "significance": 3,
+      "sources": [
+        "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+      ],
+      "quote": null
+    }
+  ],
+  "strength": [
+    {
+      "date": "1812-09-14",
+      "place": "Moscow",
+      "men": 100000,
+      "scope": "Central army on Minard's chart at Moscow (men present with the main column; Minard does not distinguish stragglers).",
+      "source": "Minard 1869 (HistData Minard.troops)",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-09-14",
+      "place": "Moscow",
+      "men": 90000,
+      "scope": "Clausewitz: \"He reached Moscow with 90,000 men\" (effectives of the central army).",
+      "source": "Clausewitz, Campaign of 1812 in Russia, p. 145 (as quoted)",
+      "url": "https://www.napolun.com/mirror/napoleonistyka.atspace.com/Invasion_of_Russia_1812.htm"
+    },
+    {
+      "date": "1812-09-14",
+      "place": "Moscow",
+      "men": 100000,
+      "scope": "French strength in the Wikipedia infobox for the occupation, citing Riehn 1990.",
+      "source": "Riehn 1990 via EN Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+    },
+    {
+      "date": "1812-10-19",
+      "place": "Moscow (departure)",
+      "men": 108000,
+      "scope": "Combatants marching out; cavalry nearly destroyed.",
+      "source": "Riehn 1990, pp. 321-322 via EN Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    {
+      "date": "1812-10-19",
+      "place": "Moscow (departure)",
+      "men": 110000,
+      "scope": "Round figure for the army beginning the retreat.",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Napoleonic-Wars/The-retreat-from-Moscow"
+    },
+    {
+      "date": "1812-10-19",
+      "place": "Moscow (departure)",
+      "men": 124250,
+      "scope": "Foord's muster-roll estimate of everything marching out: HQ 4,000; Guard 23,000; I Corps 31,000; III 11,500; IV 27,500; V 6,000; VIII 5,750; Cavalry Reserve 6,000; dismounted cavalry 4,000; parks/engineers 5,500. About 600 guns, over 2,000 artillery vehicles. Includes non-combatant services.",
+      "source": "Foord, Napoleon's Russian Campaign of 1812 (1914), ch. X-XI",
+      "url": "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+    },
+    {
+      "date": "1812-10-19",
+      "place": "Moscow (departure)",
+      "men": 100000,
+      "scope": "Minard's chart value at Moscow at the start of the retreat line.",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-10-24",
+      "place": "Maloyaroslavets",
+      "men": 96000,
+      "scope": "Minard's chart value at Maloyaroslavets (main column).",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-10-24",
+      "place": "Maloyaroslavets",
+      "men": 70000,
+      "scope": "RU Wikipedia: Napoleon had \"up to 70,000 men and 360 guns\" within reach of the field (about 24,000 actually engaged).",
+      "source": "RU Wikipedia, Сражение под Малоярославцем",
+      "url": "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем"
+    },
+    {
+      "date": "1812-10-28",
+      "place": "Mozhaisk",
+      "men": 87000,
+      "scope": "Minard's chart value at Mozhaisk, i.e. after Maloyaroslavets and the turn north.",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-11-03",
+      "place": "Vyazma",
+      "men": 55000,
+      "scope": "Minard's chart value at Vyazma (main column).",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-11-03",
+      "place": "Vyazma",
+      "men": 37500,
+      "scope": "NOT the whole army: the corps in the battle area (Davout, Eugène, Poniatowski, Ney), of which about 25,000 engaged. The Guard and HQ were ahead.",
+      "source": "EN Wikipedia, Battle of Vyazma",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+    },
+    {
+      "date": "1812-11-03",
+      "place": "Vyazma",
+      "men": 30500,
+      "scope": "Sum of Zamoyski's corps figures for the three corps attacked: Davout about 14,000, Eugène about 13,000, Poniatowski 3,500. Excludes Ney, Guard, HQ.",
+      "source": "Zamoyski, 1812 (as excerpted)",
+      "url": "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii"
+    },
+    {
+      "date": "1812-11-05",
+      "place": "Dorogobuzh",
+      "men": 37000,
+      "scope": "Minard's chart value at Dorogobuzh.",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    },
+    {
+      "date": "1812-11-09",
+      "place": "Smolensk",
+      "men": 40000,
+      "scope": "Zamoyski: \"no more than about 40,000\" still with their colours on reaching Smolensk (including several thousand dismounted cavalry), having lost at least 60,000 since Moscow; plus about 15,000 sick and wounded and a mass of stragglers.",
+      "source": "Zamoyski, 1812 (as excerpted)",
+      "url": "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+    },
+    {
+      "date": "1812-11-13",
+      "place": "Smolensk",
+      "men": 60000,
+      "scope": "Foord: the remains collected at Smolensk by 13 Nov \"may be perhaps estimated at nearly 60,000 men\" - everything gathered, armed or not. Guard cavalry about 2,500 mounted; all other mounted cavalry under 5,000.",
+      "source": "Foord 1914, ch. XII",
+      "url": "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+    },
+    {
+      "date": "1812-11-14",
+      "place": "Smolensk (leaving)",
+      "men": 24000,
+      "scope": "Minard's chart value at Smolensk on the retreat line.",
+      "source": "Minard 1869",
+      "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+    }
+  ],
+  "temperature": [
+    {
+      "date": "1812-10-18",
+      "place": "Moscow",
+      "celsius": 0,
+      "reaumur": 0,
+      "source": "Minard 1869 temperature scale: \"Zéro le 18 8bre\" (the R datasets carry this as 0 at lon 37.6).",
+      "url": "https://robwiederstein.github.io/mapswrData/reference/minard_temps.html"
+    },
+    {
+      "date": "1812-10-24",
+      "place": "Maloyaroslavets",
+      "celsius": 0,
+      "reaumur": 0,
+      "source": "Minard 1869: marked \"Pluie 24 8bre\" (rain); datasets code it as 0 °R - treat as \"rain, about freezing or above\", not a thermometer reading.",
+      "url": "https://robwiederstein.github.io/mapswrData/reference/minard_temps.html"
+    },
+    {
+      "date": "1812-11-06",
+      "place": "near Dorogobuzh / Mikhailovka",
+      "celsius": -10,
+      "reaumur": -8,
+      "source": "Zamoyski (as excerpted): the drop on 6 Nov was to not lower than about -10 °C (14 °F). Réaumur value here is a conversion (-10 / 1.25), not a period reading.",
+      "url": "https://warhistory.org/article/napoleons-retreat-from-moscow-to-smolensk-ii"
+    },
+    {
+      "date": "1812-11-09",
+      "place": "Smolensk / Dorogobuzh-Smolensk road",
+      "celsius": -11.25,
+      "reaumur": -9,
+      "source": "Minard 1869: \"-9° le 9 9bre\" (lon 33.2 in the dataset, i.e. between Dorogobuzh and Smolensk).",
+      "url": "https://robwiederstein.github.io/mapswrData/reference/minard_temps.html"
+    },
+    {
+      "date": "1812-11-09",
+      "place": "Smolensk",
+      "celsius": -15,
+      "reaumur": -12,
+      "source": "Zamoyski (as excerpted): about -15 °C (5 °F) with a north wind at noon when Napoleon sighted Smolensk. Réaumur is a conversion. Disagrees with Minard's -9 °R for the same date.",
+      "url": "https://warhistory.org/article/napoleons-retreat-from-moscow-from-smolensk-i"
+    }
+  ],
+  "battleTimings": [
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-14",
+      "localTime": "14:00",
+      "text": "Napoleon reaches Poklonnaya Hill; Murat's cavalry follows the Russian rearguard through the city to the Kremlin during the afternoon.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-14",
+      "localTime": "20:00",
+      "text": "First scattered fires break out in the evening (hour approximate - sources say only \"evening\").",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-15",
+      "localTime": "12:00",
+      "text": "Napoleon is installed in the Kremlin by midday.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-15",
+      "localTime": "19:00",
+      "text": "A signal explosion near the Kaluga Gate at about 19:00 is followed half an hour later by fires in several quarters (EN Wikipedia); napoleon-empire puts the outbreak about 17:00.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-15",
+      "localTime": "22:30",
+      "text": "Between 22:30 and midnight a rising wind spreads the fire rapidly through the close-built wooden districts.",
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-16",
+      "localTime": "04:00",
+      "text": "The firestorm threatens the Kremlin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-16",
+      "localTime": "17:30",
+      "text": "Napoleon, having refused to go at midday, leaves the Kremlin for the Petrovsky Palace (time per napoleon.org; other accounts say morning or afternoon).",
+      "sources": [
+        "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/",
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-17",
+      "localTime": null,
+      "text": "Moscow burns all day; Napoleon watches from Petrovsky.",
+      "sources": [
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ]
+    },
+    {
+      "battle": "Fire of Moscow",
+      "date": "1812-09-18",
+      "localTime": null,
+      "text": "Rain falls, the fire settles with about three-quarters of the city gone, and Napoleon returns to the Kremlin; residual fires last to 20-21 Sep.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)",
+        "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-23",
+      "localTime": "18:00",
+      "text": "Evening: Delzons gets two battalions into the town; the Russians break the mill dam and wash away his bridge (hour approximate).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-24",
+      "localTime": "05:00",
+      "text": "Dokhturov sends the 33rd Jägers in; about 1,000 Jägers drive 500-600 French to the edge of the town.",
+      "sources": [
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-24",
+      "localTime": "11:00",
+      "text": "Eugène's IV Corps comes up and retakes the town; Delzons is killed leading a counter-attack.",
+      "sources": [
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-24",
+      "localTime": "12:30",
+      "text": "Raevsky's leading division arrives and storms the town again (Foord: about 12:30; RU Wikipedia: by 14:00, when the French commit Pino's 15th Division). Napoleon directs from midday.",
+      "sources": [
+        "https://gutenberg.org/files/57185/57185-h/57185-h.htm",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-24",
+      "localTime": "16:00",
+      "text": "Kutuzov's main army arrives and forms on the heights 1-3 km south, across the Kaluga road.",
+      "sources": [
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-24",
+      "localTime": "22:00",
+      "text": "Gunfire dies away about 22:00 with the ruins in French hands after the town has changed hands eight times.",
+      "sources": [
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем",
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets"
+      ]
+    },
+    {
+      "battle": "Maloyaroslavets",
+      "date": "1812-10-25",
+      "localTime": "02:00",
+      "text": "Kutuzov begins pulling back about 2.5 versts south at around 2 a.m.; at daybreak Platov's Cossacks nearly capture Napoleon near Gorodnya.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets",
+        "https://ru.wikipedia.org/wiki/Сражение_под_Малоярославцем"
+      ]
+    },
+    {
+      "battle": "Vyazma",
+      "date": "1812-11-03",
+      "localTime": "08:00",
+      "text": "Miloradovich's cavalry attacks the column east of Vyazma and his guns open; infantry and horse batteries are thrown across the road, cutting off Davout.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ]
+    },
+    {
+      "battle": "Vyazma",
+      "date": "1812-11-03",
+      "localTime": "10:00",
+      "text": "Russian infantry (Eugen of Württemberg, Ostermann-Tolstoy) arrives; Eugène and the Poles have turned back and reopened the road, and Davout shelters behind them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ]
+    },
+    {
+      "battle": "Vyazma",
+      "date": "1812-11-03",
+      "localTime": "14:00",
+      "text": "Davout, Eugène and Poniatowski confer, judge the position untenable and fall back into Vyazma.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ]
+    },
+    {
+      "battle": "Vyazma",
+      "date": "1812-11-03",
+      "localTime": "16:00",
+      "text": "Fighting reaches the burning town; Choglokov's division and Platov's Cossacks fight street by street.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ]
+    },
+    {
+      "battle": "Vyazma",
+      "date": "1812-11-03",
+      "localTime": "20:00",
+      "text": "Firing ends; the three corps are west of the town and Ney takes over the rearguard, holding the western outskirts overnight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Battle_of_Vyazma"
+      ]
+    }
+  ],
+  "corrections": [
+    "\"Moscow occupied 14 Sep 16:00\": Murat's advance guard entered on the afternoon of 14 Sep, but Napoleon himself reached Poklonnaya Hill at 14:00, slept in the Dorogomilovo suburb, and entered the Kremlin only on 15 Sep (in by midday). The HQ marker should not be in the Kremlin on the 14th.",
+    "\"Fire begins 15 Sep 22:00\": first scattered fires broke out on the EVENING OF 14 Sep; the general conflagration began on the evening of 15 Sep (19:00-19:30 signal and outbreaks per EN Wikipedia; rapid spread 22:30-midnight per napoleon.org). 22:00 on the 15th is acceptable only as \"the fire becomes general\", not \"begins\".",
+    "Missing from the schedule: Napoleon left the Kremlin on 16 Sep (17:30 per napoleon.org) for the Petrovsky Palace and returned on 18 Sep.",
+    "\"Three-quarters of Moscow in ashes 18 Sep\": broadly supported (6,496 of 9,151 houses = 71%; \"three-quarters\" in Wikipedia and napoleon-empire), but fires only finally died 20-21 Sep, and napoleon.org says \"a third\" - see openQuestions.",
+    "\"Last peace overture 5 Oct\": Lauriston set out 4 Oct and saw Kutuzov on 5 Oct - so 5 Oct is fine for the meeting, but it was not demonstrably the \"last\" overture; earlier ones were 18-19 Sep (Tutolmin), 20 Sep (letter to Alexander), 22 Sep (Yakovlev).",
+    "\"First snow 13 Oct\": supported (napoleon-empire: light snow on Moscow 13 Oct; Vikidia same) - but it was a light, melting fall, and the weather stayed mild until early November.",
+    "\"Leaves Moscow 19 Oct 08:00\": the date is right; no source found gives 08:00. Use null time or \"morning\".",
+    "Missing stops 19-21 Oct: Troitskoye (19-20 Oct, two nights) and Ignatovo (21 Oct) before Fominskoye (22 Oct, correct). Borovsk 23 Oct correct.",
+    "\"Maloyaroslavets 24 Oct\": the battle is 24 Oct, but Napoleon's HQ was at GORODNYA (8-10 km north) on 24-25 Oct, not in Maloyaroslavets. The marker should sit at Gorodnya.",
+    "\"Back at Borovsk 26 Oct\", \"Vereya 27 Oct\", \"Mozhaisk 28 Oct\": supported by napoleon-empire and Foord (night of 28th actually at Uspenskoye just past Mozhaisk). napoleon.org alone gives Vereya 28 Oct.",
+    "\"Borodino field 29 Oct\" is right, but \"Gzhatsk 31 Oct\" is WRONG: Napoleon slept at Gzhatsk on 29 Oct (napoleon.org: 30 Oct), Velichevo 30 Oct.",
+    "\"Vyazma 3 Nov\" is WRONG for the HQ marker: Napoleon was at Vyazma 31 Oct - 2 Nov. On 3 Nov, the day of the battle of Vyazma, he was already at Slavkovo (via Semlevo, 2 Nov), a march to the west, and took no part.",
+    "\"Dorogobuzh 7 Nov\" is WRONG: Napoleon was at Dorogobuzh on 5 Nov (leaving early 6 Nov), at Mikhailovka 6-7 Nov (Malet news, afternoon of 6 Nov), at a post-house on 8 Nov.",
+    "\"Smolensk 9 Nov\": correct (about noon).",
+    "\"First hard frost 6 Nov\": mislabelled. Evening frosts began about 26 Oct and 31 Oct was noticeably cold; the sharp drop came on the night of 4-5 Nov and 6 Nov was the first BLIZZARD / heavy snowfall (to about -10 °C), not the first frost.",
+    "Strength \"100,000 flat throughout the Moscow stay\": entry figures are 90,000 (Clausewitz) to 100,000 (Minard, Riehn); the army GREW in Moscow as stragglers, convalescents and drafts came in, to 108,000-110,000 combatants on 19 Oct (Riehn, Britannica; Foord 124,250 all told). A flat line is wrong; it should rise.",
+    "Strength \"90,000 on 24 Oct\": Minard gives 96,000 at Maloyaroslavets and 87,000 at Mozhaisk; 90,000 has no direct source.",
+    "Strength \"65,000 on 3 Nov\": Minard gives 55,000 at Vyazma; no source found for 65,000.",
+    "Strength \"50,000 on 9 Nov\": sources give about 40,000 with the colours (Zamoyski), 37,000 at Dorogobuzh falling to 24,000 at Smolensk (Minard), or nearly 60,000 including the unarmed mass collected by 13 Nov (Foord). 50,000 matches none; label whichever is used."
+  ],
+  "openQuestions": [
+    "Return to the Kremlin: 18 Sep (napoleon-empire, EN and RU Wikipedia) vs 20 Sep (napoleon.org timeline, which also says the French stayed outside the city until then). 18 Sep is the majority view.",
+    "Hour Napoleon left the Kremlin on 16 Sep: 17:30 (napoleon.org) vs \"afternoon\" (EN Wikipedia, Fire) vs \"early in the morning\" (EN Wikipedia, Occupation).",
+    "Hour the main fire began on 15 Sep: about 17:00 (napoleon-empire) vs 19:00-19:30 (EN Wikipedia) vs \"by evening\", spreading 22:30-midnight (napoleon.org). First small fires were on the evening of 14 Sep.",
+    "Share of Moscow destroyed: \"three-quarters\" (EN Wikipedia, napoleon-empire; 6,496 of 9,151 residential buildings) vs \"a third of the houses\" (napoleon.org). Churches: 122 of 329 destroyed (EN Wikipedia infobox) vs \"only 122 of 329 survived\" (napoleon.org). The EN Wikipedia infobox is itself internally inconsistent (6,584 wooden houses destroyed exceeds its own total).",
+    "End of the fire: settling 18 Sep with rain (Wikipedia) vs fires ended 20 Sep (napoleon-empire; napoleon.org says rain put it out on 20 Sep) vs finally subsided 21 Sep (EN Wikipedia).",
+    "Lauriston: 4 Oct (Foord; EN Wikipedia Occupation) vs 5 Oct (napoleon-empire; EN Wikipedia Invasion citing Wilson). Most likely sent 4 Oct, received by Kutuzov on the night of 5 Oct - not confirmed in a single source.",
+    "Executions of incendiaries: \"up to 400 shot by French court-martial\" (EN/RU Wikipedia, undated). The often-cited military commission of 24 Sep (26 tried, 10 shot) could NOT be confirmed online in this pass - do not use those numbers without a source.",
+    "Theatre in Moscow: existence of French performances for the garrison is attested (Tolstoy-era and secondary accounts; napoleon.org article on the 15 Oct \"Moscow decree\" treats parts of the story as legend), but no reliable opening date, venue (Pozdnyakov house) or number of performances was confirmed. The moment is dated 15 Oct to the decree, not to a performance.",
+    "Whether Napoleon heard of Tarutino while reviewing troops in the Kremlin on 18 Oct (traditional story from Ségur) - not confirmed in the sources fetched.",
+    "Tarutino/Vinkovo French losses: 2,795 men incl. 1,151 prisoners and 37 guns (Foord) vs 2,000-4,500 men and 36-38 guns (EN Wikipedia infobox) vs 12 guns (EN Wikipedia body). Attack hour: \"dawn\" vs \"about 7 a.m.\" (Foord).",
+    "Departure hour on 19 Oct: no sourced time. Date the order to blow up the Kremlin was sent: from Troitskoye, 20 Oct by common account; RU Wikipedia phrasing is ambiguous (possibly 21 Oct NS).",
+    "Kremlin explosion: Foord gives 1 a.m. and 183,000 lb of powder without a date; napoleon.org says the last regiments left \"around 1am on the 23rd\". Taken as about 01:00 on 23 Oct (some accounts say 02:00, or the night of 20-21 Oct for a first attempt).",
+    "Size of the baggage column leaving Moscow: figures online range from 15,000 to 50,000 vehicles, none traced to a primary return; Foord gives only \"over 2,000 artillery vehicles\". No number used.",
+    "Chambray's returns (departure and Smolensk) and Clausewitz's figures other than \"90,000 at Moscow\" could not be retrieved (Clausewitz PDF too large to fetch). The strength array therefore lacks Chambray entirely.",
+    "Maloyaroslavets: council of war at Gorodnya on the evening of 24 Oct (Foord) vs on 25 Oct after the Cossack scare with the decision postponed to 26 Oct (RU Wikipedia). Raevsky's arrival: about 12:30 (Foord) vs by 14:00 (RU Wikipedia). French losses: 3,500 (Eugène's report) / 4,000 (Ségur) / 6,000 (Chambray, Foord) / 6,000-8,000 (EN Wikipedia) / 7,000 (napoleon.org). Hour of the Cossack attack: only \"daybreak\"; 06:00 in the moment is an approximation.",
+    "Vereya: 27 Oct (napoleon-empire) vs 28 Oct (napoleon.org). Gzhatsk: 29 Oct vs 30 Oct. Vyazma arrival: 31 Oct (napoleon-empire, Foord, Zamoyski) vs 1 Nov (napoleon.org).",
+    "Slavkovo: napoleon-empire calls the 3-4 Nov halt \"Jaskowo castle\"; napoleon.org calls it Slavkovo. Treated as the same place. Coordinates for Slavkovo, Semlevo, Velichevo, Uspenskoye, Gorodnya and the Beredikino post-house were not confirmed and are null.",
+    "Fominskoye is mapped to modern Naro-Fominsk (the village was absorbed into the town; Naro-Fominsk infobox 55.38, 36.77) - identification is standard but lat/lon left null because the 1812 village point was not confirmed.",
+    "First significant snow: 3 Nov (napoleon.org) vs warm sunshine on 3 Nov (EN Wikipedia Vyazma; Castellane via Zamoyski) with the drop on the night of 4-5 Nov and first serious snowfall/blizzard on 6 Nov (Caulaincourt, Ségur, Zamoyski). 6 Nov preferred.",
+    "Temperature on 9 Nov: Minard -9 °R (-11.25 °C) vs Zamoyski about -15 °C at noon at Smolensk. Minard's \"0\" on 24 Oct is a rain note, not a reading. Larrey's thermometer readings were not found for this slice. Zamoyski also gives -23.75 °C on 12 Nov and -22.5 °C at Smolensk (just outside the slice).",
+    "Vyazma French losses: 4,000 killed/wounded + 2,000-3,000 prisoners (EN Wikipedia) vs about 6,000 dead/wounded + 2,000 prisoners (Zamoyski) vs 8,000 total (napolun note). Zamoyski's excerpt dates the action 4 Nov in places; 3 Nov (22 Oct OS) is correct.",
+    "Calendar note: all dates here are Gregorian. Russian-source dates were converted by +12 days (e.g. Tarutino 6 Oct OS = 18 Oct; Maloyaroslavets 12 Oct OS = 24 Oct; Vyazma 22 Oct OS = 3 Nov; Russians re-enter Moscow 11 Oct OS = 23 Oct)."
+  ]
+}

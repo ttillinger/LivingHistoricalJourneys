@@ -1,0 +1,2058 @@
+{
+ "itinerary": [
+  {
+   "date": "1812-06-24",
+   "localTime": "05:00",
+   "place": "Kowno (Niemen bridges below Jiesia hill)",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "arrives",
+   "note": "Army begins crossing on three pontoon bridges in the early hours. napoleon-empire has Napoleon himself cross at 05:00 and set up HQ at the Holy Cross abbey in Kovno in the afternoon; EN Wikipedia has him cross 'around noon' with the Guard. Coordinates are the city (Wikipedia).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-06-25",
+   "localTime": null,
+   "place": "Kowno",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "at",
+   "note": "Stays in Kovno; inspections.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-06-26",
+   "localTime": null,
+   "place": "Kowno",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "at",
+   "note": "3rd Bulletin is dated 'Kowno, le 26 juin 1812'. Visits Pazaislis monastery.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-06-27",
+   "localTime": null,
+   "place": "Yevé (château 4 km west)",
+   "modernName": "Vievis",
+   "country": "LT",
+   "lat": 54.77,
+   "lon": 24.81,
+   "event": "arrives",
+   "note": "Leaves Kovno early morning via Ziezmariai; sleeps in a château about 4 km west of Vievis. Coordinates are Vievis town.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-06-28",
+   "localTime": "12:00",
+   "place": "Wilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "arrives",
+   "note": "Enters via Rykantai; keys of the city handed over about noon; lodges in the governor's palace. Taken without a fight.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://fr.wikipedia.org/wiki/Campagne_de_Russie",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-06-30",
+   "localTime": null,
+   "place": "Wilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "at",
+   "note": "4th Bulletin dated Wilna 30 June. napoleon-empire says he went 'to the bridges over the Niemen' on 29-30 June (probably the Viliya bridges at Vilna; treat as doubtful).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-06",
+   "localTime": null,
+   "place": "Wilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "at",
+   "note": "5th Bulletin dated Wilna 6 July.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-13",
+   "localTime": null,
+   "place": "Wilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "at",
+   "note": "6th Bulletin dated Wilna 13 July.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-16",
+   "localTime": "23:00",
+   "place": "Wilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "departs",
+   "note": "Leaves about 23:00 (napoleon-empire); 'exactly at midnight on July 16' (EN Wikipedia); FR Wikipedia dates the departure 17 July 'after about eighteen days'. 7th Bulletin is dated Wilna 16 July. All consistent with a departure in the night of 16-17 July.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+    "https://fr.wikipedia.org/wiki/Campagne_de_Russie",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-17",
+   "localTime": null,
+   "place": "Sventsiany",
+   "modernName": "Švenčionys",
+   "country": "LT",
+   "lat": 55.13,
+   "lon": 26.16,
+   "event": "at",
+   "note": "Arrives during the day, leaves the same evening.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-18",
+   "localTime": null,
+   "place": "Gloubokoé",
+   "modernName": "Hlybokaye",
+   "country": "BY",
+   "lat": 55.13,
+   "lon": 27.68,
+   "event": "arrives",
+   "note": "Lodges in the Carmelite convent; stays four days.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-21",
+   "localTime": null,
+   "place": "Gloubokoé",
+   "modernName": "Hlybokaye",
+   "country": "BY",
+   "lat": 55.13,
+   "lon": 27.68,
+   "event": "departs",
+   "note": "napoleon-empire: remained until the evening of the 21st. But the 8th Bulletin is dated 'Gloubokoé, le 22 juillet' - so departure may be the night of 21-22 or the 22nd.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-22",
+   "localTime": "12:00",
+   "place": "Ouchatch",
+   "modernName": "Ushachy",
+   "country": "BY",
+   "lat": 55.18,
+   "lon": 28.62,
+   "event": "arrives",
+   "note": "Arrives in the middle of the day.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-23",
+   "localTime": "21:00",
+   "place": "Kamen",
+   "modernName": "Kamen (Lepel district)",
+   "country": "BY",
+   "lat": 55.02,
+   "lon": 28.88,
+   "event": "arrives",
+   "note": "Leaves Ushachy about 18:00, reaches Kamen three hours later and sleeps there. napoleon.org instead says he arrived at Kamen on 24 July. Coordinates from napoleon-empire.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-2-de-borodino-a-moscou/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-24",
+   "localTime": null,
+   "place": "Bechenkovitchi",
+   "modernName": "Beshankovichy",
+   "country": "BY",
+   "lat": 55.03,
+   "lon": 29.45,
+   "event": "arrives",
+   "note": "On the Dvina; lodges at Count Khreptovich's château.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-25",
+   "localTime": null,
+   "place": "Bechenkovitchi",
+   "modernName": "Beshankovichy",
+   "country": "BY",
+   "lat": 55.03,
+   "lon": 29.45,
+   "event": "at",
+   "note": "9th Bulletin dated 'Bechenkoviski, le 25 juillet'. Combat of Ostrovno fought ahead by Murat.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Ostrovno"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-26",
+   "localTime": null,
+   "place": "Ostrovno, then bivouac at Komarchi / Kukovyachino",
+   "modernName": "Astrowna",
+   "country": "BY",
+   "lat": 55.13,
+   "lon": 29.87,
+   "event": "passes",
+   "note": "Rides forward past Ostrovno to within about 6 km of Vitebsk; bivouacs at Kamary or Kukovyachino. Coordinates are Ostrovno (Astrowna), not the bivouac.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Vitebsk_(1812)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-27",
+   "localTime": null,
+   "place": "Before Vitebsk, on the Luchosa",
+   "modernName": "near Vitebsk",
+   "country": "BY",
+   "lat": null,
+   "lon": null,
+   "event": "at",
+   "note": "Rearguard action against Pahlen; Napoleon halts the advance about 11:00 and bivouacs at a farm near the Luchosa river.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Vitebsk_(1812)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-07-28",
+   "localTime": null,
+   "place": "Witepsk",
+   "modernName": "Vitebsk",
+   "country": "BY",
+   "lat": 55.19,
+   "lon": 30.21,
+   "event": "arrives",
+   "note": "Enters the abandoned city; spends that evening forward at Agaponovshchina on the Surazh road, then returns. Ségur also dates his entry to imperial HQ at Vitebsk 28 July.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-07-31",
+   "localTime": null,
+   "place": "Witepsk",
+   "modernName": "Vitebsk",
+   "country": "BY",
+   "lat": 55.19,
+   "lon": 30.21,
+   "event": "at",
+   "note": "Halt at Vitebsk 29 July-12 August in the governor-general's palace. 10th Bulletin dated Witepsk (printed '3e juillet' in the Gutenberg text; conventionally 31 July).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-04",
+   "localTime": null,
+   "place": "Witepsk",
+   "modernName": "Vitebsk",
+   "country": "BY",
+   "lat": 55.19,
+   "lon": 30.21,
+   "event": "at",
+   "note": "11th Bulletin dated Witepsk 4 August.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-07",
+   "localTime": null,
+   "place": "Witepsk",
+   "modernName": "Vitebsk",
+   "country": "BY",
+   "lat": 55.19,
+   "lon": 30.21,
+   "event": "at",
+   "note": "12th Bulletin dated Witepsk 7 August. 14th Bulletin: on 8 August 'le quartier-général était à Witepsk' while Ney's III Corps was at Liozna.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-12",
+   "localTime": null,
+   "place": "Witepsk",
+   "modernName": "Vitebsk",
+   "country": "BY",
+   "lat": 55.19,
+   "lon": 30.21,
+   "event": "at",
+   "note": "Last full day in Vitebsk (EN Wikipedia: 'lingered at Vitebsk until 12 August').",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-13",
+   "localTime": "08:00",
+   "place": "Babinovitchi",
+   "modernName": "Babinavichy",
+   "country": "BY",
+   "lat": 54.83,
+   "lon": 30.55,
+   "event": "passes",
+   "note": "Leaves Vitebsk in the night of 12-13 August heading south-east; passes Babinovichi about 08:00.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-13",
+   "localTime": null,
+   "place": "Rasasna",
+   "modernName": "Rasasna",
+   "country": "BY",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "14th Bulletin: 'Le quartier-général partit de Witepsk, et arriva à Rasasna le 13.' Bivouac 2 km from the village on the Dnieper.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-14",
+   "localTime": null,
+   "place": "Boyarintsova (bivouac beyond Liady)",
+   "modernName": "Boyarintsevo (vanished village, Smolensk oblast)",
+   "country": "RU",
+   "lat": 54.57,
+   "lon": 31.38,
+   "event": "arrives",
+   "note": "Crosses the Dnieper with the main column; combat of Krasny fought ahead by Murat and Ney. Coordinates from napoleon-empire.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-15",
+   "localTime": null,
+   "place": "Korytnia (post house)",
+   "modernName": "Korytnya",
+   "country": "RU",
+   "lat": 54.68,
+   "lon": 31.76,
+   "event": "at",
+   "note": "Bulletin: 'S. M. avait, le 15, son quartier-général à la poste de Kovonitza [Korytnia]'. napoleon-empire: reconnoitred as far as Korytnya and returned to the Boyarintsova bivouac. Coordinates from napoleon-empire.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://de.wikipedia.org/wiki/Schlacht_um_Smolensk_(1812)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-16",
+   "localTime": "13:00",
+   "place": "Before Smolensk (bivouac south of the city)",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "arrives",
+   "note": "historyofwar: Napoleon reached Smolensk at 1 pm; RU Wikipedia: whole army up by noon. Bivouacs on a ravine south of the city almost within cannon range.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-17",
+   "localTime": null,
+   "place": "Before Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "at",
+   "note": "Day of the main assault; HQ in bivouac south of the walls.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-18",
+   "localTime": null,
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "arrives",
+   "note": "Enters the burnt city; lodges in the governor's house until 24 August.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-19",
+   "localTime": "17:00",
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "at",
+   "note": "Goes out toward the Valutino fighting, leaves the field about 17:00 and returns to Smolensk (historyofwar). He visited the Valutino field again afterwards (napoleon-empire: twice; Ségur).",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_valutino.html",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-21",
+   "localTime": null,
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "at",
+   "note": "13th Bulletin dated Smolensk 21 August.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-23",
+   "localTime": null,
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "at",
+   "note": "14th Bulletin dated Smolensk 23 August.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-24",
+   "localTime": null,
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "departs",
+   "note": "napoleon-empire has him in Smolensk 18-24 August and at Dorogobuzh on the 25th; EN Wikipedia has the army march out on the Old Smolensk Road on 24 August. Departure in the night of 24-25 August.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-25",
+   "localTime": null,
+   "place": "Dorogobouj",
+   "modernName": "Dorogobuzh",
+   "country": "RU",
+   "lat": 54.92,
+   "lon": 33.3,
+   "event": "arrives",
+   "note": "Occupies the mayor's house on the town rampart; stays 25 and 26 August.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-26",
+   "localTime": "23:45",
+   "place": "Dorogobouj",
+   "modernName": "Dorogobuzh",
+   "country": "RU",
+   "lat": 54.92,
+   "lon": 33.3,
+   "event": "departs",
+   "note": "Leaves shortly before midnight.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-27",
+   "localTime": "03:00",
+   "place": "Slawkovo",
+   "modernName": "Slavkovo",
+   "country": "RU",
+   "lat": 54.96,
+   "lon": 33.67,
+   "event": "arrives",
+   "note": "Arrives about 03:00, manor of Prince Drutskoy-Sokolinsky; leaves again at midnight. 15th Bulletin dated 'Slawkova, le 27 août'; 16th Bulletin confirms HQ at Slavkovo on the 27th. Coordinates from napoleon-empire.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-28",
+   "localTime": null,
+   "place": "Rouibki château / near Semlevo",
+   "modernName": "Rybki (vanished), near Semlevo",
+   "country": "RU",
+   "lat": 55.03,
+   "lon": 33.9,
+   "event": "at",
+   "note": "16th Bulletin: HQ 'le 28 près de Semlovo'. napoleon-empire: at Rybki château on the Osma, then on to 'Kneghinkino [Gredyakino]' about 21:00. Coordinates (Rybki) from napoleon-empire.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-29",
+   "localTime": null,
+   "place": "Château one league short of Viazma",
+   "modernName": "near Vyazma",
+   "country": "RU",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "16th Bulletin: 'le 29 à un château à une lieue en arrière de Viazma, et le 30 à Viazma'. napoleon-empire instead puts him in Vyazma itself on the 29th for two days.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-08-30",
+   "localTime": null,
+   "place": "Viazma",
+   "modernName": "Vyazma",
+   "country": "RU",
+   "lat": 55.21,
+   "lon": 34.29,
+   "event": "arrives",
+   "note": "Bulletin: HQ at Viazma on the 30th. Lodged with the merchant Gorozhansky (napoleon-empire).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-08-31",
+   "localTime": null,
+   "place": "Veritchero / Weliczewo",
+   "modernName": "Velichevo",
+   "country": "RU",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "17th Bulletin: 'Le quartier-impérial était, le 31 août, à Veritchero'. The 16th Bulletin is dated Viazma 31 August, so he left Vyazma that day.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-01",
+   "localTime": null,
+   "place": "Ghjat",
+   "modernName": "Gagarin (formerly Gzhatsk)",
+   "country": "RU",
+   "lat": 55.55,
+   "lon": 35.02,
+   "event": "arrives",
+   "note": "17th Bulletin: 'le 1er et le 2 septembre, à Ghjat'. Lodges in the Tserevitinov merchants' house.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-03",
+   "localTime": null,
+   "place": "Ghjat",
+   "modernName": "Gagarin (formerly Gzhatsk)",
+   "country": "RU",
+   "lat": 55.55,
+   "lon": 35.02,
+   "event": "at",
+   "note": "Three-day halt (1-3 September) for a roll call and to close up the army.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-04",
+   "localTime": null,
+   "place": "Gritneva (post house)",
+   "modernName": "Gridnevo",
+   "country": "RU",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "18th Bulletin: 'Le 4, l'empereur partit de Ghjat et vint camper près de la poste de Gritneva.'",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-05",
+   "localTime": null,
+   "place": "Kolotskoye monastery, Valuyevo, Shevardino",
+   "modernName": "Borodino battlefield (west of Borodino village)",
+   "country": "RU",
+   "lat": 55.53,
+   "lon": 35.82,
+   "event": "arrives",
+   "note": "Army marches at 06:00; Napoleon climbs the Kolotsky monastery bell tower, then directs the attack on the Shevardino redoubt; bivouacs west of Borodino. Coordinates are Borodino village (Wikipedia), about 3 km east of the camp.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-09-06",
+   "localTime": "02:00",
+   "place": "Imperial camp west of Borodino",
+   "modernName": "Borodino battlefield",
+   "country": "RU",
+   "lat": 55.53,
+   "lon": 35.82,
+   "event": "at",
+   "note": "Reconnoitres the outposts from 02:00; day spent in reconnaissance.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "05:30",
+   "place": "Shevardino redoubt (command post)",
+   "modernName": "Borodino battlefield",
+   "country": "RU",
+   "lat": 55.53,
+   "lon": 35.82,
+   "event": "at",
+   "note": "Battle of Borodino / la Moskowa. Napoleon at the redoubt taken on the 5th from about 05:30.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-08",
+   "localTime": "16:00",
+   "place": "Borodino field, then Kukarino",
+   "modernName": "Kukarino",
+   "country": "RU",
+   "lat": null,
+   "lon": null,
+   "event": "departs",
+   "note": "Remains on the field most of the day; about 16:00 moves east and stops at Kukarino.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-09-09",
+   "localTime": "12:00",
+   "place": "Mojaïsk",
+   "modernName": "Mozhaysk",
+   "country": "RU",
+   "lat": 55.52,
+   "lon": 36.03,
+   "event": "arrives",
+   "note": "Enters about midday; stays until the 12th (ill with a cold, voice lost). House of the merchant Suchkov.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-11",
+   "localTime": null,
+   "place": "Mojaïsk",
+   "modernName": "Mozhaysk",
+   "country": "RU",
+   "lat": 55.52,
+   "lon": 36.03,
+   "event": "at",
+   "note": "Still at Mozhaisk. 18th Bulletin dated Mojaïsk (10 September in most editions; printed '12 septembre' in the Gutenberg text).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-09-12",
+   "localTime": null,
+   "place": "Peselina / Petelina",
+   "modernName": "Petelino",
+   "country": "RU",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "19th Bulletin: 'Le quartier-général est parti de Mojaïsk le 12; et a été porté à Peselina'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-13",
+   "localTime": "12:00",
+   "place": "Château de 'Berwska' / Malo-Viazma (Vyazyomy manor)",
+   "modernName": "Bolshiye Vyazyomy",
+   "country": "RU",
+   "lat": 55.63,
+   "lon": 37.01,
+   "event": "arrives",
+   "note": "Leaves Petelino about noon. Bulletin names the night stop 'château de Berwska'; napoleon-empire and EN Wikipedia identify it as the Golitsyn manor at Vyazyomy, where Kutuzov had slept shortly before. Coordinates are Bolshiye Vyazyomy.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-09-14",
+   "localTime": "14:00",
+   "place": "Poklonnaya Gora",
+   "modernName": "Poklonnaya Hill, Moscow",
+   "country": "RU",
+   "lat": 55.73,
+   "lon": 37.51,
+   "event": "arrives",
+   "note": "Reaches the hill overlooking Moscow at 14:00 and waits in vain for a deputation. Bulletin: 'le 14, à midi, nous sommes entrés à Moscou' (the army). Ségur: scouts reached the hill at two o'clock.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-14",
+   "localTime": null,
+   "place": "Dorogomilov suburb",
+   "modernName": "Dorogomilovo, Moscow",
+   "country": "RU",
+   "lat": 55.75,
+   "lon": 37.56,
+   "event": "arrives",
+   "note": "Does NOT enter the Kremlin on the 14th: spends the night in a wooden house in the Dorogomilovo suburb, just outside the city gate. Coordinates from napoleon-empire.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-2-de-borodino-a-moscou/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-09-15",
+   "localTime": "06:00",
+   "place": "Moscow - Kremlin",
+   "modernName": "Moscow",
+   "country": "RU",
+   "lat": 55.75,
+   "lon": 37.61,
+   "event": "arrives",
+   "note": "Rides into the city about 06:00 and is installed in the Kremlin by about noon; fires break out around 17:00. Leaves for Petrovsky Palace on the 16th. (One day outside the slice; included because it settles the 14-vs-15 question.)",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-2-de-borodino-a-moscou/",
+    "https://en.wikipedia.org/wiki/French_occupation_of_Moscow"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1812-06-24",
+   "localTime": "05:00",
+   "title": "Across the Niemen",
+   "body": "In the early hours the army starts over three pontoon bridges thrown across the Niemen just above Kovno. Napoleon watches from a hill on the left bank, then crosses himself; the Imperial Guard, 47,000 strong, follows, then Murat's cavalry and three corps bound for Vilna.",
+   "tags": [
+    "crossing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-06-28",
+   "localTime": "12:00",
+   "title": "Vilna falls without a fight",
+   "body": "About noon the city fathers hand Napoleon the keys of Vilna; the Russians have burned their magazines and gone. The four-day dash from the Niemen has cost more than 5,000 dead horses and left guns and wagons stranded on the sandy tracks.",
+   "tags": [
+    "occupation",
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-06-29",
+   "localTime": null,
+   "title": "The great storm",
+   "body": "After days of stifling heat a violent thunderstorm breaks over Lithuania in the night of 29-30 June. Napoleon's own bulletin admits thirty-six hours of unbroken rain, a sudden sharp cold and several thousand horses dead; Ségur puts the horses at ten thousand.",
+   "tags": [
+    "weather",
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": {
+    "text": "Ten thousand horses perished on the march, and more especially in the bivouacs which followed.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1825 trans.)"
+   }
+  },
+  {
+   "date": "1812-07-01",
+   "localTime": null,
+   "title": "The Tsar's envoy",
+   "body": "General Balashov, sent by Alexander, is received by Napoleon in the very rooms the Tsar left days before. His terms are that the French recross the Niemen before any talks; nothing comes of it.",
+   "tags": [
+    "politics"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-06",
+   "localTime": null,
+   "title": "An army melting away",
+   "body": "Bread wagons cannot keep up with forced marches. A Württemberg lieutenant in Ney's corps notes fresh thunderstorms on 6 July, men dying of sunstroke days later, dysentery and fever filling a field hospital; some 50,000 stragglers roam the countryside.",
+   "tags": [
+    "attrition",
+    "weather",
+    "eyewitness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-14",
+   "localTime": null,
+   "title": "A ball in Vilna",
+   "body": "Napoleon appears at a ball given by General Pac in his Vilna palace. He has now been in the city more than two weeks, organising Lithuania and supply, while Barclay falls back toward the Dvina.",
+   "tags": [
+    "politics",
+    "occupation"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-16",
+   "localTime": "23:00",
+   "title": "Leaving Vilna at last",
+   "body": "Late on the night of 16 July, after eighteen days in Vilna, Napoleon takes the road north-east by Sventsiany and Glubokoye, hoping to turn Barclay's army on the Dvina.",
+   "tags": [
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+    "https://fr.wikipedia.org/wiki/Campagne_de_Russie"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-24",
+   "localTime": null,
+   "title": "A land emptied",
+   "body": "At Beshenkovichi on the Dvina Napoleon finds the town deserted: the inhabitants have gone, their houses abandoned. It is the first clear sign that the emptiness ahead of the army is deliberate.",
+   "tags": [
+    "attrition",
+    "occupation"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-25",
+   "localTime": null,
+   "title": "Ostrovno",
+   "body": "Thirty kilometres short of Vitebsk Murat and Nansouty's cavalry run into Ostermann-Tolstoy's corps, posted to buy Barclay time. The Russians give ground slowly; each side loses roughly 2,500-3,000 men, and one French cuirassier regiment stands six hours under cannon fire.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Ostrovno",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-07-27",
+   "localTime": "11:00",
+   "title": "\"The sun of Austerlitz\"",
+   "body": "With the Russian army at last drawn up before Vitebsk, Napoleon halts his thin leading divisions about eleven to wait for the rest. From about four in the afternoon the Russians slip away behind a screen of Cossack campfires.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Vitebsk_(1812)",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": {
+    "text": "To-morrow at five o'clock, the sun of Austerlitz!",
+    "author": "Napoleon to Murat, as reported by Ségur",
+    "work": "History of the Expedition to Russia (1825 trans.)"
+   }
+  },
+  {
+   "date": "1812-07-28",
+   "localTime": null,
+   "title": "\"Here I stop\"",
+   "body": "Napoleon rides into an empty Vitebsk; the enemy has vanished without leaving a trace of his route. Back at headquarters, Ségur says, he throws his sword down on the maps and declares the campaign over for the year.",
+   "tags": [
+    "occupation",
+    "politics"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": {
+    "text": "Here I stop! here I must look round me; rally; refresh my army, and organize Poland. The campaign of 1812 is finished; that of 1813 will do the rest.",
+    "author": "Napoleon, as reported by Ségur",
+    "work": "History of the Expedition to Russia (1825 trans.)"
+   }
+  },
+  {
+   "date": "1812-08-01",
+   "localTime": null,
+   "title": "Five weeks, half an army",
+   "body": "The halt at Vitebsk reveals the cost of the march. Of the 375,000-man central strike force some 185,000 remain with the colours: about 90,000 are detached, the rest lost to heat, dysentery, hunger, straggling and garrisons. Cavalry and draught horses have died in huge numbers for want of fodder.",
+   "tags": [
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-08",
+   "localTime": null,
+   "title": "Inkovo",
+   "body": "Platov's Cossacks fall on Sébastiani's cavalry at Inkovo and maul it, about 600 French casualties. Napoleon, expecting a Russian offensive, pulls his army into a defensive posture for two days before deciding the threat is empty.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-10",
+   "localTime": null,
+   "title": "Decision at Vitebsk",
+   "body": "\"On the 10th the Emperor resolved to march on the enemy and seize Smolensk,\" says the bulletin. Ségur records that Berthier, Duroc and Daru had argued against going further; Napoleon heard them out and overruled them.",
+   "tags": [
+    "politics",
+    "maneuver"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-14",
+   "localTime": null,
+   "title": "Over the Dnieper",
+   "body": "In the night of 13-14 August Eblé's pontonniers bridge the Dnieper at Rasasna. By morning most of an army of about 175,000 is across and marching east along the left bank, screened by cavalry, to get behind the Russians at Smolensk.",
+   "tags": [
+    "crossing",
+    "maneuver"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-14",
+   "localTime": "14:30",
+   "title": "Neverovsky's square",
+   "body": "At Krasny Murat's cavalry and Ney's infantry catch a single Russian division of mostly raw conscripts. Neverovsky forms one great square and retreats for hours along the tree-lined road, losing about 1,500 men and seven guns - but the dash on Smolensk is delayed.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/First_Battle_of_Krasnoi",
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-15",
+   "localTime": null,
+   "title": "A birthday on the road",
+   "body": "Napoleon turns forty-three on the march between Krasny and Smolensk and reviews the army. That morning Raevsky's corps files into Smolensk: the surprise has failed.",
+   "tags": [
+    "eyewitness",
+    "maneuver"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+    "https://de.wikipedia.org/wiki/Schlacht_um_Smolensk_(1812)",
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-17",
+   "localTime": "14:00",
+   "title": "Smolensk stormed",
+   "body": "After a day and a half of waiting for the Russians to come out, Napoleon orders the assault. By five the suburbs are carried; by six breaching batteries are pounding walls ten feet thick. The city burns through the night.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://fr.wikipedia.org/wiki/Bataille_de_Smolensk_(1812)"
+   ],
+   "quote": {
+    "text": "Au milieu d'une belle nuit d'août, Smolensk offrait aux Français le spectacle qu'offre aux habitans de Naples une éruption du Vésuve.",
+    "author": "Napoleon",
+    "work": "13e Bulletin de la Grande Armée, Smolensk, 21 août 1812"
+   }
+  },
+  {
+   "date": "1812-08-18",
+   "localTime": "02:00",
+   "title": "Into the ruins",
+   "body": "The Russians abandon the old town after midnight and break the bridge; about two in the morning the first grenadiers climb in unopposed. Of 2,250 buildings some 350 are intact, and barely a thousand of 15,000 inhabitants remain.",
+   "tags": [
+    "occupation",
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-19",
+   "localTime": "17:00",
+   "title": "Valutino: the lost chance",
+   "body": "East of Smolensk Ney hammers at Tuchkov's rearguard on the Moscow road while Junot, across the Dnieper on the Russian flank, refuses to attack even when Murat begs him. Barclay's scattered columns escape. General Gudin has both legs smashed by a cannonball and dies in Smolensk.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Valutino",
+    "https://ru.wikipedia.org/wiki/Бой_у_Валутиной_горы",
+    "https://www.historyofwar.org/articles/battles_valutino.html",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-24",
+   "localTime": null,
+   "title": "On to Moscow",
+   "body": "Smolensk was meant to end the year's campaign; instead Napoleon marches out on the old Moscow road, Murat in the centre, Eugène left, Poniatowski right. He leaves the city in the night of 24-25 August.",
+   "tags": [
+    "politics",
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-27",
+   "localTime": null,
+   "title": "Clash on the Osma",
+   "body": "The Russian rearguard turns to fight on the Osma near Rybki and Murat's cavalry charges it repeatedly. Headquarters moves by night marches: into Slavkovo at three in the morning, out again at midnight.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 1,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-30",
+   "localTime": null,
+   "title": "Burning towns",
+   "body": "Vyazma is entered in flames, like Dorogobuzh before it and Gzhatsk after. The bulletin blames the Russians for the fires and claims the French put them out; a little rain has at last laid the choking dust of the road.",
+   "tags": [
+    "attrition",
+    "weather",
+    "occupation"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-08-31",
+   "localTime": null,
+   "title": "Kutuzov takes command",
+   "body": "The bulletin written at Vyazma reports that Kutuzov has been named Russian commander-in-chief in place of Barclay. He had joined the army on 29 August at Tsaryovo-Zaymishche - for the French, the promise of the battle they have chased since June.",
+   "tags": [
+    "politics"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-02",
+   "localTime": null,
+   "title": "Roll call at Gzhatsk",
+   "body": "Napoleon halts three days at Gzhatsk to close up the columns and count heads. The roll call of 2 September finds about 133,800 men under arms - of some 300,000 who crossed the Niemen with the central army.",
+   "tags": [
+    "attrition"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение",
+    "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-05",
+   "localTime": "16:00",
+   "title": "The Shevardino redoubt",
+   "body": "The army finds Kutuzov's line behind the Kolocha, with an unfinished redoubt out in front of its left. Compans's division storms it in the late afternoon; it changes hands in the dusk, and fighting goes on in the dark until the Russians are ordered back about eleven.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_shervardino.html",
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://en.wikipedia.org/wiki/Battle_of_Shevardino"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-06",
+   "localTime": null,
+   "title": "The King of Rome",
+   "body": "A day of reconnaissance, begun by Napoleon at two in the morning. A portrait of his infant son by Gérard arrives from Paris; he shows it to his staff and has it set up outside his tent for the Guard to see.",
+   "tags": [
+    "eyewitness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/13475"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "05:30",
+   "title": "Sunrise at Borodino",
+   "body": "At two in the morning Napoleon dictates his proclamation; at half past five he is at the Shevardino redoubt as the sun comes up cloudless after a rainy day. Ségur notes drily that it rose on the Russian side, in French eyes.",
+   "tags": [
+    "battle",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": {
+    "text": "C'est le soleil d'Austerlitz.",
+    "author": "Napoleon",
+    "work": "18e Bulletin de la Grande Armée, Mojaïsk, septembre 1812"
+   }
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "06:00",
+   "title": "The guns open",
+   "body": "About six a hundred French guns open on the Russian left. Eugène's men take Borodino village in the mist; Davout's divisions go in against Bagration's flèches, where Compans is wounded within half an hour and Davout's horse is killed under him.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "10:00",
+   "title": "Bagration falls",
+   "body": "The three flèches are taken, retaken and taken again through the morning in fighting at bayonet point. Leading a counter-attack, Bagration is hit in the leg by a shell splinter; word spreads and the Second Army falls back behind the Semyonovskoye ravine.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "12:00",
+   "title": "Cossacks in the rear",
+   "body": "About 8,000 Russian horse under Uvarov and Platov ford the Kolocha and appear behind Eugène's corps near Borodino village. They achieve little in themselves, but the alarm holds up the second assault on the great redoubt for some two hours.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-07",
+   "localTime": "15:00",
+   "title": "The great redoubt",
+   "body": "In mid-afternoon three infantry divisions attack the Raevsky redoubt from the front while cuirassiers ride in through its open rear. It falls about half past three; Auguste de Caulaincourt is killed leading the charge. Napoleon refuses to send in the Guard.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-08",
+   "localTime": null,
+   "title": "The morning after",
+   "body": "The Russians have gone in the night toward Mozhaisk. Borodino has cost the French somewhere between 30,000 and 42,000 men and the Russians 40,000 to 53,000; Napoleon stays on the field until four in the afternoon.",
+   "tags": [
+    "battle",
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-09",
+   "localTime": "12:00",
+   "title": "Sick at Mozhaisk",
+   "body": "Napoleon enters Mozhaisk at midday with a heavy cold and no voice, and stays three days while Murat presses the Russian rearguard. He orders reinforcements up from Smolensk.",
+   "tags": [
+    "occupation",
+    "eyewitness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-09-14",
+   "localTime": "14:00",
+   "title": "\"Moscow! Moscow!\"",
+   "body": "At two in the afternoon the advance guard tops the Poklonnaya hill and sees the city's gilded domes. Napoleon waits at the gate for a deputation with the keys; none comes. Moscow is all but empty, and he sleeps that night in a wooden house in the Dorogomilovo suburb.",
+   "tags": [
+    "occupation",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://en.wikipedia.org/wiki/French_occupation_of_Moscow",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": {
+    "text": "It was two o'clock: the sun caused this great city to glisten with a thousand colours. Struck with astonishment at the sight, they paused, exclaiming, \"Moscow! Moscow!\"",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1825 trans.)"
+   }
+  }
+ ],
+ "strength": [
+  {
+   "date": "1812-06-24",
+   "place": "Niemen (Kovno)",
+   "men": 422000,
+   "scope": "Whole army shown entering at Kovno on Minard's chart (340,000 main flow + 60,000 that branch off toward Polotsk + 22,000 that branch north)",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen (Kovno)",
+   "men": 340000,
+   "scope": "Minard's main flow only (group 1), the band that reaches Moscow",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen",
+   "men": 301000,
+   "scope": "Clausewitz's 'original strength' of the central army that marched on Moscow (line corps plus Guard 47,000, reserve cavalry 40,000, staff 4,000; the per-corps lines are not legible in the scan)",
+   "source": "Clausewitz, Campaign of 1812 in Russia (Ellesmere trans. 1843), pp. 95-96",
+   "url": "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen",
+   "men": 286000,
+   "scope": "'The main part of Napoleon's army' entering Russia",
+   "source": "Riehn 1990, p. 259, as cited on EN Wikipedia (Battle of Borodino)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen",
+   "men": 375000,
+   "scope": "'Main strike force available to Napoleon' at the start (central group incl. Eugène and Jérôme/Davout wings)",
+   "source": "Mikaberidze 2016, p. 296, as cited on EN Wikipedia (Battle of Smolensk)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen",
+   "men": 449000,
+   "scope": "First wave of the whole Grande Armée (range 440,000-449,000)",
+   "source": "Sokolov 2020 / Riehn 1990, EN Wikipedia infobox",
+   "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen",
+   "men": 685000,
+   "scope": "Whole Grande Armée mobilised for the campaign incl. reserves and later reinforcements (range 600,000-685,000)",
+   "source": "Mikaberidze 2020 / Riehn 1990 / Bodart 1916, EN Wikipedia infobox",
+   "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+  },
+  {
+   "date": "1812-06-24",
+   "place": "Niemen (Kovno)",
+   "men": 47000,
+   "scope": "Imperial Guard, which crossed with Napoleon",
+   "source": "EN Wikipedia, French invasion of Russia",
+   "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+  },
+  {
+   "date": "1812-06-28",
+   "place": "Wilna",
+   "men": 340000,
+   "scope": "Minard main flow at Wilna (unchanged from Kovno; first reduction to 320,000 is drawn east of Wilna)",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-07-28",
+   "place": "Witebsk",
+   "men": 175000,
+   "scope": "Minard main flow at Witebsk (210,000 at long. 29, 180,000 at long. 30)",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-08-01",
+   "place": "Vitebsk area",
+   "men": 185000,
+   "scope": "Main strike force after five weeks, with a further 90,000 detached (Oudinot, St-Cyr, Reynier, Latour-Maubourg)",
+   "source": "Mikaberidze 2016, p. 296, as cited on EN Wikipedia (Battle of Smolensk)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+  },
+  {
+   "date": "1812-08-14",
+   "place": "Dnieper crossing, Rasasna",
+   "men": 175000,
+   "scope": "Grande Armée advancing on Smolensk",
+   "source": "DE/RU Wikipedia (Smolensk), unattributed",
+   "url": "https://de.wikipedia.org/wiki/Schlacht_um_Smolensk_(1812)"
+  },
+  {
+   "date": "1812-08-15",
+   "place": "Smolensk",
+   "men": 182000,
+   "scope": "Clausewitz: effective force of the centre at Smolensk, 15 August (should have been 287,000 after 13,500 detached; loss 105,500 in 52 days)",
+   "source": "Clausewitz, Campaign of 1812 in Russia, p. 95",
+   "url": "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+  },
+  {
+   "date": "1812-08-16",
+   "place": "Smolensk",
+   "men": 182602,
+   "scope": "French army present around Smolensk",
+   "source": "Troitsky 1988, p. 108, as cited on RU Wikipedia",
+   "url": "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)"
+  },
+  {
+   "date": "1812-08-17",
+   "place": "Smolensk",
+   "men": 45000,
+   "scope": "French troops actually engaged in the assault",
+   "source": "Bodart 1908 / Nafziger 1988 (EN Wikipedia); Lashuk 2008 (RU Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)"
+  },
+  {
+   "date": "1812-08-18",
+   "place": "Smolensk",
+   "men": 145000,
+   "scope": "Minard main flow at Smolensk",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-08-25",
+   "place": "Dorogobouge",
+   "men": 140000,
+   "scope": "Minard main flow at Dorogobouge",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-09-01",
+   "place": "Chjat (Gzhatsk)",
+   "men": 127100,
+   "scope": "Minard main flow at Chjat",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-09-02",
+   "place": "Gzhatsk",
+   "men": 133815,
+   "scope": "Roll call of combatants present, 2 September (103,000 infantry incl. artillery + 30,000 cavalry; historyofwar prints 133,819)",
+   "source": "Chambray, as cited on RU Wikipedia; historyofwar.org",
+   "url": "https://www.historyofwar.org/articles/battles_borodino.html"
+  },
+  {
+   "date": "1812-09-07",
+   "place": "Borodino",
+   "men": 130000,
+   "scope": "French army at Borodino before the battle (should have been 274,000 after 27,000 detached; loss 144,000)",
+   "source": "Clausewitz, Campaign of 1812 in Russia, pp. 95-96",
+   "url": "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+  },
+  {
+   "date": "1812-09-07",
+   "place": "Borodino",
+   "men": 135000,
+   "scope": "French army at Borodino (range given 103,000-135,000; about 109,500 engaged per Riehn/Mikaberidze)",
+   "source": "Dwyer 2014 / Riehn 1990 / Mikaberidze 2007, EN Wikipedia infobox",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+  },
+  {
+   "date": "1812-09-07",
+   "place": "Borodino",
+   "men": 135000,
+   "scope": "French army, about 135,000 men and 587 guns (body text: about 138,000)",
+   "source": "Great Russian Encyclopedia, as cited on RU Wikipedia",
+   "url": "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+  },
+  {
+   "date": "1812-09-07",
+   "place": "Mojaisk (after Borodino)",
+   "men": 100000,
+   "scope": "Minard main flow at Mojaisk and on to Moscow (no separate Borodino figure on the chart)",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-09-08",
+   "place": "Borodino",
+   "men": 100000,
+   "scope": "Derived: Clausewitz's 130,000 less his 20,000 French battle loss = about 110,000; EN Wikipedia gives French casualties 30,000-42,000, implying roughly 90,000-105,000 fit. NOT a sourced head-count - no source consulted gives a post-battle roll",
+   "source": "derived from Clausewitz / EN Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+  },
+  {
+   "date": "1812-09-14",
+   "place": "Moscow",
+   "men": 100000,
+   "scope": "Minard main flow entering Moscow",
+   "source": "Minard 1869 (HistData dataset)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-09-15",
+   "place": "Moscow",
+   "men": 90000,
+   "scope": "Clausewitz: central army 'at the entrance into Moscow of September 15' (should have been 288,000; loss 198,000)",
+   "source": "Clausewitz, Campaign of 1812 in Russia, p. 96",
+   "url": "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+  },
+  {
+   "date": "1812-09-14",
+   "place": "Moscow",
+   "men": 95000,
+   "scope": "French army at Moscow, 'a maximum of 95,000' even allowing for reinforcements",
+   "source": "Riehn 1990, p. 285, as cited on EN Wikipedia (Battle of Borodino)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+  },
+  {
+   "date": "1812-09-14",
+   "place": "Moscow",
+   "men": 100000,
+   "scope": "'Roughly 100,000-strong' army that took control of the city",
+   "source": "EN Wikipedia, French invasion of Russia (lead)",
+   "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+  }
+ ],
+ "battleTimings": [
+  {
+   "battle": "Krasny (first)",
+   "date": "1812-08-14",
+   "localTime": "14:30",
+   "text": "Murat's cavalry and Ney's leading infantry attack Neverovsky's 27th Division at Krasny; the running fight down the Smolensk road lasts the rest of the afternoon.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-16",
+   "localTime": "08:00",
+   "text": "Ney's columns appear before the southern suburbs from the Krasny road (RU Wikipedia: 08:00; historyofwar: cavalry in contact at dawn, Ney and Murat in place by 10:00); a coup de main on the citadel is beaten off by Raevsky.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://de.wikipedia.org/wiki/Schlacht_um_Smolensk_(1812)"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-16",
+   "localTime": "13:00",
+   "text": "Napoleon arrives before the city (13:00 per historyofwar; 'by noon the whole army' per RU Wikipedia); the day is spent in cannonade and skirmishing while the army deploys - Ney left, Davout centre, Poniatowski right.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://www.gutenberg.org/ebooks/13475"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-16",
+   "localTime": "17:00",
+   "text": "Bagration's and then Barclay's armies appear on the heights of the right bank; in the night of 16-17 August Dokhturov's corps relieves Raevsky inside the walls.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)",
+    "https://de.wikipedia.org/wiki/Schlacht_um_Smolensk_(1812)",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-17",
+   "localTime": "14:00",
+   "text": "Seeing the Russians will not come out to fight, Napoleon orders the general assault (bulletin: 14:00; RU Wikipedia: 13:00, Poniatowski ordered in about 14:00).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-17",
+   "localTime": "15:00",
+   "text": "French cannonade opens at 15:00; heavy musketry from 16:30.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-17",
+   "localTime": "17:00",
+   "text": "Morand's and Gudin's divisions carry the entrenched suburbs and drive the defenders to the covered way; Ney takes the ground outside the citadel; traffic over the Dnieper bridges becomes almost impossible.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://fr.wikipedia.org/wiki/Bataille_de_Smolensk_(1812)"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-17",
+   "localTime": "18:00",
+   "text": "Three batteries of 12-pounders open against the walls and shells set the towers and the town alight; Napoleon recalls the assault columns about 20:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://ru.wikipedia.org/wiki/Смоленское_сражение_(1812)"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-18",
+   "localTime": "01:00",
+   "text": "Barclay's troops evacuate the old town in the night and recross the river, destroying the bridge (bulletin: 01:00).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html",
+    "https://fr.wikipedia.org/wiki/Bataille_de_Smolensk_(1812)"
+   ]
+  },
+  {
+   "battle": "Smolensk",
+   "date": "1812-08-18",
+   "localTime": "02:00",
+   "text": "The first French grenadiers enter the burning city unopposed about 02:00; during the 18th the French re-establish bridges while the Russian rearguard holds the northern suburb.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_smolensk_1812.html"
+   ]
+  },
+  {
+   "battle": "Valutino",
+   "date": "1812-08-19",
+   "localTime": "05:00",
+   "text": "Before dawn the pursuit starts: Ney crosses the Dnieper toward Gedeonovo, Murat makes for the Moscow road; Barclay's columns are still strung out on forest tracks north of it.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Бой_у_Валутиной_горы",
+    "https://fr.wikipedia.org/wiki/Bataille_de_Valoutina_Gora"
+   ]
+  },
+  {
+   "battle": "Valutino",
+   "date": "1812-08-19",
+   "localTime": "11:00",
+   "text": "Late morning: Ney's advance guard runs into the Russian rearguard on the Moscow road; Pavel Tuchkov with about 3,000 men holds the Valutino heights. RU Wikipedia has Ney largely waiting for his infantry and for Junot between 10:00 and 17:00.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Bataille_de_Valoutina_Gora",
+    "https://ru.wikipedia.org/wiki/Бой_у_Валутиной_горы"
+   ]
+  },
+  {
+   "battle": "Valutino",
+   "date": "1812-08-19",
+   "localTime": "17:00",
+   "text": "Ney's main attack along the Moscow road begins after 17:00 and is repulsed; Barclay arrives to take command. Napoleon leaves the field about 17:00 and returns to Smolensk, believing it a rearguard affair.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Бой_у_Валутиной_горы",
+    "https://www.historyofwar.org/articles/battles_valutino.html"
+   ]
+  },
+  {
+   "battle": "Valutino",
+   "date": "1812-08-19",
+   "localTime": "19:00",
+   "text": "Evening: Junot's VIII Corps, across the Dnieper at Prudishchevo on the Russian left, will not attack even at Murat's urging; Gudin is mortally wounded leading his division over the stream. (No clock time in the sources; evening.)",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_valutino.html",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://en.wikipedia.org/wiki/Battle_of_Valutino"
+   ]
+  },
+  {
+   "battle": "Valutino",
+   "date": "1812-08-19",
+   "localTime": "22:00",
+   "text": "Fighting dies out about 22:00; Tuchkov, wounded in a counter-attack in the dark, is captured, and the Russians march off east in good order.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Бой_у_Валутиной_горы"
+   ]
+  },
+  {
+   "battle": "Shevardino",
+   "date": "1812-09-05",
+   "localTime": "14:00",
+   "text": "The French advance guard, on the march since 06:00, sights the Russian army behind the Kolocha and the redoubt in front of its left.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475"
+   ]
+  },
+  {
+   "battle": "Shevardino",
+   "date": "1812-09-05",
+   "localTime": "16:00",
+   "text": "Attack begins: Compans crosses the Kolocha and clears Doronino while Poniatowski's Poles work through the woods to the south (bulletin: 16:00; historyofwar: mid-afternoon).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_shervardino.html"
+   ]
+  },
+  {
+   "battle": "Shevardino",
+   "date": "1812-09-05",
+   "localTime": "17:00",
+   "text": "Compans's first direct assault on the redoubt (about 17:00); it is taken, lost to a counter-attack and assaulted again.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_shervardino.html"
+   ]
+  },
+  {
+   "battle": "Shevardino",
+   "date": "1812-09-05",
+   "localTime": "19:00",
+   "text": "The 57th and 61st Line retake the redoubt about 19:00 as it gets dark. The bulletin says firing ceased at 19:00; other accounts have Russian grenadier and cuirassier counter-attacks continuing in the dark.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_shervardino.html",
+    "https://www.gutenberg.org/ebooks/13475"
+   ]
+  },
+  {
+   "battle": "Shevardino",
+   "date": "1812-09-05",
+   "localTime": "23:00",
+   "text": "With the Poles closing in from the south about 22:30, Kutuzov orders the position given up; the order reaches Gorchakov about 23:00 and the Russians fall back on the flèches.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_shervardino.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Shevardino"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "02:00",
+   "text": "Napoleon, with his marshals at the Shevardino position, dictates the proclamation to be read to the troops at dawn.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-2-de-borodino-a-moscou/"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "05:30",
+   "text": "Sunrise, cloudless after a rainy day; Napoleon at the redoubt: 'the sun of Austerlitz'. RU Wikipedia starts the French cannonade at 05:30.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "06:00",
+   "text": "Sorbier's Guard reserve battery opens fire (06:00 per bulletin and most eyewitnesses); Delzons takes Borodino village in the mist; Compans and Dessaix advance on the southern flèche. Compans is wounded at 06:30, Davout's horse killed at 07:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "07:30",
+   "text": "Davout's and Ney's troops are in the flèches by about 07:30-08:00; Bagration counter-attacks and the works change hands repeatedly. Poniatowski comes into action at Utitsa about 08:00.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "09:00",
+   "text": "Morand's division (Bonamy's brigade) breaks into the Raevsky redoubt but is thrown out by a counter-attack (bulletin: 'à neuf heures du matin'; many modern accounts put this nearer 10:00-11:00).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/13475",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "10:00",
+   "text": "The flèches are finally in French hands (about 10:00 by modern research; EN Wikipedia has Friant holding the position at 11:30); Bagration is wounded 'around 11:00' (EN Wikipedia) and the Russian left retires behind Semyonovskoye.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "12:00",
+   "text": "Uvarov's cavalry and Platov's Cossacks, across the Kolocha between 11:00 and noon, threaten Eugène's rear north of Borodino village; the second attack on the redoubt is put off for about two hours.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://ru.wikipedia.org/wiki/Бородинское_сражение"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "14:00",
+   "text": "Renewed assault on the Raevsky redoubt by Broussier's, Morand's and Gérard's divisions with massed cavalry (14:00 per EN Wikipedia; about 15:00 per historyofwar).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "15:30",
+   "text": "The redoubt falls about 15:30 to cuirassiers entering by the gorge and infantry over the parapet; Auguste de Caulaincourt is killed, General Likhachev captured.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html"
+   ]
+  },
+  {
+   "battle": "Borodino",
+   "date": "1812-09-07",
+   "localTime": "18:00",
+   "text": "Napoleon declines to commit the Guard; the Russian Guard stands under artillery fire from about 16:00 to 18:00; the cannonade slackens after 18:00 and firing ends between 21:00 and 22:00. (The bulletin claims the battle was decided by 14:00.)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "https://www.historyofwar.org/articles/battles_borodino.html",
+    "https://www.gutenberg.org/ebooks/13475"
+   ]
+  }
+ ],
+ "corrections": [
+  "Vilna: the current data has the army moving on at once. Napoleon entered Vilna about noon on 28 June and stayed 18 days, leaving about 23:00 on 16 July (bulletins 4-7 are dated Wilna 30 June-16 July).",
+  "Sventsiany 4 July is wrong for HQ: Napoleon passed through Sventsiany on 17 July (arrived and left the same day).",
+  "Glubokoye 12 July is wrong: HQ was at Glubokoye 18-21 July (8th Bulletin dated Gloubokoé 22 July).",
+  "Beshenkovichi 20 July is wrong: HQ reached Beshenkovichi on 24 July, via Ushachy (22 July) and Kamen (23 July), and was there on 25 July (9th Bulletin).",
+  "Vitebsk 28 July is right for the entry, but HQ then stayed in Vitebsk until 12 August (bulletins 10-12 dated Witepsk 31 July, 4 and 7 August); departure was the night of 12-13 August.",
+  "'Liozno - the army rests, 5 August' is wrong for the Grande Armée marker: Liozna was Ney's III Corps cantonment. The 14th Bulletin states that on 8 August Ney was at Liozna and 'le quartier-général était à Witepsk'. No source consulted puts Napoleon's HQ at Liozna.",
+  "Dnieper crossing at Rasasna 14 August: HQ reached Rasasna on 13 August; the bridges were built in the night of 13-14 and the army crossed on the 14th. Keep 14 August for the crossing, but add 13 August for arrival.",
+  "Krasny 15 August is wrong: the combat of Krasny was 14 August (from about 14:30). On 15 August HQ was at/near Korytnya, between Krasny and Smolensk.",
+  "Smolensk 16 August: correct for arrival before the walls (about 13:00), but the general assault was 17 August (from 14:00) and the French entered the city about 02:00 on 18 August. Napoleon then stayed in Smolensk until 24 August.",
+  "Valutino 19 August: correct date, but it was Ney/Murat/Junot's fight; Napoleon's HQ stayed at Smolensk (he left the field about 17:00). Do not move the HQ marker to Valutino.",
+  "Dorogobuzh 25 August: correct (HQ 25-26 August; left shortly before midnight on the 26th).",
+  "Vyazma 1 September is wrong: HQ was at a château just short of Vyazma on 29 August and in Vyazma on 30 August (bulletin); napoleon-empire says in Vyazma 29-30. He left on 31 August.",
+  "Gzhatsk 4 September is wrong: HQ was at Gzhatsk 1-3 September and LEFT on 4 September for Gridnevo.",
+  "Add Shevardino, 5 September (currently absent): the redoubt fight that opened the Borodino position.",
+  "Borodino 7 September: correct.",
+  "Mozhaisk 9 September: correct for arrival (about midday); HQ stayed until 12 September.",
+  "Moscow 14 September 16:00: the army's advance guard entered on the afternoon of 14 September and Napoleon reached Poklonnaya hill at 14:00, but he spent that night in the Dorogomilovo suburb. He rode into the city about 06:00 on 15 September and was in the Kremlin by about noon. No source consulted supports '16:00'.",
+  "Intermediate HQ stops missing from the current data: Kovno 24-26 June, Vievis 27 June, Ushachy 22 July, Kamen 23 July, Rasasna 13 Aug, Boyarintsevo 14 Aug, Slavkovo 27 Aug, near Semlevo 28 Aug, Velichevo 31 Aug, Gridnevo 4 Sep, Kukarino 8 Sep, Petelino 12 Sep, Vyazyomy 13 Sep."
+ ],
+ "openQuestions": [
+  "Hour of Napoleon's own Niemen crossing on 24 June: napoleon-empire says 05:00; EN Wikipedia says 'around noon ... followed by the Imperial Guard'. Not reconciled.",
+  "Date of the great storm: EN Wikipedia gives the night of 29-30 June; the 5th Bulletin (6 July) describes 36 hours of rain without a date; Ségur places a storm immediately after the Niemen crossing with 'ten thousand horses' dead. Horse losses: 'several thousand' (bulletin) vs 10,000 (Ségur) vs '5,000 dead horses' on the road to Vilna (EN Wikipedia).",
+  "Departure from Vilna: 16 July about 23:00 (napoleon-empire) vs midnight 16 July (EN Wikipedia) vs 17 July (FR Wikipedia). Same night; choose 16 July 23:00.",
+  "Kamen: napoleon-empire has Napoleon arrive on the evening of 23 July; napoleon.org says he arrived at Kamen on 24 July.",
+  "Departure from Glubokoye: evening of 21 July (napoleon-empire) vs the 8th Bulletin dated Gloubokoé 22 July.",
+  "Inkovo: 7 August (EN Wikipedia) vs 8 August (14th Bulletin, DE Wikipedia, historyofwar).",
+  "Dnieper bridges at Rasasna: three (14th Bulletin) vs four (RU Wikipedia, historyofwar). Coordinates of Rasasna not confirmed - left null.",
+  "15 August HQ: bulletin puts HQ at the Korytnya post house; napoleon-empire says he only reconnoitred to Korytnya and returned to the Boyarintsova bivouac.",
+  "Smolensk: EN Wikipedia's narrative places the 'main battle' on 16 August and a breach at dawn on the 17th; the 13th Bulletin, RU/FR/DE Wikipedia and historyofwar all put the general assault on the afternoon of 17 August and the entry about 02:00 on 18 August. EN Wikipedia appears to be wrong. Hour of the assault order: 14:00 (bulletin) vs 13:00 (RU Wikipedia).",
+  "napoleon-empire's entry 'August 17 ... in the evening went to camp at the Lubna castle' looks misplaced (Lubino is east of Smolensk on the Valutino field, still in Russian hands on the 17th); not used.",
+  "Smolensk losses: French 4,000 (Napoleon) / 6,000-7,000 (Lavisse-Rambaud) / 10,000 (Bodart, Chandler, Mikaberidze) / 12,000 (Denniée) / 14,041 (Troitsky) / 20,000 (Soviet); Russian 4,000 (Barclay) / 6,000 (Bodart, Toll) / 10,000 (Mikaberidze) / 12,000-14,000 (Chandler).",
+  "Valutino strengths: Ney about 35,000 vs 25,000 (Bodart, EN Wikipedia) vs up to 50,000 French and 22,000 Russians, about 30,000 engaged each (RU Wikipedia). Losses: French 7,000-8,800, Russian 5,000-6,000. Clock times for Junot's refusal and Gudin's wound were not found.",
+  "Departure from Smolensk: night of 24-25 August inferred from napoleon-empire (Smolensk 18-24, Dorogobuzh 25-26) and EN Wikipedia (army marched 24 August); no source gives the hour.",
+  "Vyazma: 16th Bulletin says HQ on the 29th at a château one league short of Vyazma and on the 30th in Vyazma; napoleon-empire says in Vyazma on the 29th for two days.",
+  "Kutuzov's assumption of command: 29 August NS (= 17 August OS) at Tsaryovo-Zaymishche (napoleon-empire, EN Wikipedia invasion and Smolensk articles). EN Wikipedia's Borodino article says '18 August' - apparently an unconverted/garbled Old Style date. His appointment is given as 20 August NS.",
+  "Gzhatsk roll call 2 September: 133,815 (Chambray via RU Wikipedia) vs 133,819 (historyofwar). The 17th Bulletin is dated Ghjat 3 September in most editions but printed '5 septembre' in the Gutenberg text; the 18th Bulletin (Mojaïsk) is 10 September in most editions but printed '12 septembre' there.",
+  "Shevardino: start 16:00 (bulletin) vs 'mid-afternoon' with first direct assault about 17:00 (historyofwar); end 19:00 (bulletin) vs Russian withdrawal ordered about 23:00 (historyofwar). EN Wikipedia's text confusingly spreads the preliminary rearguard actions over 'September 5' and 'the next day'; the redoubt fight itself is 5 September NS (24 August OS). Losses: French 4,000-5,000, Russian about 6,000; which side held the redoubt at the end is disputed.",
+  "Borodino opening: 06:00 (bulletin, EN Wikipedia, most eyewitnesses) vs 05:30 (RU Wikipedia). First Raevsky redoubt attack: 09:00 (bulletin) vs about 10:00-11:00 in modern accounts. Flèches finally taken: 08:00 (bulletin) / about 10:00 (historyofwar) / 11:30 (EN Wikipedia) / RU sources describe up to eight attacks ending about noon. Final redoubt assault: 14:00 start, 15:30 fall (EN Wikipedia) vs about 15:00 start (historyofwar).",
+  "Borodino strength: Clausewitz 130,000; roll call 133,815 on 2 Sep; EN Wikipedia 103,000-135,000; RU Wikipedia about 135,000-138,000 with 587 guns. Casualties: French 30,000-42,000 (Clausewitz: 20,000; Napoleon's bulletin: 10,000), Russian 40,000-53,000. No sourced post-battle head-count was found.",
+  "Night of 13 September: the 19th Bulletin calls it 'château de Berwska'; napoleon-empire calls it 'Malo-Viasma [Bolshie Vyazyomy]'; EN Wikipedia says Vyazyomy manor (Golitsyn), on the sofa Kutuzov used. napoleon-empire says Kutuzov had been there 'the day before yesterday', EN Wikipedia implies one night apart.",
+  "Entry into Moscow: 19th Bulletin 'le 14, à midi, nous sommes entrés à Moscou'; Ségur and EN Wikipedia have the advance guard/Napoleon on Poklonnaya hill at 14:00 and troops entering in the afternoon. Napoleon personally: night of 14th in Dorogomilovo, into the city 06:00 on 15 September, Kremlin about noon (napoleon-empire; napoleon.org 'tôt le 15 septembre'). Clausewitz also dates 'the entrance into Moscow' 15 September. EN Wikipedia's occupation article narrates his ride to the Kremlin's Borovitsky gate without a clear date; napoleon-empire says he entered by the Troitskaya tower.",
+  "Army strength entering Moscow: 90,000 (Clausewitz), max 95,000 (Riehn), 100,000 (Minard, EN Wikipedia).",
+  "Clausewitz's corps-by-corps breakdown of the 301,000 could not be read cleanly from the scanned PDF (only Guard 47,000, reserve cavalry 40,000, staff 4,000 and the total are legible); which corps he counts in the 'centre' should be checked against a clean edition.",
+  "Coordinates left null (not confirmable from a source): Rasasna, Luchosa bivouac (27 July), château short of Vyazma, Velichevo, Gridnevo, Kukarino, Petelino. Coordinates for Kamen, Boyarintsevo, Korytnya, Slavkovo, Rybki and the Dorogomilovo house come from napoleon-empire.org, not Wikipedia.",
+  "Minard caveat: the chart's numbers are schematic and its longitudes approximate; it shows 422,000 at the Niemen though only 340,000 belong to the band that reaches Moscow, and it has no separate Borodino step."
+ ]
+}

@@ -1,0 +1,2145 @@
+{
+ "itinerary": [
+  {
+   "date": "1812-11-09",
+   "localTime": null,
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "arrives",
+   "note": "Napoleon and the Guard enter Smolensk; stays through 13 Nov.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-14",
+   "localTime": "05:00",
+   "place": "Smolensk",
+   "modernName": "Smolensk",
+   "country": "RU",
+   "lat": 54.78,
+   "lon": 32.05,
+   "event": "departs",
+   "note": "Imperial column (Guard, HQ) leaves 'about five in the morning' (Ségur). The 29th Bulletin itself says the 13th; Caulaincourt, Ségur and modern chronologies say the 14th.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-14",
+   "localTime": null,
+   "place": "Korytnia",
+   "modernName": "Korytnya (Smolensk district)",
+   "country": "RU",
+   "lat": 54.67,
+   "lon": 31.75,
+   "event": "arrives",
+   "note": "First night out of Smolensk, about five leagues on; 'arrived quite early' (Caulaincourt). Guard artillery took 22 hours to cover the stage.",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-15",
+   "localTime": null,
+   "place": "Krasnoi",
+   "modernName": "Krasny, Smolensk Oblast",
+   "country": "RU",
+   "lat": 54.56,
+   "lon": 31.43,
+   "event": "arrives",
+   "note": "Arrives in the afternoon with the Guard; the Young Guard surprises Ozharovsky's camp that night.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-16",
+   "localTime": null,
+   "place": "Krasnoi",
+   "modernName": "Krasny, Smolensk Oblast",
+   "country": "RU",
+   "lat": 54.56,
+   "lon": 31.43,
+   "event": "at",
+   "note": "Waits for Eugène, Davout and Ney to close up; Eugène is cut off at the Losvinka and slips round by night.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-17",
+   "localTime": "11:00",
+   "place": "Krasnoi",
+   "modernName": "Krasny, Smolensk Oblast",
+   "country": "RU",
+   "lat": 54.56,
+   "lon": 31.43,
+   "event": "departs",
+   "note": "After the Guard's dawn attack frees Davout, Napoleon orders the Old Guard back about 11:00 and leaves 'before noon' (time approximate).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-17",
+   "localTime": null,
+   "place": "Liady",
+   "modernName": "Lyady, Vitebsk Region",
+   "country": "BY",
+   "lat": 54.6,
+   "lon": 31.17,
+   "event": "arrives",
+   "note": "Night at Lyady, 18 km west of Krasny; first inhabited town since Moscow, thaw begins.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-18",
+   "localTime": null,
+   "place": "Dubrovna",
+   "modernName": "Dubrowna",
+   "country": "BY",
+   "lat": 54.57,
+   "lon": 30.68,
+   "event": "arrives",
+   "note": "Leaves Lyady in the morning; night at Princess Lubomirska's house. Letter to Maret dated Dubrovna 18 Nov.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-19",
+   "localTime": null,
+   "place": "Orsha",
+   "modernName": "Orsha",
+   "country": "BY",
+   "lat": 54.51,
+   "lon": 30.43,
+   "event": "arrives",
+   "note": "Crosses the Dnieper; lodges in the Jesuit college; spends part of the day on the bridge.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-20",
+   "localTime": null,
+   "place": "Orsha",
+   "modernName": "Orsha",
+   "country": "BY",
+   "lat": 54.51,
+   "lon": 30.43,
+   "event": "departs",
+   "note": "Leaves in the afternoon of the 20th.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-20",
+   "localTime": null,
+   "place": "Baran (Baranui manor)",
+   "modernName": "Baran",
+   "country": "BY",
+   "lat": 54.48,
+   "lon": 30.32,
+   "event": "arrives",
+   "note": "Manor a short way beyond Orsha, a quarter-league off the road; here he hears Ney has reappeared.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-21",
+   "localTime": null,
+   "place": "Kokhanovo (Kamienska)",
+   "modernName": "Kokhanava",
+   "country": "BY",
+   "lat": 54.45,
+   "lon": 30.01,
+   "event": "at",
+   "note": "Night of 21 Nov; only one source names this stop.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-22",
+   "localTime": null,
+   "place": "Tolochin",
+   "modernName": "Talachyn",
+   "country": "BY",
+   "lat": 54.42,
+   "lon": 29.7,
+   "event": "arrives",
+   "note": "Quarters in a monastery/convent; halts about 24 hours (Foord).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-23",
+   "localTime": null,
+   "place": "Bobr",
+   "modernName": "Bobr (Krupki district)",
+   "country": "BY",
+   "lat": 54.34,
+   "lon": 29.28,
+   "event": "arrives",
+   "note": "Leaves Tolochin early, 30 km to Bobr; eagles ordered burnt 23–24 Nov.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-24",
+   "localTime": null,
+   "place": "Losnitsa",
+   "modernName": "Loshnitsa",
+   "country": "BY",
+   "lat": 54.28,
+   "lon": 28.76,
+   "event": "arrives",
+   "note": "Leaves Bobr for Loshnitsa (via Krupki).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-25",
+   "localTime": null,
+   "place": "Borisov",
+   "modernName": "Barysaw",
+   "country": "BY",
+   "lat": 54.23,
+   "lon": 28.5,
+   "event": "passes",
+   "note": "Reaches Borisov in the afternoon, inspects the broken bridge; leaves about 22:00 (Ségur).",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/berezina.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-25",
+   "localTime": null,
+   "place": "Staroi-Borisov",
+   "modernName": "Staraborysaw (Stary Borisov)",
+   "country": "BY",
+   "lat": 54.28,
+   "lon": 28.48,
+   "event": "arrives",
+   "note": "Night at the Radziwill farm, in Baron Korsak's house.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-26",
+   "localTime": "06:00",
+   "place": "Staroi-Borisov",
+   "modernName": "Staraborysaw (Stary Borisov)",
+   "country": "BY",
+   "lat": 54.28,
+   "lon": 28.48,
+   "event": "departs",
+   "note": "Leaves at 06:00 for Studianka.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-26",
+   "localTime": null,
+   "place": "Studianka",
+   "modernName": "Studzionka (Barysaw district)",
+   "country": "BY",
+   "lat": 54.33,
+   "lon": 28.35,
+   "event": "arrives",
+   "note": "On the east bank all day watching Eblé's bridges go up; first trestle fixed 08:00, infantry bridge done 13:00.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/berezina.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-27",
+   "localTime": "13:00",
+   "place": "Studianka",
+   "modernName": "Studzionka (Barysaw district)",
+   "country": "BY",
+   "lat": 54.33,
+   "lon": 28.35,
+   "event": "departs",
+   "note": "Napoleon crosses the Berezina with HQ and the Guard about 13:00 (Foord, historyofwar); Ségur and RU Wikipedia say about 14:00; EN Wikipedia 'by midday'.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-27",
+   "localTime": null,
+   "place": "Zanivki",
+   "modernName": "Zanivki (hamlet south of Brili; no longer on modern maps)",
+   "country": "BY",
+   "lat": 54.29,
+   "lon": 28.36,
+   "event": "arrives",
+   "note": "HQ in a hamlet on the west bank (Caulaincourt calls the HQ 'Brillowo'). Coordinates as given by napoleon-empire.net.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-28",
+   "localTime": null,
+   "place": "Zanivki",
+   "modernName": "Zanivki (hamlet south of Brili)",
+   "country": "BY",
+   "lat": 54.29,
+   "lon": 28.36,
+   "event": "at",
+   "note": "On the field during the two-bank battle; sleeps again at Zanivki.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-29",
+   "localTime": null,
+   "place": "Zembin",
+   "modernName": "Zembin",
+   "country": "BY",
+   "lat": 54.37,
+   "lon": 28.22,
+   "event": "passes",
+   "note": "Marches north-west over the long Zembin causeway bridges, which Chaplitz had failed to burn.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-11-29",
+   "localTime": null,
+   "place": "Kamen",
+   "modernName": "Kameno (Lahoysk district)",
+   "country": "BY",
+   "lat": 54.42,
+   "lon": 28.04,
+   "event": "arrives",
+   "note": "Night of 29 Nov. Identification of modern Kameno with 'Kamen' is by position on the Zembin–Pleshchenitsy road.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-11-30",
+   "localTime": null,
+   "place": "Pleshchenitsy",
+   "modernName": "Plyeshchanitsy",
+   "country": "BY",
+   "lat": 54.42,
+   "lon": 27.83,
+   "event": "arrives",
+   "note": "HQ on 30 Nov (29th Bulletin).",
+   "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-01",
+   "localTime": null,
+   "place": "Staiki",
+   "modernName": "Stayki",
+   "country": "BY",
+   "lat": null,
+   "lon": null,
+   "event": "arrives",
+   "note": "Wretched lodging, nicknamed 'Miserowo' by the staff.",
+   "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-02",
+   "localTime": null,
+   "place": "Selitche",
+   "modernName": "Selishche (via Ilya)",
+   "country": "BY",
+   "lat": 54.36,
+   "lon": 27.08,
+   "event": "arrives",
+   "note": "Via Ilya (54.42, 27.29) in intense cold. Coordinates are BE Wikipedia's Selishcha, Vileyka district; match to the 1812 hamlet not independently confirmed.",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-12-03",
+   "localTime": null,
+   "place": "Molodechno",
+   "modernName": "Maladzyechna",
+   "country": "BY",
+   "lat": 54.32,
+   "lon": 26.86,
+   "event": "arrives",
+   "note": "Fourteen couriers from Paris arrive at once; the 29th Bulletin is dated here.",
+   "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-04",
+   "localTime": null,
+   "place": "Bienitsa",
+   "modernName": "Byenitsa",
+   "country": "BY",
+   "lat": 54.35,
+   "lon": 26.54,
+   "event": "arrives",
+   "note": "20 km west of Molodechno; Ségur gives 26 degrees of frost here.",
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-05",
+   "localTime": "08:00",
+   "place": "Smorgoni",
+   "modernName": "Smarhon",
+   "country": "BY",
+   "lat": 54.48,
+   "lon": 26.4,
+   "event": "arrives",
+   "note": "Arrives 08:00 (Foord); orders dictated at noon; marshals summoned for 19:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-05",
+   "localTime": "22:00",
+   "place": "Smorgoni",
+   "modernName": "Smarhon",
+   "country": "BY",
+   "lat": 54.48,
+   "lon": 26.4,
+   "event": "departs",
+   "note": "Napoleon leaves the army at 22:00 (Caulaincourt's dictated order, Ségur, napoleon-empire). Foord and Coignet say 19:00, which is the hour of the marshals' council. Marker passes to Murat's column.",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-06",
+   "localTime": null,
+   "place": "Oshmiany",
+   "modernName": "Ashmyany",
+   "country": "BY",
+   "lat": 54.42,
+   "lon": 25.94,
+   "event": "passes",
+   "note": "Murat's column; survivors file through Oshmiany on the night of 6 Dec, the town is fired at midnight (Digby Smith). Daily HQ of Murat 6–7 Dec is not documented in the sources consulted.",
+   "sources": [
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1812-12-07",
+   "localTime": null,
+   "place": "Miedniki",
+   "modernName": "Medininkai",
+   "country": "LT",
+   "lat": 54.54,
+   "lon": 25.65,
+   "event": "passes",
+   "note": "Main column on the Oshmiany–Vilna road; von Brandt reports −30 °R here. Date inferred from Oshmiany (6th) and Vilna (8th).",
+   "sources": [
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1812-12-08",
+   "localTime": null,
+   "place": "Vilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "arrives",
+   "note": "Murat and headquarters reach Vilna on the 8th; the mass of the column jams the gates on the 9th.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-10",
+   "localTime": null,
+   "place": "Vilna",
+   "modernName": "Vilnius",
+   "country": "LT",
+   "lat": 54.69,
+   "lon": 25.28,
+   "event": "departs",
+   "note": "Murat leaves in the night of 9–10 Dec; Ney's rearguard quits the town on the 10th with Cossacks in the streets.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-10",
+   "localTime": null,
+   "place": "Ponari hill",
+   "modernName": "Paneriai (Aukštieji Paneriai), Vilnius",
+   "country": "LT",
+   "lat": 54.63,
+   "lon": 25.18,
+   "event": "passes",
+   "note": "Iced slope about an hour's march west of Vilna; guns, baggage and the treasury abandoned.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-10",
+   "localTime": null,
+   "place": "Evie",
+   "modernName": "Vievis",
+   "country": "LT",
+   "lat": 54.77,
+   "lon": 24.81,
+   "event": "passes",
+   "note": "On the Vilna–Kovno post road; no dated source found for the halt here (inferred between Ponari on the 10th and Zhizhmory on the 11th).",
+   "sources": [
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "confidence": "low"
+  },
+  {
+   "date": "1812-12-11",
+   "localTime": null,
+   "place": "Zhizhmory",
+   "modernName": "Žiežmariai",
+   "country": "LT",
+   "lat": 54.81,
+   "lon": 24.44,
+   "event": "passes",
+   "note": "Loison's remnants meet Berthier's column here on 11 Dec.",
+   "sources": [
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-12-11",
+   "localTime": null,
+   "place": "Rumshishki",
+   "modernName": "Rumšiškės",
+   "country": "LT",
+   "lat": 54.86,
+   "lon": 24.22,
+   "event": "arrives",
+   "note": "Remnants reach Rumshishki on the evening of the 11th.",
+   "sources": [
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "1812-12-12",
+   "localTime": null,
+   "place": "Kovno",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "arrives",
+   "note": "Main body pours into Kovno; Ney's rearguard arrives in the evening.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-13",
+   "localTime": null,
+   "place": "Kovno",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "departs",
+   "note": "Murat, the Guard and the bulk recross the Niemen (bridge and ice) on the 13th and take the Wilkowiski/Königsberg road.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://fr.wikipedia.org/wiki/Campagne_de_Russie"
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "1812-12-14",
+   "localTime": "20:00",
+   "place": "Kovno, Niemen bridge",
+   "modernName": "Kaunas",
+   "country": "LT",
+   "lat": 54.9,
+   "lon": 23.89,
+   "event": "departs",
+   "note": "Ney's rearguard holds the Vilna gate till nightfall and crosses last; Ségur says he reached the far bank at 20:00, another account that he began to retire at 21:00. Foord places the stand on the 13th.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://1812now.blogspot.com/2012/12/december-14-1812-marshall-ney-leaves.html",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "moments": [
+  {
+   "date": "1812-11-09",
+   "localTime": null,
+   "title": "Smolensk: no refuge",
+   "body": "Napoleon reaches Smolensk expecting full magazines and finds a depot already stripped by the troops who passed first. Minard marks −9 °R (about −11 °C) this day and 37,000 men at the town.",
+   "tags": [
+    "retreat",
+    "attrition",
+    "winter"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html",
+    "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv",
+    "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-13",
+   "localTime": null,
+   "title": "The corps leave one by one",
+   "body": "The Poles, Junot's Westphalians and the Vistula Legion march out first on the 13th; Napoleon and the Guard follow on the 14th, Eugène on the 15th, Davout on the 16th and Ney's rearguard at 2 a.m. on the 17th. The day's gap between corps strings the army along some 50 km of road.",
+   "tags": [
+    "retreat",
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-14",
+   "localTime": "05:00",
+   "title": "The Emperor quits Smolensk",
+   "body": "The imperial column marches out about five in the morning onto roads of sheet ice. The Guard's artillery needs twenty-two hours to cover the first five leagues to Korytnia. Minard gives −21 °R for the day.",
+   "tags": [
+    "retreat",
+    "winter",
+    "eyewitness"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+   ],
+   "quote": {
+    "text": "Its march was still firm, but gloomy and silent as night, and mute and discoloured as the aspect of the country through which it was advancing.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-11-15",
+   "localTime": null,
+   "title": "Krasny: the Guard arrives",
+   "body": "Napoleon reaches Krasny in the afternoon while Miloradovich lines the road behind him. That night the Young Guard falls on Ozharovsky's camp south of the town and scatters it.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-16",
+   "localTime": null,
+   "title": "Eugène cut off",
+   "body": "Miloradovich bars the road at the Losvinka ravine. Eugène's IV Corps loses its guns, its baggage and about a third of its men, then slips around the Russians in the dark to reach Krasny.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-17",
+   "localTime": "05:00",
+   "title": "The Guard attacks at Krasny",
+   "body": "Before dawn Napoleon marches the Guard back east out of Krasny to open the road for Davout. Kutuzov pulls back; Davout gets through about 9 a.m., and by 11 a.m. Napoleon, hearing that Tormasov is circling west of the town, orders the retreat on Lyady. The Young Guard covering it loses roughly half its men.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-18",
+   "localTime": "15:00",
+   "title": "Ney cut off",
+   "body": "Ney's rearguard reaches the Losvinka about 3 p.m. to find Miloradovich across the road and the army gone. He refuses a summons to surrender, attacks, is thrown back with the loss of more than half his men, and draws off at dusk.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-18",
+   "localTime": "23:59",
+   "title": "Ney crosses the Dnieper ice",
+   "body": "During the night of 18–19 November Ney leaves his campfires burning and crosses the half-frozen Dnieper near Syrokorenye and Gusino. Guns, wagons and wounded stay on the south bank; the ice gives way under the first vehicles.",
+   "tags": [
+    "crossing",
+    "maneuver",
+    "winter"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-17",
+   "localTime": null,
+   "title": "Thaw at Lyady",
+   "body": "At Lyady the army leaves burnt Old Russia for inhabited country, and the frost breaks. The thaw brings slush and fog, and within days it will unfreeze the Berezina.",
+   "tags": [
+    "weather",
+    "retreat"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "quote": {
+    "text": "The weather just then became milder, a thaw had begun, and we received some provisions.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-11-19",
+   "localTime": null,
+   "title": "Orsha: the Dnieper recrossed",
+   "body": "Napoleon crosses the Dnieper and lodges in the Jesuit college at Orsha. The town holds food, thirty-six guns with teams, and a bridging train of sixty boats.",
+   "tags": [
+    "retreat",
+    "crossing"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-20",
+   "localTime": null,
+   "title": "The pontoons burn",
+   "body": "To free horses for the guns Napoleon has the sixty-boat bridging train burnt at Orsha, along with papers and surplus carriages. Eblé begs to keep fifteen pontoons and is refused; he saves two field forges, two wagons of charcoal and six of tools.",
+   "tags": [
+    "retreat",
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-21",
+   "localTime": "00:00",
+   "title": "Ney rejoins at Orsha",
+   "body": "Eugène marches out from Orsha in the night and meets Ney's column on the Vitebsk road. Of some 3,000 men who crossed the Dnieper, 800 to 1,500 are still under arms. Napoleon, two leagues ahead at Baran, hears the news with joy.",
+   "tags": [
+    "maneuver",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html"
+   ],
+   "quote": {
+    "text": "I have then saved my eagles! I would have given three hundred millions from my treasury, sooner than have lost such a man.",
+    "author": "Napoleon, as reported by Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-11-16",
+   "localTime": null,
+   "title": "Minsk falls",
+   "body": "Chichagov's Army of the Danube takes Minsk, the Grande Armée's great depot on the road home, with its stores and over 2,000 wounded. Napoleon learns of it on the march to Orsha.",
+   "tags": [
+    "maneuver",
+    "politics"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-21",
+   "localTime": null,
+   "title": "Chichagov takes Borisov",
+   "body": "Lambert's advance guard storms the Borisov bridgehead from Dombrowski's Poles. The only bridge over the Berezina is in Russian hands.",
+   "tags": [
+    "battle",
+    "maneuver"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.napoleon-empire.org/en/battles/berezina.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-23",
+   "localTime": null,
+   "title": "Oudinot retakes Borisov",
+   "body": "Oudinot routs Pahlen's advance guard at Loshnitsa and drives Chichagov out of Borisov. The Russians recross the river and destroy the bridge behind them.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.napoleon-empire.org/en/battles/berezina.php",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-23",
+   "localTime": null,
+   "title": "The eagles are burnt",
+   "body": "At Bobr Napoleon has the eagles of the corps brought to him and burnt, and orders surplus carriages destroyed. Mounted officers without troops are formed into the Sacred Squadron.",
+   "tags": [
+    "retreat",
+    "politics"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-22",
+   "localTime": null,
+   "title": "Corbineau's ford",
+   "body": "General Corbineau, cut off by Chichagov on his way to rejoin Oudinot, is shown a ford at Studianka by a peasant and crosses there with his cavalry brigade. On the 24th Oudinot chooses the spot for the bridges.",
+   "tags": [
+    "maneuver",
+    "crossing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-25",
+   "localTime": "22:00",
+   "title": "Feint below Borisov",
+   "body": "A noisy demonstration downstream at Ukholody draws Chichagov south. After dark Eblé's pontonniers and Chasseloup's sappers reach Studianka and start pulling down the village for timber.",
+   "tags": [
+    "maneuver",
+    "crossing"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-26",
+   "localTime": "08:00",
+   "title": "Eblé's men enter the river",
+   "body": "The first trestle goes in at 8 a.m. About 400 pontonniers work shoulder-deep among drifting ice, relieved every quarter of an hour. Forty of Corbineau's troopers ford the river and 400 infantry follow on rafts to hold the far bank.",
+   "tags": [
+    "crossing",
+    "winter",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://www.napoleon-empire.org/en/battles/berezina.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-26",
+   "localTime": "13:00",
+   "title": "The first bridge opens",
+   "body": "The infantry bridge is finished about one o'clock and Oudinot's II Corps crosses at once. The heavier artillery bridge follows at about 4 p.m.; it breaks at 8 p.m., at 2 a.m. and again at 4 p.m. on the 27th, and each time the pontonniers go back into the water.",
+   "tags": [
+    "crossing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+   ],
+   "quote": {
+    "text": "About one o'clock the bank was entirely cleared of the Cossacks, and the bridge for the infantry finished.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-11-27",
+   "localTime": "13:00",
+   "title": "Napoleon crosses the Berezina",
+   "body": "The Emperor crosses with his headquarters and the Guard in the early afternoon and sets up in the hamlet of Zanivki. Eugène and Davout cross after dark.",
+   "tags": [
+    "crossing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-27",
+   "localTime": null,
+   "title": "Partouneaux's division is lost",
+   "body": "Marching from Borisov in the dark, Partouneaux's division takes the wrong fork and runs into Wittgenstein at Staroi-Borisov. The general is taken that night and the rest lay down their arms the next morning; one battalion that took the river track reaches Studianka.",
+   "tags": [
+    "battle"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-28",
+   "localTime": "08:00",
+   "title": "Battle on both banks",
+   "body": "Chichagov attacks Oudinot and Ney in the woods on the west bank while Wittgenstein presses Victor on the heights of Studianka. From about 1 p.m. Russian guns reach the bridges and the crowd of stragglers jammed in front of them.",
+   "tags": [
+    "battle",
+    "crossing"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.napoleon-empire.org/en/battles/berezina.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-28",
+   "localTime": "21:00",
+   "title": "Victor's rearguard crosses",
+   "body": "At nine in the evening Victor is ordered over. His men cut a lane through the wreckage and the dead; by 1 a.m. the IX Corps is across. Thousands of stragglers stay by their fires on the east bank and will not move.",
+   "tags": [
+    "crossing",
+    "retreat"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-11-29",
+   "localTime": "08:30",
+   "title": "The bridges are burned",
+   "body": "Eblé's orders are to fire the bridges at 8 a.m.; he waits until half past eight to let more people over. The crowd left behind rushes the flames or the ice, and the Cossacks arrive within the hour.",
+   "tags": [
+    "crossing",
+    "attrition",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": {
+    "text": "Some there were also who threw themselves headlong into the flames of the burning bridge, which sunk under them; burnt and frozen at one and the same time.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-11-29",
+   "localTime": null,
+   "title": "The Zembin causeways",
+   "body": "The army files north-west across three long timber bridges over the Zembin marshes. Chaplitz had held them for days without burning them; had he done so the crossing would have led nowhere.",
+   "tags": [
+    "retreat",
+    "maneuver"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-03",
+   "localTime": null,
+   "title": "The 29th Bulletin",
+   "body": "At Molodechno Napoleon dictates the bulletin that admits the disaster to France, blaming the cold that set in on 7 November. It closes: 'His Majesty's health has never been better.' It appears in the Moniteur on 16 December.",
+   "tags": [
+    "politics"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/",
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php"
+   ],
+   "quote": {
+    "text": "La santé de Sa Majesté n'a jamais été meilleure.",
+    "author": "Napoleon",
+    "work": "29e Bulletin de la Grande Armée, Molodetchna, 3 décembre 1812"
+   }
+  },
+  {
+   "date": "1812-12-04",
+   "localTime": null,
+   "title": "Twenty-six degrees at Bienitsa",
+   "body": "The frost returns harder than before. Ségur records 26 degrees below zero (Réaumur, about −32 °C) when headquarters reaches Bienitsa.",
+   "tags": [
+    "weather",
+    "winter"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-05",
+   "localTime": "22:00",
+   "title": "Napoleon leaves the army",
+   "body": "At Smorgoni Napoleon assembles the marshals at seven, hands the command to Murat, and at ten at night drives off with Caulaincourt for Paris, Duroc and Lobau following in a sledge. He reaches Oshmiany around midnight, just after Seslavin's raiders have been driven out of it.",
+   "tags": [
+    "politics",
+    "retreat"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.58850",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php",
+    "https://www.gutenberg.org/ebooks/57185"
+   ],
+   "quote": {
+    "text": "As it was now ten o'clock at night, he then rose, squeezed their hands affectionately, embraced them, and departed.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-12-06",
+   "localTime": null,
+   "title": "The cold kills outright",
+   "body": "The day after the Emperor leaves is the coldest of the retreat: Minard marks −30 °R, about −37.5 °C. Men who sit down do not get up.",
+   "tags": [
+    "weather",
+    "winter",
+    "attrition",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna"
+   ],
+   "quote": {
+    "text": "You might see icy particles floating in the air; the birds fell from it quite stiff and frozen.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-12-07",
+   "localTime": null,
+   "title": "Loison's division frozen",
+   "body": "Loison's fresh division of young French and German recruits, sent out from Vilna on 4 December to cover the retreat, is destroyed by the frost without a battle. Of about 15,000 men fewer than 3,000 are still in the ranks on the 7th.",
+   "tags": [
+    "attrition",
+    "winter"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna",
+    "https://tacotichelaar.nl/wordpress/french-invasion-of-russia/"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-09",
+   "localTime": null,
+   "title": "Vilna: the crush at the gate",
+   "body": "Headquarters reached Vilna on the 8th; on the 9th the mass of the column jams a single gate for ten hours in 27 to 28 degrees of frost. The magazines hold bread and biscuit for 100,000 men for forty days, but there is no one to issue it and the stores are broken open.",
+   "tags": [
+    "retreat",
+    "attrition",
+    "winter"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna",
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-10",
+   "localTime": null,
+   "title": "Vilna abandoned",
+   "body": "At the first cannon shots Murat leaves in the night; Ney follows on the 10th with Cossacks already in the streets. Some 20,000 sick, wounded and exhausted men stay behind. A mass grave of the retreat found in Vilnius in 2001 held at least 2,700 of them.",
+   "tags": [
+    "retreat",
+    "attrition"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna",
+    "https://sciencepress.mnhn.fr/en/periodiques/comptes-rendus-palevol/3/fasc3/discovery-mass-grave-napoleonic-period-lithuania-1812-vilnius",
+    "https://www.lituanistika.lt/content/50696"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-10",
+   "localTime": null,
+   "title": "Ponari hill",
+   "body": "A few miles west of Vilna the road climbs an iced slope the horses cannot manage. The last guns, the baggage and the army's pay chests, some ten million francs, are abandoned; French soldiers and Cossacks loot the wagons side by side.",
+   "tags": [
+    "retreat",
+    "attrition",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://erenow.org/modern/napoleonagainstrussia1812/22.php"
+   ],
+   "quote": {
+    "text": "French and Russians, forgetting they were at war, were seen pillaging together the same treasure-waggons.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  },
+  {
+   "date": "1812-12-12",
+   "localTime": null,
+   "title": "Kovno",
+   "body": "About 20,000 men, nearly all without weapons, pour into Kovno; the Guard musters 1,600. The spirit stores are broken open and men lie drunk and freezing in the streets. Most cross the Niemen bridge on the 13th, though the river is frozen hard enough to walk on.",
+   "tags": [
+    "retreat",
+    "attrition"
+   ],
+   "significance": 2,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno",
+    "https://www.napoleon-empire.org/en/chronology/chronology-1812.php",
+    "https://www.gutenberg.org/ebooks/18113"
+   ],
+   "quote": null
+  },
+  {
+   "date": "1812-12-14",
+   "localTime": "20:00",
+   "title": "Ney, last out of Russia",
+   "body": "With a few hundred men Ney holds the Vilna gate of Kovno until dark, musket in hand, then fights his way over the Niemen bridge. Ségur has him reach the Prussian bank at eight in the evening, the last of the army to leave Russian soil.",
+   "tags": [
+    "battle",
+    "retreat",
+    "eyewitness"
+   ],
+   "significance": 3,
+   "sources": [
+    "https://www.gutenberg.org/ebooks/18113",
+    "https://1812now.blogspot.com/2012/12/december-14-1812-marshall-ney-leaves.html",
+    "https://en.wikipedia.org/wiki/Michel_Ney",
+    "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno"
+   ],
+   "quote": {
+    "text": "Finally, he was the last of the grand army who quitted that fatal Russia.",
+    "author": "Philippe-Paul de Ségur",
+    "work": "History of the Expedition to Russia (1824)"
+   }
+  }
+ ],
+ "strength": [
+  {
+   "date": "1812-11-09",
+   "place": "Smolensk",
+   "men": 37000,
+   "scope": "Width of the retreat band at Smolensk (Minard does not separate armed men from stragglers).",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-11-09",
+   "place": "Smolensk",
+   "men": 37000,
+   "scope": "Combat-ready troops, 'merely 40%' of those arriving; article also cites 37,000 infantry + 12,000 cavalry/artillery.",
+   "source": "English Wikipedia, Battle of Krasnoi",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+  },
+  {
+   "date": "1812-11-14",
+   "place": "Smolensk (departure)",
+   "men": 36000,
+   "scope": "Combatants under arms; plus about 60,000 unarmed stragglers. Breakdown: Guard 9–10,000 foot + 2,000 horse, Davout 8–9,000, Ney 5–6,000, Eugène 5,000.",
+   "source": "Ségur",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-11-14",
+   "place": "Smolensk (departure)",
+   "men": 45000,
+   "scope": "Army under arms leaving Smolensk; armed strength falls by perhaps 20,000 at Krasny.",
+   "source": "Clausewitz, as cited by English Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+  },
+  {
+   "date": "1812-11-13",
+   "place": "Smolensk",
+   "men": 40000,
+   "scope": "About 40,000 men of whom barely 10,000 armed and fit to fight.",
+   "source": "Zamoyski 2004, as cited by French Wikipedia",
+   "url": "https://fr.wikipedia.org/wiki/Campagne_de_Russie"
+  },
+  {
+   "date": "1812-11-15",
+   "place": "Krasny",
+   "men": 12000,
+   "scope": "Imperial Guard only, arriving with Napoleon (historyofwar.org says 16,000 Guard engaged on the 17th).",
+   "source": "English Wikipedia, Battle of Krasnoi",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+  },
+  {
+   "date": "1812-11-18",
+   "place": "between Smolensk and Orsha (after Krasny)",
+   "men": 24000,
+   "scope": "Retreat band after Smolensk/Krasny.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-11-19",
+   "place": "Orsha",
+   "men": 20000,
+   "scope": "Retreat band at Orsha, unchanged to the Berezina.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-11-19",
+   "place": "Orsha",
+   "men": 10000,
+   "scope": "'Scarcely ten thousand soldiers' under arms; Guard 6,000, Eugène 1,800, Davout 4,000 on entering Orsha.",
+   "source": "Ségur",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-11-22",
+   "place": "Tolochin",
+   "men": 23000,
+   "scope": "Sum of Foord's estimates of armed men: Guard 9,000 foot/artillery + 1,500 horse, Davout ~6,000, Eugène ~3,000, Ney 1,500, Junot and Zajonczek ~1,000 each, ~1,000 dismounted cavalry. Sum is ours; Foord gives only the parts.",
+   "source": "Foord 1914",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-11-21",
+   "place": "Orsha (Ney's corps rejoining)",
+   "men": 900,
+   "scope": "Ney's survivors after the Dnieper crossing: 800–900 (Wikipedia/historyofwar); 'not 1,500 armed men' (Foord); '6,000' (Caulaincourt, an outlier).",
+   "source": "English Wikipedia, Battle of Krasnoi",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+  },
+  {
+   "date": "1812-11-26",
+   "place": "Studianka (before the crossing)",
+   "men": 49000,
+   "scope": "Combatants after Oudinot and Victor join; plus about 40,000 stragglers.",
+   "source": "Chandler 1966, as cited by English Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+  },
+  {
+   "date": "1812-11-26",
+   "place": "Studianka (before the crossing)",
+   "men": 46000,
+   "scope": "'45,000 or 47,000 combatants' near Studianka on the 26th (midpoint entered).",
+   "source": "Foord 1914",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-11-26",
+   "place": "Studianka (before the crossing)",
+   "men": 50000,
+   "scope": "Main band 20,000 plus the 30,000 of the Polotsk wing (Oudinot/Victor) rejoining at the Berezina.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-11-26",
+   "place": "Berezina",
+   "men": 28000,
+   "scope": "Men fit to fight: Victor + Oudinot 20,000, Ney 3,000, Guard 5,000; out of 80–100,000 present.",
+   "source": "French Wikipedia, Bataille de la Bérézina",
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina"
+  },
+  {
+   "date": "1812-11-26",
+   "place": "Berezina",
+   "men": 35000,
+   "scope": "'30,000–40,000 under arms' (midpoint entered) plus ~40,000 unarmed, sick and civilians.",
+   "source": "Russian Wikipedia",
+   "url": "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+  },
+  {
+   "date": "1812-11-29",
+   "place": "west bank of the Berezina",
+   "men": 28000,
+   "scope": "Band after the crossing (the rejoined wing shown as 30,000 → 28,000).",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-11-29",
+   "place": "west bank of the Berezina",
+   "men": 25000,
+   "scope": "'Little more than 25,000' combatants left on the 29th.",
+   "source": "Foord 1914",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-11-29",
+   "place": "west bank of the Berezina",
+   "men": 60000,
+   "scope": "Everyone who crossed, armed and unarmed, 'without the least order or unity'.",
+   "source": "Ségur",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-11-29",
+   "place": "west bank of the Berezina",
+   "men": 40000,
+   "scope": "Members of the army saved by the crossing.",
+   "source": "Riehn 1990, as cited by English Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+  },
+  {
+   "date": "1812-12-01",
+   "place": "three days after the Berezina",
+   "men": 9000,
+   "scope": "Armed men, including 4,000 of the Guard (historyofwar quotes Chambray's figure as 8,800).",
+   "source": "Chambray, as cited by Russian Wikipedia",
+   "url": "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+  },
+  {
+   "date": "1812-11-30",
+   "place": "Pleshchenitsy",
+   "men": 13000,
+   "scope": "Napoleon's own acknowledgement: 7,000 infantry and 6,000 cavalry.",
+   "source": "historyofwar.org (Rickard)",
+   "url": "https://www.historyofwar.org/articles/battles_berezina.html"
+  },
+  {
+   "date": "1812-12-03",
+   "place": "Molodechno",
+   "men": 12000,
+   "scope": "Retreat band at Molodechno.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-12-05",
+   "place": "Smorgoni",
+   "men": 14000,
+   "scope": "Retreat band at Smorgoni (rises as detachments rejoin).",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-12-08",
+   "place": "Vilna",
+   "men": 8000,
+   "scope": "Retreat band at Vilna.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-12-08",
+   "place": "Vilna",
+   "men": 4300,
+   "scope": "Combatants only.",
+   "source": "English Wikipedia, Battle of Berezina",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+  },
+  {
+   "date": "1812-12-10",
+   "place": "Vilna",
+   "men": 6500,
+   "scope": "'6,000 or 7,000 at most' under arms on the 10th (midpoint entered); nearly 20,000 left behind in the city.",
+   "source": "Foord 1914",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-12-09",
+   "place": "Vilna",
+   "men": 40000,
+   "scope": "All survivors: of 60,000 who crossed the Berezina plus 20,000 recruits who joined, 'half had already perished'.",
+   "source": "Ségur",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-12-12",
+   "place": "Kovno",
+   "men": 20000,
+   "scope": "Main body entering Kovno, 'nearly all disarmed'; Guard 1,600 bayonets and sabres; Ney's rearguard under 2,000.",
+   "source": "Foord 1914",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-12-13",
+   "place": "Kovno / Niemen",
+   "men": 4000,
+   "scope": "Main band at Kovno; joined by the 6,000 of the northern (Macdonald) wing for 10,000 recrossing the Niemen.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-12-14",
+   "place": "Niemen",
+   "men": 10000,
+   "scope": "Minard's closing figure: 4,000 + 6,000.",
+   "source": "Minard 1869 (HistData transcription)",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.troops.csv"
+  },
+  {
+   "date": "1812-12-14",
+   "place": "Niemen",
+   "men": 1000,
+   "scope": "Ney's rearguard: 'barely 1,000 men fit for action'.",
+   "source": "Markham 1963, as cited by tacotichelaar.nl / Wikipedia",
+   "url": "https://tacotichelaar.nl/wordpress/french-invasion-of-russia/"
+  },
+  {
+   "date": "1812-12-14",
+   "place": "Niemen",
+   "men": 30000,
+   "scope": "'Fewer than 30,000' soldiers recross the Niemen with Murat.",
+   "source": "Lentz, as cited by French Wikipedia",
+   "url": "https://fr.wikipedia.org/wiki/Campagne_de_Russie"
+  },
+  {
+   "date": "1812-12-14",
+   "place": "whole front",
+   "men": 31000,
+   "scope": "Left Russia in formation across all wings, plus about 35,000 stragglers.",
+   "source": "Riehn 1990, as cited by tacotichelaar.nl / Wikipedia",
+   "url": "https://tacotichelaar.nl/wordpress/french-invasion-of-russia/"
+  }
+ ],
+ "temperature": [
+  {
+   "date": "1812-11-09",
+   "place": "near Dorogobuzh / Smolensk",
+   "celsius": -11.2,
+   "reaumur": -9,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-11-14",
+   "place": "Smolensk",
+   "celsius": -26.2,
+   "reaumur": -21,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": null,
+   "place": "Bobr (Minard prints no date; army there 23–24 Nov)",
+   "celsius": -13.8,
+   "reaumur": -11,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-11-28",
+   "place": "Studianka / Berezina",
+   "celsius": -25.0,
+   "reaumur": -20,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-12-01",
+   "place": "between the Berezina and Molodechno",
+   "celsius": -30.0,
+   "reaumur": -24,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-12-06",
+   "place": "between Smorgoni and Vilna",
+   "celsius": -37.5,
+   "reaumur": -30,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-12-07",
+   "place": "approaching Vilna",
+   "celsius": -32.5,
+   "reaumur": -26,
+   "source": "Minard 1869",
+   "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Minard.temp.csv"
+  },
+  {
+   "date": "1812-11-14",
+   "place": "Smolensk–Krasny road (14–16 Nov)",
+   "celsius": -20.0,
+   "reaumur": -16,
+   "source": "29th Bulletin: '16 et 18 degrés au-dessous de glace' (scale unstated, taken as Réaumur; lower bound)",
+   "url": "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+  },
+  {
+   "date": "1812-11-16",
+   "place": "Smolensk–Krasny road (14–16 Nov)",
+   "celsius": -22.5,
+   "reaumur": -18,
+   "source": "29th Bulletin (upper bound)",
+   "url": "https://www.napoleon.org/histoire-des-2-empires/articles/29e-bulletin-de-la-grande-armee-molodetchna-3-decembre-1812/"
+  },
+  {
+   "date": "1812-12-04",
+   "place": "Bienitsa",
+   "celsius": -32.5,
+   "reaumur": -26,
+   "source": "Ségur: 'the thermometer was at 26 degrees' (scale unstated, taken as Réaumur)",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-12-05",
+   "place": "Smorgoni area",
+   "celsius": -25.0,
+   "reaumur": -20,
+   "source": "Foord",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-12-06",
+   "place": "Smorgoni–Oshmiany",
+   "celsius": -30.0,
+   "reaumur": -24,
+   "source": "Foord (conflicts with Minard's −30)",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-12-07",
+   "place": "Oshmiany–Vilna",
+   "celsius": -32.5,
+   "reaumur": -26,
+   "source": "Foord",
+   "url": "https://www.gutenberg.org/ebooks/57185"
+  },
+  {
+   "date": "1812-12-07",
+   "place": "Miedniki",
+   "celsius": -37.5,
+   "reaumur": -30,
+   "source": "von Brandt, as quoted on historion.iovan.net (date approximate)",
+   "url": "https://www.historion.iovan.net/napoleons-campaign-russia/wilna-kowno"
+  },
+  {
+   "date": "1812-12-08",
+   "place": "road to Vilna (7–8 Dec peak)",
+   "celsius": -35.0,
+   "reaumur": -28,
+   "source": "Holzhausen-based narrative on historion.iovan.net",
+   "url": "https://www.historion.iovan.net/napoleons-campaign-russia/wilna"
+  },
+  {
+   "date": "1812-12-09",
+   "place": "Vilna gate",
+   "celsius": -33.8,
+   "reaumur": -27,
+   "source": "Ségur: '27 and even 28 degrees' (scale unstated, taken as Réaumur)",
+   "url": "https://www.gutenberg.org/ebooks/18113"
+  },
+  {
+   "date": "1812-12-10",
+   "place": "Vilna market square",
+   "celsius": -37.5,
+   "reaumur": -30,
+   "source": "Holzhausen-based narrative on historion.iovan.net",
+   "url": "https://www.historion.iovan.net/napoleons-campaign-russia/wilna"
+  },
+  {
+   "date": "1812-12-08",
+   "place": "Vilna road",
+   "celsius": -34,
+   "reaumur": -27.2,
+   "source": "English Wikipedia, Battle of Berezina (given in °C; °R back-computed)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+  },
+  {
+   "date": "1812-11-14",
+   "place": "Smolensk (blizzard)",
+   "celsius": -24,
+   "reaumur": -19.2,
+   "source": "English Wikipedia, Battle of Krasnoi (given in °C; °R back-computed; elsewhere the same page gives −21 °R)",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+  }
+ ],
+ "battleTimings": [
+  {
+   "battle": "Krasny",
+   "date": "1812-11-15",
+   "localTime": "afternoon",
+   "text": "Napoleon and the Guard enter Krasny, retaken that day by the Vistula Legion; Miloradovich cannonades the column from south of the road.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.historyofwar.org/articles/battles_krasnyi_2nd.html"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-15",
+   "localTime": "night",
+   "text": "The Young Guard (Roguet) surprises Ozharovsky's flying column in its camp and scatters about half of it.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-16",
+   "localTime": "afternoon",
+   "text": "Miloradovich bars the road at the Losvinka; Eugène's IV Corps loses its guns and about a third of its men and bypasses the block after dark.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-17",
+   "localTime": "02:00",
+   "text": "Guard regiments march out of Krasny eastward; Davout breaks camp at 03:00.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-17",
+   "localTime": "09:00",
+   "text": "Davout's I Corps reaches the Losvinka and comes into line with the Guard.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-17",
+   "localTime": "11:00",
+   "text": "Told that Tormasov is moving round west of Krasny, Napoleon orders the Old Guard back on Lyady and leaves before noon.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-17",
+   "localTime": "14:00",
+   "text": "The Young Guard, cut from about 6,000 to about 3,000, falls back on Krasny; Kutuzov releases Tormasov.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-17",
+   "localTime": "15:00",
+   "text": "Golitsyn attacks Krasny; Friederichs's rearguard is driven out and the Russians hold the town by nightfall.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-18",
+   "localTime": "03:00",
+   "text": "Ney's III Corps sets out from Korytnia.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-18",
+   "localTime": "15:00",
+   "text": "Ney reaches the Losvinka, rejects Miloradovich's summons and attacks; Razout's division is shattered by 24 guns and Paskevich's counter-attack.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-18",
+   "localTime": "16:00",
+   "text": "Ney breaks off and withdraws toward Smolensk, then turns north for the Dnieper.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+   ]
+  },
+  {
+   "battle": "Krasny",
+   "date": "1812-11-18",
+   "localTime": "21:00",
+   "text": "Ney reaches Syrokorenye and crosses the Dnieper on the ice during the night of 18–19 November.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Krasnoi",
+    "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-25",
+   "localTime": "22:00",
+   "text": "Bridge-building begins at Studianka; three bridges planned, material for two.",
+   "sources": [
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.gutenberg.org/ebooks/57185"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-26",
+   "localTime": "08:00",
+   "text": "First trestle fixed; Corbineau's cavalry fords the river and about 400 infantry cross on rafts to hold the west bank.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-26",
+   "localTime": "13:00",
+   "text": "Infantry (upstream) bridge finished; Oudinot's II Corps and Dombrowski cross.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.gutenberg.org/ebooks/18113"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-26",
+   "localTime": "16:00",
+   "text": "Artillery bridge finished (15:00–16:00); guns of the Guard and II Corps begin to cross.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-26",
+   "localTime": "20:00",
+   "text": "Three trestles of the artillery bridge give way; repaired by 23:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-26",
+   "localTime": "22:00",
+   "text": "Ney's III Corps begins to cross, the Poles of V Corps about midnight.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_berezina.html"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-27",
+   "localTime": "02:00",
+   "text": "Artillery bridge breaks in the centre; repaired by 06:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-27",
+   "localTime": "13:00",
+   "text": "Napoleon crosses with headquarters and the Guard (Young Guard at noon, Old Guard after him).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-27",
+   "localTime": "16:00",
+   "text": "Artillery bridge breaks a third time; repaired by 18:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-27",
+   "localTime": "20:00",
+   "text": "Eugène's IV Corps and Davout's I Corps begin crossing.",
+   "sources": [
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-27",
+   "localTime": "night",
+   "text": "Partouneaux's division, taking the wrong road from Borisov, is cut off at Staroi-Borisov; the general is captured and the remainder surrender next morning.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-28",
+   "localTime": "08:00",
+   "text": "Chichagov (Chaplitz, Pahlen) attacks Oudinot and Ney on the west bank; Wittgenstein engages Victor on the east bank about 09:00–10:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине",
+    "https://www.gutenberg.org/ebooks/18113"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-28",
+   "localTime": "13:00",
+   "text": "Russian guns outflank Victor and fire on the bridges and the crowd for some four hours.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://www.napoleon-empire.org/en/battles/berezina.php"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-28",
+   "localTime": "21:00",
+   "text": "Victor receives the order to cross and begins to withdraw (EN Wikipedia: about 22:00).",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-29",
+   "localTime": "01:00",
+   "text": "IX Corps is across; a small detachment holds the east bank until dawn.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-29",
+   "localTime": "08:30",
+   "text": "Eblé, ordered to burn the bridges at 08:00 (07:00 in EN Wikipedia), fires them at 08:30; other accounts say about 09:00.",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/57185",
+    "https://en.wikipedia.org/wiki/Battle_of_Berezina",
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina",
+    "https://www.historyofwar.org/articles/battles_berezina.html",
+    "https://ru.wikipedia.org/wiki/Сражение_на_Березине"
+   ]
+  },
+  {
+   "battle": "Berezina",
+   "date": "1812-11-29",
+   "localTime": "09:30",
+   "text": "Cossacks reach the east bank and take the stragglers and abandoned wagons.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Bataille_de_la_Bérézina",
+    "https://www.gutenberg.org/ebooks/18113"
+   ]
+  }
+ ],
+ "corrections": [
+  "Smolensk departure: 14 Nov at about 05:00 (Ségur; EN Wikipedia), not 08:00. The first night was at Korytnia, missing from the schedule.",
+  "Krasny: Napoleon ARRIVED on 15 Nov (afternoon), stayed the 16th, and left before noon on the 17th for Lyady after the Guard's attack. A single 'Krasny 16 Nov' stop hides a three-day halt and the battle.",
+  "'Ney's rearguard nearly annihilated at Krasny 16 Nov' is the wrong day: 16 Nov was Eugène's fight, 17 Nov the Guard/Davout, and Ney's fight was 18 Nov about 15:00–16:00, followed by the Dnieper crossing on the night of 18–19 Nov and the junction near Orsha in the night of 20–21 Nov.",
+  "Missing stops: Lyady (17 Nov), Dubrovna (18 Nov), Baran (20 Nov), Kokhanovo (21 Nov). Orsha 19 Nov is correct (left 20 Nov afternoon).",
+  "Tolochin is 22 Nov, not 21 Nov (napoleon-empire.net; Foord). Bobr 23 Nov is correct. Loshnitsa on 24 Nov is missing.",
+  "'Eagles burned at Orsha 19 Nov' conflates two events. At Orsha (19–20 Nov) the sixty-boat pontoon train, papers and surplus vehicles were burnt. The eagles were burnt on or after 23 Nov at Bobr (Ségur; napoleon-empire.net chronology).",
+  "'Russians seize Borisov bridges 22 Nov': Lambert took Borisov and its bridge on 21 Nov; Chichagov's main body arrived on the 22nd; Oudinot retook the town on 23 Nov and the Russians destroyed the bridge as they recrossed.",
+  "Borisov 25 Nov is correct (afternoon), but the night was at Staroi-Borisov and Napoleon left there at 06:00 on the 26th. 'Studianka 26 Nov 08:00' is the hour the first trestle was fixed, not an arrival time.",
+  "Napoleon himself crossed the Berezina on 27 Nov about 13:00 (13:00–14:00 by source) and stayed at Zanivki on the 27th and 28th. The schedule has no crossing event.",
+  "'Zembin 29 Nov' was a pass-through; the night of the 29th was at Kamen. Then Pleshchenitsy 30 Nov, Staiki 1 Dec, Selitche 2 Dec, Molodechno 3 Dec (correct), Bienitsa 4 Dec, all missing.",
+  "'Bridges burned 29 Nov 10:00' is too late: 08:30 (Foord, EN Wikipedia) to about 09:00 (historyofwar, RU and FR Wikipedia). Cossacks were on the bank by about 09:30.",
+  "Smorgoni 5 Dec: Napoleon left at 22:00, not 20:00 (Caulaincourt's own dictated order 'The Emperor leaves at ten o'clock to-night'; Ségur; napoleon-empire.net). The marshals' council was at 19:00, which is why Foord and Coignet give 7 p.m.",
+  "Vilna: headquarters arrived 8 Dec (correct) but the mass arrived 9 Dec; Murat left in the night of 9–10 Dec and Ney on 10 Dec. Ponari hill is 10 Dec. Kovno was reached on 12 Dec, not 14 Dec; the bulk recrossed the Niemen on the 13th and Ney's rearguard last, on the evening of the 14th.",
+  "'Coldest night 6 Dec −37 °C' rests on Minard alone (−30 °R on 6 Dec = −37.5 °C). Other sources give −24 °R (−30 °C) for 6 Dec (Foord), −26 °R on 4 and 7 Dec, −27 to −30 °R on 7–10 Dec. Label it 'Minard: −30 °R' rather than as a measured fact.",
+  "Strength '35,000 on 16 Nov': sourced figures are 36,000–37,000 at Smolensk on 9–14 Nov (Ségur, Minard; Clausewitz 45,000), and 24,000 after Krasny (Minard). 35,000 on the 16th matches nothing.",
+  "Strength '30,000 on 25 Nov / 28,000 on 26 Nov / 12,000 on 29 Nov' misreads Minard. Minard: 20,000 from Orsha to the Berezina, +30,000 rejoining (Oudinot/Victor) = 50,000 before the crossing, 28,000 after it, 12,000 only at Molodechno (3 Dec), 14,000 at Smorgoni, 8,000 at Vilna, 4,000 at Kovno. The strength should RISE at the Berezina (Chandler: 49,000 combatants + 40,000 stragglers) and then halve.",
+  "'10,000 at the Niemen' is Minard's 4,000 main body + 6,000 from the northern wing. Foord has about 20,000 mostly unarmed men entering Kovno; Lentz 'fewer than 30,000' with Murat. State which count is shown."
+ ],
+ "openQuestions": [
+  "Date Ney rejoined: EN Wikipedia has Ney and Eugène meeting near Orsha at 03:00 on 20 Nov; Foord says 'midnight on the 21st' about 8 miles from Orsha; Ségur has Ney still marching all day on the 19th and Napoleon 'two leagues farther on' (Baran, reached 20 Nov afternoon) when he heard. Night of 20–21 Nov fits Ségur and Foord; 20 Nov 03:00 fits Wikipedia.",
+  "Ney's survivors at Orsha: 800–900 (Wikipedia, historyofwar), under 1,500 armed (Foord), 'about 3,000' crossed the Dnieper (Foord), 6,000 (Caulaincourt). Where he crossed the Dnieper is also uncertain: Syrokorenye, Alekseyevka, Varechki or Gusino.",
+  "Hour Napoleon left Smorgoni: 22:00 (Caulaincourt's order, Ségur, napoleon-empire.net) versus 19:00 (Foord, Coignet). Digby Smith (erenow) dates the departure to the evening of 4 Dec with arrival at Oshmiany at 22:00; every other source says 5 Dec.",
+  "Hour Napoleon crossed the Berezina on 27 Nov: about 13:00 (Foord, historyofwar), about 14:00 (Ségur, RU Wikipedia), 'by midday' (EN Wikipedia). FR Wikipedia's Campagne de Russie article says he crossed on the 28th, which contradicts all the others.",
+  "Bridges burned: 08:30 (Foord, EN Wikipedia), 08:30–09:00 (FR Wikipedia), about 09:00 (historyofwar, RU Wikipedia). Order received at 07:00 (EN Wikipedia) or timed for 08:00 (Foord).",
+  "Second (artillery) bridge finished at 15:00–16:00 on 26 Nov; Victor's order to cross at 19:00 (historyofwar), 21:00 (Foord) with crossing from about 22:00 (EN Wikipedia).",
+  "Partouneaux: surrendered night of 27 Nov / morning of 28 Nov. Numbers: about 2,000 infantry (29th Bulletin, minimising), 1,900 with the general then the rest (RU Wikipedia), 'over 4,000 men and 4 guns' (Foord, historyofwar), 'over 8,000' including stragglers (EN Wikipedia).",
+  "When Napoleon learned Borisov was lost: at Tolochin on 22 Nov (Foord, common account) or at Losnitsa on 24 Nov (Caulaincourt). News of Minsk: 'on the march to Orsha' (Foord) or at Baran on 20 Nov from a Polish civilian (Caulaincourt).",
+  "Corbineau's ford: he rejoined Oudinot on 22 Nov having already crossed (Foord), 23 Nov (historyofwar); Oudinot fixed on Studianka about midday on the 24th (Foord, RU Wikipedia). The crossing itself is usually dated 21 Nov, not confirmed here.",
+  "Minsk fell on 16 Nov New Style (4 Nov Old Style) per RU Wikipedia, historyofwar and napoleon-empire.net; one secondary source says 17 Nov. RU Wikipedia's Berezina article gives double dates '14 (26) – 17 (29) November'; all dates in this file are New Style.",
+  "Burning of the eagles: Ségur says 'ever since the 23d' (Bobr); napoleon-empire.net chronology says orders on 23 Nov with carriages on the 24th. No source consulted places it at Orsha.",
+  "Ney's last stand at Kovno: 14 Dec (Ségur by implication, EN Wikipedia, historion 'Dec 14, 9 p.m.', 1812now) or 13 Dec (Foord: Murat left on the 13th and Ney held the town 'until dark'; Digby Smith: 'Kowno fell to the Russians' on the 13th). Hour: far bank at 20:00 (Ségur) or retreat begun at 21:00 (historion).",
+  "Vilna's fall: Russians entered on the morning of 10 Dec (historion/Holzhausen, Foord) versus '11 December' (warhistory.org). Men left behind: 'nearly 20,000' (Foord), 'over 20,000 in the hospitals' (EN Wikipedia), about 15,000 prisoners (Digby Smith), 10,000 plus 5,000 sick (historion).",
+  "Ponari treasure: 10 million francs lost (Ségur, Foord), 12 million with 6 million saved to Danzig (von Brandt / historion). Ségur says Ney got Napoleon's private treasure away.",
+  "Loison's division: 15,000 reduced to 3,000 in three days (Ségur), 'less than 3,000' on 7 Dec (Foord), 12,000 of 15,000 lost (Wikipedia-derived), 10,000 at Oshmiany on 6 Dec falling to 600 under arms by midnight (Digby Smith, for the 'Princely Division' component).",
+  "Vilnius mass grave (found late 2001, excavated 2002): counts of 1,000–2,000 (Archaeology magazine), at least 2,724 (Lithuanian excavation report), 3,269 (later study). The Signoli et al. 2004 paper was not opened; the 2,700 figure in the moments list is from the lituanistika abstract as returned by search.",
+  "Larrey's thermometer readings could not be found online in a citable form; no Larrey rows are included. Minard's temperature captions as transcribed in HistData carry no place names; the places given are inferred from the army's position on those dates.",
+  "Murat's headquarters on 6–7 Dec (Oshmiany, Miedniki) and the dates at Evie are inferred from the sequence Smorgoni 5 Dec → Vilna 8 Dec and Ponari 10 Dec → Zhizhmory 11 Dec; no dated source was found, so those rows are 'low' confidence.",
+  "Coordinates come from Wikipedia infobox coordinates (EN/RU/BE/LT, via the MediaWiki API) except Studianka and Zanivki, which are the points given by napoleon-empire.net. Staiki has no confirmed coordinates (null). Kamen = Kameno (Lahoysk district) and Selitche = Selishcha (Vileyka district) are identified by position on the route, not by a source naming the 1812 link.",
+  "Smolensk depots: sources consulted say the depot had been depleted by troops passing earlier (historyofwar) and that Napoleon 'ensured a sufficient supply of flour' for Ney (Caulaincourt); the familiar 'Guard fed first, magazines stormed by the rest' story was not verified against a text here."
+ ]
+}

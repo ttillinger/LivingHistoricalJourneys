@@ -42,6 +42,8 @@ scaled time. Live at https://journeys.esportsball.com — **every push to `main`
 
 - Cut features, not quality: one gorgeous journey beats five mediocre ones.
 - Content edits bump `version` in `authoring.json`.
+- Content timestamps are UTC written from local mean time, and every moment cites a
+  source — read `content/journeys/napoleon-1812/README.md` before editing content.
 - Every map raster, scene image and quoted text gets a source and licence line before
   merge (HANDOFF §11, §14.6).
 - Server time is the only wall clock for persisted state (HANDOFF §14.2).

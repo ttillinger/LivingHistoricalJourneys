@@ -1,13 +1,13 @@
 {
   "id": "napoleon-1812",
-  "version": 2,
+  "version": 3,
   "title": "Napoleon's 1812 Russian Campaign",
-  "description": "The Grande Armée's advance to Moscow and its catastrophic winter retreat, June–December 1812. Strength and temperature follow Minard's 1869 chart. Interim content — density and sourcing deepen in a later research pass.",
+  "description": "The Grande Armée's advance to Moscow and its winter retreat, June–December 1812, followed day by day from Napoleon's headquarters and from the Russian main army's.",
   "tier": "free",
   "coordinateSpace": "geo",
   "time": {
     "start": "1812-06-24T03:00:00Z",
-    "end": "1812-12-14T12:00:00Z"
+    "end": "1812-12-14T18:24:00Z"
   },
   "mapDefaults": {
     "bounds": [
@@ -21,497 +21,6 @@
       "modern"
     ]
   },
-  "moments": [
-    {
-      "t": "1812-06-24T04:00:00Z",
-      "title": "Crossing the Niemen",
-      "body": "The Grande Armée — some 450,000 men in all — begins pouring across the Niemen into Russian territory. No enemy stands to oppose it.",
-      "tags": [
-        "crossing"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-06-26T12:00:00Z",
-      "title": "The Russians will not stand",
-      "body": "Barclay de Tolly withdraws rather than give battle, drawing the invaders deeper into a scorched countryside.",
-      "tags": [
-        "maneuver"
-      ],
-      "significance": 1
-    },
-    {
-      "t": "1812-06-28T18:00:00Z",
-      "title": "Vilna without a fight",
-      "body": "Napoleon enters Vilna. Already the roads behind him are littered with broken-down wagons and dead horses.",
-      "tags": [
-        "occupation"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-07-06T12:00:00Z",
-      "title": "Heat, dust, and dying horses",
-      "body": "Searing heat and thunderstorms wreck the supply train. Thousands of horses die in days; men fall out by the roadside.",
-      "tags": [
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-07-16T12:00:00Z",
-      "title": "Disease thins the ranks",
-      "body": "Dysentery and typhus spread through the columns. The army is bleeding strength before it has fought a single battle.",
-      "tags": [
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-07-28T12:00:00Z",
-      "title": "Vitebsk — the quarry slips away",
-      "body": "Napoleon reaches Vitebsk hoping for a decisive battle, but the Russians are gone again. He briefly considers halting here for the winter.",
-      "tags": [
-        "maneuver"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-08-13T12:00:00Z",
-      "title": "The decision to press on",
-      "body": "Against the advice of his marshals, Napoleon resolves to march on Smolensk and force the battle he needs.",
-      "tags": [
-        "politics"
-      ],
-      "significance": 1
-    },
-    {
-      "t": "1812-08-17T06:00:00Z",
-      "title": "Smolensk in flames",
-      "body": "Two days of fighting leave the ancient city burning. The Russians slip away eastward under cover of the smoke.",
-      "tags": [
-        "battle"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-08-19T10:00:00Z",
-      "title": "A hollow victory",
-      "body": "The French hold Smolensk's ruins but have again failed to trap the Russian army. The road east is open — and devastated.",
-      "tags": [
-        "battle"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-09-05T15:00:00Z",
-      "title": "The Shevardino redoubt",
-      "body": "A vicious preliminary fight for an earthwork southwest of Borodino signals that the Russians mean, at last, to stand.",
-      "tags": [
-        "battle"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-09-07T06:00:00Z",
-      "title": "The Battle of Borodino begins",
-      "body": "At dawn 250,000 men and over 1,000 guns collide on a front a few miles wide. It will be the bloodiest single day of the age.",
-      "tags": [
-        "battle"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-09-07T16:00:00Z",
-      "title": "The Great Redoubt falls",
-      "body": "After hours of slaughter the Raevsky Redoubt is finally stormed, but the Russian line bends without breaking.",
-      "tags": [
-        "battle"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-09-08T09:00:00Z",
-      "title": "A field of the dead",
-      "body": "Around 70,000 men are dead or wounded. The Russians withdraw in good order; Napoleon has his 'victory' but not his decisive result.",
-      "tags": [
-        "battle",
-        "attrition"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-09-14T16:00:00Z",
-      "title": "Moscow, but no peace",
-      "body": "The Grande Armée enters a Moscow that is silent and three-quarters empty. No delegation comes to offer terms.",
-      "tags": [
-        "occupation"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-09-15T22:00:00Z",
-      "title": "Moscow burns",
-      "body": "Fires break out across the city and spread through the night, consuming the shelter and supplies the army had counted on.",
-      "tags": [
-        "occupation"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-09-20T12:00:00Z",
-      "title": "Waiting in the ashes",
-      "body": "Napoleon lingers among the ruins, sending peace feelers to a Tsar who will not answer, while the season turns against him.",
-      "tags": [
-        "occupation",
-        "politics"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-10-13T08:00:00Z",
-      "title": "First snow",
-      "body": "Light snow flurries fall on Moscow — a warning of the winter that everyone but the Emperor seems to feel coming.",
-      "tags": [
-        "winter"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-10-19T08:00:00Z",
-      "title": "The retreat begins",
-      "body": "With no peace and no supplies, Napoleon abandons Moscow and marches southwest, hoping for an untouched road home.",
-      "tags": [
-        "retreat"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-10-24T10:00:00Z",
-      "title": "Turned back at Maloyaroslavets",
-      "body": "Kutuzov blocks the southern road in a savage fight. The Grande Armée is forced back onto the ruined Smolensk highway.",
-      "tags": [
-        "battle",
-        "retreat"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-10-28T12:00:00Z",
-      "title": "The road of bones",
-      "body": "The army retraces the devastated route past the unburied dead of Borodino. Starvation and cold begin in earnest.",
-      "tags": [
-        "retreat",
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-03T12:00:00Z",
-      "title": "Rearguard mauled at Vyazma",
-      "body": "Russian forces fall on the strung-out columns; discipline in several corps begins to dissolve.",
-      "tags": [
-        "battle",
-        "retreat"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-06T12:00:00Z",
-      "title": "The first hard frost",
-      "body": "The temperature plunges. Ill-shod men freeze where they fall; horses die and are butchered on the spot.",
-      "tags": [
-        "winter",
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-09T12:00:00Z",
-      "title": "Smolensk offers no salvation",
-      "body": "The magazines at Smolensk are found nearly bare and are quickly plundered. There is no rest and little food here.",
-      "tags": [
-        "retreat"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-14T08:00:00Z",
-      "title": "The army disintegrates",
-      "body": "Leaving Smolensk in scattered groups, the Grande Armée is becoming a mob of stragglers around a shrinking core of fighting men.",
-      "tags": [
-        "retreat",
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-16T12:00:00Z",
-      "title": "Cut to pieces at Krasny",
-      "body": "Ney's rearguard is nearly annihilated and fights its way out across the ice. Thousands are killed or captured.",
-      "tags": [
-        "battle",
-        "retreat"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-11-19T12:00:00Z",
-      "title": "Burning the eagles at Orsha",
-      "body": "Cannon are spiked and standards burned to keep them from Russian hands. What remains crosses the Dnieper.",
-      "tags": [
-        "retreat"
-      ],
-      "significance": 1
-    },
-    {
-      "t": "1812-11-22T12:00:00Z",
-      "title": "The bridges are lost",
-      "body": "The Russians seize the crossings at Borisov. For a moment the whole army seems trapped against the Berezina.",
-      "tags": [
-        "retreat"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-11-26T08:00:00Z",
-      "title": "Crossing the Berezina",
-      "body": "Engineers build two trestle bridges at Studenka, standing in the freezing river. The remnant army begins to cross.",
-      "tags": [
-        "crossing"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-11-28T14:00:00Z",
-      "title": "Carnage at the bridges",
-      "body": "Russian guns rake both banks. Amid panic among the stragglers, thousands drown or are trampled at the crossings.",
-      "tags": [
-        "battle",
-        "crossing"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-11-29T10:00:00Z",
-      "title": "The bridges are burned",
-      "body": "To stop the pursuit, the bridges are fired with thousands still on the east bank. Their cries carry across the river.",
-      "tags": [
-        "crossing",
-        "attrition"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-12-05T20:00:00Z",
-      "title": "The Emperor departs",
-      "body": "At Smorgon, Napoleon hands over command and races ahead by sleigh to Paris to raise a new army.",
-      "tags": [
-        "politics"
-      ],
-      "significance": 3
-    },
-    {
-      "t": "1812-12-06T06:00:00Z",
-      "title": "The coldest night",
-      "body": "The thermometer falls toward −37°C. Men freeze around dying campfires; whole units simply cease to exist by morning.",
-      "tags": [
-        "winter",
-        "attrition"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-12-08T12:00:00Z",
-      "title": "A ghost army reaches Vilna",
-      "body": "A few thousand skeletal survivors stumble into Vilna, only to be driven on again as the Russians close in.",
-      "tags": [
-        "retreat"
-      ],
-      "significance": 2
-    },
-    {
-      "t": "1812-12-14T08:00:00Z",
-      "title": "Back over the Niemen",
-      "body": "Of the host that crossed in June, perhaps ten thousand recross as a formed body. The campaign is over; the myth of invincibility is broken.",
-      "tags": [
-        "crossing"
-      ],
-      "significance": 3
-    }
-  ],
-  "episodes": [
-    {
-      "id": "niemen-crossing",
-      "start": "1812-06-24T03:00:00Z",
-      "end": "1812-06-25T20:00:00Z",
-      "kind": "crossing",
-      "title": "Crossing the Niemen"
-    },
-    {
-      "id": "smolensk",
-      "start": "1812-08-16T12:00:00Z",
-      "end": "1812-08-19T12:00:00Z",
-      "kind": "battle",
-      "title": "Battle of Smolensk"
-    },
-    {
-      "id": "borodino",
-      "start": "1812-09-07T05:30:00Z",
-      "end": "1812-09-07T20:00:00Z",
-      "kind": "battle",
-      "title": "Battle of Borodino",
-      "narrativeBeats": [
-        {
-          "t": "1812-09-07T05:30:00Z",
-          "text": "Dawn: the French grand battery opens fire across the Kolocha."
-        },
-        {
-          "t": "1812-09-07T09:00:00Z",
-          "text": "The Bagration flèches change hands again and again in the smoke."
-        },
-        {
-          "t": "1812-09-07T13:00:00Z",
-          "text": "The Raevsky Redoubt — the Great Redoubt — is stormed at last."
-        },
-        {
-          "t": "1812-09-07T18:00:00Z",
-          "text": "Nightfall: the Russians hold their ground, then withdraw. The field is a charnel house."
-        }
-      ]
-    },
-    {
-      "id": "moscow-occupation",
-      "start": "1812-09-14T12:00:00Z",
-      "end": "1812-10-19T06:00:00Z",
-      "kind": "encampment",
-      "title": "The Occupation of Moscow",
-      "narrativeBeats": [
-        {
-          "t": "1812-09-14T16:00:00Z",
-          "text": "The army enters a silent, half-abandoned city."
-        },
-        {
-          "t": "1812-09-15T22:00:00Z",
-          "text": "Fires break out and race through the wooden streets."
-        },
-        {
-          "t": "1812-09-18T12:00:00Z",
-          "text": "Three-quarters of Moscow lies in ashes."
-        },
-        {
-          "t": "1812-10-05T12:00:00Z",
-          "text": "A last peace overture is sent to the Tsar. No answer comes."
-        }
-      ]
-    },
-    {
-      "id": "maloyaroslavets",
-      "start": "1812-10-24T06:00:00Z",
-      "end": "1812-10-24T21:00:00Z",
-      "kind": "battle",
-      "title": "Battle of Maloyaroslavets"
-    },
-    {
-      "id": "krasny",
-      "start": "1812-11-15T00:00:00Z",
-      "end": "1812-11-18T23:00:00Z",
-      "kind": "battle",
-      "title": "Battle of Krasny"
-    },
-    {
-      "id": "berezina",
-      "start": "1812-11-26T00:00:00Z",
-      "end": "1812-11-29T12:00:00Z",
-      "kind": "crossing",
-      "title": "Crossing of the Berezina",
-      "narrativeBeats": [
-        {
-          "t": "1812-11-26T06:00:00Z",
-          "text": "Pontooniers build two trestle bridges at Studenka in the freezing current."
-        },
-        {
-          "t": "1812-11-27T10:00:00Z",
-          "text": "The Guard and remaining fighting units cross to the west bank."
-        },
-        {
-          "t": "1812-11-28T14:00:00Z",
-          "text": "Russian batteries open on both banks; panic seizes the mass of stragglers."
-        },
-        {
-          "t": "1812-11-29T09:00:00Z",
-          "text": "The bridges are burned with thousands still stranded on the east bank."
-        }
-      ]
-    },
-    {
-      "id": "vilna-collapse",
-      "start": "1812-12-08T00:00:00Z",
-      "end": "1812-12-10T12:00:00Z",
-      "kind": "encampment",
-      "title": "Collapse at Vilna"
-    }
-  ],
-  "conditions": [
-    {
-      "start": "1812-06-24T00:00:00Z",
-      "end": "1812-07-20T23:59:59Z",
-      "activityKey": "march",
-      "label": "Advancing into Russia",
-      "weather": "Heat, dust, and dying horses"
-    },
-    {
-      "start": "1812-07-21T00:00:00Z",
-      "end": "1812-08-15T23:59:59Z",
-      "activityKey": "march",
-      "label": "Strained advance and skirmishes",
-      "weather": "Attrition on the march"
-    },
-    {
-      "start": "1812-08-16T00:00:00Z",
-      "end": "1812-09-08T23:59:59Z",
-      "activityKey": "battle",
-      "label": "Smolensk and Borodino",
-      "weather": "Pitched battles"
-    },
-    {
-      "start": "1812-09-09T00:00:00Z",
-      "end": "1812-09-14T15:59:59Z",
-      "activityKey": "march",
-      "label": "The road to Moscow",
-      "weather": "The first chill of autumn"
-    },
-    {
-      "start": "1812-09-14T16:00:00Z",
-      "end": "1812-10-18T23:59:59Z",
-      "activityKey": "camp",
-      "label": "Occupying a burning Moscow",
-      "weather": "The city in ashes"
-    },
-    {
-      "start": "1812-10-19T00:00:00Z",
-      "end": "1812-11-25T23:59:59Z",
-      "activityKey": "retreat",
-      "label": "Retreat in worsening weather",
-      "weather": "First snows, deepening cold"
-    },
-    {
-      "start": "1812-11-26T00:00:00Z",
-      "end": "1812-12-14T23:59:59Z",
-      "activityKey": "disaster",
-      "label": "The Berezina and the final collapse",
-      "weather": "Deep winter catastrophe"
-    }
-  ],
-  "labelsOverlay": "labels.geojson",
-  "attribution": [
-    "Army strength and retreat temperatures after C. J. Minard, Carte figurative (1869) — public domain.",
-    "Base geography © OpenStreetMap contributors."
-  ],
-  "sources": [
-    "Charles Minard, Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812–1813 (1869).",
-    "Standard campaign chronology (e.g. Chandler, The Campaigns of Napoleon; Zamoyski, 1812: Napoleon's Fatal March on Moscow). Figures are interim approximations pending a dedicated content-research pass."
-  ],
   "tracks": [
     {
       "id": "grande-armee",
@@ -519,91 +28,890 @@
       "kind": "army",
       "color": "#9c3524",
       "isPrimary": true,
+      "route": "routes/grande-armee.geojson",
+      "schedule": [
+        {
+          "t": "1812-06-24T03:24:00Z",
+          "km": 0,
+          "label": "Kovno — crossing the Niemen"
+        },
+        {
+          "t": "1812-06-27T03:24:00Z",
+          "km": 0,
+          "label": "Kovno — crossing the Niemen"
+        },
+        {
+          "t": "1812-06-27T17:21:00Z",
+          "km": 65.49,
+          "label": "Evie"
+        },
+        {
+          "t": "1812-06-28T03:21:00Z",
+          "km": 65.49,
+          "label": "Evie"
+        },
+        {
+          "t": "1812-06-28T10:19:00Z",
+          "km": 102.79,
+          "label": "Vilna"
+        },
+        {
+          "t": "1812-07-16T21:19:00Z",
+          "km": 102.79,
+          "label": "Vilna"
+        },
+        {
+          "t": "1812-07-17T12:15:00Z",
+          "km": 187.27,
+          "label": "Sventsiany"
+        },
+        {
+          "t": "1812-07-17T18:15:00Z",
+          "km": 187.27,
+          "label": "Sventsiany"
+        },
+        {
+          "t": "1812-07-18T13:09:00Z",
+          "km": 298.23,
+          "label": "Glubokoye"
+        },
+        {
+          "t": "1812-07-21T18:09:00Z",
+          "km": 298.23,
+          "label": "Glubokoye"
+        },
+        {
+          "t": "1812-07-22T10:06:00Z",
+          "km": 365.26,
+          "label": "Ushachy"
+        },
+        {
+          "t": "1812-07-23T16:06:00Z",
+          "km": 365.26,
+          "label": "Ushachy"
+        },
+        {
+          "t": "1812-07-23T19:04:00Z",
+          "km": 389.56,
+          "label": "Kamen"
+        },
+        {
+          "t": "1812-07-24T04:04:00Z",
+          "km": 389.56,
+          "label": "Kamen"
+        },
+        {
+          "t": "1812-07-24T12:02:00Z",
+          "km": 429.17,
+          "label": "Beshenkovichi, on the Dvina"
+        },
+        {
+          "t": "1812-07-26T04:02:00Z",
+          "km": 429.17,
+          "label": "Beshenkovichi, on the Dvina"
+        },
+        {
+          "t": "1812-07-26T17:00:00Z",
+          "km": 460.31,
+          "label": "Bivouac beyond Ostrovno"
+        },
+        {
+          "t": "1812-07-27T03:00:00Z",
+          "km": 460.31,
+          "label": "Bivouac beyond Ostrovno"
+        },
+        {
+          "t": "1812-07-28T06:59:00Z",
+          "km": 486.36,
+          "label": "Vitebsk"
+        },
+        {
+          "t": "1812-08-12T23:59:00Z",
+          "km": 486.36,
+          "label": "Vitebsk"
+        },
+        {
+          "t": "1812-08-13T05:58:00Z",
+          "km": 545.32,
+          "label": "Babinovichi"
+        },
+        {
+          "t": "1812-08-13T06:58:00Z",
+          "km": 545.32,
+          "label": "Babinovichi"
+        },
+        {
+          "t": "1812-08-13T16:56:00Z",
+          "km": 575.24,
+          "label": "Rasasna, on the Dnieper"
+        },
+        {
+          "t": "1812-08-14T03:56:00Z",
+          "km": 575.24,
+          "label": "Rasasna, on the Dnieper"
+        },
+        {
+          "t": "1812-08-14T16:54:00Z",
+          "km": 609.13,
+          "label": "Bivouac at Boyarintsevo, beyond Lyady"
+        },
+        {
+          "t": "1812-08-15T03:54:00Z",
+          "km": 609.13,
+          "label": "Bivouac at Boyarintsevo, beyond Lyady"
+        },
+        {
+          "t": "1812-08-15T14:53:00Z",
+          "km": 640.05,
+          "label": "Korytnya post-house"
+        },
+        {
+          "t": "1812-08-16T03:53:00Z",
+          "km": 640.05,
+          "label": "Korytnya post-house"
+        },
+        {
+          "t": "1812-08-16T10:52:00Z",
+          "km": 664.22,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-08-24T18:52:00Z",
+          "km": 664.22,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-08-25T13:47:00Z",
+          "km": 754.2,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-08-26T21:32:00Z",
+          "km": 754.2,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-08-27T00:45:00Z",
+          "km": 785.16,
+          "label": "Slavkovo"
+        },
+        {
+          "t": "1812-08-27T21:45:00Z",
+          "km": 785.16,
+          "label": "Slavkovo"
+        },
+        {
+          "t": "1812-08-28T05:44:00Z",
+          "km": 811.35,
+          "label": "Rybki, near Semlevo"
+        },
+        {
+          "t": "1812-08-29T03:44:00Z",
+          "km": 811.35,
+          "label": "Rybki, near Semlevo"
+        },
+        {
+          "t": "1812-08-29T14:43:00Z",
+          "km": 844.51,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-08-31T03:43:00Z",
+          "km": 844.51,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-08-31T14:41:00Z",
+          "km": 893.25,
+          "label": "Velichevo"
+        },
+        {
+          "t": "1812-09-01T03:41:00Z",
+          "km": 893.25,
+          "label": "Velichevo"
+        },
+        {
+          "t": "1812-09-01T09:40:00Z",
+          "km": 914.52,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-09-04T03:40:00Z",
+          "km": 914.52,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-09-04T14:38:00Z",
+          "km": 960.78,
+          "label": "Gridnevo post-house"
+        },
+        {
+          "t": "1812-09-05T03:38:00Z",
+          "km": 960.78,
+          "label": "Gridnevo post-house"
+        },
+        {
+          "t": "1812-09-05T11:37:00Z",
+          "km": 977.82,
+          "label": "Borodino"
+        },
+        {
+          "t": "1812-09-08T13:37:00Z",
+          "km": 977.82,
+          "label": "Borodino"
+        },
+        {
+          "t": "1812-09-09T09:36:00Z",
+          "km": 992.99,
+          "label": "Mozhaisk"
+        },
+        {
+          "t": "1812-09-12T05:36:00Z",
+          "km": 992.99,
+          "label": "Mozhaisk"
+        },
+        {
+          "t": "1812-09-12T15:33:00Z",
+          "km": 1051.32,
+          "label": "Petelino"
+        },
+        {
+          "t": "1812-09-13T09:33:00Z",
+          "km": 1051.32,
+          "label": "Petelino"
+        },
+        {
+          "t": "1812-09-13T13:32:00Z",
+          "km": 1066.49,
+          "label": "Vyazyomy"
+        },
+        {
+          "t": "1812-09-14T05:32:00Z",
+          "km": 1066.49,
+          "label": "Vyazyomy"
+        },
+        {
+          "t": "1812-09-14T11:30:00Z",
+          "km": 1109.53,
+          "label": "Poklonnaya Hill, before Moscow"
+        },
+        {
+          "t": "1812-09-14T14:30:00Z",
+          "km": 1109.53,
+          "label": "Poklonnaya Hill, before Moscow"
+        },
+        {
+          "t": "1812-09-14T15:30:00Z",
+          "km": 1113.37,
+          "label": "The Dorogomilovo suburb"
+        },
+        {
+          "t": "1812-09-15T03:30:00Z",
+          "km": 1113.37,
+          "label": "The Dorogomilovo suburb"
+        },
+        {
+          "t": "1812-09-15T07:30:00Z",
+          "km": 1117.12,
+          "label": "Moscow — the Kremlin"
+        },
+        {
+          "t": "1812-09-16T15:00:00Z",
+          "km": 1117.12,
+          "label": "Moscow — the Kremlin"
+        },
+        {
+          "t": "1812-09-16T17:00:00Z",
+          "km": 1123.36,
+          "label": "The Petrovsky Palace, outside Moscow"
+        },
+        {
+          "t": "1812-09-18T06:30:00Z",
+          "km": 1123.36,
+          "label": "The Petrovsky Palace, outside Moscow"
+        },
+        {
+          "t": "1812-09-18T08:30:00Z",
+          "km": 1129.61,
+          "label": "Moscow — the Kremlin"
+        },
+        {
+          "t": "1812-10-19T04:30:00Z",
+          "km": 1129.61,
+          "label": "Moscow — the Kremlin"
+        },
+        {
+          "t": "1812-10-19T15:31:00Z",
+          "km": 1169.13,
+          "label": "Troitskoye"
+        },
+        {
+          "t": "1812-10-21T04:31:00Z",
+          "km": 1169.13,
+          "label": "Troitskoye"
+        },
+        {
+          "t": "1812-10-21T13:32:00Z",
+          "km": 1187.04,
+          "label": "Ignatovo"
+        },
+        {
+          "t": "1812-10-22T04:32:00Z",
+          "km": 1187.04,
+          "label": "Ignatovo"
+        },
+        {
+          "t": "1812-10-22T12:33:00Z",
+          "km": 1216.73,
+          "label": "Fominskoye"
+        },
+        {
+          "t": "1812-10-23T04:33:00Z",
+          "km": 1216.73,
+          "label": "Fominskoye"
+        },
+        {
+          "t": "1812-10-23T13:34:00Z",
+          "km": 1251.45,
+          "label": "Borovsk"
+        },
+        {
+          "t": "1812-10-24T05:34:00Z",
+          "km": 1251.45,
+          "label": "Borovsk"
+        },
+        {
+          "t": "1812-10-24T10:34:00Z",
+          "km": 1265.68,
+          "label": "Gorodnya, before Maloyaroslavets"
+        },
+        {
+          "t": "1812-10-26T06:34:00Z",
+          "km": 1265.68,
+          "label": "Gorodnya, before Maloyaroslavets"
+        },
+        {
+          "t": "1812-10-26T11:34:00Z",
+          "km": 1279.88,
+          "label": "Borovsk — turning back north"
+        },
+        {
+          "t": "1812-10-27T04:34:00Z",
+          "km": 1279.88,
+          "label": "Borovsk — turning back north"
+        },
+        {
+          "t": "1812-10-27T12:35:00Z",
+          "km": 1304.26,
+          "label": "Vereya"
+        },
+        {
+          "t": "1812-10-28T03:35:00Z",
+          "km": 1304.26,
+          "label": "Vereya"
+        },
+        {
+          "t": "1812-10-28T10:36:00Z",
+          "km": 1327.81,
+          "label": "Mozhaisk — back on the Smolensk road"
+        },
+        {
+          "t": "1812-10-28T11:36:00Z",
+          "km": 1327.81,
+          "label": "Mozhaisk — back on the Smolensk road"
+        },
+        {
+          "t": "1812-10-29T05:37:00Z",
+          "km": 1343.03,
+          "label": "The field of Borodino"
+        },
+        {
+          "t": "1812-10-29T06:37:00Z",
+          "km": 1343.03,
+          "label": "The field of Borodino"
+        },
+        {
+          "t": "1812-10-29T15:40:00Z",
+          "km": 1407.7,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-10-30T04:40:00Z",
+          "km": 1407.7,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-10-30T12:41:00Z",
+          "km": 1435.61,
+          "label": "Velichevo"
+        },
+        {
+          "t": "1812-10-31T04:41:00Z",
+          "km": 1435.61,
+          "label": "Velichevo"
+        },
+        {
+          "t": "1812-10-31T13:43:00Z",
+          "km": 1477.75,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-11-02T04:43:00Z",
+          "km": 1477.75,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-11-02T13:44:00Z",
+          "km": 1511.35,
+          "label": "Semlevo"
+        },
+        {
+          "t": "1812-11-03T04:44:00Z",
+          "km": 1511.35,
+          "label": "Semlevo"
+        },
+        {
+          "t": "1812-11-03T11:45:00Z",
+          "km": 1537.54,
+          "label": "Slavkovo"
+        },
+        {
+          "t": "1812-11-05T04:45:00Z",
+          "km": 1537.54,
+          "label": "Slavkovo"
+        },
+        {
+          "t": "1812-11-05T10:47:00Z",
+          "km": 1568.5,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-11-06T05:47:00Z",
+          "km": 1568.5,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-11-06T12:48:00Z",
+          "km": 1592.98,
+          "label": "Mikhailovka"
+        },
+        {
+          "t": "1812-11-08T04:48:00Z",
+          "km": 1592.98,
+          "label": "Mikhailovka"
+        },
+        {
+          "t": "1812-11-09T09:52:00Z",
+          "km": 1659.02,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-11-14T02:52:00Z",
+          "km": 1659.02,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-11-14T11:53:00Z",
+          "km": 1683.16,
+          "label": "Korytnya"
+        },
+        {
+          "t": "1812-11-15T04:53:00Z",
+          "km": 1683.16,
+          "label": "Korytnya"
+        },
+        {
+          "t": "1812-11-15T12:54:00Z",
+          "km": 1708.91,
+          "label": "Krasny"
+        },
+        {
+          "t": "1812-11-17T08:54:00Z",
+          "km": 1708.91,
+          "label": "Krasny"
+        },
+        {
+          "t": "1812-11-17T14:55:00Z",
+          "km": 1727.94,
+          "label": "Lyady"
+        },
+        {
+          "t": "1812-11-18T05:55:00Z",
+          "km": 1727.94,
+          "label": "Lyady"
+        },
+        {
+          "t": "1812-11-18T13:57:00Z",
+          "km": 1761.88,
+          "label": "Dubrovno"
+        },
+        {
+          "t": "1812-11-19T04:57:00Z",
+          "km": 1761.88,
+          "label": "Dubrovno"
+        },
+        {
+          "t": "1812-11-19T09:58:00Z",
+          "km": 1781.71,
+          "label": "Orsha, on the Dnieper"
+        },
+        {
+          "t": "1812-11-20T11:58:00Z",
+          "km": 1781.71,
+          "label": "Orsha, on the Dnieper"
+        },
+        {
+          "t": "1812-11-20T14:59:00Z",
+          "km": 1792.45,
+          "label": "Baran"
+        },
+        {
+          "t": "1812-11-21T04:59:00Z",
+          "km": 1792.45,
+          "label": "Baran"
+        },
+        {
+          "t": "1812-11-21T14:00:00Z",
+          "km": 1817.19,
+          "label": "Kokhanovo"
+        },
+        {
+          "t": "1812-11-22T05:00:00Z",
+          "km": 1817.19,
+          "label": "Kokhanovo"
+        },
+        {
+          "t": "1812-11-22T13:01:00Z",
+          "km": 1845.97,
+          "label": "Tolochin"
+        },
+        {
+          "t": "1812-11-23T04:01:00Z",
+          "km": 1845.97,
+          "label": "Tolochin"
+        },
+        {
+          "t": "1812-11-23T14:03:00Z",
+          "km": 1882.34,
+          "label": "Bobr"
+        },
+        {
+          "t": "1812-11-24T05:03:00Z",
+          "km": 1882.34,
+          "label": "Bobr"
+        },
+        {
+          "t": "1812-11-24T14:05:00Z",
+          "km": 1920.44,
+          "label": "Loshnitsa"
+        },
+        {
+          "t": "1812-11-25T05:05:00Z",
+          "km": 1920.44,
+          "label": "Loshnitsa"
+        },
+        {
+          "t": "1812-11-25T13:06:00Z",
+          "km": 1939.89,
+          "label": "Borisov — the broken bridge"
+        },
+        {
+          "t": "1812-11-25T20:06:00Z",
+          "km": 1939.89,
+          "label": "Borisov — the broken bridge"
+        },
+        {
+          "t": "1812-11-25T21:36:00Z",
+          "km": 1948.7,
+          "label": "Stary Borisov"
+        },
+        {
+          "t": "1812-11-26T04:06:00Z",
+          "km": 1948.7,
+          "label": "Stary Borisov"
+        },
+        {
+          "t": "1812-11-26T05:37:00Z",
+          "km": 1959.28,
+          "label": "Studianka — the Berezina"
+        },
+        {
+          "t": "1812-11-27T11:07:00Z",
+          "km": 1959.28,
+          "label": "Studianka — the Berezina"
+        },
+        {
+          "t": "1812-11-27T12:07:00Z",
+          "km": 1962.7,
+          "label": "Zanivki, west of the Berezina"
+        },
+        {
+          "t": "1812-11-29T05:07:00Z",
+          "km": 1962.7,
+          "label": "Zanivki, west of the Berezina"
+        },
+        {
+          "t": "1812-11-29T09:07:00Z",
+          "km": 1970.76,
+          "label": "The Zembin causeways"
+        },
+        {
+          "t": "1812-11-29T10:07:00Z",
+          "km": 1970.76,
+          "label": "The Zembin causeways"
+        },
+        {
+          "t": "1812-11-29T15:08:00Z",
+          "km": 1985.83,
+          "label": "Kamen"
+        },
+        {
+          "t": "1812-11-30T05:08:00Z",
+          "km": 1985.83,
+          "label": "Kamen"
+        },
+        {
+          "t": "1812-11-30T12:09:00Z",
+          "km": 2001.28,
+          "label": "Pleshchenitsy"
+        },
+        {
+          "t": "1812-12-01T05:09:00Z",
+          "km": 2001.28,
+          "label": "Pleshchenitsy"
+        },
+        {
+          "t": "1812-12-01T14:10:00Z",
+          "km": 2029.1,
+          "label": "Staiki"
+        },
+        {
+          "t": "1812-12-02T05:10:00Z",
+          "km": 2029.1,
+          "label": "Staiki"
+        },
+        {
+          "t": "1812-12-02T14:12:00Z",
+          "km": 2067.8,
+          "label": "Selitche"
+        },
+        {
+          "t": "1812-12-03T05:12:00Z",
+          "km": 2067.8,
+          "label": "Selitche"
+        },
+        {
+          "t": "1812-12-03T11:13:00Z",
+          "km": 2087.75,
+          "label": "Molodechno"
+        },
+        {
+          "t": "1812-12-04T06:13:00Z",
+          "km": 2087.75,
+          "label": "Molodechno"
+        },
+        {
+          "t": "1812-12-04T13:14:00Z",
+          "km": 2110.72,
+          "label": "Bienitsa"
+        },
+        {
+          "t": "1812-12-05T03:14:00Z",
+          "km": 2110.72,
+          "label": "Bienitsa"
+        },
+        {
+          "t": "1812-12-05T06:14:00Z",
+          "km": 2129.26,
+          "label": "Smorgoni"
+        },
+        {
+          "t": "1812-12-06T04:14:00Z",
+          "km": 2129.26,
+          "label": "Smorgoni"
+        },
+        {
+          "t": "1812-12-06T18:16:00Z",
+          "km": 2163.94,
+          "label": "Oshmiany"
+        },
+        {
+          "t": "1812-12-07T04:16:00Z",
+          "km": 2163.94,
+          "label": "Oshmiany"
+        },
+        {
+          "t": "1812-12-07T15:17:00Z",
+          "km": 2190.9,
+          "label": "Miedniki"
+        },
+        {
+          "t": "1812-12-08T04:17:00Z",
+          "km": 2190.9,
+          "label": "Miedniki"
+        },
+        {
+          "t": "1812-12-08T12:19:00Z",
+          "km": 2224.29,
+          "label": "Vilna"
+        },
+        {
+          "t": "1812-12-10T02:19:00Z",
+          "km": 2224.29,
+          "label": "Vilna"
+        },
+        {
+          "t": "1812-12-10T06:19:00Z",
+          "km": 2233.55,
+          "label": "Ponari hill"
+        },
+        {
+          "t": "1812-12-10T08:19:00Z",
+          "km": 2233.55,
+          "label": "Ponari hill"
+        },
+        {
+          "t": "1812-12-10T17:21:00Z",
+          "km": 2272.91,
+          "label": "Evie"
+        },
+        {
+          "t": "1812-12-11T04:21:00Z",
+          "km": 2272.91,
+          "label": "Evie"
+        },
+        {
+          "t": "1812-12-11T09:22:00Z",
+          "km": 2298.61,
+          "label": "Zhizhmory"
+        },
+        {
+          "t": "1812-12-11T10:22:00Z",
+          "km": 2298.61,
+          "label": "Zhizhmory"
+        },
+        {
+          "t": "1812-12-11T16:23:00Z",
+          "km": 2318.66,
+          "label": "Rumshishki"
+        },
+        {
+          "t": "1812-12-12T04:23:00Z",
+          "km": 2318.66,
+          "label": "Rumshishki"
+        },
+        {
+          "t": "1812-12-12T11:24:00Z",
+          "km": 2344.59,
+          "label": "Kovno"
+        },
+        {
+          "t": "1812-12-14T18:24:00Z",
+          "km": 2344.59,
+          "label": "Kovno"
+        }
+      ],
+      "dailyRhythm": {
+        "marchStartLocal": "05:00",
+        "marchEndLocal": "19:00"
+      },
       "statSeries": {
         "strength": {
           "label": "Army strength",
           "format": "men",
-          "initial": 422000,
+          "initial": 340000,
           "keyframes": [
             {
-              "t": "1812-06-24T03:00:00Z",
-              "v": 422000
-            },
-            {
-              "t": "1812-06-28T18:00:00Z",
-              "v": 400000
-            },
-            {
-              "t": "1812-07-12T12:00:00Z",
+              "t": "1812-06-24T03:24:00Z",
               "v": 340000
             },
             {
-              "t": "1812-07-28T12:00:00Z",
-              "v": 265000
+              "t": "1812-08-01T09:59:00Z",
+              "v": 185000
             },
             {
-              "t": "1812-08-16T12:00:00Z",
-              "v": 190000
+              "t": "1812-08-15T09:54:00Z",
+              "v": 182000
             },
             {
-              "t": "1812-08-19T10:00:00Z",
-              "v": 160000
+              "t": "1812-08-25T13:47:00Z",
+              "v": 140000
             },
             {
-              "t": "1812-09-01T12:00:00Z",
-              "v": 145000
+              "t": "1812-09-02T09:40:00Z",
+              "v": 133800
             },
             {
-              "t": "1812-09-07T06:00:00Z",
+              "t": "1812-09-07T03:07:00Z",
               "v": 130000
             },
             {
-              "t": "1812-09-14T16:00:00Z",
+              "t": "1812-09-08T06:37:00Z",
               "v": 100000
             },
             {
-              "t": "1812-10-19T08:00:00Z",
-              "v": 100000
+              "t": "1812-09-15T07:30:00Z",
+              "v": 95000
             },
             {
-              "t": "1812-10-24T10:00:00Z",
-              "v": 90000
+              "t": "1812-10-19T04:30:00Z",
+              "v": 108000
             },
             {
-              "t": "1812-11-03T12:00:00Z",
-              "v": 65000
+              "t": "1812-10-24T19:34:00Z",
+              "v": 96000
             },
             {
-              "t": "1812-11-09T12:00:00Z",
-              "v": 50000
+              "t": "1812-10-28T10:36:00Z",
+              "v": 87000
             },
             {
-              "t": "1812-11-16T12:00:00Z",
-              "v": 35000
+              "t": "1812-11-03T11:45:00Z",
+              "v": 55000
             },
             {
-              "t": "1812-11-25T12:00:00Z",
-              "v": 30000
+              "t": "1812-11-09T09:52:00Z",
+              "v": 40000
             },
             {
-              "t": "1812-11-26T08:00:00Z",
+              "t": "1812-11-14T02:52:00Z",
+              "v": 36000
+            },
+            {
+              "t": "1812-11-18T13:57:00Z",
+              "v": 24000
+            },
+            {
+              "t": "1812-11-19T09:58:00Z",
+              "v": 20000
+            },
+            {
+              "t": "1812-11-25T13:05:00Z",
+              "v": 20000
+            },
+            {
+              "t": "1812-11-26T11:07:00Z",
+              "v": 49000
+            },
+            {
+              "t": "1812-11-29T07:07:00Z",
               "v": 28000
             },
             {
-              "t": "1812-11-29T10:00:00Z",
+              "t": "1812-12-03T11:12:00Z",
               "v": 12000
             },
             {
-              "t": "1812-12-05T20:00:00Z",
-              "v": 11000
+              "t": "1812-12-05T06:14:00Z",
+              "v": 14000
             },
             {
-              "t": "1812-12-08T12:00:00Z",
-              "v": 10000
+              "t": "1812-12-08T12:17:00Z",
+              "v": 8000
             },
             {
-              "t": "1812-12-14T08:00:00Z",
-              "v": 10000
+              "t": "1812-12-13T10:24:00Z",
+              "v": 4000
             }
           ]
         },
@@ -612,307 +920,84 @@
           "format": "celsius",
           "keyframes": [
             {
-              "t": "1812-06-24T03:00:00Z",
-              "v": 18
+              "t": "1812-06-24T03:24:00Z",
+              "v": 20
             },
             {
-              "t": "1812-07-16T12:00:00Z",
-              "v": 24
+              "t": "1812-07-15T10:19:00Z",
+              "v": 25
             },
             {
-              "t": "1812-08-16T12:00:00Z",
-              "v": 19
+              "t": "1812-08-17T09:52:00Z",
+              "v": 20
             },
             {
-              "t": "1812-09-14T16:00:00Z",
-              "v": 8
+              "t": "1812-09-14T11:30:00Z",
+              "v": 10
             },
             {
-              "t": "1812-10-18T12:00:00Z",
-              "v": 2
+              "t": "1812-10-13T05:30:00Z",
+              "v": 1
             },
             {
-              "t": "1812-10-24T10:00:00Z",
+              "t": "1812-10-18T09:30:00Z",
               "v": 0
             },
             {
-              "t": "1812-11-06T12:00:00Z",
-              "v": -8
+              "t": "1812-10-24T09:34:00Z",
+              "v": 2
             },
             {
-              "t": "1812-11-09T12:00:00Z",
+              "t": "1812-11-04T09:45:00Z",
+              "v": 0
+            },
+            {
+              "t": "1812-11-06T09:47:00Z",
+              "v": -10
+            },
+            {
+              "t": "1812-11-09T09:52:00Z",
               "v": -11
             },
             {
-              "t": "1812-11-14T08:00:00Z",
+              "t": "1812-11-14T02:52:00Z",
               "v": -26
             },
             {
-              "t": "1812-11-20T12:00:00Z",
+              "t": "1812-11-18T09:55:00Z",
+              "v": 0
+            },
+            {
+              "t": "1812-11-23T14:01:00Z",
               "v": -14
             },
             {
-              "t": "1812-11-28T14:00:00Z",
+              "t": "1812-11-28T10:07:00Z",
               "v": -25
             },
             {
-              "t": "1812-12-01T12:00:00Z",
+              "t": "1812-12-01T10:09:00Z",
               "v": -30
             },
             {
-              "t": "1812-12-06T06:00:00Z",
-              "v": -37
+              "t": "1812-12-04T13:13:00Z",
+              "v": -32.5
             },
             {
-              "t": "1812-12-14T08:00:00Z",
-              "v": -22
+              "t": "1812-12-06T05:14:00Z",
+              "v": -37.5
+            },
+            {
+              "t": "1812-12-07T10:16:00Z",
+              "v": -32.5
+            },
+            {
+              "t": "1812-12-09T10:19:00Z",
+              "v": -34
             }
           ]
         }
-      },
-      "route": "routes/grande-armee.geojson",
-      "schedule": [
-        {
-          "t": "1812-06-24T03:00:00Z",
-          "km": 0,
-          "label": "Crossing the Niemen near Kovno"
-        },
-        {
-          "t": "1812-06-28T18:00:00Z",
-          "km": 100.41,
-          "label": "Vilna occupied"
-        },
-        {
-          "t": "1812-07-04T12:00:00Z",
-          "km": 184.88,
-          "label": "Sventsiany"
-        },
-        {
-          "t": "1812-07-12T12:00:00Z",
-          "km": 295.84,
-          "label": "Glubokoye"
-        },
-        {
-          "t": "1812-07-20T12:00:00Z",
-          "km": 433.27,
-          "label": "Beshenkovichi — approaching Vitebsk"
-        },
-        {
-          "t": "1812-07-28T12:00:00Z",
-          "km": 490.46,
-          "label": "Vitebsk"
-        },
-        {
-          "t": "1812-08-05T12:00:00Z",
-          "km": 534.33,
-          "label": "Liozno — the army rests"
-        },
-        {
-          "t": "1812-08-14T06:00:00Z",
-          "km": 597.48,
-          "label": "Crossing the Dnieper at Rasasna"
-        },
-        {
-          "t": "1812-08-15T06:00:00Z",
-          "km": 634.39,
-          "label": "Krasny"
-        },
-        {
-          "t": "1812-08-16T12:00:00Z",
-          "km": 683.48,
-          "label": "Smolensk"
-        },
-        {
-          "t": "1812-08-19T10:00:00Z",
-          "km": 716.43,
-          "label": "Valutino — Smolensk cleared"
-        },
-        {
-          "t": "1812-08-25T12:00:00Z",
-          "km": 791.02,
-          "label": "Dorogobuzh"
-        },
-        {
-          "t": "1812-09-01T12:00:00Z",
-          "km": 877.64,
-          "label": "Vyazma"
-        },
-        {
-          "t": "1812-09-04T12:00:00Z",
-          "km": 944.42,
-          "label": "Gzhatsk"
-        },
-        {
-          "t": "1812-09-06T12:00:00Z",
-          "km": 970.51,
-          "label": "Approach to Borodino"
-        },
-        {
-          "t": "1812-09-07T06:00:00Z",
-          "km": 1003.26,
-          "label": "Borodino"
-        },
-        {
-          "t": "1812-09-09T12:00:00Z",
-          "km": 1018.44,
-          "label": "Mozhaisk"
-        },
-        {
-          "t": "1812-09-12T12:00:00Z",
-          "km": 1089.17,
-          "label": "Approach to Moscow"
-        },
-        {
-          "t": "1812-09-14T16:00:00Z",
-          "km": 1142.68,
-          "label": "Moscow occupied"
-        },
-        {
-          "t": "1812-09-20T12:00:00Z",
-          "km": 1142.68,
-          "label": "Moscow — waiting for peace"
-        },
-        {
-          "t": "1812-09-30T12:00:00Z",
-          "km": 1142.68,
-          "label": "Moscow — waiting"
-        },
-        {
-          "t": "1812-10-10T12:00:00Z",
-          "km": 1142.68,
-          "label": "Moscow — waiting"
-        },
-        {
-          "t": "1812-10-18T12:00:00Z",
-          "km": 1142.68,
-          "label": "Moscow — last days"
-        },
-        {
-          "t": "1812-10-19T08:00:00Z",
-          "km": 1142.68,
-          "label": "Leaving Moscow"
-        },
-        {
-          "t": "1812-10-22T12:00:00Z",
-          "km": 1214.52,
-          "label": "Fominskoye"
-        },
-        {
-          "t": "1812-10-23T16:00:00Z",
-          "km": 1249.24,
-          "label": "Borovsk"
-        },
-        {
-          "t": "1812-10-24T10:00:00Z",
-          "km": 1272.82,
-          "label": "Maloyaroslavets"
-        },
-        {
-          "t": "1812-10-26T16:00:00Z",
-          "km": 1296.38,
-          "label": "Borovsk — turning back north"
-        },
-        {
-          "t": "1812-10-27T16:00:00Z",
-          "km": 1320.77,
-          "label": "Vereya"
-        },
-        {
-          "t": "1812-10-28T12:00:00Z",
-          "km": 1344.32,
-          "label": "Back onto the Smolensk road at Mozhaisk"
-        },
-        {
-          "t": "1812-10-29T10:00:00Z",
-          "km": 1359.54,
-          "label": "Past the unburied dead of Borodino"
-        },
-        {
-          "t": "1812-10-31T12:00:00Z",
-          "km": 1424.21,
-          "label": "Gzhatsk"
-        },
-        {
-          "t": "1812-11-03T12:00:00Z",
-          "km": 1492.87,
-          "label": "Vyazma"
-        },
-        {
-          "t": "1812-11-07T12:00:00Z",
-          "km": 1579.94,
-          "label": "Dorogobuzh"
-        },
-        {
-          "t": "1812-11-09T12:00:00Z",
-          "km": 1670.1,
-          "label": "Smolensk"
-        },
-        {
-          "t": "1812-11-14T08:00:00Z",
-          "km": 1670.1,
-          "label": "Leaving Smolensk"
-        },
-        {
-          "t": "1812-11-16T12:00:00Z",
-          "km": 1719.15,
-          "label": "Krasny"
-        },
-        {
-          "t": "1812-11-19T12:00:00Z",
-          "km": 1810.9,
-          "label": "Orsha"
-        },
-        {
-          "t": "1812-11-21T12:00:00Z",
-          "km": 1866.09,
-          "label": "Tolochin"
-        },
-        {
-          "t": "1812-11-23T12:00:00Z",
-          "km": 1903.54,
-          "label": "Bobr"
-        },
-        {
-          "t": "1812-11-25T12:00:00Z",
-          "km": 1960.13,
-          "label": "Borisov"
-        },
-        {
-          "t": "1812-11-26T08:00:00Z",
-          "km": 1978.78,
-          "label": "Studianka — the Berezina"
-        },
-        {
-          "t": "1812-11-29T10:00:00Z",
-          "km": 1987.84,
-          "label": "Zembin — west of the Berezina"
-        },
-        {
-          "t": "1812-12-03T12:00:00Z",
-          "km": 2102.14,
-          "label": "Molodechno"
-        },
-        {
-          "t": "1812-12-05T20:00:00Z",
-          "km": 2141.73,
-          "label": "Smorgoni — Napoleon leaves the army"
-        },
-        {
-          "t": "1812-12-08T12:00:00Z",
-          "km": 2231.98,
-          "label": "Vilna"
-        },
-        {
-          "t": "1812-12-11T12:00:00Z",
-          "km": 2283.31,
-          "label": "Toward Kovno"
-        },
-        {
-          "t": "1812-12-14T08:00:00Z",
-          "km": 2334.57,
-          "label": "Back over the Niemen"
-        }
-      ]
+      }
     },
     {
       "id": "russian-army",
@@ -920,6 +1005,553 @@
       "kind": "army",
       "color": "#3d5a40",
       "isPrimary": false,
+      "route": "routes/russian-army.geojson",
+      "schedule": [
+        {
+          "t": "1812-06-24T03:19:00Z",
+          "km": 0,
+          "label": "Vilna — Barclay’s headquarters"
+        },
+        {
+          "t": "1812-06-28T06:19:00Z",
+          "km": 0,
+          "label": "Vilna — Barclay’s headquarters"
+        },
+        {
+          "t": "1812-06-29T12:15:00Z",
+          "km": 84.47,
+          "label": "Sventsiany"
+        },
+        {
+          "t": "1812-07-03T04:15:00Z",
+          "km": 84.47,
+          "label": "Sventsiany"
+        },
+        {
+          "t": "1812-07-04T15:13:00Z",
+          "km": 126.44,
+          "label": "Vidzy"
+        },
+        {
+          "t": "1812-07-05T04:13:00Z",
+          "km": 126.44,
+          "label": "Vidzy"
+        },
+        {
+          "t": "1812-07-06T14:13:00Z",
+          "km": 149.22,
+          "label": "Opsa"
+        },
+        {
+          "t": "1812-07-07T04:13:00Z",
+          "km": 149.22,
+          "label": "Opsa"
+        },
+        {
+          "t": "1812-07-07T15:12:00Z",
+          "km": 179.74,
+          "label": "Belmonty"
+        },
+        {
+          "t": "1812-07-08T04:12:00Z",
+          "km": 179.74,
+          "label": "Belmonty"
+        },
+        {
+          "t": "1812-07-09T14:08:00Z",
+          "km": 253.75,
+          "label": "The fortified camp at Drissa"
+        },
+        {
+          "t": "1812-07-14T04:08:00Z",
+          "km": 253.75,
+          "label": "The fortified camp at Drissa"
+        },
+        {
+          "t": "1812-07-18T13:05:00Z",
+          "km": 321.96,
+          "label": "Polotsk"
+        },
+        {
+          "t": "1812-07-20T04:05:00Z",
+          "km": 321.96,
+          "label": "Polotsk"
+        },
+        {
+          "t": "1812-07-23T12:59:00Z",
+          "km": 422.59,
+          "label": "Vitebsk"
+        },
+        {
+          "t": "1812-07-27T18:59:00Z",
+          "km": 422.59,
+          "label": "Vitebsk"
+        },
+        {
+          "t": "1812-07-29T14:54:00Z",
+          "km": 531.9,
+          "label": "Porechye"
+        },
+        {
+          "t": "1812-07-30T03:54:00Z",
+          "km": 531.9,
+          "label": "Porechye"
+        },
+        {
+          "t": "1812-07-31T14:52:00Z",
+          "km": 610.69,
+          "label": "Moshchinki"
+        },
+        {
+          "t": "1812-08-01T03:52:00Z",
+          "km": 610.69,
+          "label": "Moshchinki"
+        },
+        {
+          "t": "1812-08-01T11:52:00Z",
+          "km": 633.15,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-08-17T22:52:00Z",
+          "km": 633.15,
+          "label": "Smolensk"
+        },
+        {
+          "t": "1812-08-19T09:51:00Z",
+          "km": 666.1,
+          "label": "Lubino — the rearguard at Valutino"
+        },
+        {
+          "t": "1812-08-19T19:51:00Z",
+          "km": 666.1,
+          "label": "Lubino — the rearguard at Valutino"
+        },
+        {
+          "t": "1812-08-20T11:49:00Z",
+          "km": 699.49,
+          "label": "The Solovyovo crossing"
+        },
+        {
+          "t": "1812-08-21T03:49:00Z",
+          "km": 699.49,
+          "label": "The Solovyovo crossing"
+        },
+        {
+          "t": "1812-08-22T05:48:00Z",
+          "km": 730.73,
+          "label": "Usvyatye, on the Uzha"
+        },
+        {
+          "t": "1812-08-23T17:48:00Z",
+          "km": 730.73,
+          "label": "Usvyatye, on the Uzha"
+        },
+        {
+          "t": "1812-08-24T06:47:00Z",
+          "km": 744.59,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-08-26T03:47:00Z",
+          "km": 744.59,
+          "label": "Dorogobuzh"
+        },
+        {
+          "t": "1812-08-27T12:43:00Z",
+          "km": 831.21,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-08-28T04:43:00Z",
+          "km": 831.21,
+          "label": "Vyazma"
+        },
+        {
+          "t": "1812-08-28T10:42:00Z",
+          "km": 847.6,
+          "label": "Fyodorovskoye"
+        },
+        {
+          "t": "1812-08-29T03:42:00Z",
+          "km": 847.6,
+          "label": "Fyodorovskoye"
+        },
+        {
+          "t": "1812-08-29T11:41:00Z",
+          "km": 880.08,
+          "label": "Tsarevo-Zaimishche"
+        },
+        {
+          "t": "1812-08-31T03:41:00Z",
+          "km": 880.08,
+          "label": "Tsarevo-Zaimishche"
+        },
+        {
+          "t": "1812-08-31T09:40:00Z",
+          "km": 904.1,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-08-31T10:40:00Z",
+          "km": 904.1,
+          "label": "Gzhatsk"
+        },
+        {
+          "t": "1812-09-02T13:37:00Z",
+          "km": 957.41,
+          "label": "The Kolotsky monastery"
+        },
+        {
+          "t": "1812-09-03T04:37:00Z",
+          "km": 957.41,
+          "label": "The Kolotsky monastery"
+        },
+        {
+          "t": "1812-09-03T08:37:00Z",
+          "km": 967.73,
+          "label": "Borodino"
+        },
+        {
+          "t": "1812-09-07T21:37:00Z",
+          "km": 967.73,
+          "label": "Borodino"
+        },
+        {
+          "t": "1812-09-08T07:36:00Z",
+          "km": 982.9,
+          "label": "Mozhaisk"
+        },
+        {
+          "t": "1812-09-08T08:36:00Z",
+          "km": 982.9,
+          "label": "Mozhaisk"
+        },
+        {
+          "t": "1812-09-09T12:35:00Z",
+          "km": 1011.62,
+          "label": "Zemlino"
+        },
+        {
+          "t": "1812-09-10T03:35:00Z",
+          "km": 1011.62,
+          "label": "Zemlino"
+        },
+        {
+          "t": "1812-09-11T14:32:00Z",
+          "km": 1062.01,
+          "label": "Vyazyomy"
+        },
+        {
+          "t": "1812-09-12T04:32:00Z",
+          "km": 1062.01,
+          "label": "Vyazyomy"
+        },
+        {
+          "t": "1812-09-12T12:31:00Z",
+          "km": 1091.5,
+          "label": "Mamonovo"
+        },
+        {
+          "t": "1812-09-13T04:31:00Z",
+          "km": 1091.5,
+          "label": "Mamonovo"
+        },
+        {
+          "t": "1812-09-13T09:30:00Z",
+          "km": 1105.69,
+          "label": "Fili"
+        },
+        {
+          "t": "1812-09-14T02:30:00Z",
+          "km": 1105.69,
+          "label": "Fili"
+        },
+        {
+          "t": "1812-09-14T07:30:00Z",
+          "km": 1112.05,
+          "label": "Marching out through Moscow"
+        },
+        {
+          "t": "1812-09-14T08:30:00Z",
+          "km": 1112.05,
+          "label": "Marching out through Moscow"
+        },
+        {
+          "t": "1812-09-14T16:28:00Z",
+          "km": 1137.47,
+          "label": "Panki, on the Ryazan road"
+        },
+        {
+          "t": "1812-09-16T03:28:00Z",
+          "km": 1137.47,
+          "label": "Panki, on the Ryazan road"
+        },
+        {
+          "t": "1812-09-16T11:28:00Z",
+          "km": 1155.33,
+          "label": "The Borovsky ferry"
+        },
+        {
+          "t": "1812-09-17T03:28:00Z",
+          "km": 1155.33,
+          "label": "The Borovsky ferry"
+        },
+        {
+          "t": "1812-09-18T13:30:00Z",
+          "km": 1191.14,
+          "label": "Podolsk"
+        },
+        {
+          "t": "1812-09-20T03:30:00Z",
+          "km": 1191.14,
+          "label": "Podolsk"
+        },
+        {
+          "t": "1812-09-20T12:31:00Z",
+          "km": 1212.13,
+          "label": "Krasnaya Pakhra"
+        },
+        {
+          "t": "1812-09-27T04:31:00Z",
+          "km": 1212.13,
+          "label": "Krasnaya Pakhra"
+        },
+        {
+          "t": "1812-09-28T11:31:00Z",
+          "km": 1226.74,
+          "label": "Mocha, near Voronovo"
+        },
+        {
+          "t": "1812-10-01T04:31:00Z",
+          "km": 1226.74,
+          "label": "Mocha, near Voronovo"
+        },
+        {
+          "t": "1812-10-01T11:32:00Z",
+          "km": 1237.68,
+          "label": "Spas-Kuplya"
+        },
+        {
+          "t": "1812-10-03T04:32:00Z",
+          "km": 1237.68,
+          "label": "Spas-Kuplya"
+        },
+        {
+          "t": "1812-10-03T09:32:00Z",
+          "km": 1254.24,
+          "label": "The Tarutino camp"
+        },
+        {
+          "t": "1812-10-23T09:32:00Z",
+          "km": 1254.24,
+          "label": "The Tarutino camp"
+        },
+        {
+          "t": "1812-10-24T13:34:00Z",
+          "km": 1296.23,
+          "label": "Maloyaroslavets — across the Kaluga road"
+        },
+        {
+          "t": "1812-10-26T02:34:00Z",
+          "km": 1296.23,
+          "label": "Maloyaroslavets — across the Kaluga road"
+        },
+        {
+          "t": "1812-10-26T11:35:00Z",
+          "km": 1323.66,
+          "label": "Detchino"
+        },
+        {
+          "t": "1812-10-27T04:35:00Z",
+          "km": 1323.66,
+          "label": "Detchino"
+        },
+        {
+          "t": "1812-10-27T12:36:00Z",
+          "km": 1352.31,
+          "label": "Polotnyany Zavod"
+        },
+        {
+          "t": "1812-10-29T05:36:00Z",
+          "km": 1352.31,
+          "label": "Polotnyany Zavod"
+        },
+        {
+          "t": "1812-10-30T12:36:00Z",
+          "km": 1398.42,
+          "label": "Kremenskoye"
+        },
+        {
+          "t": "1812-10-31T04:36:00Z",
+          "km": 1398.42,
+          "label": "Kremenskoye"
+        },
+        {
+          "t": "1812-11-02T12:41:00Z",
+          "km": 1519.53,
+          "label": "Dubrovo"
+        },
+        {
+          "t": "1812-11-03T04:41:00Z",
+          "km": 1519.53,
+          "label": "Dubrovo"
+        },
+        {
+          "t": "1812-11-03T12:43:00Z",
+          "km": 1560.24,
+          "label": "Bykovo, south of Vyazma"
+        },
+        {
+          "t": "1812-11-05T04:43:00Z",
+          "km": 1560.24,
+          "label": "Bykovo, south of Vyazma"
+        },
+        {
+          "t": "1812-11-08T11:47:00Z",
+          "km": 1712.18,
+          "label": "Yelnya"
+        },
+        {
+          "t": "1812-11-10T04:47:00Z",
+          "km": 1712.18,
+          "label": "Yelnya"
+        },
+        {
+          "t": "1812-11-11T13:50:00Z",
+          "km": 1775.45,
+          "label": "Lobkovo"
+        },
+        {
+          "t": "1812-11-13T04:50:00Z",
+          "km": 1775.45,
+          "label": "Lobkovo"
+        },
+        {
+          "t": "1812-11-16T12:54:00Z",
+          "km": 1867.71,
+          "label": "Before Krasny"
+        },
+        {
+          "t": "1812-11-20T04:54:00Z",
+          "km": 1867.71,
+          "label": "Before Krasny"
+        },
+        {
+          "t": "1812-11-20T13:56:00Z",
+          "km": 1899.84,
+          "label": "Romanovo"
+        },
+        {
+          "t": "1812-11-21T04:56:00Z",
+          "km": 1899.84,
+          "label": "Romanovo"
+        },
+        {
+          "t": "1812-11-24T12:59:00Z",
+          "km": 1981.43,
+          "label": "Kopys, on the Dnieper"
+        },
+        {
+          "t": "1812-11-26T04:59:00Z",
+          "km": 1981.43,
+          "label": "Kopys, on the Dnieper"
+        },
+        {
+          "t": "1812-11-26T12:00:00Z",
+          "km": 1996.44,
+          "label": "Staroselye"
+        },
+        {
+          "t": "1812-11-27T05:00:00Z",
+          "km": 1996.44,
+          "label": "Staroselye"
+        },
+        {
+          "t": "1812-11-27T13:01:00Z",
+          "km": 2031.83,
+          "label": "Krugloye"
+        },
+        {
+          "t": "1812-11-28T05:01:00Z",
+          "km": 2031.83,
+          "label": "Krugloye"
+        },
+        {
+          "t": "1812-12-01T10:04:00Z",
+          "km": 2096.51,
+          "label": "Zhukovets — crossing the Berezina"
+        },
+        {
+          "t": "1812-12-01T11:04:00Z",
+          "km": 2096.51,
+          "label": "Zhukovets — crossing the Berezina"
+        },
+        {
+          "t": "1812-12-02T13:06:00Z",
+          "km": 2119.88,
+          "label": "Rovanichi"
+        },
+        {
+          "t": "1812-12-03T05:06:00Z",
+          "km": 2119.88,
+          "label": "Rovanichi"
+        },
+        {
+          "t": "1812-12-04T14:08:00Z",
+          "km": 2171.19,
+          "label": "Kosino — Kutuzov rides ahead of the army"
+        },
+        {
+          "t": "1812-12-05T05:08:00Z",
+          "km": 2171.19,
+          "label": "Kosino — Kutuzov rides ahead of the army"
+        },
+        {
+          "t": "1812-12-06T13:11:00Z",
+          "km": 2235.31,
+          "label": "Radoshkovichi"
+        },
+        {
+          "t": "1812-12-08T05:11:00Z",
+          "km": 2235.31,
+          "label": "Radoshkovichi"
+        },
+        {
+          "t": "1812-12-08T13:13:00Z",
+          "km": 2269.25,
+          "label": "Molodechno"
+        },
+        {
+          "t": "1812-12-09T05:13:00Z",
+          "km": 2269.25,
+          "label": "Molodechno"
+        },
+        {
+          "t": "1812-12-10T13:16:00Z",
+          "km": 2343.15,
+          "label": "Oshmiany"
+        },
+        {
+          "t": "1812-12-11T05:16:00Z",
+          "km": 2343.15,
+          "label": "Oshmiany"
+        },
+        {
+          "t": "1812-12-12T10:19:00Z",
+          "km": 2398.72,
+          "label": "Vilna"
+        },
+        {
+          "t": "1812-12-14T18:19:00Z",
+          "km": 2398.72,
+          "label": "Vilna"
+        }
+      ],
+      "dailyRhythm": {
+        "marchStartLocal": "05:00",
+        "marchEndLocal": "19:00"
+      },
       "statSeries": {
         "strength": {
           "label": "Army strength",
@@ -927,225 +1559,2461 @@
           "initial": 120000,
           "keyframes": [
             {
-              "t": "1812-06-24T03:00:00Z",
+              "t": "1812-06-24T03:24:00Z",
               "v": 120000
             },
             {
-              "t": "1812-08-16T12:00:00Z",
+              "t": "1812-08-16T09:53:00Z",
+              "v": 120000
+            },
+            {
+              "t": "1812-08-18T00:52:00Z",
               "v": 110000
             },
             {
-              "t": "1812-09-07T06:00:00Z",
-              "v": 125000
+              "t": "1812-09-07T03:07:00Z",
+              "v": 113000
             },
             {
-              "t": "1812-09-09T12:00:00Z",
+              "t": "1812-09-08T06:37:00Z",
+              "v": 64000
+            },
+            {
+              "t": "1812-10-23T09:33:00Z",
+              "v": 97000
+            },
+            {
+              "t": "1812-10-24T19:34:00Z",
               "v": 90000
             },
             {
-              "t": "1812-10-18T12:00:00Z",
-              "v": 100000
+              "t": "1812-11-18T13:57:00Z",
+              "v": 50000
             },
             {
-              "t": "1812-12-14T12:00:00Z",
-              "v": 100000
+              "t": "1812-12-12T10:23:00Z",
+              "v": 27500
             }
           ]
         }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "t": "1812-06-24T03:24:00Z",
+      "title": "Across the Niemen",
+      "body": "In the early hours the army starts over three pontoon bridges thrown across the Niemen just above Kovno. Napoleon watches from a hill on the left bank, then crosses himself; the Imperial Guard, 47,000 strong, follows, then Murat’s cavalry and three corps bound for Vilna.",
+      "tags": [
+        "crossing"
+      ],
+      "significance": 3,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-06-24T19:24:00Z",
+      "title": "The ball at Zakret",
+      "body": "While the Grande Armée crosses at Kovno, Alexander I is at a ball at Bennigsen’s country house of Zakret, outside Vilna. One account has the Tsar told beforehand and letting the ball go on; the popular version has Balashov whispering the news during the dancing.",
+      "tags": [
+        "politics",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "kudrinsky",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-06-28T06:21:00Z",
+      "title": "Vilna given up without a battle",
+      "body": "Barclay de Tolly holds two corps in front of Vilna until his flank corps are clear, then marches for Sventsiany. The stores are burned, and at about eight the last detachment crosses the Green Bridge over the Viliya and destroys it.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "kudrinsky"
+      ]
+    },
+    {
+      "t": "1812-06-28T10:21:00Z",
+      "title": "Vilna falls without a fight",
+      "body": "About noon the city fathers hand Napoleon the keys of Vilna; the Russians have burned their magazines and gone. The four-day dash from the Niemen has cost more than 5,000 dead horses and left guns and wagons stranded on the sandy tracks.",
+      "tags": [
+        "occupation",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-06-29T20:19:00Z",
+      "title": "The great storm",
+      "body": "After days of stifling heat a violent thunderstorm breaks over Lithuania in the night of 29-30 June. Napoleon’s own bulletin admits thirty-six hours of unbroken rain, a sudden sharp cold and several thousand horses dead; Ségur puts the horses at ten thousand.",
+      "tags": [
+        "weather",
+        "attrition"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Ten thousand horses perished on the march, and more especially in the bivouacs which followed.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
       },
-      "route": "routes/russian-army.geojson",
-      "schedule": [
+      "refs": [
+        "bulletins",
+        "segur",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-01T10:19:00Z",
+      "title": "The Tsar’s envoy",
+      "body": "General Balashov, sent by Alexander, is received by Napoleon in the very rooms the Tsar left days before. His terms are that the French recross the Niemen before any talks; nothing comes of it.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-06T10:19:00Z",
+      "title": "An army melting away",
+      "body": "Bread wagons cannot keep up with forced marches. A Württemberg lieutenant in Ney’s corps notes fresh thunderstorms on 6 July, men dying of sunstroke days later, dysentery and fever filling a field hospital; some 50,000 stragglers roam the countryside.",
+      "tags": [
+        "attrition",
+        "weather",
+        "eyewitness"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-09T14:19:00Z",
+      "title": "Into the camp at Drissa",
+      "body": "The Russian First Army files into the fortified camp on the Dvina that the Tsar’s adviser Pfuel designed as the anchor of the whole defence. By the Russian calendar it is the anniversary of Poltava.",
+      "tags": [
+        "maneuver",
+        "retreat"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-13T10:19:00Z",
+      "title": "Drissa judged a trap",
+      "body": "Four days after the Russian army files into Pfuel’s fortified camp on the Dvina, Alexander holds a council there. The camp is condemned: Clausewitz, who inspected it, thought an army staying in it would be taken from behind in its own half-circle of trenches. The army marches out next day for Polotsk and Vitebsk.",
+      "tags": [
+        "politics",
+        "maneuver",
+        "retreat"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "clausewitz",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-14T19:19:00Z",
+      "title": "A ball in Vilna",
+      "body": "Napoleon appears at a ball given by General Pac in his Vilna palace. He has now been in the city more than two weeks, organising Lithuania and supply, while Barclay falls back toward the Dvina.",
+      "tags": [
+        "politics",
+        "occupation"
+      ],
+      "significance": 1,
+      "refs": [
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-07-16T21:19:00Z",
+      "title": "Leaving Vilna at last",
+      "body": "Late on the night of 16 July, after eighteen days in Vilna, Napoleon takes the road north-east by Sventsiany and Glubokoye, hoping to turn Barclay’s army on the Dvina.",
+      "tags": [
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-18T10:15:00Z",
+      "title": "The Tsar leaves the army",
+      "body": "At Polotsk, persuaded that he is needed to raise reserves and rally the country, Alexander leaves the army for Moscow, signing a manifesto that calls out a militia. Barclay keeps the First Army but has no authority over Bagration’s Second.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-23T13:06:00Z",
+      "title": "Barclay reaches Vitebsk",
+      "body": "The Russian First Army reaches Vitebsk and halts, hoping Bagration can join it by way of Orsha. Rearguards are posted on the road from Ostrovno to buy time.",
+      "tags": [
+        "maneuver"
+      ],
+      "significance": 1,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-07-24T13:02:00Z",
+      "title": "A land emptied",
+      "body": "At Beshenkovichi on the Dvina Napoleon finds the town deserted: the inhabitants have gone, their houses abandoned. It is the first clear sign that the emptiness ahead of the army is deliberate.",
+      "tags": [
+        "attrition",
+        "occupation"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-07-25T10:02:00Z",
+      "title": "Ostrovno",
+      "body": "Thirty kilometres short of Vitebsk Murat and Nansouty’s cavalry run into Ostermann-Tolstoy’s corps, posted to buy Barclay time. The Russians give ground slowly; each side loses roughly 2,500-3,000 men, and one French cuirassier regiment stands six hours under cannon fire.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-07-27T09:00:00Z",
+      "title": "“The sun of Austerlitz”",
+      "body": "With the Russian army at last drawn up before Vitebsk, Napoleon halts his thin leading divisions about eleven to wait for the rest. From about four in the afternoon the Russians slip away behind a screen of Cossack campfires.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "To-morrow at five o’clock, the sun of Austerlitz!",
+        "by": "Napoleon, as Ségur reports it"
+      },
+      "refs": [
+        "wikipedia",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-07-28T09:59:00Z",
+      "title": "“Here I stop”",
+      "body": "Napoleon rides into an empty Vitebsk; the enemy has vanished without leaving a trace of his route. Back at headquarters, Ségur says, he throws his sword down on the maps and declares the campaign over for the year.",
+      "tags": [
+        "occupation",
+        "politics"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Here I stop! here I must look round me; rally; refresh my army, and organize Poland. The campaign of 1812 is finished; that of 1813 will do the rest.",
+        "by": "Napoleon, as Ségur reports it"
+      },
+      "refs": [
+        "segur",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-08-01T09:59:00Z",
+      "title": "Five weeks, half an army",
+      "body": "The halt at Vitebsk reveals the cost of the march. Of the central strike force some 185,000 remain with the colours: about 90,000 are detached, the rest lost to heat, dysentery, hunger, straggling and garrisons. Cavalry and draught horses have died in huge numbers for want of fodder.",
+      "tags": [
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-03T09:59:00Z",
+      "title": "The two Russian armies unite",
+      "body": "Bagration’s Second Army marches into Smolensk and camps beside Barclay’s, ending a 35-day, 750-kilometre retreat. Napoleon has failed to beat the Russian armies separately. Bagration, though senior in rank, places himself under Barclay.",
+      "tags": [
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-07T09:59:00Z",
+      "title": "The Rudnya offensive that wasn’t",
+      "body": "Pressed by Bagration and most of the generals, Barclay agrees to attack toward Rudnya, no further than three marches from Smolensk. A week of hesitant marches and counter-marches follows, and the quarrel between the two commanders comes into the open.",
+      "tags": [
+        "maneuver",
+        "politics"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-08T09:59:00Z",
+      "title": "Inkovo",
+      "body": "Platov’s Cossacks fall on Sébastiani’s cavalry at Inkovo and maul it, about 600 French casualties. Napoleon, expecting a Russian offensive, pulls his army into a defensive posture for two days before deciding the threat is empty.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "bulletins"
+      ]
+    },
+    {
+      "t": "1812-08-10T09:59:00Z",
+      "title": "Decision at Vitebsk",
+      "body": "“On the 10th the Emperor resolved to march on the enemy and seize Smolensk,” says the bulletin. Ségur records that Berthier, Duroc and Daru had argued against going further; Napoleon heard them out and overruled them.",
+      "tags": [
+        "politics",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "bulletins",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-08-14T04:56:00Z",
+      "title": "Over the Dnieper",
+      "body": "In the night of 13-14 August Eblé’s pontonniers bridge the Dnieper at Rasasna. By morning most of an army of about 175,000 is across and marching east along the left bank, screened by cavalry, to get behind the Russians at Smolensk.",
+      "tags": [
+        "crossing",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "rickard",
+        "wikipedia",
+        "bulletins"
+      ]
+    },
+    {
+      "t": "1812-08-14T12:26:00Z",
+      "title": "Neverovsky’s square",
+      "body": "At Krasny Murat’s cavalry and Ney’s infantry catch a single Russian division of mostly raw conscripts. Neverovsky forms one great square and retreats for hours along the tree-lined road, losing about 1,500 men and seven guns — but the dash on Smolensk is delayed.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-08-15T09:54:00Z",
+      "title": "A birthday on the road",
+      "body": "Napoleon turns forty-three on the march between Krasny and Smolensk and reviews the army. That morning Raevsky’s corps files into Smolensk: the surprise has failed.",
+      "tags": [
+        "eyewitness",
+        "maneuver"
+      ],
+      "significance": 1,
+      "refs": [
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-17T11:52:00Z",
+      "title": "Smolensk stormed",
+      "body": "After a day and a half of waiting for the Russians to come out, Napoleon orders the assault. By five the suburbs are carried; by six breaching batteries are pounding walls ten feet thick. The city burns through the night.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "In the middle of a fine August night, Smolensk offered the French the sight that an eruption of Vesuvius offers the people of Naples.",
+        "by": "Napoleon, 13th Bulletin of the Grande Armée"
+      },
+      "refs": [
+        "bulletins",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-17T23:52:00Z",
+      "title": "Into the ruins",
+      "body": "The Russians abandon the old town after midnight and break the bridge; about two in the morning the first grenadiers climb in unopposed. Of 2,250 buildings some 350 are intact, and barely a thousand of 15,000 inhabitants remain.",
+      "tags": [
+        "occupation",
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "bulletins",
+        "rickard",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-19T14:52:00Z",
+      "title": "Valutino: the lost chance",
+      "body": "East of Smolensk Ney hammers at Tuchkov’s rearguard on the Moscow road while Junot, across the Dnieper on the Russian flank, refuses to attack even when Murat begs him. Barclay’s scattered columns escape. General Gudin has both legs smashed by a cannonball and dies in Smolensk.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-08-22T05:52:00Z",
+      "title": "A battle refused at Usvyatye",
+      "body": "Barclay takes up a position on the Uzha at Usvyatye, where he first means to stand and fight. Bagration finds the left flank weak; the position is given up and the retreat goes on to Dorogobuzh.",
+      "tags": [
+        "maneuver",
+        "retreat"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-24T18:52:00Z",
+      "title": "On to Moscow",
+      "body": "Smolensk was meant to end the year’s campaign; instead Napoleon marches out on the old Moscow road, Murat in the centre, Eugène left, Poniatowski right. He leaves the city in the night of 24-25 August.",
+      "tags": [
+        "politics",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-08-29T16:43:00Z",
+      "title": "Kutuzov takes command",
+      "body": "Chosen unanimously by a committee in St Petersburg and confirmed by the Tsar, Kutuzov reaches the Russian army at Tsarevo-Zaimishche in the evening. He looks at the position Barclay has picked for a battle, rejects it, and orders the retreat to go on toward his reinforcements.",
+      "tags": [
+        "politics",
+        "retreat"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-08-30T09:43:00Z",
+      "title": "Burning towns",
+      "body": "Vyazma is entered in flames, like Dorogobuzh before it and Gzhatsk after. The bulletin blames the Russians for the fires and claims the French put them out; a little rain has at last laid the choking dust of the road.",
+      "tags": [
+        "attrition",
+        "weather",
+        "occupation"
+      ],
+      "significance": 2,
+      "refs": [
+        "bulletins",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-09-02T09:40:00Z",
+      "title": "Roll call at Gzhatsk",
+      "body": "Napoleon halts three days at Gzhatsk to close up the columns and count heads. The roll call of 2 September finds about 133,800 men under arms.",
+      "tags": [
+        "attrition"
+      ],
+      "significance": 2,
+      "refs": [
+        "rickard",
+        "wikipedia",
+        "clausewitz"
+      ]
+    },
+    {
+      "t": "1812-09-03T08:40:00Z",
+      "title": "Kutuzov chooses Borodino",
+      "body": "The Russian army files onto a position along the Kolocha by the village of Borodino, its left resting on an unfinished redoubt at Shevardino. Reserves have just come in from Kaluga, and the Moscow militia is arriving.",
+      "tags": [
+        "maneuver",
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-05T13:37:00Z",
+      "title": "The Shevardino redoubt",
+      "body": "The army finds Kutuzov’s line behind the Kolocha, with an unfinished redoubt out in front of its left. Compans’s division storms it in the late afternoon; it changes hands in the dusk, and fighting goes on in the dark until the Russians are ordered back about eleven.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "rickard",
+        "bulletins",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-06T09:37:00Z",
+      "title": "The King of Rome",
+      "body": "A day of reconnaissance, begun by Napoleon at two in the morning. A portrait of his infant son by Gérard arrives from Paris; he shows it to his staff and has it set up outside his tent for the Guard to see.",
+      "tags": [
+        "eyewitness"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "segur",
+        "bulletins"
+      ]
+    },
+    {
+      "t": "1812-09-07T03:07:00Z",
+      "title": "Sunrise at Borodino",
+      "body": "At two in the morning Napoleon dictates his proclamation; at half past five he is at the Shevardino redoubt as the sun comes up cloudless after a rainy day. Ségur notes drily that it rose on the Russian side, in French eyes.",
+      "tags": [
+        "battle",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "bulletins",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-09-07T03:37:00Z",
+      "title": "The guns open",
+      "body": "About six a hundred French guns open on the Russian left. Eugène’s men take Borodino village in the mist; Davout’s divisions go in against Bagration’s flèches, where Compans is wounded within half an hour and Davout’s horse is killed under him.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "bulletins",
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-09-07T07:37:00Z",
+      "title": "Bagration falls",
+      "body": "The three flèches are taken, retaken and taken again through the morning in fighting at bayonet point. Leading a counter-attack, Bagration is hit in the leg by a shell splinter; word spreads and the Second Army falls back behind the Semyonovskoye ravine.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-09-07T09:37:00Z",
+      "title": "Cossacks in the rear",
+      "body": "About 8,000 Russian horse under Uvarov and Platov ford the Kolocha and appear behind Eugène’s corps near Borodino village. They achieve little in themselves, but the alarm holds up the second assault on the great redoubt for some two hours.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-09-07T12:37:00Z",
+      "title": "The great redoubt",
+      "body": "In mid-afternoon three infantry divisions attack the Raevsky redoubt from the front while cuirassiers ride in through its open rear. It falls about half past three; Auguste de Caulaincourt is killed leading the charge. Napoleon refuses to send in the Guard.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-09-07T21:37:00Z",
+      "title": "Kutuzov orders the retreat",
+      "body": "On the evening of Borodino Kutuzov reports a victory to the Tsar and means to fight again in the morning. Then the loss returns come in, and at midnight he orders the army back through Mozhaisk.",
+      "tags": [
+        "battle",
+        "retreat"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-08T06:37:00Z",
+      "title": "The morning after",
+      "body": "The Russians have gone in the night toward Mozhaisk. Borodino has cost the French somewhere between 30,000 and 42,000 men and the Russians 40,000 to 53,000; Napoleon stays on the field until four in the afternoon.",
+      "tags": [
+        "battle",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-09-09T09:36:00Z",
+      "title": "Sick at Mozhaisk",
+      "body": "Napoleon enters Mozhaisk at midday with a heavy cold and no voice, and stays three days while Murat presses the Russian rearguard. He orders reinforcements up from Smolensk.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-13T14:32:00Z",
+      "title": "The council at Fili",
+      "body": "In a peasant’s hut at Fili the Russian generals argue whether to fight before Moscow. Bennigsen, Yermolov, Konovnitsyn, Uvarov and Dokhturov want a battle; Barclay, Osterman-Tolstoy, Raevsky and Toll are for retreat. Kutuzov sides with the minority and orders the army through the city.",
+      "tags": [
+        "politics",
+        "retreat"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "With the loss of Moscow, Russia is not yet lost.",
+        "by": "Kutuzov, at the council"
+      },
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-14T06:32:00Z",
+      "title": "The Russians march through Moscow",
+      "body": "The army files through the city and out by the Ryazan road, most of the inhabitants leaving with it. Governor Rostopchin sends away the fire engines and departs. Miloradovich, with the rearguard, gets Murat to agree a truce until seven in the evening by threatening to fight in the streets.",
+      "tags": [
+        "retreat",
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-14T11:30:00Z",
+      "title": "“Moscow! Moscow!”",
+      "body": "At two in the afternoon the advance guard tops the Poklonnaya hill and sees the city’s gilded domes. Napoleon waits at the gate for a deputation with the keys; none comes. Moscow is all but empty, and he sleeps that night in a wooden house in the Dorogomilovo suburb.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "It was two o’clock: the sun caused this great city to glisten with a thousand colours. Struck with astonishment at the sight, they paused, exclaiming, “Moscow! Moscow!”",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "segur",
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-09-15T09:30:00Z",
+      "title": "Napoleon enters the Kremlin",
+      "body": "Napoleon rides into an almost deserted Moscow in the early morning and has his headquarters in the Kremlin by midday.",
+      "tags": [
+        "occupation"
+      ],
+      "significance": 3,
+      "refs": [
+        "itinerary",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-09-15T20:00:00Z",
+      "title": "Moscow begins to burn",
+      "body": "Scattered fires had broken out on the evening of the 14th; on the night of 15-16 September a rising wind drives them together. Between 22:30 and midnight the flames spread through the packed wooden quarters and warehouses.",
+      "tags": [
+        "occupation",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "fondation",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-16T07:30:00Z",
+      "title": "Incendiaries shot on sight",
+      "body": "Orders go out to shoot anyone caught setting fires; Sergeant Bourgogne records men shot and others hanged at a spot the soldiers call the “Place des Pendus”. Up to 400 Muscovites are said to have been shot by French courts-martial on suspicion of arson.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-16T15:00:00Z",
+      "title": "Napoleon flees the Kremlin",
+      "body": "By 04:00 the firestorm threatens the Kremlin. Urged to leave at midday, Napoleon refuses, then is forced out in the late afternoon and takes refuge in the Petrovsky Palace outside the city, where he stays through the 17th.",
+      "tags": [
+        "occupation",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "fondation",
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-09-17T09:30:00Z",
+      "title": "The flank march fools Murat",
+      "body": "Having crossed the Moskva at the Borovsky ferry, Kutuzov turns sharply west toward Podolsk and the Old Kaluga road. Cossacks left on the Ryazan road draw Murat’s cavalry two marches the wrong way; the French do not realise they have lost the Russian army until the night of 21–22 September.",
+      "tags": [
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-18T09:30:00Z",
+      "title": "Rain; back to the Kremlin",
+      "body": "Rain begins and the fire settles. Napoleon returns to the Kremlin, which the flames had spared. About 6,500 of Moscow’s 9,150 houses are destroyed; the last fires die out around 20–21 September.",
+      "tags": [
+        "occupation",
+        "weather"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-09-20T09:30:00Z",
+      "title": "Letter to the Tsar",
+      "body": "Napoleon writes to Alexander blaming Rostopchin for the fire and hinting at peace; a first feeler had gone through General Tutolmin of the Foundling Home on 18-19 September. A second message goes by the landowner Yakovlev on the 22nd. None is answered.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "fondation",
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-09-24T09:30:00Z",
+      "title": "Bagration dies",
+      "body": "Prince Bagration, wounded at Borodino on 7 September, dies of his infected wound. In Moscow, the French settle in: dinners, promotions and decorations at the Kremlin.",
+      "tags": [
+        "politics",
+        "occupation"
+      ],
+      "significance": 1,
+      "refs": [
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-09-28T11:30:00Z",
+      "title": "One Main Army",
+      "body": "Falling back down the Old Kaluga road, the First and Second Western Armies are merged into a single Main Army under Kutuzov. Headquarters is at Mocha, near Voronovo.",
+      "tags": [
+        "politics",
+        "maneuver"
+      ],
+      "significance": 1,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-03T09:30:00Z",
+      "title": "Not one step further back",
+      "body": "The Russian army halts behind the Nara at Tarutino and entrenches; Kutuzov’s headquarters settles nearby at Letashevka. For nearly three weeks it rests and draws recruits and remounts, growing to some 97,000 regulars, while 26 regiments of Don Cossack militia ride in.",
+      "tags": [
+        "maneuver",
+        "politics"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Now not one step further back.",
+        "by": "Kutuzov, on reaching Tarutino"
+      },
+      "refs": [
+        "esbe",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-05T09:30:00Z",
+      "title": "Lauriston sent to Kutuzov",
+      "body": "Napoleon sends General Lauriston to Kutuzov’s headquarters at Tarutino to open talks (he set out on 4 October; the interview was on the 5th). Kutuzov receives him, despite the Tsar’s orders, but says he has no power to treat.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "itinerary",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-08T09:30:00Z",
+      "title": "The small war",
+      "body": "From Tarutino Kutuzov organises flying detachments west of Moscow, while Davydov, Figner and Seslavin raid the Smolensk road. Partisan leaders are told to hand captured muskets to the peasants.",
+      "tags": [
+        "maneuver",
+        "attrition"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-10T09:30:00Z",
+      "title": "Murat’s outposts starve",
+      "body": "Facing Tarutino, Murat complains of the want of food and forage; he is losing about 200 men a day to Russian raiders, and his cavalry horses are dying.",
+      "tags": [
+        "attrition"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-13T05:30:00Z",
+      "title": "First snow in Moscow",
+      "body": "A light first snow falls on Moscow, then melts. The weather otherwise stays fine and mild deep into October, which helps Napoleon put off the decision to leave.",
+      "tags": [
+        "weather"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-15T09:30:00Z",
+      "title": "Theatre amid the ruins",
+      "body": "A stranded French troupe has been playing for the garrison in a private house, and from the Kremlin Napoleon dates the “Moscow decree” reorganising the Comédie-Française. The day before, he ordered 1,500 wounded sent back toward Smolensk.",
+      "tags": [
+        "occupation",
+        "politics"
+      ],
+      "significance": 1,
+      "refs": [
+        "itinerary",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-10-18T04:30:00Z",
+      "title": "Murat surprised at Vinkovo",
+      "body": "At dawn Bennigsen falls on Murat’s camp near Tarutino. The French lose about 2,800 men and some three dozen guns before Murat cuts his way clear. The news decides Napoleon: the army will march next day.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-19T04:30:00Z",
+      "title": "The army leaves Moscow",
+      "body": "After 35 days the army marches out by the Old Kaluga road, about 100,000-110,000 combatants and some 600 guns, trailed by an immense column of carts loaded with loot, sick and camp followers. Mortier stays behind with about 10,000 men.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "itinerary",
+        "wikipedia",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-20T09:31:00Z",
+      "title": "Order to destroy the Kremlin",
+      "body": "From Troitskoye Napoleon orders Mortier to evacuate Moscow and blow up the Kremlin. Meanwhile the army sidesteps west from the Old to the New Kaluga road, trying to slip round Kutuzov’s left.",
+      "tags": [
+        "politics",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "itinerary",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-22T17:33:00Z",
+      "title": "Seslavin sees the Grande Armée",
+      "body": "About eight in the evening Captain Seslavin’s partisans, watching the New Kaluga road near Fominskoye, find Napoleon’s main army on the march. A captured Guardsman says Moscow has been abandoned and the army is bound for Maloyaroslavets.",
+      "tags": [
+        "maneuver",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-22T22:33:00Z",
+      "title": "The Kremlin mines explode",
+      "body": "Around 1 a.m. Mortier’s rearguard leaves Moscow and fires the mines — 183,000 pounds of powder. Rain and Muscovites spoil part of the fuses: towers, wall and arsenal are wrecked, but the Ivan the Great bell tower stands.",
+      "tags": [
+        "occupation",
+        "retreat"
+      ],
+      "significance": 2,
+      "refs": [
+        "foord",
+        "fondation",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-23T01:33:00Z",
+      "title": "Kutuzov weeps: Moscow is free",
+      "body": "A staff officer reaches Kutuzov in the night with the report that Napoleon has left Moscow. By the account Tolstoy later worked into War and Peace, the old field marshal turns to the icons, crosses himself and weeps. The army is ordered out of camp for Maloyaroslavets.",
+      "tags": [
+        "eyewitness",
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-24T02:34:00Z",
+      "title": "Maloyaroslavets",
+      "body": "Dokhturov attacks Delzons in the town at dawn. It changes hands eight times in house-to-house fighting, Delzons is killed, and by nightfall Eugène’s Italians hold the burning ruins. Each side loses 6,000-7,000 men, and Kutuzov still bars the road to Kaluga.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "foord",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-10-24T13:34:00Z",
+      "title": "Kutuzov bars the Kaluga road",
+      "body": "Kutuzov’s main body comes up about four in the afternoon and forms on the heights south of the burning town, across the road to Kaluga. Two nights later he falls back further south, on the same day that Napoleon turns north.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-10-25T03:34:00Z",
+      "title": "The Cossack “hourra”",
+      "body": "Riding out from Gorodnya at daybreak, Napoleon and his staff are charged by Platov’s Cossacks, who had crossed the Luzha in the night to raid an artillery park. His escort beats them off; the Cossacks get away with 11 guns.",
+      "tags": [
+        "battle",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-26T09:34:00Z",
+      "title": "The turn back north",
+      "body": "After a council in the weaver’s hut at Gorodnya, Napoleon gives up Kaluga and orders the retreat by Borovsk, Vereya and Mozhaisk — back onto the devastated road of the advance. Unknown to him, Kutuzov had also pulled back. Evening frosts begin.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-10-29T05:37:00Z",
+      "title": "Across the field of Borodino",
+      "body": "The column passes the battlefield of 7 September, still strewn with unburied, decaying corpses, broken guns and helmets. The Guard crosses at daybreak; Napoleon pushes on to Gzhatsk.",
+      "tags": [
+        "retreat",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "itinerary",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-10-30T17:41:00Z",
+      "title": "The last singing",
+      "body": "Spirits are still fair, the men believing they are marching home. Artillery colonel Griois hears soldiers singing round the fires for the last time.",
+      "tags": [
+        "retreat",
+        "eyewitness"
+      ],
+      "significance": 1,
+      "refs": [
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-10-31T13:43:00Z",
+      "title": "Napoleon at Vyazma",
+      "body": "Headquarters reaches Vyazma and halts about 36 hours. The day is the coldest yet. Behind it the army is strung out over some 100 km of road, with Davout bringing up the rear under Cossack harassment.",
+      "tags": [
+        "retreat",
+        "weather"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "foord",
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-11-03T05:44:00Z",
+      "title": "Battle of Vyazma",
+      "body": "On a bright, mild morning Miloradovich cuts the road east of Vyazma and severs Davout from the army. Eugène and Poniatowski turn back and reopen the way, but by 20:00 the French have been driven through the burning town with 6,000-8,000 lost. Napoleon is already a march ahead at Slavkovo.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "zamoyski",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-03T12:45:00Z",
+      "title": "Parallel pursuit, not a blow",
+      "body": "While Miloradovich and Platov cut into Davout at Vyazma, Kutuzov’s main body merely marches to Bykovo, ten kilometres south of the town, and sends forward only cuirassiers. Staff officers who want the road blocked are refused.",
+      "tags": [
+        "maneuver",
+        "politics"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-04T19:45:00Z",
+      "title": "The cold arrives",
+      "body": "With the new moon on the night of 4-5 November the temperature drops sharply. Rain turns to snow. Napoleon, at Slavkovo, musters what he can and finds the corps badly disorganised; he resolves to make for Smolensk.",
+      "tags": [
+        "weather",
+        "winter"
+      ],
+      "significance": 2,
+      "refs": [
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-11-06T06:47:00Z",
+      "title": "The first blizzard",
+      "body": "Near Dorogobuzh winter breaks on the column in a blizzard: thick fog, then driving snow, soon lying deep. Men still in summer uniform lose the road, fall and are buried.",
+      "tags": [
+        "winter",
+        "weather",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "But on the 6th of November, the heavens declared against us. Their azure disappeared. The army marched enveloped in cold fogs.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "wikipedia",
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-11-06T12:48:00Z",
+      "title": "News of the Malet plot",
+      "body": "At Mikhailovka that afternoon a courier from Paris tells Napoleon that on 23 October General Malet, announcing the Emperor’s death, had almost seized the capital. Nobody had thought to proclaim his son. He begins to think of returning to Paris.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "zamoyski",
+        "itinerary",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-11-07T09:48:00Z",
+      "title": "Horses and wagons abandoned",
+      "body": "Unshod for ice and unfed, the horses die in thousands: Eugène’s corps alone loses 1,200 in two days. Hundreds of carts, caissons and guns are left on the road; a Württemberg colonel finds his men frozen dead in their bivouac.",
+      "tags": [
+        "attrition",
+        "winter",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-11-09T09:52:00Z",
+      "title": "Smolensk in sight",
+      "body": "About noon, in roughly -15 °C with a north wind, Napoleon sights Smolensk under thick snow. Of the army that left Moscow three weeks earlier, no more than about 40,000 remain with their colours, followed by a mass of stragglers. The promised magazines will not feed them.",
+      "tags": [
+        "retreat",
+        "winter",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "zamoyski",
+        "itinerary",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-11-13T09:52:00Z",
+      "title": "The corps leave one by one",
+      "body": "The Poles, Junot’s Westphalians and the Vistula Legion march out first on the 13th; Napoleon and the Guard follow on the 14th, Eugène on the 15th, Davout on the 16th and Ney’s rearguard at 2 a.m. on the 17th. The day’s gap between corps strings the army along some 50 km of road.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-11-14T02:52:00Z",
+      "title": "The Emperor quits Smolensk",
+      "body": "The imperial column marches out about five in the morning onto roads of sheet ice. The Guard’s artillery needs twenty-two hours to cover the first five leagues to Korytnia. Minard gives −21 °R for the day.",
+      "tags": [
+        "retreat",
+        "winter",
+        "eyewitness"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "Its march was still firm, but gloomy and silent as night, and mute and discoloured as the aspect of the country through which it was advancing.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "segur",
+        "caulaincourt",
+        "minard"
+      ]
+    },
+    {
+      "t": "1812-11-15T12:54:00Z",
+      "title": "Krasny: the Guard arrives",
+      "body": "Napoleon reaches Krasny in the afternoon while Miloradovich lines the road behind him. That night the Young Guard falls on Ozharovsky’s camp south of the town and scatters it.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-16T06:54:00Z",
+      "title": "Minsk falls",
+      "body": "Chichagov’s Army of the Danube takes Minsk, the Grande Armée’s great depot on the road home, with its stores and over 2,000 wounded. Napoleon learns of it on the march to Orsha.",
+      "tags": [
+        "maneuver",
+        "politics"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "foord",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-16T11:54:00Z",
+      "title": "Eugène cut off",
+      "body": "Miloradovich bars the road at the Losvinka ravine. Eugène’s IV Corps loses its guns, its baggage and about a third of its men, then slips around the Russians in the dark to reach Krasny.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "foord",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-11-17T02:54:00Z",
+      "title": "The Guard attacks at Krasny",
+      "body": "Before dawn Napoleon marches the Guard back east out of Krasny to open the road for Davout. Kutuzov pulls back; Davout gets through about 9 a.m., and by 11 a.m. Napoleon, hearing that Tormasov is circling west of the town, orders the retreat on Lyady. The Young Guard covering it loses roughly half its men.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-11-17T11:54:00Z",
+      "title": "Kutuzov’s golden bridge",
+      "body": "With his main army five kilometres from Krasny, Kutuzov cancels a night attack on learning Napoleon is still in the town, and holds his enveloping column back until two in the afternoon. The Guard gets away; Davout’s and then Ney’s corps are wrecked behind it. The British commissioner Wilson accuses him of letting Napoleon go on purpose.",
+      "tags": [
+        "battle",
+        "politics"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I prefer giving my enemy a ‘pont d’or’, as you call it, to receiving a ‘coup de collier’.",
+        "by": "Kutuzov, as Sir Robert Wilson recorded it"
+      },
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-17T15:55:00Z",
+      "title": "Thaw at Lyady",
+      "body": "At Lyady the army leaves burnt Old Russia for inhabited country, and the frost breaks. The thaw brings slush and fog, and within days it will unfreeze the Berezina.",
+      "tags": [
+        "weather",
+        "retreat"
+      ],
+      "significance": 2,
+      "quote": {
+        "text": "The weather just then became milder, a thaw had begun, and we received some provisions.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "segur",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-11-18T12:55:00Z",
+      "title": "Ney cut off",
+      "body": "Ney’s rearguard reaches the Losvinka about 3 p.m. to find Miloradovich across the road and the army gone. He refuses a summons to surrender, attacks, is thrown back with the loss of more than half his men, and draws off at dusk.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "foord",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-11-18T21:27:00Z",
+      "title": "Ney crosses the Dnieper ice",
+      "body": "During the night of 18–19 November Ney leaves his campfires burning and crosses the half-frozen Dnieper near Syrokorenye and Gusino. Guns, wagons and wounded stay on the south bank; the ice gives way under the first vehicles.",
+      "tags": [
+        "crossing",
+        "maneuver",
+        "winter"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "itinerary",
+        "foord",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-11-19T09:58:00Z",
+      "title": "Orsha: the Dnieper recrossed",
+      "body": "Napoleon crosses the Dnieper and lodges in the Jesuit college at Orsha. The town holds food, thirty-six guns with teams, and a bridging train of sixty boats.",
+      "tags": [
+        "retreat",
+        "crossing"
+      ],
+      "significance": 2,
+      "refs": [
+        "itinerary",
+        "caulaincourt",
+        "segur",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-11-20T07:58:00Z",
+      "title": "The pontoons burn",
+      "body": "To free horses for the guns Napoleon has the sixty-boat bridging train burnt at Orsha, along with papers and surplus carriages. Eblé begs to keep fifteen pontoons and is refused; he saves two field forges, two wagons of charcoal and six of tools.",
+      "tags": [
+        "retreat",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord",
+        "segur",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-20T21:59:00Z",
+      "title": "Ney rejoins at Orsha",
+      "body": "Eugène marches out from Orsha in the night and meets Ney’s column on the Vitebsk road. Of some 3,000 men who crossed the Dnieper, 800 to 1,500 are still under arms. Napoleon, two leagues ahead at Baran, hears the news with joy.",
+      "tags": [
+        "maneuver",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "I have then saved my eagles! I would have given three hundred millions from my treasury, sooner than have lost such a man.",
+        "by": "Napoleon, as Ségur reports it"
+      },
+      "refs": [
+        "foord",
+        "segur",
+        "wikipedia",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-11-21T11:59:00Z",
+      "title": "Chichagov takes Borisov",
+      "body": "Lambert’s advance guard storms the Borisov bridgehead from Dombrowski’s Poles. The only bridge over the Berezina is in Russian hands.",
+      "tags": [
+        "battle",
+        "maneuver"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-22T10:00:00Z",
+      "title": "Corbineau’s ford",
+      "body": "General Corbineau, cut off by Chichagov on his way to rejoin Oudinot, is shown a ford at Studianka by a peasant and crosses there with his cavalry brigade. On the 24th Oudinot chooses the spot for the bridges.",
+      "tags": [
+        "maneuver",
+        "crossing"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord",
+        "rickard",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-23T08:01:00Z",
+      "title": "Oudinot retakes Borisov",
+      "body": "Oudinot routs Pahlen’s advance guard at Loshnitsa and drives Chichagov out of Borisov. The Russians recross the river and destroy the bridge behind them.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "rickard",
+        "itinerary",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-11-23T15:03:00Z",
+      "title": "The eagles are burnt",
+      "body": "At Bobr Napoleon has the eagles of the corps brought to him and burnt, and orders surplus carriages destroyed. Mounted officers without troops are formed into the Sacred Squadron.",
+      "tags": [
+        "retreat",
+        "politics"
+      ],
+      "significance": 2,
+      "refs": [
+        "segur",
+        "itinerary",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-25T10:05:00Z",
+      "title": "The pursuers are dying too",
+      "body": "At Kopys on the Dnieper the Russian main army leaves 144 guns behind for want of men to serve them. About 100,000 marched from Tarutino; within three weeks no more than half are in the ranks, though battle has cost only some 10,000. The rest have fallen out on forced marches over snow-covered roads.",
+      "tags": [
+        "attrition",
+        "winter"
+      ],
+      "significance": 3,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-25T20:06:00Z",
+      "title": "Feint below Borisov",
+      "body": "A noisy demonstration downstream at Ukholody draws Chichagov south. After dark Eblé’s pontonniers and Chasseloup’s sappers reach Studianka and start pulling down the village for timber.",
+      "tags": [
+        "maneuver",
+        "crossing"
+      ],
+      "significance": 2,
+      "refs": [
+        "wikipedia",
+        "foord",
+        "rickard"
+      ]
+    },
+    {
+      "t": "1812-11-26T06:07:00Z",
+      "title": "Eblé’s men enter the river",
+      "body": "The first trestle goes in at 8 a.m. About 400 pontonniers work shoulder-deep among drifting ice, relieved every quarter of an hour. Forty of Corbineau’s troopers ford the river and 400 infantry follow on rafts to hold the far bank.",
+      "tags": [
+        "crossing",
+        "winter",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord",
+        "wikipedia",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-26T11:07:00Z",
+      "title": "The first bridge opens",
+      "body": "The infantry bridge is finished about one o’clock and Oudinot’s II Corps crosses at once. The heavier artillery bridge follows at about 4 p.m.; it breaks at 8 p.m., at 2 a.m. and again at 4 p.m. on the 27th, and each time the pontonniers go back into the water.",
+      "tags": [
+        "crossing"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "About one o’clock the bank was entirely cleared of the Cossacks, and the bridge for the infantry finished.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "foord",
+        "rickard",
+        "segur",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-27T11:07:00Z",
+      "title": "Napoleon crosses the Berezina",
+      "body": "The Emperor crosses with his headquarters and the Guard in the early afternoon and sets up in the hamlet of Zanivki. Eugène and Davout cross after dark.",
+      "tags": [
+        "crossing"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord",
+        "rickard",
+        "segur",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-27T20:07:00Z",
+      "title": "Partouneaux’s division is lost",
+      "body": "Marching from Borisov in the dark, Partouneaux’s division takes the wrong fork and runs into Wittgenstein at Staroi-Borisov. The general is taken that night and the rest lay down their arms the next morning; one battalion that took the river track reaches Studianka.",
+      "tags": [
+        "battle"
+      ],
+      "significance": 2,
+      "refs": [
+        "foord",
+        "rickard",
+        "wikipedia",
+        "fondation"
+      ]
+    },
+    {
+      "t": "1812-11-28T06:07:00Z",
+      "title": "Battle on both banks",
+      "body": "Chichagov attacks Oudinot and Ney in the woods on the west bank while Wittgenstein presses Victor on the heights of Studianka. From about 1 p.m. Russian guns reach the bridges and the crowd of stragglers jammed in front of them.",
+      "tags": [
+        "battle",
+        "crossing"
+      ],
+      "significance": 3,
+      "refs": [
+        "wikipedia",
+        "foord",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-11-28T19:07:00Z",
+      "title": "Victor’s rearguard crosses",
+      "body": "At nine in the evening Victor is ordered over. His men cut a lane through the wreckage and the dead; by 1 a.m. the IX Corps is across. Thousands of stragglers stay by their fires on the east bank and will not move.",
+      "tags": [
+        "crossing",
+        "retreat"
+      ],
+      "significance": 2,
+      "refs": [
+        "foord",
+        "rickard",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-11-29T06:37:00Z",
+      "title": "The bridges are burned",
+      "body": "Eblé’s orders are to fire the bridges at 8 a.m.; he waits until half past eight to let more people over. The crowd left behind rushes the flames or the ice, and the Cossacks arrive within the hour.",
+      "tags": [
+        "crossing",
+        "attrition",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Some there were also who threw themselves headlong into the flames of the burning bridge, which sunk under them; burnt and frozen at one and the same time.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "foord",
+        "wikipedia",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-11-29T11:07:00Z",
+      "title": "The Zembin causeways",
+      "body": "The army files north-west across three long timber bridges over the Zembin marshes. Chaplitz had held them for days without burning them; had he done so the crossing would have led nowhere.",
+      "tags": [
+        "retreat",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "segur",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-12-01T10:09:00Z",
+      "title": "Kutuzov, late to the Berezina",
+      "body": "While Napoleon forced the river at Studianka, Kutuzov’s headquarters was still several marches away; Chichagov and Wittgenstein fought without him. The main army crosses at Zhukovets, far downstream, two days after the French burned their bridges.",
+      "tags": [
+        "crossing",
+        "maneuver"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-12-03T10:12:00Z",
+      "title": "The 29th Bulletin",
+      "body": "At Molodechno Napoleon dictates the bulletin that admits the disaster to France, blaming the cold that set in on 7 November. It closes: ‘His Majesty’s health has never been better.’ It appears in the Moniteur on 16 December.",
+      "tags": [
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "fondation",
+        "caulaincourt",
+        "itinerary"
+      ]
+    },
+    {
+      "t": "1812-12-04T07:13:00Z",
+      "title": "Kutuzov rides ahead",
+      "body": "Leaving the worn-out main army to Tormasov, Kutuzov goes forward by relays of post-horses to join his advance guard and Chichagov’s fresher troops. The main army is soon halted to rest; only the Guards go on to Vilna.",
+      "tags": [
+        "maneuver",
+        "attrition",
+        "winter"
+      ],
+      "significance": 2,
+      "refs": [
+        "chronicle",
+        "wikipedia"
+      ]
+    },
+    {
+      "t": "1812-12-04T13:13:00Z",
+      "title": "Twenty-six degrees at Bienitsa",
+      "body": "The frost returns harder than before. Ségur records 26 degrees below zero (Réaumur, about −32 °C) when headquarters reaches Bienitsa.",
+      "tags": [
+        "weather",
+        "winter"
+      ],
+      "significance": 2,
+      "refs": [
+        "segur",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-12-05T20:14:00Z",
+      "title": "Napoleon leaves the army",
+      "body": "At Smorgoni Napoleon assembles the marshals at seven, hands the command to Murat, and at ten at night drives off with Caulaincourt for Paris, Duroc and Lobau following in a sledge. He reaches Oshmiany around midnight, just after Seslavin’s raiders have been driven out of it.",
+      "tags": [
+        "politics",
+        "retreat"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "As it was now ten o’clock at night, he then rose, squeezed their hands affectionately, embraced them, and departed.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "caulaincourt",
+        "segur",
+        "itinerary",
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-12-06T05:14:00Z",
+      "title": "The cold kills outright",
+      "body": "The day after the Emperor leaves is the coldest of the retreat: Minard marks −30 °R, about −37.5 °C. Men who sit down do not get up.",
+      "tags": [
+        "weather",
+        "winter",
+        "attrition",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "You might see icy particles floating in the air; the birds fell from it quite stiff and frozen.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "minard",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-12-07T10:16:00Z",
+      "title": "Loison’s division frozen",
+      "body": "Loison’s fresh division of young French and German recruits, sent out from Vilna on 4 December to cover the retreat, is destroyed by the frost without a battle. Of about 15,000 men fewer than 3,000 are still in the ranks on the 7th.",
+      "tags": [
+        "attrition",
+        "winter"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-12-09T10:19:00Z",
+      "title": "Vilna: the crush at the gate",
+      "body": "Headquarters reached Vilna on the 8th; on the 9th the mass of the column jams a single gate for ten hours in 27 to 28 degrees of frost. The magazines hold bread and biscuit for 100,000 men for forty days, but there is no one to issue it and the stores are broken open.",
+      "tags": [
+        "retreat",
+        "attrition",
+        "winter"
+      ],
+      "significance": 3,
+      "refs": [
+        "segur",
+        "foord",
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-12-10T03:19:00Z",
+      "title": "Vilna abandoned",
+      "body": "At the first cannon shots Murat leaves in the night; Ney follows on the 10th with Cossacks already in the streets. Some 20,000 sick, wounded and exhausted men stay behind. A mass grave of the retreat found in Vilnius in 2001 held at least 2,700 of them.",
+      "tags": [
+        "retreat",
+        "attrition"
+      ],
+      "significance": 3,
+      "refs": [
+        "foord"
+      ]
+    },
+    {
+      "t": "1812-12-10T08:19:00Z",
+      "title": "Ponari hill",
+      "body": "A few miles west of Vilna the road climbs an iced slope the horses cannot manage. The last guns, the baggage and the army’s pay chests, some ten million francs, are abandoned; French soldiers and Cossacks loot the wagons side by side.",
+      "tags": [
+        "retreat",
+        "attrition",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "French and Russians, forgetting they were at war, were seen pillaging together the same treasure-waggons.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "segur",
+        "foord",
+        "zamoyski"
+      ]
+    },
+    {
+      "t": "1812-12-12T10:23:00Z",
+      "title": "Kutuzov back in Vilna",
+      "body": "Kutuzov, twice governor of the city, re-enters Vilna (on the 11th by some accounts) and sleeps in rooms that had been heated for Napoleon. Of 97,112 men who left Tarutino, one count has 27,464 reaching Vilna. The streets and hospitals are choked with French dead.",
+      "tags": [
+        "winter",
+        "attrition",
+        "politics"
+      ],
+      "significance": 3,
+      "refs": [
+        "kudrinsky",
+        "esbe"
+      ]
+    },
+    {
+      "t": "1812-12-12T12:24:00Z",
+      "title": "Kovno",
+      "body": "About 20,000 men, nearly all without weapons, pour into Kovno; the Guard musters 1,600. The spirit stores are broken open and men lie drunk and freezing in the streets. Most cross the Niemen bridge on the 13th, though the river is frozen hard enough to walk on.",
+      "tags": [
+        "retreat",
+        "attrition"
+      ],
+      "significance": 2,
+      "refs": [
+        "foord",
+        "itinerary",
+        "segur"
+      ]
+    },
+    {
+      "t": "1812-12-14T18:24:00Z",
+      "title": "Ney, last out of Russia",
+      "body": "With a few hundred men Ney holds the Vilna gate of Kovno until dark, musket in hand, then fights his way over the Niemen bridge. Ségur has him reach the Prussian bank at eight in the evening, the last of the army to leave Russian soil. Minard’s chart closes with 10,000 men recrossing, counting the northern wing.",
+      "tags": [
+        "battle",
+        "retreat",
+        "eyewitness"
+      ],
+      "significance": 3,
+      "quote": {
+        "text": "Finally, he was the last of the grand army who quitted that fatal Russia.",
+        "by": "Philippe-Paul de Ségur, aide-de-camp to Napoleon"
+      },
+      "refs": [
+        "segur",
+        "wikipedia"
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "niemen-crossing",
+      "start": "1812-06-24T03:24:00Z",
+      "end": "1812-06-26T18:24:00Z",
+      "kind": "crossing",
+      "title": "Crossing the Niemen"
+    },
+    {
+      "id": "vilna-halt",
+      "start": "1812-06-28T10:21:00Z",
+      "end": "1812-07-16T21:19:00Z",
+      "kind": "encampment",
+      "title": "Eighteen Days at Vilna"
+    },
+    {
+      "id": "vitebsk-halt",
+      "start": "1812-07-28T06:59:00Z",
+      "end": "1812-08-12T23:59:00Z",
+      "kind": "encampment",
+      "title": "The Halt at Vitebsk"
+    },
+    {
+      "id": "smolensk",
+      "start": "1812-08-16T05:53:00Z",
+      "end": "1812-08-19T19:52:00Z",
+      "kind": "battle",
+      "title": "Battle of Smolensk",
+      "narrativeBeats": [
         {
-          "t": "1812-06-24T03:00:00Z",
-          "km": 0,
-          "label": "Headquarters at Vilna"
+          "t": "1812-08-16T05:53:00Z",
+          "text": "Ney’s columns appear before the southern suburbs; a rush at the citadel is beaten off."
         },
         {
-          "t": "1812-06-28T04:00:00Z",
-          "km": 0,
-          "label": "Vilna abandoned"
+          "t": "1812-08-16T10:52:00Z",
+          "text": "Napoleon arrives. The army deploys under cannon fire: Ney on the left, Davout in the centre, Poniatowski on the right."
         },
         {
-          "t": "1812-07-02T12:00:00Z",
-          "km": 84.47,
-          "label": "Sventsiany"
+          "t": "1812-08-16T14:52:00Z",
+          "text": "Both Russian armies appear on the heights across the Dnieper."
         },
         {
-          "t": "1812-07-11T12:00:00Z",
-          "km": 288.24,
-          "label": "The fortified camp at Drissa"
+          "t": "1812-08-17T11:52:00Z",
+          "text": "The Russians will not come out to fight. Napoleon orders the general assault."
         },
         {
-          "t": "1812-07-16T12:00:00Z",
-          "km": 288.24,
-          "label": "Leaving the Drissa camp"
+          "t": "1812-08-17T14:52:00Z",
+          "text": "The suburbs are carried and the defenders driven back to the walls."
         },
         {
-          "t": "1812-07-18T18:00:00Z",
-          "km": 356.45,
-          "label": "Polotsk"
+          "t": "1812-08-17T15:52:00Z",
+          "text": "Twelve-pounders batter the walls; shells set the towers and the town alight."
         },
         {
-          "t": "1812-07-23T12:00:00Z",
-          "km": 457.08,
-          "label": "Vitebsk"
+          "t": "1812-08-17T22:52:00Z",
+          "text": "The Russians abandon the old town and break the bridge behind them."
         },
         {
-          "t": "1812-07-27T20:00:00Z",
-          "km": 457.08,
-          "label": "Slipping away from Vitebsk by night"
+          "t": "1812-08-17T23:52:00Z",
+          "text": "The first French grenadiers climb into the burning city unopposed."
         },
         {
-          "t": "1812-07-31T12:00:00Z",
-          "km": 566.39,
-          "label": "Porechye"
+          "t": "1812-08-19T08:52:00Z",
+          "text": "East of the city, Ney runs into the Russian rearguard on the Moscow road at Valutino."
         },
         {
-          "t": "1812-08-03T12:00:00Z",
-          "km": 644.44,
-          "label": "The two Russian armies unite at Smolensk"
+          "t": "1812-08-19T14:52:00Z",
+          "text": "Ney’s main attack at Valutino is thrown back; Junot, on the Russian flank, will not move."
         },
         {
-          "t": "1812-08-18T02:00:00Z",
-          "km": 644.44,
-          "label": "Abandoning burning Smolensk"
+          "t": "1812-08-19T19:52:00Z",
+          "text": "Firing dies out. The Russians march off east in good order."
+        }
+      ]
+    },
+    {
+      "id": "borodino",
+      "start": "1812-09-05T11:37:00Z",
+      "end": "1812-09-07T19:37:00Z",
+      "kind": "battle",
+      "title": "Battle of Borodino",
+      "narrativeBeats": [
+        {
+          "t": "1812-09-05T11:37:00Z",
+          "text": "The advance guard sights the Russian army behind the Kolocha, with a redoubt out in front of its left."
         },
         {
-          "t": "1812-08-19T10:00:00Z",
-          "km": 677.39,
-          "label": "Rearguard action at Valutino"
+          "t": "1812-09-05T14:37:00Z",
+          "text": "Compans storms the Shevardino redoubt; it is taken, lost and assaulted again."
         },
         {
-          "t": "1812-08-24T12:00:00Z",
-          "km": 751.99,
-          "label": "Dorogobuzh"
+          "t": "1812-09-05T20:37:00Z",
+          "text": "The Russians give up Shevardino and fall back on their main line."
         },
         {
-          "t": "1812-08-27T12:00:00Z",
-          "km": 838.6,
-          "label": "Vyazma"
+          "t": "1812-09-05T23:37:00Z",
+          "text": "A day of reconnaissance. Both armies wait."
         },
         {
-          "t": "1812-08-29T12:00:00Z",
-          "km": 889.02,
-          "label": "Tsarevo-Zaimishche — Kutuzov takes command"
+          "t": "1812-09-06T23:37:00Z",
+          "text": "Napoleon dictates the proclamation to be read to the troops at dawn."
         },
         {
-          "t": "1812-09-01T12:00:00Z",
-          "km": 919.75,
-          "label": "Gzhatsk"
+          "t": "1812-09-07T03:07:00Z",
+          "text": "Sunrise, cloudless after a day of rain."
         },
         {
-          "t": "1812-09-03T18:00:00Z",
-          "km": 984.38,
-          "label": "Taking position at Borodino"
+          "t": "1812-09-07T03:37:00Z",
+          "text": "The guns open. Borodino village is taken in the mist; Davout goes in against the flèches."
         },
         {
-          "t": "1812-09-08T02:00:00Z",
-          "km": 984.38,
-          "label": "Withdrawing from Borodino"
+          "t": "1812-09-07T05:07:00Z",
+          "text": "The flèches change hands again and again at bayonet point."
         },
         {
-          "t": "1812-09-09T06:00:00Z",
-          "km": 999.56,
-          "label": "Mozhaisk"
+          "t": "1812-09-07T07:37:00Z",
+          "text": "The flèches are French. Bagration is carried from the field, wounded."
         },
         {
-          "t": "1812-09-13T16:00:00Z",
-          "km": 1100.7,
-          "label": "The council of war at Fili"
+          "t": "1812-09-07T09:37:00Z",
+          "text": "Russian cavalry appears behind the French left; the assault on the great redoubt is put off."
         },
         {
-          "t": "1812-09-14T10:00:00Z",
-          "km": 1111.01,
-          "label": "Marching out through Moscow"
+          "t": "1812-09-07T11:37:00Z",
+          "text": "Three divisions and massed cavalry go in against the Raevsky redoubt."
         },
         {
-          "t": "1812-09-17T12:00:00Z",
-          "km": 1151.68,
-          "label": "The Borovsk ferry — turning off the Ryazan road"
+          "t": "1812-09-07T13:07:00Z",
+          "text": "The great redoubt falls. Napoleon will not send in the Guard."
         },
         {
-          "t": "1812-09-19T12:00:00Z",
-          "km": 1184.15,
-          "label": "Podolsk"
+          "t": "1812-09-07T15:37:00Z",
+          "text": "The cannonade slackens. Both armies stand where they are among the dead."
+        }
+      ]
+    },
+    {
+      "id": "moscow-occupation",
+      "start": "1812-09-14T11:30:00Z",
+      "end": "1812-10-19T04:30:00Z",
+      "kind": "encampment",
+      "title": "The Occupation of Moscow",
+      "narrativeBeats": [
+        {
+          "t": "1812-09-14T11:30:00Z",
+          "text": "Napoleon waits on Poklonnaya Hill for a deputation that never comes."
         },
         {
-          "t": "1812-09-21T12:00:00Z",
-          "km": 1206.79,
-          "label": "Krasnaya Pakhra"
+          "t": "1812-09-14T17:30:00Z",
+          "text": "The first scattered fires break out in the evening."
         },
         {
-          "t": "1812-10-03T12:00:00Z",
-          "km": 1249.99,
-          "label": "The Tarutino camp"
+          "t": "1812-09-15T07:30:00Z",
+          "text": "Napoleon is installed in the Kremlin."
         },
         {
-          "t": "1812-10-23T18:00:00Z",
-          "km": 1249.99,
-          "label": "Leaving Tarutino"
+          "t": "1812-09-15T20:00:00Z",
+          "text": "A rising wind drives the fires together through the wooden quarters."
         },
         {
-          "t": "1812-10-24T10:00:00Z",
-          "km": 1291.98,
-          "label": "Blocking the road at Maloyaroslavets"
+          "t": "1812-09-16T01:30:00Z",
+          "text": "The firestorm threatens the Kremlin."
         },
         {
-          "t": "1812-10-27T12:00:00Z",
-          "km": 1349.61,
-          "label": "Polotnyany Zavod"
+          "t": "1812-09-16T15:00:00Z",
+          "text": "Napoleon leaves the Kremlin for the Petrovsky Palace, outside the city."
         },
         {
-          "t": "1812-10-30T12:00:00Z",
-          "km": 1383.28,
-          "label": "Medyn — the parallel pursuit begins"
+          "t": "1812-09-17T05:30:00Z",
+          "text": "Moscow burns all day."
         },
         {
-          "t": "1812-11-03T12:00:00Z",
-          "km": 1517.11,
-          "label": "South of Vyazma"
+          "t": "1812-09-18T08:30:00Z",
+          "text": "Rain. The fire settles with nearly three-quarters of the city’s houses gone; Napoleon returns to the Kremlin."
         },
         {
-          "t": "1812-11-08T12:00:00Z",
-          "km": 1669.05,
-          "label": "Yelnya"
+          "t": "1812-09-20T09:30:00Z",
+          "text": "Napoleon writes to the Tsar. No answer comes."
         },
         {
-          "t": "1812-11-16T12:00:00Z",
-          "km": 1815.51,
-          "label": "Battle of Krasny"
+          "t": "1812-10-05T09:30:00Z",
+          "text": "Lauriston is sent to Kutuzov to open talks. Kutuzov says he has no power to treat."
         },
         {
-          "t": "1812-11-19T12:00:00Z",
-          "km": 1815.51,
-          "label": "Resting after Krasny"
+          "t": "1812-10-13T05:30:00Z",
+          "text": "A first light snow falls, and melts."
         },
         {
-          "t": "1812-11-25T12:00:00Z",
-          "km": 1928.98,
-          "label": "Kopys — crossing the Dnieper"
+          "t": "1812-10-18T09:30:00Z",
+          "text": "News that Murat has been surprised at Vinkovo. The army will march tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "maloyaroslavets",
+      "start": "1812-10-24T02:34:00Z",
+      "end": "1812-10-25T05:34:00Z",
+      "kind": "battle",
+      "title": "Battle of Maloyaroslavets",
+      "narrativeBeats": [
+        {
+          "t": "1812-10-24T02:34:00Z",
+          "text": "Dokhturov’s Jägers drive the French to the edge of the town."
         },
         {
-          "t": "1812-12-01T12:00:00Z",
-          "km": 2052.81,
-          "label": "Crossing the Berezina far to the south"
+          "t": "1812-10-24T08:34:00Z",
+          "text": "Eugène’s corps retakes it; Delzons is killed leading a counter-attack."
         },
         {
-          "t": "1812-12-07T12:00:00Z",
-          "km": 2204.33,
-          "label": "Radoshkovichi"
+          "t": "1812-10-24T10:04:00Z",
+          "text": "Raevsky’s division storms the town again."
         },
         {
-          "t": "1812-12-12T12:00:00Z",
-          "km": 2376.92,
-          "label": "Kutuzov enters Vilna"
+          "t": "1812-10-24T13:34:00Z",
+          "text": "Kutuzov’s main army arrives and forms across the Kaluga road."
         },
         {
-          "t": "1812-12-14T12:00:00Z",
-          "km": 2376.92,
-          "label": "Vilna"
+          "t": "1812-10-24T19:34:00Z",
+          "text": "The gunfire dies away. The ruins are French, after changing hands eight times."
+        },
+        {
+          "t": "1812-10-25T03:34:00Z",
+          "text": "At daybreak Cossacks nearly capture Napoleon near Gorodnya."
+        }
+      ]
+    },
+    {
+      "id": "vyazma",
+      "start": "1812-11-03T05:44:00Z",
+      "end": "1812-11-03T17:45:00Z",
+      "kind": "battle",
+      "title": "Battle of Vyazma",
+      "narrativeBeats": [
+        {
+          "t": "1812-11-03T05:44:00Z",
+          "text": "A march behind headquarters, Miloradovich cuts the road east of Vyazma and severs Davout from the army."
+        },
+        {
+          "t": "1812-11-03T07:44:00Z",
+          "text": "Eugène and the Poles turn back and reopen the road."
+        },
+        {
+          "t": "1812-11-03T11:45:00Z",
+          "text": "The three corps fall back into Vyazma."
+        },
+        {
+          "t": "1812-11-03T13:45:00Z",
+          "text": "Fighting street by street in the burning town."
+        },
+        {
+          "t": "1812-11-03T17:45:00Z",
+          "text": "Firing ends. Ney takes over the rearguard."
+        }
+      ]
+    },
+    {
+      "id": "krasny",
+      "start": "1812-11-15T12:54:00Z",
+      "end": "1812-11-18T18:57:00Z",
+      "kind": "battle",
+      "title": "Battle of Krasny",
+      "narrativeBeats": [
+        {
+          "t": "1812-11-15T12:54:00Z",
+          "text": "Napoleon and the Guard enter Krasny under cannon fire from south of the road."
+        },
+        {
+          "t": "1812-11-15T20:54:00Z",
+          "text": "The Young Guard surprises a Russian camp in the night and scatters it."
+        },
+        {
+          "t": "1812-11-16T11:54:00Z",
+          "text": "Eugène is barred at the Losvinka ravine and loses his guns; he slips round after dark."
+        },
+        {
+          "t": "1812-11-17T02:54:00Z",
+          "text": "The Guard marches back east to open the road for Davout."
+        },
+        {
+          "t": "1812-11-17T06:54:00Z",
+          "text": "Davout comes into line with the Guard."
+        },
+        {
+          "t": "1812-11-17T08:54:00Z",
+          "text": "Napoleon orders the Old Guard back on Lyady."
+        },
+        {
+          "t": "1812-11-17T12:54:00Z",
+          "text": "The Russians take Krasny. Ney is still two marches behind."
+        },
+        {
+          "t": "1812-11-18T12:55:00Z",
+          "text": "Ney reaches the Losvinka, refuses to surrender, attacks and is shattered."
+        },
+        {
+          "t": "1812-11-18T18:57:00Z",
+          "text": "Ney turns north for the Dnieper and crosses on the ice in the night."
+        }
+      ]
+    },
+    {
+      "id": "berezina",
+      "start": "1812-11-25T20:06:00Z",
+      "end": "1812-11-29T07:37:00Z",
+      "kind": "crossing",
+      "title": "Crossing of the Berezina",
+      "narrativeBeats": [
+        {
+          "t": "1812-11-25T20:06:00Z",
+          "text": "The pontonniers reach Studianka and start pulling down the village for timber."
+        },
+        {
+          "t": "1812-11-26T06:07:00Z",
+          "text": "The first trestle goes into the river. Cavalry fords to hold the far bank."
+        },
+        {
+          "t": "1812-11-26T11:07:00Z",
+          "text": "The infantry bridge is finished. Oudinot’s corps crosses at once."
+        },
+        {
+          "t": "1812-11-26T14:07:00Z",
+          "text": "The artillery bridge is finished; the guns begin to cross."
+        },
+        {
+          "t": "1812-11-26T18:07:00Z",
+          "text": "Three trestles of the artillery bridge give way. The pontonniers go back into the water."
+        },
+        {
+          "t": "1812-11-27T00:07:00Z",
+          "text": "The artillery bridge breaks again; repaired by six."
+        },
+        {
+          "t": "1812-11-27T11:07:00Z",
+          "text": "Napoleon crosses with headquarters and the Guard."
+        },
+        {
+          "t": "1812-11-27T18:07:00Z",
+          "text": "Eugène and Davout begin crossing in the dark."
+        },
+        {
+          "t": "1812-11-28T06:07:00Z",
+          "text": "The Russians attack on both banks at once."
+        },
+        {
+          "t": "1812-11-28T11:07:00Z",
+          "text": "Russian guns reach the bridges and the crowd jammed in front of them."
+        },
+        {
+          "t": "1812-11-28T19:07:00Z",
+          "text": "Victor’s rearguard is ordered over."
+        },
+        {
+          "t": "1812-11-28T23:07:00Z",
+          "text": "Victor’s corps is across. Thousands of stragglers stay by their fires on the east bank."
+        },
+        {
+          "t": "1812-11-29T06:37:00Z",
+          "text": "The bridges are fired."
+        }
+      ]
+    },
+    {
+      "id": "vilna-collapse",
+      "start": "1812-12-08T12:17:00Z",
+      "end": "1812-12-10T08:19:00Z",
+      "kind": "encampment",
+      "title": "Collapse at Vilna",
+      "narrativeBeats": [
+        {
+          "t": "1812-12-08T12:17:00Z",
+          "text": "Headquarters reaches Vilna and its full magazines."
+        },
+        {
+          "t": "1812-12-09T06:19:00Z",
+          "text": "The mass of the column jams a single gate for hours in the cold; the stores are broken open."
+        },
+        {
+          "t": "1812-12-10T02:19:00Z",
+          "text": "Murat has gone in the night. Ney’s rearguard leaves with Cossacks already in the streets."
+        },
+        {
+          "t": "1812-12-10T06:19:00Z",
+          "text": "On the iced slope of Ponari the last guns and the pay chests are abandoned."
         }
       ]
     }
+  ],
+  "conditions": [
+    {
+      "start": "1812-06-23T22:24:00Z",
+      "end": "1812-06-28T10:21:00Z",
+      "activityKey": "march",
+      "label": "Advancing into Lithuania",
+      "weather": "Stifling heat"
+    },
+    {
+      "start": "1812-06-28T10:21:00Z",
+      "end": "1812-07-16T21:19:00Z",
+      "activityKey": "camp",
+      "label": "Headquarters at Vilna",
+      "weather": "Storms, then heat again"
+    },
+    {
+      "start": "1812-07-16T21:19:00Z",
+      "end": "1812-07-28T06:59:00Z",
+      "activityKey": "march",
+      "label": "Marching on Vitebsk",
+      "weather": "Heat and dust"
+    },
+    {
+      "start": "1812-07-28T06:59:00Z",
+      "end": "1812-08-12T23:59:00Z",
+      "activityKey": "camp",
+      "label": "Headquarters at Vitebsk",
+      "weather": "High summer"
+    },
+    {
+      "start": "1812-08-12T23:59:00Z",
+      "end": "1812-08-16T05:53:00Z",
+      "activityKey": "march",
+      "label": "The manoeuvre on Smolensk",
+      "weather": "Fine weather"
+    },
+    {
+      "start": "1812-08-16T05:53:00Z",
+      "end": "1812-08-19T19:52:00Z",
+      "activityKey": "battle",
+      "label": "The battle for Smolensk",
+      "weather": "Fine August days"
+    },
+    {
+      "start": "1812-08-19T19:52:00Z",
+      "end": "1812-08-24T18:52:00Z",
+      "activityKey": "camp",
+      "label": "In the ruins of Smolensk",
+      "weather": "Late summer"
+    },
+    {
+      "start": "1812-08-24T18:52:00Z",
+      "end": "1812-09-05T11:37:00Z",
+      "activityKey": "march",
+      "label": "The road to Moscow",
+      "weather": "Dust, then the first rain"
+    },
+    {
+      "start": "1812-09-05T11:37:00Z",
+      "end": "1812-09-08T13:37:00Z",
+      "activityKey": "battle",
+      "label": "Borodino",
+      "weather": "Cold nights, a clear morning"
+    },
+    {
+      "start": "1812-09-08T13:37:00Z",
+      "end": "1812-09-14T11:30:00Z",
+      "activityKey": "march",
+      "label": "The last marches to Moscow",
+      "weather": "The first chill of autumn"
+    },
+    {
+      "start": "1812-09-14T11:30:00Z",
+      "end": "1812-10-19T04:30:00Z",
+      "activityKey": "camp",
+      "label": "In Moscow",
+      "weather": "A mild autumn"
+    },
+    {
+      "start": "1812-10-19T04:30:00Z",
+      "end": "1812-10-26T06:34:00Z",
+      "activityKey": "march",
+      "label": "South toward Kaluga",
+      "weather": "Rain and mud"
+    },
+    {
+      "start": "1812-10-26T06:34:00Z",
+      "end": "1812-11-06T06:47:00Z",
+      "activityKey": "retreat",
+      "label": "Retreat along the Smolensk road",
+      "weather": "Clear days, night frosts"
+    },
+    {
+      "start": "1812-11-06T06:47:00Z",
+      "end": "1812-11-17T14:55:00Z",
+      "activityKey": "retreat",
+      "label": "Retreat in the snow",
+      "weather": "Snow and hard frost"
+    },
+    {
+      "start": "1812-11-17T14:55:00Z",
+      "end": "1812-11-25T20:06:00Z",
+      "activityKey": "retreat",
+      "label": "Retreat toward the Berezina",
+      "weather": "Thaw, slush and fog"
+    },
+    {
+      "start": "1812-11-25T20:06:00Z",
+      "end": "1812-11-29T07:37:00Z",
+      "activityKey": "disaster",
+      "label": "The Berezina",
+      "weather": "The frost returning"
+    },
+    {
+      "start": "1812-11-29T07:37:00Z",
+      "end": "1812-12-14T21:24:00Z",
+      "activityKey": "disaster",
+      "label": "The final collapse",
+      "weather": "Extreme cold"
+    }
+  ],
+  "labelsOverlay": "labels.geojson",
+  "attribution": [
+    "Army strength and retreat temperatures after C. J. Minard, Carte figurative (1869) — public domain.",
+    "Quotations from Ségur are from the anonymous English translation of 1825 — public domain. Other quotations are translated here from public-domain originals.",
+    "Base geography © OpenStreetMap contributors, tiles by OpenFreeMap. Road geometry from OSRM."
+  ],
+  "sources": [],
+  "bibliography": [
+    {
+      "id": "bulletins",
+      "short": "Bulletins",
+      "citation": "Napoléon, Bulletins de la Grande Armée, 1812 (Œuvres de Napoléon Bonaparte, vol. V).",
+      "url": "https://www.gutenberg.org/ebooks/13475"
+    },
+    {
+      "id": "itinerary",
+      "short": "Itinerary",
+      "citation": "Napoleon's itinerary in the Russian campaign, day by day (napoleon-empire.org).",
+      "url": "https://www.napoleon-empire.org/en/battles/campaign-russia-1812-day-by-day.php"
+    },
+    {
+      "id": "segur",
+      "short": "Ségur",
+      "citation": "Philippe-Paul de Ségur, History of the Expedition to Russia (1824; English translation 1825).",
+      "url": "https://www.gutenberg.org/ebooks/18113"
+    },
+    {
+      "id": "caulaincourt",
+      "short": "Caulaincourt",
+      "citation": "Armand de Caulaincourt, With Napoleon in Russia (memoirs, ed. Jean Hanoteau).",
+      "url": "https://archive.org/details/in.ernet.dli.2015.58850"
+    },
+    {
+      "id": "clausewitz",
+      "short": "Clausewitz",
+      "citation": "Carl von Clausewitz, The Campaign of 1812 in Russia (Ellesmere translation, 1843).",
+      "url": "https://www.clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf"
+    },
+    {
+      "id": "minard",
+      "short": "Minard",
+      "citation": "Charles Joseph Minard, Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812–1813 (1869), as transcribed in the HistData dataset."
+    },
+    {
+      "id": "foord",
+      "short": "Foord",
+      "citation": "Edward Foord, Napoleon's Russian Campaign of 1812 (1914).",
+      "url": "https://www.gutenberg.org/ebooks/57185"
+    },
+    {
+      "id": "chronicle",
+      "short": "Saratov chronicle",
+      "citation": "Day-by-day chronicle of the war of 1812, Saratov State Museum of Military Glory (in Russian).",
+      "url": "https://www.sargmbs.ru/1707"
+    },
+    {
+      "id": "kudrinsky",
+      "short": "Kudrinsky",
+      "citation": "F. A. Kudrinsky, Vilna in 1812 (1912; in Russian)."
+    },
+    {
+      "id": "esbe",
+      "short": "Brockhaus–Efron",
+      "citation": "\"The Patriotic War of 1812\", Brockhaus and Efron Encyclopedic Dictionary (in Russian)."
+    },
+    {
+      "id": "fondation",
+      "short": "Fondation Napoléon",
+      "citation": "Fondation Napoléon, timelines of the Russian campaign (napoleon.org).",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-the-retreat/"
+    },
+    {
+      "id": "rickard",
+      "short": "Rickard",
+      "citation": "J. Rickard, articles on the battles of 1812 (historyofwar.org).",
+      "url": "https://www.historyofwar.org/articles/battles_borodino.html"
+    },
+    {
+      "id": "zamoyski",
+      "short": "Zamoyski",
+      "citation": "Adam Zamoyski, 1812: Napoleon's Fatal March on Moscow (2004)."
+    },
+    {
+      "id": "wikipedia",
+      "short": "Wikipedia",
+      "citation": "Wikipedia articles on the campaign and its battles (English, French, Russian, German), and the scholarship they cite: Riehn, Mikaberidze, Chandler, Troitsky, Bodart.",
+      "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    }
+  ],
+  "notes": [
+    "All dates are New Style (Gregorian). Clock times are local mean time; where no source gives an hour, a plausible time of day is used.",
+    "The Grande Armée marker follows Napoleon's own headquarters, and after he left on 5 December the main column under Murat. Other corps, flank forces and rearguards were often days away from it.",
+    "Headquarters dates rest on Napoleon's Bulletins and a day-by-day itinerary, checked against each other. A few minor night stops are known from a single source, and several small villages are placed approximately.",
+    "The Russian marker follows the main army's headquarters. Its dates come chiefly from one day-by-day chronicle, cross-checked where possible; sources differ on whether Kutuzov reached Vilna on 11 or 12 December.",
+    "Army strength is men under arms with the main column, pieced together from Minard's chart, the 2 September roll call and later historians. Sources disagree widely: 90,000 to 100,000 entering Moscow; anywhere from 24,000 to 60,000 at Smolensk in November, depending on whether unarmed stragglers are counted.",
+    "Russian strength counts regular troops only, not Cossacks or militia.",
+    "Temperatures from 18 October are Minard's readings (converted from Réaumur) and eyewitness figures. Before then they are seasonal estimates, not measurements. The −37.5 °C of 6 December is Minard's figure; other accounts give about −30 °C for that day.",
+    "Routes follow today's roads as a stand-in for those of 1812."
   ]
 }

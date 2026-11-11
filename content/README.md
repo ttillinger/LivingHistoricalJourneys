@@ -13,6 +13,7 @@ content/
 │       ├── routes/*.geojson    # GENERATED route geometry per track                ─┘ outputs
 │       ├── roads.json          # traced road geometry per leg (`pnpm trace <slug>`) ─┤
 │       ├── labels.json         # period place names drawn over the map            ─┘
+│       ├── research/           # sourced research notes behind the content
 │       ├── bundle.json         # GENERATED app bundle (manifest + routes + labels)
 │       └── scenes/             # scene manifest + curated stills (Phase 5)
 ├── map-styles/                 # MapLibre style JSONs (modern, atlas, period)
@@ -46,7 +47,12 @@ build on any schema violation.
 ## Authoring rules (from HANDOFF.md §14)
 
 - Content changes **bump `version`**; never mutate a version once a run references it.
-- Every map raster, scene image, and quoted text gets a line in an `ATTRIBUTION.md`
-  with source + license **before merge**.
+- Every map raster, scene image, and quoted text gets a source and licence line
+  **before merge** — in the journey's `attribution` (shown in the app's Sources panel).
+- Every moment cites the works it rests on: `refs` are ids into the journey's
+  `bibliography`, and `pnpm validate:content` fails on an id that does not resolve.
+- Timestamps are UTC written from **local mean time** (UTC + 4 minutes per degree of
+  longitude east); see `journeys/napoleon-1812/README.md`.
+- A track with a `dailyRhythm` marches only between those local hours.
 - Routes are dense LineStrings (200+ vertices for the flagship); the schedule
   (time → km) is authored separately from the geometry.

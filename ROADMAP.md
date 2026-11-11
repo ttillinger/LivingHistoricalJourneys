@@ -25,12 +25,12 @@ its hosting assumptions (§3, §15)**, for two reasons found in November 2026:
   from OSRM and committed), night falling at the army's position, local mean time,
   strength with its daily loss, a timeline with episodes marked, a live link
   (`?began=`) that needs no account, a wall-display link (`&frame=1`), a new title page.
-- [ ] **R2 — Napoleon to the content bar** (HANDOFF §12). A research session with web
-  sources, not an engineering one. 60–100 moments; daily-resolution schedule; strength
-  for both armies reconciled with modern scholarship; every date and place checked
-  (the Russian track's dates and several French ones were written from memory in R1 and
-  are the least trustworthy thing on the site); sources and attribution shown in-app.
-  Engine: honour `dailyRhythm` so the army halts at night instead of creeping through it.
+- [x] **R2 — Napoleon to the content bar** (2026-11-10). Four research passes with web
+  sources replaced the from-memory content: Napoleon's headquarters stop by stop,
+  the Russian main army's, 122 cited moments, strength and temperature keyframes
+  tied to named sources, timed beats for every battle, and a Sources panel in the
+  viewer with the caveats in plain words. The engine honours `dailyRhythm`. What is
+  still soft is listed in `content/journeys/napoleon-1812/README.md`.
 - [ ] **R3 — Frame mode proper** (HANDOFF §8). `/frame` route, layout presets
   (map-dominant, scene-dominant, moment, chapter), director camera, burn-in drift,
   portrait, a 24-hour unattended soak. Candidate signature: draw the travelled route
@@ -77,6 +77,21 @@ pnpm test:e2e      # Playwright; needs `pnpm start` or will launch it
 `pnpm typecheck` does not cover `apps/web`; `pnpm build` does.
 
 ## Log
+
+- **2026-11-10 — R2.** Found: the from-memory schedule had Napoleon marching
+  continuously where he sat 18 days in Vilna and 15 in Vitebsk; put him at Vyazma on
+  the day of the battle (he was a march ahead); had him in the Kremlin a day early;
+  and put Ney's fight at Krasny two days early. Its strength curve matched no source,
+  and was flat through the Moscow stay, when the army grew. All clock times were
+  written as if UTC were local time, so every dawn attack showed two hours late.
+  DECISION: the Grande Armée marker is Napoleon's headquarters (the best-documented
+  point in the army), then Murat's column after 5 December. DECISION: strength follows
+  Minard's central column (340,000 at the Niemen, not his 422,000 for the whole army)
+  with the 2 September roll call and later historians where they are better; the
+  marker ends at 4,000 at Kovno, and the last moment gives Minard's 10,000. DECISION:
+  moments cite works, not URLs (`refs` → `bibliography`); the URLs are in `research/`.
+  DECISION: eyewitness quotes only from public-domain translations or translated
+  here; three quotes available only in a modern translation were left out.
 
 - **2026-11-09 — R0, R1.** Found: the July viewer's map collapsed to zero height in a
   production build (MapLibre's own CSS overrode the container's positioning), so the
