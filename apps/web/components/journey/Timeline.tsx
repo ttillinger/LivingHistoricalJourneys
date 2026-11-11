@@ -36,6 +36,7 @@ export function Timeline({
   onSetRate,
   onSetStyle,
   onOverview,
+  onFollowLive,
   onSources,
 }: {
   journey: LoadedJourney;
@@ -48,6 +49,7 @@ export function Timeline({
   onSetRate: (rate: number) => void;
   onSetStyle: (id: StyleId) => void;
   onOverview: () => void;
+  onFollowLive: () => void;
   onSources: () => void;
 }) {
   const { startMs, endMs } = journey;
@@ -136,6 +138,9 @@ export function Timeline({
           className="text-ink-soft hover:text-ink"
         >
           {MAP_STYLES[nextStyle].label}
+        </button>
+        <button type="button" onClick={onFollowLive} className="text-ink-soft hover:text-ink">
+          Real-time start
         </button>
         <button type="button" onClick={onSources} className="text-ink-soft hover:text-ink">
           Sources

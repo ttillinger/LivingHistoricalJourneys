@@ -1,8 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-// A crash in the page shows up in a test only as "element not found". Print the real
-// error, so a failure that will not reproduce (two so far, both on a slow first run
-// after a build, both after switching tracks in Napoleon) at least names itself.
+// A crash in the page shows up in a test only as "element not found": print the real error.
 test.beforeEach(async ({ page }) => {
   page.on("pageerror", (e) =>
     console.log("PAGE ERROR:", e.message, (e.stack ?? "").replace(/\s+/g, " ").slice(0, 900)),
@@ -123,4 +121,48 @@ test("Rubruck viewer opens on the debate at Karakorum", async ({ page }) => {
   await expect(
     page.getByRole("dialog", { name: "Sources" }).getByText(/rests on one man/),
   ).toBeVisible();
+});
+
+test("a live run can keep the journey's own calendar or set out on a chosen day", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "Follow the march in real time" }).click();
+  const dialog = page.getByRole("dialog", { name: "Follow in real time" });
+
+  // The campaign set out on 24 June: on its own calendar a run begins that day.
+  await dialog.getByRole("button", { name: /Keep its own calendar/ }).click();
+  await expect(page).toHaveURL(/began=/);
+  await expect(page.getByText(/Live · as it happened|Sets out on 24 June/)).toBeVisible();
+
+  // From inside the viewer, move the start to a day ten days back.
+  await page.getByRole("button", { name: "Real-time start" }).click();
+  const d = new Date(Date.now() - 10 * 86_400_000);
+  const two = (n: number) => String(n).padStart(2, "0");
+  const tenDaysAgo = `${d.getFullYear()}-${two(d.getMonth() + 1)}-${two(d.getDate())}`;
+  await page.getByLabel("Set out on a day you choose").fill(tenDaysAgo);
+  await page.getByRole("button", { name: "Begin", exact: true }).click();
+  await expect(page.getByText(/^Day 1[01]$/)).toBeVisible();
+  await expect(page.getByText(`Live · set out ${d.getDate()} `, { exact: false })).toBeVisible();
+});
+
+test("a lost graphics context does not take the page down", async ({ page }) => {
+  await page.goto("/viewer/napoleon-1812?t=1812-09-07T08:00:00Z");
+  const canvas = page.locator("canvas.maplibregl-canvas");
+  await expect(canvas).toBeVisible();
+  await expect(page.getByText("Army strength")).toBeVisible();
+
+  // A browser under strain does this by itself; the map has no style until it recovers.
+  await canvas.evaluate((el) => {
+    const c = el as HTMLCanvasElement;
+    const gl = (c.getContext("webgl2") ?? c.getContext("webgl")) as WebGLRenderingContext;
+    gl.getExtension("WEBGL_lose_context")!.loseContext();
+  });
+  await page.waitForTimeout(300);
+
+  await page.getByRole("button", { name: "Follow Russian Army" }).click();
+  await expect(page.getByRole("button", { name: "Follow Russian Army" })).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
 });

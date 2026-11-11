@@ -57,3 +57,44 @@ export function rateToFinishBy(
   if (remainingReal <= 0) return Infinity;
   return remainingVirtual / remainingReal;
 }
+
+/**
+ * The journey's opening instant moved onto a real-world calendar day, keeping its
+ * hour — the real start of a live run that "sets out" on that day. The day is the
+ * reader's own (their time zone), so the date on screen is the date on their wall.
+ */
+export function startOnDay(
+  journeyStartMs: number,
+  year: number,
+  monthIndex: number,
+  day: number,
+): number {
+  const s = new Date(journeyStartMs);
+  return new Date(
+    year,
+    monthIndex,
+    day,
+    s.getUTCHours(),
+    s.getUTCMinutes(),
+    s.getUTCSeconds(),
+  ).getTime();
+}
+
+/**
+ * The real start that keeps a live run on the journey's own calendar: the latest
+ * anniversary of its opening, so that today shows this day of the year as it was
+ * then. If that run would already be over, the next anniversary, still to come.
+ * (A 29 February on one side only puts the two calendars a day apart from then on.)
+ */
+export function anniversaryStart(
+  journeyStartMs: number,
+  journeyEndMs: number,
+  nowMs: number,
+): number {
+  const s = new Date(journeyStartMs);
+  const onYear = (year: number) => startOnDay(journeyStartMs, year, s.getUTCMonth(), s.getUTCDate());
+  let year = new Date(nowMs).getFullYear();
+  if (onYear(year) > nowMs) year -= 1;
+  if (onYear(year) + (journeyEndMs - journeyStartMs) <= nowMs) year += 1;
+  return onYear(year);
+}

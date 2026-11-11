@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getJourneyBundle, journeyList } from "@living-journeys/content";
 import type { Coord } from "@living-journeys/engine";
-import { BeginLiveLink } from "@/components/journey/BeginLiveLink";
+import { LiveStartLink } from "@/components/journey/LiveStart";
 
 const FLAGSHIP = "napoleon-1812";
 /** Journeys rebuilt to the flagship's standard, in the order they are offered. */
@@ -99,7 +99,12 @@ function JourneyCard({ slug }: { slug: string }) {
         >
           Watch the journey
         </Link>
-        <BeginLiveLink slug={slug} label="Begin it today, in real time →" />
+        <LiveStartLink
+          slug={slug}
+          start={manifest.time.start}
+          end={manifest.time.end}
+          label="Follow it in real time →"
+        />
       </div>
     </div>
   );
@@ -184,7 +189,12 @@ export default function HomePage() {
               >
                 Watch the campaign
               </Link>
-              <BeginLiveLink slug={FLAGSHIP} />
+              <LiveStartLink
+                slug={FLAGSHIP}
+                start={flagship.manifest.time.start}
+                end={flagship.manifest.time.end}
+                label="Follow the march in real time →"
+              />
             </div>
           </div>
         </section>

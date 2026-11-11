@@ -92,6 +92,8 @@ export default function JourneyMap({
     };
 
     // Route overlays live in the style, so they are re-added after every style load.
+    // After a lost graphics context the map restores the style with them still in it,
+    // so each is added only if it is missing.
     const installOverlays = () => {
       // Primary track last, so it is drawn on top.
       const ordered = [...tracks].sort(
@@ -100,6 +102,7 @@ export default function JourneyMap({
       for (const track of ordered) {
         const id = track.def.id;
         const color = track.def.color ?? "#9c3524";
+        if (map.getSource(`route-${id}`)) continue;
         map.addSource(`route-${id}`, { type: "geojson", data: line(track.route.coords) });
         map.addSource(`past-${id}`, { type: "geojson", data: line([track.route.coords[0]!]) });
         map.addLayer({
@@ -134,6 +137,12 @@ export default function JourneyMap({
     };
 
     map.on("style.load", installOverlays);
+    // A browser under strain can take the graphics context away. The map then has no
+    // style until the context comes back, and asking it for a source would throw and
+    // take the whole page down — on a display meant to run for months.
+    map.on("webglcontextlost", () => {
+      overlaysReady.current = false;
+    });
     map.on("dragstart", () => onBreakFollowRef.current());
 
     // Markers: one per track.

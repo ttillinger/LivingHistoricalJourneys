@@ -3,6 +3,8 @@ import {
   virtualNow,
   reanchor,
   rateToFinishBy,
+  anniversaryStart,
+  startOnDay,
   type ClockState,
 } from "../src/clock";
 
@@ -74,5 +76,36 @@ describe("rateToFinishBy", () => {
 
   it("returns Infinity when the target is not in the future", () => {
     expect(rateToFinishBy(base, 5000, 10_000, 5000)).toBe(Infinity);
+  });
+});
+
+describe("anniversaryStart", () => {
+  const start = Date.parse("1812-06-24T03:00:00Z");
+  const end = Date.parse("1812-12-14T18:24:00Z");
+  // Real-world days are the reader's own, so these read in the machine's time zone.
+  const local = (y: number, m: number, d: number, h = 0) => new Date(y, m - 1, d, h).getTime();
+  const utcDay = (ms: number) => new Date(ms).toISOString().slice(0, 10);
+
+  it("puts a run under way on the same day of the year as the journey", () => {
+    const now = local(2026, 11, 11, 15);
+    const began = anniversaryStart(start, end, now);
+    expect(began).toBe(local(2026, 6, 24, 3));
+    // Today reads as 11 November 1812.
+    expect(utcDay(start + (now - began))).toBe("1812-11-11");
+  });
+
+  it("waits for the next anniversary once this year's run would be over", () => {
+    expect(anniversaryStart(start, end, local(2026, 12, 20))).toBe(local(2027, 6, 24, 3));
+  });
+
+  it("looks back a year when the anniversary has not come round yet", () => {
+    // A journey of nearly two years that set out in October is still going in March.
+    const s = Date.parse("1914-10-26T12:00:00Z");
+    const e = Date.parse("1916-09-03T12:00:00Z");
+    expect(anniversaryStart(s, e, local(2027, 3, 1))).toBe(local(2026, 10, 26, 12));
+  });
+
+  it("moves the opening onto a chosen day and keeps its hour", () => {
+    expect(startOnDay(start, 2027, 0, 5)).toBe(local(2027, 1, 5, 3));
   });
 });

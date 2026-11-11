@@ -3,17 +3,19 @@
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { evaluate, loadJourney } from "@living-journeys/engine";
+import { evaluate, loadJourney, startOnDay } from "@living-journeys/engine";
 import type { JourneyBundle } from "@living-journeys/content";
 import {
   PACES,
   dayNumber,
   formatDate,
   formatLocalTime,
+  formatRealDate,
   formatStat,
   statUnit,
 } from "@/lib/format";
 import type { StyleId } from "@/lib/mapStyles";
+import { LiveStartDialog } from "./LiveStart";
 import { Timeline } from "./Timeline";
 import { useJourneyClock, type ClockInit } from "./useJourneyClock";
 
@@ -28,6 +30,22 @@ const WATCH_MS = 12 * 60_000;
 function watchingRate(spanMs: number): number {
   const off = (rate: number) => Math.abs(Math.log(spanMs / rate / WATCH_MS));
   return PACES.reduce((best, p) => (off(p.rate) < off(best.rate) ? p : best)).rate;
+}
+
+/** What a live run says about itself: waiting, under way, or over. */
+function liveNote(startMs: number, endMs: number, beganMs: number, rate: number): string {
+  const now = Date.now();
+  if (beganMs > now) return `Sets out on ${formatRealDate(beganMs)}`;
+  const endsMs = beganMs + (endMs - startMs) / rate;
+  if (endsMs <= now) return `This run ended on ${formatRealDate(endsMs)}`;
+  const began = new Date(beganMs);
+  const start = new Date(startMs);
+  const sameDay =
+    rate === 1 &&
+    startOnDay(startMs, began.getFullYear(), start.getUTCMonth(), start.getUTCDate()) === beganMs;
+  return sameDay
+    ? `Live · as it happened, ${began.getFullYear() - start.getUTCFullYear()} years on`
+    : `Live · set out ${formatRealDate(beganMs)}`;
 }
 
 /**
@@ -64,6 +82,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
   const [overviewNonce, setOverviewNonce] = useState(0);
   const breakFollow = useCallback(() => setFollow(false), []);
   const [showSources, setShowSources] = useState(false);
+  const [showLiveStart, setShowLiveStart] = useState(false);
 
   // Controls step back when nobody is touching anything.
   const [active, setActive] = useState(true);
@@ -312,6 +331,7 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
                 setFollow(false);
                 setOverviewNonce((n) => n + 1);
               }}
+              onFollowLive={() => setShowLiveStart(true)}
               onSources={() => setShowSources(true)}
             />
           </div>
@@ -377,10 +397,18 @@ export default function JourneyViewer({ bundle }: { bundle: JourneyBundle }) {
         </div>
       ) : null}
 
-      {clock.live ? (
-        <div className="caps pointer-events-none absolute left-1/2 top-5 -translate-x-1/2 text-[13px] text-carmine">
-          ● Live · as it happened,{" "}
-          {new Date().getFullYear() - new Date(loaded.startMs).getUTCFullYear()} years on
+      {showLiveStart ? (
+        <LiveStartDialog
+          slug={loaded.manifest.id}
+          startMs={loaded.startMs}
+          endMs={loaded.endMs}
+          onClose={() => setShowLiveStart(false)}
+        />
+      ) : null}
+
+      {clock.live && link.init.beganMs !== undefined ? (
+        <div className="caps pointer-events-none absolute left-1/2 top-5 -translate-x-1/2 whitespace-nowrap text-[13px] text-carmine">
+          ● {liveNote(loaded.startMs, loaded.endMs, link.init.beganMs, link.init.rate)}
         </div>
       ) : null}
     </div>

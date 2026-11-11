@@ -11,6 +11,11 @@ export function formatDate(ms: number): string {
   });
 }
 
+/** "24 June 2027" — a real-world date, on the reader's own calendar. */
+export function formatRealDate(ms: number): string {
+  return new Date(ms).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+}
+
 /**
  * Local mean time at a longitude — 1812 had no time zones, so the clock an officer
  * carried read the sun's time where he stood (4 minutes per degree east).

@@ -113,6 +113,21 @@ pnpm test:e2e      # Playwright; needs `pnpm start` or will launch it
 
 ## Log
 
+- **2026-11-11 — start of a live run; the test failure.** A live run's start is now
+  a choice, offered on the title page and in the viewer ("Real-time start"): now,
+  on the journey's own calendar (the latest anniversary of its opening, so today
+  shows today's date as it was then; the next anniversary if that run would be
+  over), or any day. DECISION: real-world days are the reader's own time zone, so
+  the date on screen is the date on their wall. Still only the link remembers the
+  start; that waits for accounts (R6). The browser-test failure of the two entries
+  below can be produced on demand: when the browser takes the map's graphics
+  context away, the map library drops its style, and the next update asked it for
+  a source and threw, taking the page down. The map now sits a lost context out
+  and redraws when it returns, and a test loses the context on purpose. That this
+  is what happened those two times is likely (seven software-rendered maps at
+  once on a cold machine) but not proven: neither failure was caught with its
+  error.
+
 - **2026-11-11 — R3, Rubruck.** The Silk Road port was an invented caravan with
   nothing to source; the owner chose William of Rubruck in its place. Found: he did
   not reach Karakorum in December 1253 but the khan's moving winter camp, ten days
