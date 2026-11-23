@@ -86,9 +86,16 @@ when working in that journey anyway. Detail is in
 - Server: `nateception-server` (the crew's home box). Repo at `~/projects/living-journeys`.
 - Container `journeys-web`, bound to `127.0.0.1:3006`, on Docker's default bridge network
   (the box has no free address pool for per-project networks).
-- Deploy: `ops/server/deploy-journeys.sh` runs from cron every four minutes, pulls
-  `main` when it has moved and rebuilds. A commit that fails to build leaves the old
+- Deploy: `ops/server/deploy-journeys.sh` runs from cron every four minutes (cron runs
+  the checkout's own copy). It pulls `main` when it has moved and GitHub's `verify` and
+  `e2e` checks on that commit are green, then rebuilds; a red or unfinished commit is
+  held, with one line in the log. A commit that fails to build leaves the old
   container running. Log: `~/logs/journeys-deploy.log`.
+- Security upkeep: Dependabot security updates open a fix PR when an advisory hits a
+  dependency. `.github/workflows/security.yml` runs every Monday: a dependency audit
+  (advisories already judged are listed in `package.json` under `pnpm.auditConfig`;
+  remove an id when its package is upgraded) and a probe of the live site's security
+  headers. GitHub emails the owner when it fails.
 - Public address: one ingress rule in `/etc/cloudflared/config.yml` plus a DNS record,
   both already in place. The tunnel config is shared with the other apps on the box.
 - The image builds the Next standalone server. On Windows the standalone copy fails on
@@ -113,6 +120,16 @@ pnpm test:e2e      # Playwright; needs `pnpm start` or will launch it
 
 ## Log
 
+- **2026-11-22 — security audit and upkeep.** Found: Next 15.5.20 was 20 advisories
+  behind, three critical, all on the image-resizing endpoint, which was reachable
+  though unused. Now 15.5.29 with the endpoint off and the usual response headers
+  on. Nothing else was exposed: no secrets in the repo or history, no inputs that
+  reach the server. Upkeep is now automatic (see Hosting): Dependabot security
+  updates, a Monday check, and a deploy that waits for green checks. Left open:
+  maplibre-gl's sanitizer advisory needs the move to v6 (do it with R4); no content
+  security policy yet (a wrong one blanks the map); plain HTTP is not redirected
+  (Cloudflare's Always Use HTTPS, a zone-wide owner setting); `main` has no branch
+  protection, so merging a Dependabot PR is still a click.
 - **2026-11-11 — start of a live run; the test failure.** A live run's start is now
   a choice, offered on the title page and in the viewer ("Real-time start"): now,
   on the journey's own calendar (the latest anniversary of its opening, so today

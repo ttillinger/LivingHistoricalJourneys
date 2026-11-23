@@ -1,0 +1,67 @@
+name: Security check
+
+# Once a week, and on demand from the Actions tab. A failure emails the repo owner.
+on:
+  schedule:
+    - cron: "17 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    name: dependency audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.9
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Fails on any high or critical advisory in what ships to the server, other than
+      # the ones already judged and listed in package.json (pnpm.auditConfig).
+      - name: Audit production dependencies
+        run: pnpm audit --prod --audit-level high
+
+  live-site:
+    name: live site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Security headers are served
+        run: |
+          site=https://journeys.esportsball.com
+          headers=$(curl -fsS -m 30 -D - -o /dev/null "$site/viewer/napoleon-1812")
+          fail=0
+          for name in strict-transport-security x-content-type-options x-frame-options \
+            referrer-policy permissions-policy; do
+            if ! grep -qi "^$name:" <<<"$headers"; then
+              echo "::error::missing response header: $name"
+              fail=1
+            fi
+          done
+          if grep -qi "^x-powered-by:" <<<"$headers"; then
+            echo "::error::x-powered-by is being served again"
+            fail=1
+          fi
+          exit $fail
+
+      - name: Nothing private is reachable
+        run: |
+          site=https://journeys.esportsball.com
+          fail=0
+          for path in "/.env" "/.git/config" "/_next/image?url=%2Ffavicon.ico&w=64&q=75"; do
+            code=$(curl -s -m 30 -o /dev/null -w '%{http_code}' "$site$path")
+            if [ "$code" != "404" ]; then
+              echo "::error::$path answered $code, expected 404"
+              fail=1
+            fi
+          done
+          exit $fail
